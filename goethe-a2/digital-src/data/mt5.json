@@ -406,39 +406,39 @@
    ],
    "pictures": {
     "a": {
-     "img": "img/mt5-hoeren2-a.png",
+     "img": "img/mt5-hoeren2-a.webp",
      "alt": "Hund"
     },
     "b": {
-     "img": "img/mt5-hoeren2-b.png",
+     "img": "img/mt5-hoeren2-b.webp",
      "alt": "Katze"
     },
     "c": {
-     "img": "img/mt5-hoeren2-c.png",
+     "img": "img/mt5-hoeren2-c.webp",
      "alt": "Kaninchen"
     },
     "d": {
-     "img": "img/mt5-hoeren2-d.png",
+     "img": "img/mt5-hoeren2-d.webp",
      "alt": "Wellensittich"
     },
     "e": {
-     "img": "img/mt5-hoeren2-e.png",
+     "img": "img/mt5-hoeren2-e.webp",
      "alt": "Schildkröte"
     },
     "f": {
-     "img": "img/mt5-hoeren2-f.png",
+     "img": "img/mt5-hoeren2-f.webp",
      "alt": "Aquarium mit Goldfischen"
     },
     "g": {
-     "img": "img/mt5-hoeren2-g.png",
+     "img": "img/mt5-hoeren2-g.webp",
      "alt": "Hamster"
     },
     "h": {
-     "img": "img/mt5-hoeren2-h.png",
+     "img": "img/mt5-hoeren2-h.webp",
      "alt": "Pferd"
     },
     "i": {
-     "img": "img/mt5-hoeren2-i.png",
+     "img": "img/mt5-hoeren2-i.webp",
      "alt": "Meerschweinchen"
     }
    },
@@ -456,15 +456,15 @@
      "stem": "Was hat der Mann im Zug vergessen?",
      "options": {
       "a": {
-       "img": "img/mt5-hoeren3-11a.png",
+       "img": "img/mt5-hoeren3-11a.webp",
        "alt": "Brille"
       },
       "b": {
-       "img": "img/mt5-hoeren3-11b.png",
+       "img": "img/mt5-hoeren3-11b.webp",
        "alt": "Handy"
       },
       "c": {
-       "img": "img/mt5-hoeren3-11c.png",
+       "img": "img/mt5-hoeren3-11c.webp",
        "alt": "Mütze"
       }
      },
@@ -475,15 +475,15 @@
      "stem": "Welchen Kuchen bestellt die Frau?",
      "options": {
       "a": {
-       "img": "img/mt5-hoeren3-12a.png",
+       "img": "img/mt5-hoeren3-12a.webp",
        "alt": "Schokoladenkuchen mit Kirschen"
       },
       "b": {
-       "img": "img/mt5-hoeren3-12b.png",
+       "img": "img/mt5-hoeren3-12b.webp",
        "alt": "Käsekuchen"
       },
       "c": {
-       "img": "img/mt5-hoeren3-12c.png",
+       "img": "img/mt5-hoeren3-12c.webp",
        "alt": "Erdbeertorte"
       }
      },
@@ -494,15 +494,15 @@
      "stem": "Wo setzen sich die beiden hin?",
      "options": {
       "a": {
-       "img": "img/mt5-hoeren3-13a.png",
+       "img": "img/mt5-hoeren3-13a.webp",
        "alt": "Tisch am Fenster"
       },
       "b": {
-       "img": "img/mt5-hoeren3-13b.png",
+       "img": "img/mt5-hoeren3-13b.webp",
        "alt": "Tisch auf der Terrasse"
       },
       "c": {
-       "img": "img/mt5-hoeren3-13c.png",
+       "img": "img/mt5-hoeren3-13c.webp",
        "alt": "Tisch hinten in der Ecke"
       }
      },
@@ -513,15 +513,15 @@
      "stem": "Was machen die beiden am Sonntag?",
      "options": {
       "a": {
-       "img": "img/mt5-hoeren3-14a.png",
+       "img": "img/mt5-hoeren3-14a.webp",
        "alt": "Drachen steigen lassen"
       },
       "b": {
-       "img": "img/mt5-hoeren3-14b.png",
+       "img": "img/mt5-hoeren3-14b.webp",
        "alt": "Picknick"
       },
       "c": {
-       "img": "img/mt5-hoeren3-14c.png",
+       "img": "img/mt5-hoeren3-14c.webp",
        "alt": "Minigolf"
       }
      },
@@ -532,15 +532,15 @@
      "stem": "Was tut dem Mann weh?",
      "options": {
       "a": {
-       "img": "img/mt5-hoeren3-15a.png",
+       "img": "img/mt5-hoeren3-15a.webp",
        "alt": "Rücken"
       },
       "b": {
-       "img": "img/mt5-hoeren3-15b.png",
+       "img": "img/mt5-hoeren3-15b.webp",
        "alt": "Bauch"
       },
       "c": {
-       "img": "img/mt5-hoeren3-15c.png",
+       "img": "img/mt5-hoeren3-15c.webp",
        "alt": "Knie"
       }
      },

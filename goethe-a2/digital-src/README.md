@@ -14,7 +14,7 @@
 | `fonts/pretendard-soda.woff`, `fonts/pretendard-index.woff` | Pretendard 중 시험 화면, 목록 페이지에 쓰는 글자만 담은 파일(SIL OFL 1.1, `fonts/Pretendard-OFL.txt`) |
 | `make-font.py` | 시험 화면에 새 한글 문구를 넣어 글자가 빠지면 Pretendard 원본에서 글꼴 파일을 다시 만듭니다 |
 
-그림은 `../img/`에 있습니다. Lesen Teil 1의 사진(`mtN-lesen-foto.jpg`), Lesen Teil 4의 광고 6장(`mtN-anzeige-a..f.png`), Hören Teil 2의 그림 a–i(`mtN-hoeren2-*.png`), Hören Teil 3의 그림(`mtN-hoeren3-<문항><a|b|c>.png`)이며, PDF에서 잘라 낸 것입니다.
+그림은 `../img/`에 있습니다. Lesen Teil 1의 사진(`mtN-lesen-foto.jpg`), Lesen Teil 4의 광고 6장(`mtN-anzeige-a..f.png`), Hören Teil 2의 그림 a–i(`mtN-hoeren2-*.webp`), Hören Teil 3의 그림(`mtN-hoeren3-<문항><a|b|c>.webp`)입니다. 앞의 사진·광고는 PDF에서 잘라 낸 것이고, Hören Teil 2·3의 그림 120장은 SODA 삽화 그림체로 새로 만든 것입니다(Recraft 4.1 Flash로 생성, 시계·달력·가격표·식탁 그림은 코드로 직접 그림).
 
 ## 다시 만들기
 

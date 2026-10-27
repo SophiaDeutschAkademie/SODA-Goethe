@@ -410,39 +410,39 @@
    ],
    "pictures": {
     "a": {
-     "img": "img/mt2-hoeren2-a.png",
+     "img": "img/mt2-hoeren2-a.webp",
      "alt": "Koch / Köchin"
     },
     "b": {
-     "img": "img/mt2-hoeren2-b.png",
+     "img": "img/mt2-hoeren2-b.webp",
      "alt": "Ärztin / Arzt"
     },
     "c": {
-     "img": "img/mt2-hoeren2-c.png",
+     "img": "img/mt2-hoeren2-c.webp",
      "alt": "Busfahrer / Busfahrerin"
     },
     "d": {
-     "img": "img/mt2-hoeren2-d.png",
+     "img": "img/mt2-hoeren2-d.webp",
      "alt": "Lehrerin / Lehrer"
     },
     "e": {
-     "img": "img/mt2-hoeren2-e.png",
+     "img": "img/mt2-hoeren2-e.webp",
      "alt": "Friseur / Friseurin"
     },
     "f": {
-     "img": "img/mt2-hoeren2-f.png",
+     "img": "img/mt2-hoeren2-f.webp",
      "alt": "Polizistin / Polizist"
     },
     "g": {
-     "img": "img/mt2-hoeren2-g.png",
+     "img": "img/mt2-hoeren2-g.webp",
      "alt": "Kellner / Kellnerin"
     },
     "h": {
-     "img": "img/mt2-hoeren2-h.png",
+     "img": "img/mt2-hoeren2-h.webp",
      "alt": "Mechaniker / Mechanikerin"
     },
     "i": {
-     "img": "img/mt2-hoeren2-i.png",
+     "img": "img/mt2-hoeren2-i.webp",
      "alt": "Tierärztin / Tierarzt"
     }
    },
@@ -460,15 +460,15 @@
      "stem": "Welches Obst kauft die Frau?",
      "options": {
       "a": {
-       "img": "img/mt2-hoeren3-11a.png",
+       "img": "img/mt2-hoeren3-11a.webp",
        "alt": "Pfirsiche"
       },
       "b": {
-       "img": "img/mt2-hoeren3-11b.png",
+       "img": "img/mt2-hoeren3-11b.webp",
        "alt": "Kirschen"
       },
       "c": {
-       "img": "img/mt2-hoeren3-11c.png",
+       "img": "img/mt2-hoeren3-11c.webp",
        "alt": "Birnen"
       }
      },
@@ -479,15 +479,15 @@
      "stem": "Was schenken die beiden ihrem Kollegen?",
      "options": {
       "a": {
-       "img": "img/mt2-hoeren3-12a.png",
+       "img": "img/mt2-hoeren3-12a.webp",
        "alt": "Buch"
       },
       "b": {
-       "img": "img/mt2-hoeren3-12b.png",
+       "img": "img/mt2-hoeren3-12b.webp",
        "alt": "Kopfhörer"
       },
       "c": {
-       "img": "img/mt2-hoeren3-12c.png",
+       "img": "img/mt2-hoeren3-12c.webp",
        "alt": "Gutschein für ein Restaurant"
       }
      },
@@ -498,15 +498,15 @@
      "stem": "Wo hat der Mann Urlaub gemacht?",
      "options": {
       "a": {
-       "img": "img/mt2-hoeren3-13a.png",
+       "img": "img/mt2-hoeren3-13a.webp",
        "alt": "Strand"
       },
       "b": {
-       "img": "img/mt2-hoeren3-13b.png",
+       "img": "img/mt2-hoeren3-13b.webp",
        "alt": "Berge"
       },
       "c": {
-       "img": "img/mt2-hoeren3-13c.png",
+       "img": "img/mt2-hoeren3-13c.webp",
        "alt": "Stadt"
       }
      },
@@ -517,15 +517,15 @@
      "stem": "Welchen Sport macht die Frau jetzt?",
      "options": {
       "a": {
-       "img": "img/mt2-hoeren3-14a.png",
+       "img": "img/mt2-hoeren3-14a.webp",
        "alt": "Yoga"
       },
       "b": {
-       "img": "img/mt2-hoeren3-14b.png",
+       "img": "img/mt2-hoeren3-14b.webp",
        "alt": "Schwimmen"
       },
       "c": {
-       "img": "img/mt2-hoeren3-14c.png",
+       "img": "img/mt2-hoeren3-14c.webp",
        "alt": "Tennis"
       }
      },
@@ -536,15 +536,15 @@
      "stem": "Was kauft der Mann?",
      "options": {
       "a": {
-       "img": "img/mt2-hoeren3-15a.png",
+       "img": "img/mt2-hoeren3-15a.webp",
        "alt": "Jacke"
       },
       "b": {
-       "img": "img/mt2-hoeren3-15b.png",
+       "img": "img/mt2-hoeren3-15b.webp",
        "alt": "Pullover"
       },
       "c": {
-       "img": "img/mt2-hoeren3-15c.png",
+       "img": "img/mt2-hoeren3-15c.webp",
        "alt": "Hemd"
       }
      },

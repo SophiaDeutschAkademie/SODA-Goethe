@@ -416,39 +416,39 @@
    ],
    "pictures": {
     "a": {
-     "img": "img/mt1-hoeren2-a.png",
+     "img": "img/mt1-hoeren2-a.webp",
      "alt": "Apfelkuchen"
     },
     "b": {
-     "img": "img/mt1-hoeren2-b.png",
+     "img": "img/mt1-hoeren2-b.webp",
      "alt": "Grill mit Würstchen"
     },
     "c": {
-     "img": "img/mt1-hoeren2-c.png",
+     "img": "img/mt1-hoeren2-c.webp",
      "alt": "Kartoffelsalat in einer Schüssel"
     },
     "d": {
-     "img": "img/mt1-hoeren2-d.png",
+     "img": "img/mt1-hoeren2-d.webp",
      "alt": "Gitarre"
     },
     "e": {
-     "img": "img/mt1-hoeren2-e.png",
+     "img": "img/mt1-hoeren2-e.webp",
      "alt": "Lampions"
     },
     "f": {
-     "img": "img/mt1-hoeren2-f.png",
+     "img": "img/mt1-hoeren2-f.webp",
      "alt": "Getränkekiste mit Flaschen"
     },
     "g": {
-     "img": "img/mt1-hoeren2-g.png",
+     "img": "img/mt1-hoeren2-g.webp",
      "alt": "Tisch und Bänke"
     },
     "h": {
-     "img": "img/mt1-hoeren2-h.png",
+     "img": "img/mt1-hoeren2-h.webp",
      "alt": "Obstkorb"
     },
     "i": {
-     "img": "img/mt1-hoeren2-i.png",
+     "img": "img/mt1-hoeren2-i.webp",
      "alt": "Fußball und Drachen"
     }
    },
@@ -466,15 +466,15 @@
      "stem": "Wie fährt die Frau in Zukunft meistens zur Arbeit?",
      "options": {
       "a": {
-       "img": "img/mt1-hoeren3-11a.png",
+       "img": "img/mt1-hoeren3-11a.webp",
        "alt": "Fahrrad"
       },
       "b": {
-       "img": "img/mt1-hoeren3-11b.png",
+       "img": "img/mt1-hoeren3-11b.webp",
        "alt": "Bus"
       },
       "c": {
-       "img": "img/mt1-hoeren3-11c.png",
+       "img": "img/mt1-hoeren3-11c.webp",
        "alt": "Auto"
       }
      },
@@ -485,15 +485,15 @@
      "stem": "Wo liegen die Schlüssel?",
      "options": {
       "a": {
-       "img": "img/mt1-hoeren3-12a.png",
+       "img": "img/mt1-hoeren3-12a.webp",
        "alt": "Jacke mit Schlüssel"
       },
       "b": {
-       "img": "img/mt1-hoeren3-12b.png",
+       "img": "img/mt1-hoeren3-12b.webp",
        "alt": "Auto mit Schlüssel"
       },
       "c": {
-       "img": "img/mt1-hoeren3-12c.png",
+       "img": "img/mt1-hoeren3-12c.webp",
        "alt": "Kaffeemaschine mit Schlüssel"
       }
      },
@@ -504,15 +504,15 @@
      "stem": "Wann hat Frau Krüger ihren Termin?",
      "options": {
       "a": {
-       "img": "img/mt1-hoeren3-13a.png",
+       "img": "img/mt1-hoeren3-13a.webp",
        "alt": "Uhr: Viertel nach neun"
       },
       "b": {
-       "img": "img/mt1-hoeren3-13b.png",
+       "img": "img/mt1-hoeren3-13b.webp",
        "alt": "Uhr: halb zehn"
       },
       "c": {
-       "img": "img/mt1-hoeren3-13c.png",
+       "img": "img/mt1-hoeren3-13c.webp",
        "alt": "Uhr: zehn Uhr"
       }
      },
@@ -523,15 +523,15 @@
      "stem": "Welche Pflanze kauft der Mann?",
      "options": {
       "a": {
-       "img": "img/mt1-hoeren3-14a.png",
+       "img": "img/mt1-hoeren3-14a.webp",
        "alt": "Kaktus"
       },
       "b": {
-       "img": "img/mt1-hoeren3-14b.png",
+       "img": "img/mt1-hoeren3-14b.webp",
        "alt": "Grünpflanze"
       },
       "c": {
-       "img": "img/mt1-hoeren3-14c.png",
+       "img": "img/mt1-hoeren3-14c.webp",
        "alt": "Orchidee"
       }
      },
@@ -542,15 +542,15 @@
      "stem": "Wo treffen sich die beiden morgen?",
      "options": {
       "a": {
-       "img": "img/mt1-hoeren3-15a.png",
+       "img": "img/mt1-hoeren3-15a.webp",
        "alt": "Brunnen"
       },
       "b": {
-       "img": "img/mt1-hoeren3-15b.png",
+       "img": "img/mt1-hoeren3-15b.webp",
        "alt": "Café"
       },
       "c": {
-       "img": "img/mt1-hoeren3-15c.png",
+       "img": "img/mt1-hoeren3-15c.webp",
        "alt": "Museum"
       }
      },

@@ -410,39 +410,39 @@
    ],
    "pictures": {
     "a": {
-     "img": "img/mt3-hoeren2-a.png",
+     "img": "img/mt3-hoeren2-a.webp",
      "alt": "Klavier"
     },
     "b": {
-     "img": "img/mt3-hoeren2-b.png",
+     "img": "img/mt3-hoeren2-b.webp",
      "alt": "Geige"
     },
     "c": {
-     "img": "img/mt3-hoeren2-c.png",
+     "img": "img/mt3-hoeren2-c.webp",
      "alt": "Trompete"
     },
     "d": {
-     "img": "img/mt3-hoeren2-d.png",
+     "img": "img/mt3-hoeren2-d.webp",
      "alt": "Schlagzeug"
     },
     "e": {
-     "img": "img/mt3-hoeren2-e.png",
+     "img": "img/mt3-hoeren2-e.webp",
      "alt": "Querflöte"
     },
     "f": {
-     "img": "img/mt3-hoeren2-f.png",
+     "img": "img/mt3-hoeren2-f.webp",
      "alt": "Gitarre"
     },
     "g": {
-     "img": "img/mt3-hoeren2-g.png",
+     "img": "img/mt3-hoeren2-g.webp",
      "alt": "Cello"
     },
     "h": {
-     "img": "img/mt3-hoeren2-h.png",
+     "img": "img/mt3-hoeren2-h.webp",
      "alt": "Saxofon"
     },
     "i": {
-     "img": "img/mt3-hoeren2-i.png",
+     "img": "img/mt3-hoeren2-i.webp",
      "alt": "Akkordeon"
     }
    },
@@ -460,15 +460,15 @@
      "stem": "Was isst der Mann zu Mittag?",
      "options": {
       "a": {
-       "img": "img/mt3-hoeren3-11a.png",
+       "img": "img/mt3-hoeren3-11a.webp",
        "alt": "Suppe"
       },
       "b": {
-       "img": "img/mt3-hoeren3-11b.png",
+       "img": "img/mt3-hoeren3-11b.webp",
        "alt": "Pizza"
       },
       "c": {
-       "img": "img/mt3-hoeren3-11c.png",
+       "img": "img/mt3-hoeren3-11c.webp",
        "alt": "Salat"
       }
      },
@@ -479,15 +479,15 @@
      "stem": "Was nimmt die Frau mit?",
      "options": {
       "a": {
-       "img": "img/mt3-hoeren3-12a.png",
+       "img": "img/mt3-hoeren3-12a.webp",
        "alt": "Regenschirm"
       },
       "b": {
-       "img": "img/mt3-hoeren3-12b.png",
+       "img": "img/mt3-hoeren3-12b.webp",
        "alt": "Schal"
       },
       "c": {
-       "img": "img/mt3-hoeren3-12c.png",
+       "img": "img/mt3-hoeren3-12c.webp",
        "alt": "Sonnenbrille"
       }
      },
@@ -498,15 +498,15 @@
      "stem": "Was kaufen die beiden?",
      "options": {
       "a": {
-       "img": "img/mt3-hoeren3-13a.png",
+       "img": "img/mt3-hoeren3-13a.webp",
        "alt": "Regal"
       },
       "b": {
-       "img": "img/mt3-hoeren3-13b.png",
+       "img": "img/mt3-hoeren3-13b.webp",
        "alt": "Sofa"
       },
       "c": {
-       "img": "img/mt3-hoeren3-13c.png",
+       "img": "img/mt3-hoeren3-13c.webp",
        "alt": "Schreibtisch"
       }
      },
@@ -517,15 +517,15 @@
      "stem": "Wie viel bezahlt der Mann für den Helm?",
      "options": {
       "a": {
-       "img": "img/mt3-hoeren3-14a.png",
+       "img": "img/mt3-hoeren3-14a.webp",
        "alt": "Fahrradhelm für 25 Euro"
       },
       "b": {
-       "img": "img/mt3-hoeren3-14b.png",
+       "img": "img/mt3-hoeren3-14b.webp",
        "alt": "Fahrradhelm für 40 Euro"
       },
       "c": {
-       "img": "img/mt3-hoeren3-14c.png",
+       "img": "img/mt3-hoeren3-14c.webp",
        "alt": "Fahrradhelm für 60 Euro"
       }
      },
@@ -536,15 +536,15 @@
      "stem": "An welchem Tag treffen sich die beiden?",
      "options": {
       "a": {
-       "img": "img/mt3-hoeren3-15a.png",
+       "img": "img/mt3-hoeren3-15a.webp",
        "alt": "Montag, der 4."
       },
       "b": {
-       "img": "img/mt3-hoeren3-15b.png",
+       "img": "img/mt3-hoeren3-15b.webp",
        "alt": "Mittwoch, der 6."
       },
       "c": {
-       "img": "img/mt3-hoeren3-15c.png",
+       "img": "img/mt3-hoeren3-15c.webp",
        "alt": "Freitag, der 8."
       }
      },

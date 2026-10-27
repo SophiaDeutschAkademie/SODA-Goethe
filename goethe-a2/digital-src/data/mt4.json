@@ -406,39 +406,39 @@
    ],
    "pictures": {
     "a": {
-     "img": "img/mt4-hoeren2-a.png",
+     "img": "img/mt4-hoeren2-a.webp",
      "alt": "Lampe"
     },
     "b": {
-     "img": "img/mt4-hoeren2-b.png",
+     "img": "img/mt4-hoeren2-b.webp",
      "alt": "Stuhl"
     },
     "c": {
-     "img": "img/mt4-hoeren2-c.png",
+     "img": "img/mt4-hoeren2-c.webp",
      "alt": "Bild"
     },
     "d": {
-     "img": "img/mt4-hoeren2-d.png",
+     "img": "img/mt4-hoeren2-d.webp",
      "alt": "Fahrrad"
     },
     "e": {
-     "img": "img/mt4-hoeren2-e.png",
+     "img": "img/mt4-hoeren2-e.webp",
      "alt": "Kiste mit Büchern"
     },
     "f": {
-     "img": "img/mt4-hoeren2-f.png",
+     "img": "img/mt4-hoeren2-f.webp",
      "alt": "Teppich"
     },
     "g": {
-     "img": "img/mt4-hoeren2-g.png",
+     "img": "img/mt4-hoeren2-g.webp",
      "alt": "Kaffeemaschine"
     },
     "h": {
-     "img": "img/mt4-hoeren2-h.png",
+     "img": "img/mt4-hoeren2-h.webp",
      "alt": "Teddybär"
     },
     "i": {
-     "img": "img/mt4-hoeren2-i.png",
+     "img": "img/mt4-hoeren2-i.webp",
      "alt": "Spiegel"
     }
    },
@@ -456,15 +456,15 @@
      "stem": "Was soll der Mann noch kaufen?",
      "options": {
       "a": {
-       "img": "img/mt4-hoeren3-11a.png",
+       "img": "img/mt4-hoeren3-11a.webp",
        "alt": "Eier"
       },
       "b": {
-       "img": "img/mt4-hoeren3-11b.png",
+       "img": "img/mt4-hoeren3-11b.webp",
        "alt": "Milch"
       },
       "c": {
-       "img": "img/mt4-hoeren3-11c.png",
+       "img": "img/mt4-hoeren3-11c.webp",
        "alt": "Brot"
       }
      },
@@ -475,15 +475,15 @@
      "stem": "Wie wird das Wetter am Sonntag?",
      "options": {
       "a": {
-       "img": "img/mt4-hoeren3-12a.png",
+       "img": "img/mt4-hoeren3-12a.webp",
        "alt": "Sonne"
       },
       "b": {
-       "img": "img/mt4-hoeren3-12b.png",
+       "img": "img/mt4-hoeren3-12b.webp",
        "alt": "Regen"
       },
       "c": {
-       "img": "img/mt4-hoeren3-12c.png",
+       "img": "img/mt4-hoeren3-12c.webp",
        "alt": "Schnee"
       }
      },
@@ -494,15 +494,15 @@
      "stem": "Was ist in der Wohnung kaputt?",
      "options": {
       "a": {
-       "img": "img/mt4-hoeren3-13a.png",
+       "img": "img/mt4-hoeren3-13a.webp",
        "alt": "Waschmaschine"
       },
       "b": {
-       "img": "img/mt4-hoeren3-13b.png",
+       "img": "img/mt4-hoeren3-13b.webp",
        "alt": "Dusche"
       },
       "c": {
-       "img": "img/mt4-hoeren3-13c.png",
+       "img": "img/mt4-hoeren3-13c.webp",
        "alt": "Heizung"
       }
      },
@@ -513,15 +513,15 @@
      "stem": "Wie bezahlt die Frau?",
      "options": {
       "a": {
-       "img": "img/mt4-hoeren3-14a.png",
+       "img": "img/mt4-hoeren3-14a.webp",
        "alt": "Kreditkarte"
       },
       "b": {
-       "img": "img/mt4-hoeren3-14b.png",
+       "img": "img/mt4-hoeren3-14b.webp",
        "alt": "Bezahlen mit dem Handy"
       },
       "c": {
-       "img": "img/mt4-hoeren3-14c.png",
+       "img": "img/mt4-hoeren3-14c.webp",
        "alt": "Bargeld"
       }
      },
@@ -532,15 +532,15 @@
      "stem": "Für wie viele Personen reserviert der Mann einen Tisch?",
      "options": {
       "a": {
-       "img": "img/mt4-hoeren3-15a.png",
+       "img": "img/mt4-hoeren3-15a.webp",
        "alt": "Tisch für sechs Personen"
       },
       "b": {
-       "img": "img/mt4-hoeren3-15b.png",
+       "img": "img/mt4-hoeren3-15b.webp",
        "alt": "Tisch für zwei Personen"
       },
       "c": {
-       "img": "img/mt4-hoeren3-15c.png",
+       "img": "img/mt4-hoeren3-15c.webp",
        "alt": "Tisch für vier Personen"
       }
      },
