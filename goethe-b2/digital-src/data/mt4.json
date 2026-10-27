@@ -1,0 +1,785 @@
+{
+ "id": 4,
+ "roman": "IV",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einem Forum, wie Menschen über Pünktlichkeit denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+   "forum": {
+    "title": "Wie pünktlich muss man sein?",
+    "posts": [
+     {
+      "letter": "a",
+      "name": "Nele",
+      "time": "03.09. · 21:48 Uhr",
+      "paragraphs": [
+       "Ich gebe es zu: Ich bin notorisch unpünktlich. Schuld daran ist, glaube ich, mein Studium. Dort begannen die Vorlesungen mit dem akademischen Viertel, also eine Viertelstunde nach der vollen Stunde, und irgendwann plante ich diese fünfzehn Minuten einfach überall ein. Eine Zeit lang stellte ich sogar alle Uhren in meiner Wohnung zehn Minuten vor. Das klappte genau eine Woche – danach wusste ich ja, dass ich eigentlich noch Zeit hatte. Meine Freundinnen nehmen es inzwischen gelassen. Ich schreibe ihnen immer rechtzeitig, dass es später wird, und dann ist das doch kein Problem, oder? Schwieriger ist es in meiner neuen Stelle. Mein Chef hat mich schon zweimal darauf angesprochen, dass ich morgens selten vor halb neun am Schreibtisch sitze. Und ehrlich gesagt: Er hat recht. Ich arbeite daran, aber versprechen kann ich nichts."
+      ]
+     },
+     {
+      "letter": "b",
+      "name": "Jens",
+      "time": "04.09. · 07:15 Uhr",
+      "paragraphs": [
+       "Ich leite ein Team von zwölf Leuten, und früher begannen unsere Besprechungen praktisch nie zur vereinbarten Zeit. Irgendjemand fehlte immer, und alle anderen warteten. Vor einem Jahr führte ich deshalb eine einfache Regel ein: Wir fangen pünktlich an, egal wer noch fehlt, und wer später kommt, bekommt keine Zusammenfassung. Am Anfang gab es ziemlich viel Murren, inzwischen sitzen fast alle schon vor Beginn im Raum. Und die Besprechungen sind seitdem sogar kürzer geworden. Mir geht es dabei nicht um Strenge, sondern um Fairness gegenüber denen, die sich an die Zeit halten. Privat sehe ich das übrigens völlig anders. Wer zu einer Party um acht eingeladen ist und um Punkt acht klingelt, steht meistens mit dem Gastgeber in der Küche und schneidet Gemüse. Bei Feiern ist eine Viertelstunde Verspätung eher ein Zeichen von Rücksicht als von Unhöflichkeit."
+      ]
+     },
+     {
+      "letter": "c",
+      "name": "Dagmar",
+      "time": "04.09. · 16:32 Uhr",
+      "paragraphs": [
+       "Bei uns zu Hause war Pünktlichkeit fast heilig. Mein Vater sagte immer: Auf jemanden, der zu spät kommt, kann man sich auch sonst nicht verlassen. Ich war deshalb mein ganzes Leben lang lieber zu früh als zu spät, als Lehrerin sowieso. Lange war ich darauf sogar ein bisschen stolz. Bis meine Tochter mir letztes Jahr erklärte, wie sehr es sie stresst, wenn ich zum Babysitten zwanzig Minuten vor der verabredeten Zeit vor der Tür stehe und sie noch nicht einmal angezogen ist. Seitdem warte ich im Auto, bis es wirklich so weit ist. Was mich allerdings nach wie vor ärgert, sind diese kurzen Nachrichten: „Komme zehn Minuten später.“ Viele halten das für höflich. Ich finde es vor allem bequem – die Zeit der anderen ist trotzdem verloren, man muss sich bloß nicht mehr dafür entschuldigen."
+      ]
+     },
+     {
+      "letter": "d",
+      "name": "Emre",
+      "time": "05.09. · 12:04 Uhr",
+      "paragraphs": [
+       "Pünktlichkeit hängt leider nicht nur von einem selbst ab. Ich pendle jeden Tag mit dem Zug nach Frankfurt, und wenn der ausfällt, kann ich noch so früh aufstehen. Trotzdem wird man im Büro schief angesehen, als hätte man einfach verschlafen. Das finde ich ziemlich unfair. Inzwischen nehme ich grundsätzlich einen Zug früher. Meistens bin ich dann eine halbe Stunde zu früh da, aber verlorene Zeit ist das nicht: Ich beantworte in Ruhe meine E-Mails oder lese ein paar Seiten. Überhaupt finde ich, dass Pünktlichkeit überschätzt wird. Mir ist ein Kollege lieber, der fünf Minuten zu spät kommt, aber hält, was er verspricht, als einer, der immer auf die Minute da ist und seine Aufgaben liegen lässt. Pünktlich zu sein, kann jeder lernen – auf jemanden zählen zu können, ist mehr wert."
+      ]
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "text": "Wer ist mit Pünktlichkeit als wichtigem Wert aufgewachsen?",
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Wer half sich mit einem Trick nur kurzfristig?",
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "text": "Wer meint, dass bei Feiern andere Regeln gelten?",
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "text": "Wer hält Verlässlichkeit für wichtiger als Pünktlichkeit?",
+     "answer": "d"
+    },
+    {
+     "no": "4",
+     "text": "Wer hat auf Kritik aus der Familie reagiert?",
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "text": "Wer erklärt das Zuspätkommen mit einer alten Gewohnheit?",
+     "answer": "a"
+    },
+    {
+     "no": "6",
+     "text": "Wer ärgert sich über vorschnelle Urteile von Kollegen?",
+     "answer": "d"
+    },
+    {
+     "no": "7",
+     "text": "Wer lässt Verspätungen auch mit Vorankündigung nicht gelten?",
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "text": "Wer hat durch eine Regel andere pünktlicher gemacht?",
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "text": "Wer hält eine Vorwarnung für ausreichend?",
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie lesen in einer Zeitschrift einen Artikel über kleine Abenteuer vor der Haustür. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+   "title": "Das Abenteuer vor der Haustür",
+   "lead": "Eine Nacht unter freiem Himmel, ein Sonnenaufgang auf dem Hausberg: Immer mehr Menschen suchen das Abenteuer nicht in der Ferne, sondern gleich hinter der Stadtgrenze.",
+   "paragraphs": [
+    "Dienstag, 18 Uhr. Während seine Kollegen nach Hause fahren, packt Lukas Brenner Schlafsack und Isomatte in seinen Rucksack. [0] Am nächsten Morgen um halb acht sitzt der 34-jährige Ingenieur wieder im Büro – unrasiert, aber mit dem Gefühl, eine kleine Reise hinter sich zu haben.",
+    "Was Brenner da unternimmt, nennt man ein Mikroabenteuer. Bekannt gemacht hat den Begriff der britische Abenteurer Alastair Humphreys, der einst mit dem Fahrrad um die Welt fuhr. [10] Seine Überzeugung: Ein Abenteuer muss weder weit weg noch teuer sein. Es genügt, den Alltag für ein paar Stunden zu verlassen.",
+    "Wie ein Mikroabenteuer aussieht, bestimmt jeder selbst. Manche durchqueren ihre Stadt zu Fuß, andere folgen einem Bach bis zu seiner Quelle. [11] Entscheidend ist nur, dass die Unternehmung in den Alltag passt: Sie beginnt nach Feierabend und endet, bevor der nächste Arbeitstag anfängt.",
+    "Dass die Idee so viele Anhänger findet, überrascht Fachleute kaum. Viele fühlen sich im Beruf erschöpft, für eine längere Reise fehlen ihnen aber Zeit oder Geld. [12] Hinzu kommt, dass sich immer mehr Menschen fragen, ob für ein paar Tage Erholung wirklich ein Flug nötig ist.",
+    "Ganz ohne Regeln geht es allerdings nicht. Zelten außerhalb von Campingplätzen ist in Deutschland fast überall verboten, und auch für eine Nacht ohne Zelt gelten je nach Bundesland unterschiedliche Vorschriften. [13] Wer unsicher ist, erkundigt sich am besten vorher bei der Gemeinde oder beim Forstamt.",
+    "Für den Anfang empfehlen erfahrene Mikroabenteurer eine milde Sommernacht und einen Ort, den man schon bei Tageslicht kennt. [14] Viel Ausrüstung braucht man nicht: Ein warmer Schlafsack, eine Isomatte, eine Stirnlampe und etwas zu essen reichen völlig. Wichtig ist aber, dass jemand weiß, wo man die Nacht verbringt.",
+    "Brenner jedenfalls ist längst überzeugt. Seit drei Jahren verbringt er mindestens eine Nacht im Monat im Freien, im Winter auch einmal im Schnee. [15] „Das Abenteuer beginnt nicht am Flughafen“, sagt er, „sondern in dem Moment, in dem man das Gewohnte verlässt.“"
+   ],
+   "source": "aus einer deutschen Zeitschrift",
+   "example": {
+    "no": "0",
+    "text": "Eine halbe Stunde später verlässt er am Stadtrand die S-Bahn und wandert auf einen Hügel,"
+   },
+   "sentences": {
+    "a": "Noch strenger sind die Regeln in Naturschutzgebieten.",
+    "b": "Seine Bürokollegen, die ihn anfangs belächelten, kommen manchmal mit.",
+    "c": "Wieder andere baden vor dem Frühstück in einem See.",
+    "d": "Dafür nehmen sich viele Anhänger regelmäßig eine Woche Urlaub.",
+    "e": "So lässt sich gefahrlos testen, ob man sich nachts draußen wohlfühlt.",
+    "f": "Zurück in England entdeckte er jedoch die Abenteuer in seiner Nähe.",
+    "g": "Die Behörden erlauben das Übernachten im Wald deshalb inzwischen überall.",
+    "h": "Ein Mikroabenteuer verschafft ihnen trotzdem eine kurze Auszeit."
+   },
+   "unused": [
+    "d",
+    "g"
+   ],
+   "items": [
+    {
+     "no": "10",
+     "answer": "f"
+    },
+    {
+     "no": "11",
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "answer": "h"
+    },
+    {
+     "no": "13",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "answer": "e"
+    },
+    {
+     "no": "15",
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen in einer Zeitung einen Artikel über das Schreiben mit der Hand. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Die Hand denkt mit“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "title": "Die Hand denkt mit",
+   "lead": "Wir tippen, wischen und diktieren. Braucht es die Handschrift überhaupt noch? Eine Bildungsforscherin wirbt für Gelassenheit – und für den Stift.",
+   "paragraphs": [
+    "Wann haben Sie zuletzt einen Brief mit der Hand geschrieben? Vielen Menschen fällt die Antwort schwer. Einkaufszettel stehen im Handy, Glückwünsche verschickt man per Messenger, und selbst im Hörsaal sitzen die meisten Studierenden mit dem Laptop. Der Stift, so scheint es, hat ausgedient.",
+    "Die Bildungsforscherin Judith Kahle sieht das differenzierter. Seit Jahren untersucht sie, wie Menschen beim Schreiben lernen. Vor der Tastatur zu warnen, hält sie für falsch: „Niemand wird dümmer, weil er tippt.“ Entscheidend sei nicht das Werkzeug, sondern das, was dabei im Kopf passiere.",
+    "Tatsächlich deuten mehrere Studien darauf hin, dass sich Studierende Inhalte besser merken, wenn sie in Vorlesungen mit der Hand mitschreiben. Den Grund sieht Kahle allerdings nicht in der Hand selbst, sondern in der Langsamkeit: Wer mit dem Stift schreibe, könne nicht jedes Wort festhalten. Er müsse auswählen, zusammenfassen und in eigene Worte fassen – und genau dabei lerne er. Auf der Tastatur neigten dagegen viele dazu, den Vortrag fast wörtlich mitzutippen.",
+    "Auch in den Schulen wird seit Langem darüber gestritten, wie viel Handschrift noch nötig ist. In Finnland etwa gehört die verbundene Schreibschrift seit 2016 nicht mehr zum Pflichtprogramm; stattdessen üben die Kinder früh das Tippen. Kahle hält eine solche Entscheidung für vertretbar. Wichtig sei aber, dass Kinder überhaupt flüssig schreiben lernten. Wer über jeden Buchstaben nachdenken müsse, habe keinen Kopf mehr für den Inhalt.",
+    "Und die Erwachsenen? Die meisten schreiben im Alltag kaum mehr als ihre Unterschrift. Kahle beobachtet, dass sich viele für ihre Schrift regelrecht schämen, weil sie ungelenk geworden ist. Die Sicherheit komme jedoch schnell zurück, wenn man die Hand wieder regelmäßig benutze. Schon wenige Minuten am Tag reichten dafür aus, etwa für ein Tagebuch oder eine Notiz an die Familie.",
+    "Für Kahle gibt es noch einen weiteren Grund, öfter zum Stift zu greifen: Eine handgeschriebene Karte wirke persönlicher als jede Nachricht auf dem Bildschirm. Man sehe ihr an, dass sich jemand Zeit genommen habe. Offenbar sehen das nicht nur Ältere so: Schreibwarengeschäfte verkaufen seit einiger Zeit wieder mehr hochwertige Füller und Notizbücher – vor allem an junge Leute.",
+    "Eine Rückkehr zu Tinte und Löschblatt fordert Kahle trotzdem nicht. Die Zukunft gehöre nicht dem einen oder dem anderen, sondern einer klugen Mischung: der Tastatur für lange Texte, die man immer wieder überarbeite, dem Stift für alles, was man verstehen und behalten wolle. Ihr eigenes Buch hat sie übrigens am Computer geschrieben – die Gliederung dafür aber auf einem großen Bogen Papier."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "example": {
+    "no": "0",
+    "stem": "Viele Menschen …",
+    "options": {
+     "a": "schreiben kaum noch mit der Hand.",
+     "b": "verschicken keine Glückwünsche mehr.",
+     "c": "haben ihren Laptop immer dabei."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "stem": "Was ist nach Judith Kahle beim Schreiben entscheidend?",
+     "options": {
+      "a": "Ob man mit der Hand schreibt.",
+      "b": "Wie schnell man tippt.",
+      "c": "Wie intensiv man nachdenkt."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "17",
+     "stem": "Wer in Vorlesungen mit der Hand mitschreibt, …",
+     "options": {
+      "a": "hält deutlich mehr Einzelheiten fest.",
+      "b": "verarbeitet den Stoff gründlicher.",
+      "c": "notiert fast jedes Wort."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "18",
+     "stem": "Im Schulunterricht ist es Kahle besonders wichtig, dass Kinder …",
+     "options": {
+      "a": "mühelos schreiben können.",
+      "b": "die Schreibschrift behalten.",
+      "c": "möglichst früh tippen lernen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "19",
+     "stem": "Was gilt nach Kahles Erfahrung für viele Erwachsene?",
+     "options": {
+      "a": "Sie führen täglich Tagebuch.",
+      "b": "Sie brauchen einen Schreibkurs.",
+      "c": "Sie schreiben mit Übung bald wieder sicher."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "20",
+     "stem": "Eine handgeschriebene Karte …",
+     "options": {
+      "a": "zeigt Wertschätzung für den Empfänger.",
+      "b": "ist vor allem bei Älteren beliebt.",
+      "c": "ist schneller geschrieben als eine Nachricht."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "21",
+     "stem": "Am Ende meint Kahle, man sollte …",
+     "options": {
+      "a": "wieder mit Tinte schreiben.",
+      "b": "je nach Zweck wählen.",
+      "c": "Bücher von Hand schreiben."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob Zoos heute noch zeitgemäß sind. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+   "title": "Zoos – noch zeitgemäß?",
+   "example": {
+    "no": "0",
+    "text": "Manche Tierart verdankt ihr Überleben den Zoos",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "22",
+     "text": "Echte Begegnungen machen Kinder zu Tierschützern",
+     "answer": "f"
+    },
+    {
+     "no": "23",
+     "text": "Das Geld fließt vor allem in die Unterhaltung",
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "text": "Für manche Tiere ist jedes Gehege zu klein",
+     "answer": "h"
+    },
+    {
+     "no": "25",
+     "text": "Erfahrungen aus dem Zoo nützen auch wilden Tieren",
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "text": "Artenschutz gehört in die Heimat der Tiere",
+     "answer": "g"
+    },
+    {
+     "no": "27",
+     "text": "Mit den Tiergärten von früher kaum zu vergleichen",
+     "answer": "e"
+    }
+   ],
+   "texts": [
+    {
+     "letter": "a",
+     "text": "Man kann über Zoos streiten, aber ein Beispiel wird oft vergessen: Das Przewalski-Pferd war in freier Wildbahn bereits ausgestorben. Nur weil Zoos einige Tiere gezüchtet haben, leben heute wieder Herden in der Mongolei. Für mich ist das Argument genug.",
+     "byline": "Ole, Lübeck"
+    },
+    {
+     "letter": "b",
+     "text": "Ich arbeite als Tierärztin, und vieles, was wir über die Behandlung von Wildtieren wissen, stammt aus Zoos. Wie betäubt man ein Nashorn sicher? Welche Krankheiten bedrohen Menschenaffen? Von diesem Wissen profitieren Tiere in Nationalparks genauso wie die im Gehege.",
+     "byline": "Hanna, Erfurt"
+    },
+    {
+     "letter": "c",
+     "text": "Die Zoos werben gern mit Artenschutz. Schaut man sich aber an, wofür sie ihr Geld ausgeben, sind es vor allem neue Spielplätze, Restaurants und spektakuläre Anlagen, die möglichst viele Besucher anlocken sollen. Zoos sind in erster Linie Freizeitparks – mit Tieren als Attraktion.",
+     "byline": "Vincent, Potsdam"
+    },
+    {
+     "letter": "d",
+     "text": "Ich gehe jeden Monat mit meinen beiden Enkeln in den Tierpark. Ehrlich gesagt interessieren sich die zwei weniger für die Löwen als für den Spielplatz und die Pommes. Aber sie sind an der frischen Luft, und das ist in der Stadt schon viel wert.",
+     "byline": "Elif, Wiesbaden"
+    },
+    {
+     "letter": "e",
+     "text": "Wer den Zoo nur aus seiner Kindheit kennt, sollte ihn sich noch einmal ansehen. Die engen Käfige sind weitgehend verschwunden. Viele Zoos halten heute weniger Arten, geben diesen aber deutlich mehr Platz und versuchen, ihren natürlichen Lebensraum nachzubilden.",
+     "byline": "Rainer, Augsburg"
+    },
+    {
+     "letter": "f",
+     "text": "Meine Tochter hat im Zoo zum ersten Mal einen Elefanten aus der Nähe gesehen. Seitdem spendet sie einen Teil ihres Taschengelds für ein Schutzprojekt in Afrika. Kein Dokumentarfilm hätte das geschafft. Ein lebendiges Tier weckt Gefühle, die Bilder nicht erzeugen können.",
+     "byline": "Svenja, Göttingen"
+    },
+    {
+     "letter": "g",
+     "text": "Ein neues Elefantenhaus kostet schnell zwanzig Millionen Euro. Mit diesem Geld könnte man in Afrika oder Asien riesige Flächen schützen, auf denen Tausende Tiere in Freiheit leben. Wer Arten wirklich retten will, sollte dort investieren, wo sie zu Hause sind.",
+     "byline": "Jakob, Salzburg"
+    },
+    {
+     "letter": "h",
+     "text": "Eisbären legen in der Arktis täglich große Strecken zurück, Elefanten leben in weitläufigen Familienverbänden. Kein Zoo der Welt kann ihnen das bieten. Kleinere Tiere mögen sich im Gehege wohlfühlen – für die großen Wanderer aber sollte die Haltung auslaufen.",
+     "byline": "Ines, Chemnitz"
+    }
+   ],
+   "unused": [
+    "d"
+   ]
+  },
+  "t5": {
+   "instruction": "Sie möchten die Stadtbibliothek Lindenfeld nutzen und lesen die Benutzungsordnung. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+   "title": "Benutzungsordnung",
+   "subtitle": "der Stadtbibliothek Lindenfeld · gültig ab 1. Januar",
+   "headings": {
+    "a": "Öffnungszeiten und Feiertage",
+    "b": "Anmeldung und Leseausweis",
+    "c": "Leihfristen und Verlängerung",
+    "d": "Rückgabe außerhalb der Öffnungszeiten",
+    "e": "Beschädigung und Verlust",
+    "f": "Lern- und Gruppenräume",
+    "g": "Gebühren und Mahnungen",
+    "h": "Datenschutz"
+   },
+   "unused": [
+    "a",
+    "c",
+    "d",
+    "h"
+   ],
+   "example": {
+    "no": "0",
+    "label": "§ 0",
+    "paragraphs": [
+     "Für die Anmeldung benötigen Sie einen gültigen Personalausweis oder Reisepass mit Meldebescheinigung. Für Kinder unter 16 Jahren unterschreibt ein Elternteil. Die erhobenen Daten nutzen wir nur für die Ausleihe."
+    ],
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "28",
+     "label": "§ 28",
+     "paragraphs": [
+      "Die Jahresgebühr beträgt für Erwachsene 15 Euro, Schülerinnen, Schüler und Studierende sind befreit. Bei Überschreitung der Leihfrist erhalten Sie zunächst eine Erinnerung per E-Mail, ab dem achten Tag berechnen wir einen Euro pro Medium. Solange Beträge offen sind, ist keine Ausleihe möglich."
+     ],
+     "answer": "g"
+    },
+    {
+     "no": "29",
+     "label": "§ 29",
+     "paragraphs": [
+      "Im zweiten Stock stehen vier Räume für Lerngruppen zur Verfügung. Sie lassen sich online für höchstens drei Stunden täglich reservieren. Essen ist dort nicht erlaubt, Getränke in verschließbaren Flaschen schon. Die Räume sind eine halbe Stunde vor Schließung der Bibliothek zu verlassen."
+     ],
+     "answer": "f"
+    },
+    {
+     "no": "30",
+     "label": "§ 30",
+     "paragraphs": [
+      "Bitte prüfen Sie die Medien bei der Ausleihe auf Schäden und melden Sie diese sofort. Für beschädigte oder verlorene Medien ist der Wiederbeschaffungswert zu ersetzen. Für Medien im Rückgabekasten haften Sie bis zur Verbuchung am nächsten Öffnungstag."
+     ],
+     "answer": "e"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Die Frau möchte ihr Fahrrad reparieren lassen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Das Fahrrad …",
+     "options": {
+      "a": "ist morgen Vormittag fertig.",
+      "b": "wird noch heute repariert.",
+      "c": "braucht keine neuen Teile."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Der Mann kauft schon lange vor allem Produkte aus der Region.",
+       "answer": "F"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Warum hat der Mann sein Einkaufsverhalten geändert?",
+       "options": {
+        "a": "Regionale Produkte sind günstiger.",
+        "b": "Er mag im Winter keine Erdbeeren mehr.",
+        "c": "Seine Tochter hat ihn aufgeklärt."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Das Bad wird wegen des Gewitters vollständig geschlossen.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Wer wegen des Wetters nach Hause geht, …",
+       "options": {
+        "a": "bekommt einen Gutschein.",
+        "b": "erhält den Eintritt zurück.",
+        "c": "zahlt beim nächsten Besuch den halben Preis."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Der Mann hat seine Stimme bereits abgegeben.",
+       "answer": "R"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Am Ende …",
+       "options": {
+        "a": "will der Mann zum Weinfest.",
+        "b": "überdenkt der Mann seine Wahl.",
+        "c": "sagt der Mann seine Teilnahme ab."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Laut Frau Keller sind manche Giftpilze schwer zu erkennen.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Was sagt Frau Keller über Apps?",
+       "options": {
+        "a": "Sie bestimmen Pilze meist zuverlässig.",
+        "b": "Pilzberatungen empfehlen sie.",
+        "c": "Sie eignen sich für eine erste Einschätzung."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Der Kurs findet zur selben Zeit wie das Volleyballtraining statt.",
+       "answer": "F"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Was beschließt der Mann?",
+       "options": {
+        "a": "Er probiert den Kurs erst einmal aus.",
+        "b": "Er meldet sich für alle zehn Abende an.",
+        "c": "Er hört mit dem Volleyball auf."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Kultur. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+   "context": "In der Sendung „Hinter den Kulissen“ spricht die Moderatorin mit Tilman Laux über seine Arbeit als Synchronsprecher.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Wie findet es Herr Laux, dass ihn kaum jemand erkennt?",
+     "options": {
+      "a": "Er bedauert es manchmal ein wenig.",
+      "b": "Es ist ihm völlig gleichgültig.",
+      "c": "Er empfindet es eher als Vorteil."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "stem": "Wie ist Herr Laux zum Synchronsprechen gekommen?",
+     "options": {
+      "a": "Er hat es in seiner Ausbildung gelernt.",
+      "b": "Über einen Kollegen vom Theater.",
+      "c": "Er suchte einen Nebenjob."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Was sagt Herr Laux über den deutschen Text?",
+     "options": {
+      "a": "Er wird an die Mundbewegungen angepasst.",
+      "b": "Er wird möglichst wörtlich übersetzt.",
+      "c": "Er wird von den Sprechern selbst verfasst."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Bei den Aufnahmen im Studio …",
+     "options": {
+      "a": "sieht Herr Laux den ganzen Film.",
+      "b": "ist Herr Laux meistens allein.",
+      "c": "trifft Herr Laux seine Filmpartnerinnen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Was beunruhigt Herrn Laux am meisten?",
+     "options": {
+      "a": "Bestimmte Klauseln in manchen Verträgen.",
+      "b": "Künstliche Stimmen in der Werbung.",
+      "c": "Maschinen, die besser spielen als Menschen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "16",
+     "stem": "Jungen Leuten empfiehlt Herr Laux, …",
+     "options": {
+      "a": "vor allem die Stimme zu trainieren.",
+      "b": "sich gleich um große Rollen zu bewerben.",
+      "c": "zuerst gründlich Schauspiel zu lernen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über das Nachtleben in der Stadt. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Frau Ahrens, Clubbetreiberin",
+    "c": "Herr Kowalski, Anwohner"
+   },
+   "example": {
+    "no": "0",
+    "text": "Ohne Ohrstöpsel ist an Schlaf manchmal nicht zu denken.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "17",
+     "text": "Mit einem gewissen Lärm hat man beim Einzug gerechnet.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Von der Musik bekommen die Nachbarn kaum noch etwas mit.",
+     "answer": "b"
+    },
+    {
+     "no": "19",
+     "text": "Die Stadt macht es sich mit Zuschüssen zu einfach.",
+     "answer": "a"
+    },
+    {
+     "no": "20",
+     "text": "Vereinbarungen sind nur so gut wie ihre Kontrolle.",
+     "answer": "c"
+    },
+    {
+     "no": "21",
+     "text": "Ein Verkaufsverbot würde das Problem bloß verlagern.",
+     "answer": "a"
+    },
+    {
+     "no": "22",
+     "text": "Im Club ist man besser aufgehoben als auf der Straße.",
+     "answer": "b"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören einen kurzen Vortrag. Die Rednerin spricht über das Thema „Wie neue Ideen entstehen“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "23",
+     "stem": "Frau Falk hört oft, dass Menschen …",
+     "options": {
+      "a": "ungern kreativ arbeiten.",
+      "b": "sich für unkreativ halten.",
+      "c": "keine Zeit für Ideen haben."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "stem": "Kreativität ist nach Frau Falk vor allem …",
+     "options": {
+      "a": "eine Frage der Übung.",
+      "b": "eine seltene Begabung.",
+      "c": "Sache von Künstlern."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "stem": "Gute Ideen entstehen häufig …",
+     "options": {
+      "a": "bei gezielter Suche.",
+      "b": "in entspannten Momenten.",
+      "c": "nach dem Aufwachen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "stem": "Wer ständig aufs Handy schaut, …",
+     "options": {
+      "a": "findet schneller Lösungen.",
+      "b": "entspannt sich besser.",
+      "c": "lässt dem Kopf keinen Freiraum."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "stem": "Über Brainstorming in Gruppen sagt Frau Falk: …",
+     "options": {
+      "a": "Es bringt die meisten Ideen hervor.",
+      "b": "Allein kommt man auf mehr Ideen.",
+      "c": "Firmen sollten es abschaffen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "In Gruppen …",
+     "options": {
+      "a": "schweigen Zurückhaltende häufig.",
+      "b": "entstehen originellere Ideen.",
+      "c": "übernimmt meist eine Person die Leitung."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Einschränkungen …",
+     "options": {
+      "a": "bremsen neue Ideen.",
+      "b": "kosten viel Geld.",
+      "c": "fördern den Einfallsreichtum."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "stem": "Frau Falk empfiehlt, …",
+     "options": {
+      "a": "jede Idee umzusetzen.",
+      "b": "täglich Ideen zu notieren.",
+      "c": "verrückte Einfälle zu meiden."
+     },
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 50,
+    "words": 150,
+    "situation": [
+     "Sie schreiben einen Forumsbeitrag zum Thema „Einheitliche Kleidung an Schulen“."
+    ],
+    "points": [
+     "Äußern Sie Ihre Meinung dazu, ob Schulen eine einheitliche Kleidung vorschreiben sollten.",
+     "Nennen Sie Gründe, warum sich viele Eltern eine Schulkleidung wünschen.",
+     "Nennen Sie andere Möglichkeiten, den Druck durch teure Markenkleidung zu verringern.",
+     "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+    ],
+    "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+    "model": {
+     "label": "Forumsbeitrag, ca. 180 Wörter",
+     "text": "Liebe Forumsmitglieder,\n\nIn unserem Forum wird gerade heftig darüber diskutiert, ob Schulen eine einheitliche Kleidung vorschreiben sollten. Auch ich habe mir dazu Gedanken gemacht, denn meine Tochter kommt bald aufs Gymnasium.\n\nEhrlich gesagt halte ich eine Pflicht zur Schulkleidung für übertrieben. Kinder sollten auch über ihre Kleidung zeigen dürfen, wer sie sind.\n\nTrotzdem kann ich gut verstehen, warum sich viele Eltern eine Schuluniform wünschen. Zum einen würden teure Marken keine Rolle mehr spielen, sodass niemand wegen seiner Kleidung ausgelacht wird. Zum anderen fiele morgens die lästige Diskussion weg, was man anziehen soll.\n\nEs gibt allerdings andere Wege, den Druck durch Markenkleidung zu verringern. Eine Schule könnte zum Beispiel freiwillige T-Shirts oder Pullover mit ihrem Logo anbieten. Außerdem wäre es sinnvoll, das Thema im Unterricht zu besprechen, etwa in einem Projekt über Werbung und Konsum.\n\nDer Vorteil solcher Lösungen liegt darin, dass niemand gezwungen wird und trotzdem ein Gemeinschaftsgefühl entstehen kann. Wer sich mit Werbung kritisch auseinandersetzt, fällt außerdem nicht mehr so leicht auf teure Marken herein.\n\nInsgesamt bin ich also gegen eine Pflicht, aber für mehr Gespräche über das Thema. Wie seht ihr das?"
+    },
+    "typicalErrors": "Punkt 2 verfehlt: eigene Meinung statt der Gründe der Eltern · deutlich weniger als 150 Wörter."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 100,
+    "situation": [
+     "Sie sollen morgen um zehn Uhr bei einem wichtigen Kunden die Ergebnisse Ihres Projekts präsentieren. Heute Abend erfahren Sie, dass die Kita Ihres Sohnes morgen wegen eines Wasserschadens geschlossen bleibt und Sie keine andere Betreuung finden. Ihr Vorgesetzter, Herr Seidel, weiß noch nichts davon. Schreiben Sie eine Nachricht an Herrn Seidel."
+    ],
+    "points": [
+     "Beschreiben Sie Ihre Situation.",
+     "Bitten Sie um Verständnis für Ihre Lage.",
+     "Machen Sie einen Vorschlag, wie die Präsentation trotzdem stattfinden kann.",
+     "Zeigen Sie Verständnis für die Situation Ihres Vorgesetzten."
+    ],
+    "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    "model": {
+     "label": "Nachricht an den Vorgesetzten, ca. 120 Wörter",
+     "text": "Betreff: Kundenpräsentation morgen\n\nSehr geehrter Herr Seidel,\n\nleider muss ich Ihnen kurzfristig mitteilen, dass die Kita meines Sohnes morgen wegen eines Wasserschadens geschlossen bleibt. Eine andere Betreuung habe ich trotz aller Bemühungen nicht gefunden.\n\nIch bitte Sie deshalb um Verständnis, dass ich morgen nicht ins Büro kommen kann.\n\nMir ist bewusst, wie wichtig der Termin für unsere Abteilung ist und dass Sie dem Kunden gegenüber nun in einer schwierigen Lage sind.\n\nIch schlage daher vor, die Präsentation per Videokonferenz von zu Hause aus zu halten. Alternativ könnte Frau Weber, die das Projekt genauso gut kennt, den Termin vor Ort übernehmen; die Unterlagen schicke ich ihr noch heute.\n\nBitte geben Sie mir kurz Bescheid, was Ihnen lieber ist.\n\nMit freundlichen Grüßen\nTheresa Neuhaus"
+    },
+    "typicalErrors": "um Verständnis bitten und Verständnis zeigen verwechselt · Hallo Herr Seidel oder LG."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Interview mit einem Synchronsprecher",
+   "t3": "Radiogespräch: Nachtleben in der Stadt",
+   "t4": "Vortrag: Wie neue Ideen entstehen"
+  },
+  "schreiben": [
+   "Forumsbeitrag: Einheitliche Kleidung an Schulen",
+   "Nachricht an den Vorgesetzten"
+  ],
+  "sprechen": {
+   "vortrag": [
+    "Mobilität in der Stadt",
+    "Arbeiten im Ausland",
+    "Neue Kontakte knüpfen",
+    "Umweltschutz im Alltag"
+   ],
+   "diskussion": "Sollte der Eintritt in öffentliche Museen kostenlos sein?"
+  }
+ },
+ "notes": "Aus dem PDF Goethe B2 Modelltest 4 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}

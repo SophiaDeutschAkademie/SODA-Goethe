@@ -1,0 +1,785 @@
+{
+ "id": 3,
+ "roman": "III",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einem Forum, wie Menschen über das Kochen im Alltag denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+   "forum": {
+    "title": "Selbst kochen oder bestellen?",
+    "posts": [
+     {
+      "letter": "a",
+      "name": "Timo",
+      "time": "11.11. · 19:02 Uhr",
+      "paragraphs": [
+       "Bis Mitte zwanzig habe ich mich von Tiefkühlpizza und Kantinenessen ernährt, kochen konnte ich schlicht nicht. Das änderte sich erst, als ich ein halbes Jahr bei einer Familie in Italien wohnte. Dort wurde jeden Abend frisch gekocht, und die Großmutter nahm mich einfach mit in die Küche. Seitdem sehe ich das Kochen völlig anders: nicht als lästige Pflicht, sondern als Entspannung nach der Arbeit. Wenn ich abends Zwiebeln schneide, vergesse ich den ganzen Ärger aus dem Büro. Rezepte benutze ich übrigens kaum noch. Die Nonna hat nie etwas abgewogen, sondern immer probiert und nach Gefühl nachgewürzt – genau so mache ich es heute auch. Manchmal geht das schief, und dann gibt es eben Brot mit Käse. Aber meistens gelingt es, und meine Freunde fragen inzwischen, ob sie am Wochenende zum Essen vorbeikommen dürfen. Das hätte mir vor zehn Jahren niemand geglaubt."
+      ]
+     },
+     {
+      "letter": "b",
+      "name": "Carla",
+      "time": "11.11. · 21:15 Uhr",
+      "paragraphs": [
+       "Mit zwei Kindern und einem Vollzeitjob muss ich organisiert sein, sonst stehen wir um sieben Uhr abends ratlos vor dem Kühlschrank. Deshalb koche ich am Sonntag für die ganze Woche vor: Suppen, Soßen, ein großes Blech Gemüse. Das kostet mich zwei, drei Stunden, erspart mir aber von Montag bis Freitag jeden Abend eine Stunde Arbeit. Unter der Woche muss ich dann nur noch aufwärmen oder schnell einen Salat dazu machen. Bevor ich einkaufe, schaue ich nach, was noch da ist, und schreibe eine genaue Liste. Früher habe ich fast jede Woche Salat oder Joghurt entsorgt, weil ich zu viel gekauft hatte. Das ärgert mich heute noch, wenn ich daran denke. Die Kinder helfen am Sonntag mit, schälen Kartoffeln oder waschen das Gemüse, und dabei lernen sie ganz nebenbei, was in unserem Essen steckt. Spontan ist das alles natürlich nicht, und manchmal beneide ich meine Kollegen, die einfach essen gehen."
+      ]
+     },
+     {
+      "letter": "c",
+      "name": "Ingrid",
+      "time": "12.11. · 08:40 Uhr",
+      "paragraphs": [
+       "Ich bin 71 und habe mein Leben lang für eine große Familie gekocht. Heute lebe ich allein, und für eine Person zu kochen, macht ehrlich gesagt wenig Freude. Deshalb habe ich mit zwei Nachbarinnen einen Mittagstisch gegründet: Jeden Dienstag kocht eine von uns für die anderen, und inzwischen sitzen auch zwei Herren aus dem Nachbarhaus mit am Tisch. Das Essen ist dabei fast Nebensache. Wichtiger ist, dass man jemanden hat, mit dem man sich unterhalten kann, und dass man merkt, wenn es jemandem nicht gut geht. Was mich an den vielen Kochsendungen im Fernsehen stört: Da stehen Profis in riesigen Küchen und verwenden Zutaten, die man im normalen Supermarkt gar nicht bekommt. So entsteht der Eindruck, gutes Essen sei kompliziert und teuer. Dabei reichen oft Kartoffeln, ein Ei und ein paar frische Kräuter. Das habe ich schon von meiner Mutter gelernt."
+      ]
+     },
+     {
+      "letter": "d",
+      "name": "Yusuf",
+      "time": "12.11. · 22:30 Uhr",
+      "paragraphs": [
+       "Ich gebe es zu: Ich bestelle drei-, viermal pro Woche beim Lieferdienst. Zeit hätte ich eigentlich genug, ich arbeite im Homeoffice. Mir fehlt einfach die Motivation, nach Feierabend noch einzukaufen, zu schnippeln und hinterher die Küche aufzuräumen. Am Wochenende koche ich manchmal für Freunde, das macht mir sogar Spaß – aber eben nicht jeden Abend nach einem langen Tag am Bildschirm. Ich finde auch nicht, dass man sich dafür schämen muss. Für eine Person ist Bestellen oft kaum teurer, und es bleibt nichts übrig, was verdirbt. Was mich an der Debatte nervt, ist die Behauptung, alles Selbstgekochte sei automatisch gesund. Ein Freund von mir kocht sich jeden Abend Nudeln mit Sahnesoße und hält das für gesünder als den Linsensalat, den ich mir beim Lieferdienst bestelle. Entscheidend ist doch, was auf dem Teller liegt, und nicht, wer es gekocht hat."
+      ]
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "text": "Wer hat das Kochen erst als Erwachsener gelernt?",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Wer spart durch gute Planung Zeit unter der Woche?",
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "text": "Wer sieht im gemeinsamen Essen vor allem eine soziale Funktion?",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "text": "Wer hält Lieferdienste für eine vernünftige Lösung?",
+     "answer": "d"
+    },
+    {
+     "no": "4",
+     "text": "Wer hat seine Einstellung nach einem Erlebnis geändert?",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "text": "Wer kritisiert, wie in Kochsendungen gekocht wird?",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "text": "Wer will vermeiden, dass Lebensmittel weggeworfen werden?",
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "text": "Wem fehlt es weniger an Zeit als an Lust?",
+     "answer": "d"
+    },
+    {
+     "no": "8",
+     "text": "Wer kocht bewusst ohne genaue Mengenangaben?",
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "text": "Wer bezweifelt, dass Selbstgekochtes immer gesünder ist?",
+     "answer": "d"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie lesen in einer Zeitschrift einen Artikel über die Rückkehr der Wölfe nach Deutschland. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+   "title": "Der Wolf ist wieder da",
+   "lead": "Über hundert Jahre lang galt er in Deutschland als ausgerottet. Seine Rückkehr begeistert die einen und beunruhigt die anderen.",
+   "paragraphs": [
+    "Es war ein Foto, das 2000 in der Lausitz für Aufsehen sorgte: Zum ersten Mal seit mehr als hundert Jahren hatte ein Wolfspaar in Deutschland Junge bekommen. [0] Heute leben nach offiziellen Zählungen weit über hundert Rudel im Land, vor allem im Norden und Osten, und jedes Jahr werden es mehr.",
+    "Dass die Tiere zurückkehren konnten, hat mehrere Gründe. Wölfe standen in der EU lange unter strengem Schutz, und in den Wäldern gibt es mehr Rehe und Wildschweine als je zuvor. [10] Ein junger Wolf, der sein Rudel verlässt, wandert auf der Suche nach einem eigenen Revier manchmal mehrere Hundert Kilometer weit.",
+    "Nicht überall ist die Freude über die Rückkehr groß. Vor allem Schäferinnen und Schäfer berichten von getöteten Tieren auf ihren Weiden. [11] Wer seine Herde mit hohen Elektrozäunen oder Herdenschutzhunden sichert, bekommt in vielen Bundesländern einen Großteil der Kosten erstattet. Auch für gerissene Tiere gibt es eine Entschädigung, wenn nachgewiesen wird, dass ein Wolf verantwortlich war.",
+    "Doch die Maßnahmen haben ihre Grenzen. Auf Deichen an der Küste oder auf steilen Almen lassen sich Zäune kaum aufstellen. [12] Zudem lernen einzelne Wölfe offenbar, selbst hohe Zäune zu überwinden. Hat ein Wolf das einmal geschafft, versucht er es immer wieder.",
+    "Die Politik reagiert darauf inzwischen mit neuen Regeln. Tiere, die wiederholt Schutzzäune überwunden haben, sollen schneller abgeschossen werden dürfen. [13] Naturschutzverbände wenden dagegen ein, dass damit das eigentliche Problem nicht gelöst werde. Solange Herden schlecht geschützt seien, würden einfach andere Wölfe nachkommen.",
+    "Und die Menschen? Seit der Rückkehr der Wölfe ist in Deutschland niemand von einem Wolf angegriffen worden. [14] Fachleute raten, Abstand zu halten, laut zu sprechen und die Tiere keinesfalls zu füttern. Durch Füttern verlieren Wölfe nämlich ihre natürliche Scheu.",
+    "Für viele Förster ist der Wolf sogar ein Verbündeter. Weil er Rehe jagt, können junge Bäume wieder besser wachsen. [15] Ob sich Mensch und Wolf dauerhaft arrangieren, wird sich aber wohl erst in einigen Jahrzehnten zeigen."
+   ],
+   "source": "aus einer deutschen Zeitschrift",
+   "example": {
+    "no": "0",
+    "text": "Damit begann eine Entwicklung, mit der kaum jemand gerechnet hatte."
+   },
+   "sentences": {
+    "a": "Vielen Landwirten geht das allerdings nicht weit genug.",
+    "b": "Die meisten Bundesländer haben den Wolf deshalb inzwischen zum Abschuss freigegeben.",
+    "c": "Außerdem sind die Tiere erstaunlich anpassungsfähig und legen weite Strecken zurück.",
+    "d": "Wer dennoch einem Wolf begegnet, sollte ruhig bleiben.",
+    "e": "Der Staat versucht, die Betroffenen zu unterstützen.",
+    "f": "Wölfe meiden deshalb inzwischen die Nähe von Dörfern vollständig.",
+    "g": "Und die laufenden Kosten für Hunde und Futter sind für kleine Betriebe oft zu hoch.",
+    "h": "So trägt er indirekt dazu bei, dass sich der Wald verjüngt."
+   },
+   "unused": [
+    "b",
+    "f"
+   ],
+   "items": [
+    {
+     "no": "10",
+     "answer": "c"
+    },
+    {
+     "no": "11",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "answer": "g"
+    },
+    {
+     "no": "13",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "answer": "d"
+    },
+    {
+     "no": "15",
+     "answer": "h"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen in einer Zeitung einen Artikel über Schlaf. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Hellwach im Bett“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "title": "Hellwach im Bett",
+   "lead": "Viele Deutsche schlafen zu wenig. Die Ursachen liegen nicht immer dort, wo man sie vermutet.",
+   "paragraphs": [
+    "Wer morgens müde am Schreibtisch sitzt, ist in guter Gesellschaft. Laut einer großen Krankenkassenumfrage schläft etwa jeder dritte Erwachsene in Deutschland regelmäßig schlecht, und viele kommen unter der Woche auf weniger als sechs Stunden. Empfohlen werden für Erwachsene sieben bis neun Stunden. Besonders häufig betroffen sind Schichtarbeiter und Eltern kleiner Kinder.",
+    "Lange galt Schlaf als eine Art Pause, in der der Körper einfach abschaltet. Die Forschung der letzten Jahrzehnte hat dieses Bild gründlich korrigiert. „Im Schlaf ist das Gehirn keineswegs untätig“, erklärt der Schlafmediziner Jonas Reiter. „Es sortiert, was wir tagsüber erlebt haben, und entscheidet, welche Erinnerungen dauerhaft gespeichert werden.“ Wer nach dem Lernen gut schläft, behält den Stoff deshalb besser als jemand, der die Nacht durcharbeitet. Auch das Immunsystem ist nachts besonders aktiv.",
+    "Fehlt der Schlaf, macht sich das dagegen schnell bemerkbar. Schon nach einer kurzen Nacht reagieren wir langsamer und treffen riskantere Entscheidungen. Wer über Wochen zu wenig schläft, hat zudem ein höheres Risiko für Übergewicht, Bluthochdruck und Infektionen. Das Tückische daran: Die meisten Betroffenen schätzen ihre eigene Leistungsfähigkeit viel zu positiv ein.",
+    "Häufig wird das Smartphone als Hauptschuldiger genannt, weil sein blaues Licht die Bildung des Schlafhormons Melatonin hemmen soll. Reiter hält diesen Effekt für überschätzt. Entscheidender sei, was man auf dem Bildschirm tut: Wer kurz vor dem Schlafengehen noch dienstliche E-Mails liest oder sich über Nachrichten aufregt, sei anschließend schlicht zu aufgewühlt, um abzuschalten. Ein ruhiges Hörbuch oder ein paar Seiten auf dem E-Reader seien dagegen kein Problem.",
+    "Eine weitere Ursache sieht der Mediziner in unserem Alltag. Schule und Arbeit beginnen für viele Menschen zu früh, vor allem für Jugendliche, deren innere Uhr sich in der Pubertät nach hinten verschiebt. Beginnt der Unterricht eine Stunde später, bleiben die Schüler abends nicht einfach länger wach, sondern schlafen tatsächlich mehr, und ihre Noten verbessern sich. Trotzdem halten die meisten Schulen am frühen Beginn fest, weil Busfahrpläne und die Arbeitszeiten der Eltern darauf abgestimmt sind.",
+    "Was können Erwachsene tun? Reiter empfiehlt vor allem feste Schlafenszeiten, auch am Wochenende. Wer am Samstag bis Mittag schläft, bringt seinen Rhythmus ähnlich durcheinander wie ein Flug über mehrere Zeitzonen. Zu Schlaftabletten rät er nur in Ausnahmefällen und nur für kurze Zeit, weil sich der Körper schnell daran gewöhnt.",
+    "Und wer nachts wach liegt, sollte nach etwa zwanzig Minuten lieber aufstehen und etwas Ruhiges tun, statt sich im Bett hin und her zu wälzen. Sonst verbindet das Gehirn das Bett irgendwann nicht mehr mit Schlaf, sondern mit Grübeln."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "example": {
+    "no": "0",
+    "stem": "Viele Erwachsene in Deutschland …",
+    "options": {
+     "a": "schlafen weniger als empfohlen.",
+     "b": "brauchen weniger als sechs Stunden.",
+     "c": "schlafen am Wochenende zu wenig."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "stem": "Laut Jonas Reiter ist das Gehirn im Schlaf damit beschäftigt, …",
+     "options": {
+      "a": "sich von der Arbeit zu erholen.",
+      "b": "den Tag zu verarbeiten.",
+      "c": "alle Erinnerungen zu speichern."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "17",
+     "stem": "Wer über längere Zeit zu wenig schläft, …",
+     "options": {
+      "a": "überschätzt die eigene Leistung.",
+      "b": "bemerkt die Folgen sofort.",
+      "c": "trifft vorsichtigere Entscheidungen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "stem": "Beim Smartphone kommt es laut Reiter vor allem darauf an, …",
+     "options": {
+      "a": "wie viel blaues Licht es abgibt.",
+      "b": "wie lange man es benutzt.",
+      "c": "was man damit macht."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "stem": "Ein späterer Schulbeginn führt dazu, dass Jugendliche …",
+     "options": {
+      "a": "später ins Bett gehen.",
+      "b": "insgesamt mehr schlafen.",
+      "c": "sich schneller umstellen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "20",
+     "stem": "Schlaftabletten sollte man laut Reiter …",
+     "options": {
+      "a": "nur ausnahmsweise nehmen.",
+      "b": "vor allem nach Fernreisen nehmen.",
+      "c": "nur am Wochenende nehmen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "21",
+     "stem": "Wer nachts nicht einschlafen kann, sollte …",
+     "options": {
+      "a": "liegen bleiben.",
+      "b": "nach zwanzig Minuten etwas einnehmen.",
+      "c": "eine Weile aufstehen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob Schulnoten abgeschafft werden sollten. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+   "title": "Schule ohne Noten?",
+   "example": {
+    "no": "0",
+    "text": "Noten sagen wenig über das Gelernte aus.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "22",
+     "text": "Ohne Vergleichbarkeit verlieren Abschlüsse an Wert.",
+     "answer": "g"
+    },
+    {
+     "no": "23",
+     "text": "Rückmeldungen sollten zeigen, wie man sich verbessern kann.",
+     "answer": "d"
+    },
+    {
+     "no": "24",
+     "text": "Auch mit Misserfolgen muss man umgehen lernen.",
+     "answer": "h"
+    },
+    {
+     "no": "25",
+     "text": "Schriftliche Beurteilungen sind zu aufwendig.",
+     "answer": "e"
+    },
+    {
+     "no": "26",
+     "text": "Für Eltern zählt eine klare, schnelle Orientierung.",
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "text": "Wer nur für Noten lernt, verliert die Neugier.",
+     "answer": "f"
+    }
+   ],
+   "texts": [
+    {
+     "letter": "a",
+     "text": "Ich hatte in Chemie jahrelang eine Zwei, weil ich vor jedem Test alles auswendig gelernt habe. Verstanden habe ich kaum etwas. Eine Zahl zeigt nur, ob man an einem bestimmten Tag die richtigen Antworten parat hatte, nicht, was man wirklich kann.",
+     "byline": "Lena, Jena"
+    },
+    {
+     "letter": "b",
+     "text": "Als Vater von drei Kindern möchte ich auf einen Blick sehen, wo sie stehen. Mit Formulierungen wie „bemüht sich im sozialen Miteinander“ kann ich wenig anfangen. Eine Drei ist eine Drei, da weiß ich, dass wir zu Hause etwas tun müssen.",
+     "byline": "Markus, Regensburg"
+    },
+    {
+     "letter": "c",
+     "text": "Meine Tochter besucht eine Schule, an der es bis zur achten Klasse keine Noten gibt. Die Lehrer schreiben ausführliche Berichte, und sie geht jeden Tag gern hin. Ob das auf Dauer funktioniert, kann ich noch nicht beurteilen. Aber bisher bin ich zufrieden.",
+     "byline": "Petra, Kiel"
+    },
+    {
+     "letter": "d",
+     "text": "Eine Fünf in Mathe sagt einem Schüler, dass etwas schiefgelaufen ist, aber nicht, was. Viel hilfreicher wäre ein Satz wie: „Beim Bruchrechnen noch unsicher, Textaufgaben gut gelöst.“ Damit weiß man, woran man als Nächstes arbeiten muss.",
+     "byline": "Moritz, Mainz"
+    },
+    {
+     "letter": "e",
+     "text": "Ich unterrichte fünf Klassen mit je 28 Kindern. Für jedes Kind einen individuellen Bericht zu schreiben, würde mich jedes Halbjahr mehrere Wochenenden kosten. Das ist mit unserem Personal einfach nicht zu schaffen, so schön die Idee auch klingt.",
+     "byline": "Sabine, Essen"
+    },
+    {
+     "letter": "f",
+     "text": "Mein Sohn fragt bei jeder Hausaufgabe als Erstes: „Wird das benotet?“ Wenn nicht, macht er sie nur halbherzig. Er lernt nicht mehr, weil ihn etwas interessiert, sondern nur noch für die Zahl im Zeugnis. Das finde ich traurig.",
+     "byline": "Aylin, Bremen"
+    },
+    {
+     "letter": "g",
+     "text": "Man mag Noten ungerecht finden. Aber wenn sich eine Firma zwischen hundert Bewerbern entscheiden muss, braucht sie vergleichbare Kriterien. Ohne Noten würden Universitäten und Arbeitgeber eigene Tests einführen, und am Ende hätten die Schüler noch mehr Prüfungen vor sich.",
+     "byline": "Thomas, Leipzig"
+    },
+    {
+     "letter": "h",
+     "text": "Im Beruf werde ich auch ständig bewertet, von meiner Chefin und von Kunden. Die Schule sollte junge Menschen darauf vorbereiten und nicht so tun, als gäbe es keine Konkurrenz. Wer nie gelernt hat, mit einer schlechten Note umzugehen, scheitert später an der ersten Kritik.",
+     "byline": "Daniel, Köln"
+    }
+   ],
+   "unused": [
+    "c"
+   ]
+  },
+  "t5": {
+   "instruction": "Sie möchten in einem Gemeinschaftsgarten ein Beet übernehmen und lesen die Gartenordnung. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+   "title": "Gartenordnung",
+   "subtitle": "Gemeinschaftsgarten „Grüne Mitte“ e. V.",
+   "headings": {
+    "a": "Mitgliedschaft und Beiträge",
+    "b": "Vergabe der Beete",
+    "c": "Wasserverbrauch",
+    "d": "Gemeinschaftsarbeit",
+    "e": "Pflanzenschutz",
+    "f": "Werkzeug und Geräte",
+    "g": "Ruhezeiten",
+    "h": "Haustiere"
+   },
+   "unused": [
+    "a",
+    "c",
+    "f",
+    "g"
+   ],
+   "example": {
+    "no": "0",
+    "label": "§ 0",
+    "paragraphs": [
+     "Jede Mitgliedsfamilie erhält für eine Saison ein eigenes Beet. Die Beete werden im März verlost; wer im Vorjahr ein Beet hatte, kann dieses auf Wunsch behalten. Wird ein Beet bis Ende Mai nicht bepflanzt, vergibt es der Vorstand neu."
+    ],
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "28",
+     "label": "§ 28",
+     "paragraphs": [
+      "(1) Alle Mitglieder verpflichten sich, im Jahr mindestens acht Stunden auf den Gemeinschaftsflächen mitzuarbeiten, etwa beim Rasenmähen oder bei der Pflege der Wege. (2) Die Termine werden am Schwarzen Brett ausgehängt. (3) Wer die Stunden nicht leisten kann, zahlt stattdessen einen Ausgleich von 10 Euro pro Stunde."
+     ],
+     "answer": "d"
+    },
+    {
+     "no": "29",
+     "label": "§ 29",
+     "paragraphs": [
+      "Chemische Mittel gegen Schädlinge und Unkraut sind im gesamten Garten verboten. Erlaubt sind ausschließlich biologische Mittel, die auf der Liste im Geräteschuppen stehen. Bei starkem Befall wenden Sie sich bitte an den Vorstand, bevor Sie selbst etwas unternehmen."
+     ],
+     "answer": "e"
+    },
+    {
+     "no": "30",
+     "label": "§ 30",
+     "paragraphs": [
+      "Hunde dürfen nur angeleint mitgebracht werden und müssen auf den Wegen bleiben. Die Beete anderer Mitglieder dürfen sie nicht betreten. Katzen und andere Tiere dürfen nicht dauerhaft im Garten gehalten werden."
+     ],
+     "answer": "h"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Die Frau möchte ein Kleidungsstück abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Der Mantel …",
+     "options": {
+      "a": "ist schon fertig.",
+      "b": "wird noch einmal behandelt.",
+      "c": "kostet jetzt mehr."
+     },
+     "answer": "b"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Der Mann erzählt, warum er erst spät ein Instrument gelernt hat.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Am Anfang …",
+       "options": {
+        "a": "nahm er Unterricht bei einem Lehrer.",
+        "b": "spielte er auf einem neuen Klavier.",
+        "c": "übte er nur, wenn er allein war."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "In der Meldung geht es um ein kostenloses Angebot.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Mit dem Ticket …",
+       "options": {
+        "a": "kann man zwischen den Museen Sonderbusse nutzen.",
+        "b": "fährt man den ganzen Abend in der Stadt mit Bus und Bahn.",
+        "c": "kommt man zu allen Konzerten ohne weitere Karte."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die beiden sind mit der neuen Kantine rundum zufrieden.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Die Frau möchte …",
+       "options": {
+        "a": "sich bei der Geschäftsleitung beschweren.",
+        "b": "vorschlagen, dass man vorbestellen kann.",
+        "c": "das frühere Essen zurückhaben."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Der Förster rät, sich im Wald möglichst viel zu bewegen.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Für das Waldbaden …",
+       "options": {
+        "a": "sollte man vorher einen Kurs besuchen.",
+        "b": "braucht man ein festes Ziel.",
+        "c": "reicht schon ein Park in der Nähe."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Der Mann sagt seine Hilfe beim Umzug zu.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Der Mann …",
+       "options": {
+        "a": "kommt nicht allein.",
+        "b": "ist um acht Uhr da.",
+        "c": "hat den Transporter gemietet."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+   "context": "In der Sendung „Sprachzeit“ spricht die Moderatorin mit dem Sprachwissenschaftler Dr. Paul Wendel über Dialekte.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Dialekte in Deutschland …",
+     "options": {
+      "a": "verändern sich eher, als dass sie aussterben.",
+      "b": "verschwinden heute schneller, als man lange dachte.",
+      "c": "werden fast nur noch von Älteren gesprochen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Viele Menschen verbergen ihren Dialekt, weil …",
+     "options": {
+      "a": "sie ihn selbst nicht mehr sicher beherrschen.",
+      "b": "er in vielen Berufen ausdrücklich unerwünscht ist.",
+      "c": "sie fürchten, für weniger gebildet gehalten zu werden."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "In der Werbung …",
+     "options": {
+      "a": "gelten Dialekte als wenig seriös.",
+      "b": "setzt man Dialekte zunehmend gezielt ein.",
+      "c": "wird bis heute fast nur Hochdeutsch gesprochen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Kinder, die mit Dialekt aufwachsen, …",
+     "options": {
+      "a": "machen in der Schule mehr Rechtschreibfehler.",
+      "b": "verlieren ihn meist bis zur Pubertät.",
+      "c": "tun sich mit weiteren Sprachen oft leichter."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Für seine Forschung …",
+     "options": {
+      "a": "nutzt Herr Wendel Aufnahmen von Laien.",
+      "b": "reist Herr Wendel in abgelegene Dörfer.",
+      "c": "wertet Herr Wendel alte Briefe aus."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "16",
+     "stem": "Herr Wendel wünscht sich, dass Menschen …",
+     "options": {
+      "a": "Dialekt als eigenes Schulfach lernen.",
+      "b": "je nach Situation zwischen den Varianten wechseln.",
+      "c": "ihre Kinder konsequent auf Hochdeutsch erziehen."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über die Vier-Tage-Woche. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Frau Okafor, Pflegekraft",
+    "c": "Herr Brandl, Unternehmer"
+   },
+   "example": {
+    "no": "0",
+    "text": "Mehrere Firmen haben die Vier-Tage-Woche bereits ausprobiert.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "17",
+     "text": "Er/Sie findet dank der Vier-Tage-Woche leichter Nachwuchs.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Nicht jede Arbeit lässt sich auf vier Tage verteilen.",
+     "answer": "b"
+    },
+    {
+     "no": "19",
+     "text": "Er/Sie würde für mehr Freizeit nicht auf Gehalt verzichten.",
+     "answer": "a"
+    },
+    {
+     "no": "20",
+     "text": "Zehn Stunden am Stück zu arbeiten, kann auf Dauer krank machen.",
+     "answer": "b"
+    },
+    {
+     "no": "21",
+     "text": "In kürzerer Zeit wird nicht weniger geschafft.",
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "text": "Entscheidend ist, wer über die freie Zeit bestimmen kann.",
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema „Richtig zuhören“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "23",
+     "stem": "Die meisten Menschen …",
+     "options": {
+      "a": "halten sich für bessere Zuhörer.",
+      "b": "hören im Beruf besser zu.",
+      "c": "können sich schlecht konzentrieren."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "stem": "Während der andere spricht, …",
+     "options": {
+      "a": "schauen viele aufs Handy.",
+      "b": "unterbrechen ihn viele sofort.",
+      "c": "denken viele an ihre Antwort."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "stem": "Ungefragte Ratschläge …",
+     "options": {
+      "a": "sind oft nicht erwünscht.",
+      "b": "gibt man besser am Ende.",
+      "c": "werden meist dankbar angenommen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "stem": "Gezielte Nachfragen …",
+     "options": {
+      "a": "wirken aufdringlich.",
+      "b": "zeigen echtes Interesse.",
+      "c": "gehören eher ins Berufsleben."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "stem": "Pausen im Gespräch …",
+     "options": {
+      "a": "sollte man schnell füllen.",
+      "b": "helfen beim Nachdenken.",
+      "c": "zeigen Langeweile an."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Wer zwischendurch zusammenfasst, was er verstanden hat, …",
+     "options": {
+      "a": "wirkt schnell besserwisserisch.",
+      "b": "verlängert das Gespräch unnötig.",
+      "c": "beugt Missverständnissen vor."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "stem": "Am Telefon …",
+     "options": {
+      "a": "fällt Zuhören leichter.",
+      "b": "hört man Gefühle kaum heraus.",
+      "c": "fällt Ablenkung sofort auf."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "stem": "Der Redner schlägt vor, …",
+     "options": {
+      "a": "einen Kurs zu besuchen.",
+      "b": "täglich einmal nur zuzuhören.",
+      "c": "wichtige Gespräche aufzuzeichnen."
+     },
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 50,
+    "words": 150,
+    "situation": [
+     "Sie schreiben einen Forumsbeitrag zum Thema „Haustiere in der Wohnung“."
+    ],
+    "points": [
+     "Äußern Sie Ihre Meinung dazu, ein Haustier in einer Wohnung zu halten.",
+     "Nennen Sie Gründe, warum Haustiere in Mietwohnungen oft zu Konflikten führen.",
+     "Nennen Sie andere Möglichkeiten, Zeit mit Tieren zu verbringen.",
+     "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+    ],
+    "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+    "model": {
+     "label": "Forumsbeitrag, ca. 190 Wörter",
+     "text": "Liebe Forumsmitglieder,\n\nseit sechs Jahren lebe ich mit zwei Katzen in einer Zweizimmerwohnung und verfolge diese Diskussion deshalb mit großem Interesse.\n\nMeiner Meinung nach kann man durchaus ein Haustier in der Wohnung halten, allerdings nicht jedes. Katzen oder Kaninchen fühlen sich auch auf siebzig Quadratmetern wohl, ein großer Hund dagegen kaum.\n\nDass es trotzdem oft zu Konflikten kommt, hat mehrere Gründe. Zum einen fühlen sich Nachbarn schnell durch Bellen oder Gerüche im Treppenhaus gestört. Zum anderen sind viele Tiere den ganzen Tag allein, weil ihre Besitzer arbeiten, und werden dadurch unruhig. Nicht zuletzt befürchten manche Vermieter Schäden an Böden und Türen.\n\nWer selbst kein Tier halten kann, hat trotzdem Möglichkeiten: Man kann mit Hunden aus dem Tierheim spazieren gehen, die Katze der Nachbarn versorgen, wenn diese verreist sind, oder am Wochenende auf einem Reiterhof mithelfen.\n\nDas hat den Vorteil, dass man sich nicht für fünfzehn Jahre festlegen muss und keine Tierarztkosten hat. Außerdem hilft man Tieren, die sonst kaum Zuwendung bekämen.\n\nAlles in allem finde ich: Ein Haustier in der Wohnung ist möglich, wenn man ehrlich prüft, ob man ihm gerecht werden kann. Wie seht ihr das?"
+    },
+    "typicalErrors": "Nur von den eigenen Tieren erzählen, ohne Gründe für Konflikte zu nennen · Alternativen nennen, aber keine Vorteile (Punkt 4 fehlt)."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 100,
+    "situation": [
+     "Sie arbeiten in der Buchhaltung eines Unternehmens. Ihre Vorgesetzte, Frau Hartmann, hat Sie gebeten, ab Montag eine neue Kollegin einzuarbeiten. Sie müssen aber bis Ende des Monats den Jahresabschluss fertigstellen und haben deshalb kaum Zeit für die Einarbeitung. Schreiben Sie eine Nachricht an Frau Hartmann."
+    ],
+    "points": [
+     "Beschreiben Sie Ihre Situation.",
+     "Bitten Sie um Verständnis für Ihre Lage.",
+     "Machen Sie einen Vorschlag, wie die Einarbeitung trotzdem gelingen kann.",
+     "Zeigen Sie Verständnis für die Situation Ihrer Vorgesetzten."
+    ],
+    "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    "model": {
+     "label": "Nachricht an die Vorgesetzte, ca. 110 Wörter",
+     "text": "Betreff: Einarbeitung von Frau Yilmaz\n\nSehr geehrte Frau Hartmann,\n\nvielen Dank für Ihr Vertrauen. Ich würde Frau Yilmaz gern einarbeiten, allerdings stecke ich gerade mitten im Jahresabschluss, der bis Ende des Monats fertig sein muss. In den nächsten zwei Wochen bleibt mir deshalb kaum Zeit für eine gründliche Einarbeitung.\n\nIch hoffe sehr, dass Sie dafür Verständnis haben.\n\nMir ist bewusst, dass die neue Kollegin möglichst schnell selbstständig arbeiten soll und dass unser Team im Moment ohnehin knapp besetzt ist.\n\nDeshalb schlage ich vor, dass Herr Becker ihr in den ersten beiden Wochen unsere Programme zeigt. Gern stelle ich ihr schon jetzt meine Checklisten zur Verfügung, und ab Anfang nächsten Monats übernehme ich die Einarbeitung selbst.\n\nMit freundlichen Grüßen\nJulia Seifert"
+    },
+    "typicalErrors": "Die Einarbeitung ablehnen, ohne einen Vorschlag zu machen · kein Verständnis für die Vorgesetzte · unpassende Anrede (Hallo Frau Hartmann)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Interview: Dialekte",
+   "t3": "Radiogespräch: Die Vier-Tage-Woche",
+   "t4": "Vortrag: Richtig zuhören"
+  },
+  "schreiben": [
+   "Forumsbeitrag: Haustiere in der Wohnung",
+   "Nachricht an die Vorgesetzte"
+  ],
+  "sprechen": {
+   "vortrag": [
+    "Sport in der Freizeit",
+    "Geld sparen",
+    "Kinder und Medien",
+    "Gesunde Ernährung"
+   ],
+   "diskussion": "Sollten Geschäfte auch sonntags öffnen dürfen?"
+  }
+ },
+ "notes": "Aus dem PDF Goethe B2 Modelltest 3 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}

@@ -1,0 +1,786 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einem Forum, wie Menschen über Auszeiten vom Smartphone denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+   "forum": {
+    "title": "Auszeit vom Smartphone",
+    "posts": [
+     {
+      "letter": "a",
+      "name": "Merve",
+      "time": "14.03. · 21:47 Uhr",
+      "paragraphs": [
+       "Ein „Digital-Detox“-Wochenende in einem Kloster, bei dem man das Handy am Eingang abgibt – das habe ich mir letzten Herbst gegönnt. Ehrlich gesagt war es eine teure Enttäuschung: Kaum hatte ich mein Telefon zurück, war alles wie vorher. Solche Angebote halte ich inzwischen eher für ein Geschäftsmodell als für eine Lösung. Was mir tatsächlich hilft, sind kleine, feste Regeln: Das Handy übernachtet in der Küche, geweckt werde ich von einem ganz normalen Wecker, und Benachrichtigungen habe ich bis auf Anrufe abgeschaltet. Ganz verzichten könnte ich ohnehin nicht, denn als Pflegekraft im Schichtdienst erfahre ich über eine App, wenn ich kurzfristig einspringen muss. Dass mich die Station jederzeit erreichen kann, finde ich sogar beruhigend. Was mich nervt, ist etwas anderes: In jeder freien Minute schaue ich automatisch aufs Display, sogar an der roten Ampel. Seit mir das aufgefallen ist, bleibt das Gerät beim Spazierengehen zu Hause."
+      ]
+     },
+     {
+      "letter": "b",
+      "name": "Frank",
+      "time": "14.03. · 22:15 Uhr",
+      "paragraphs": [
+       "Bei uns steht seit einem halben Jahr eine Kiste im Flur, in der während des Abendessens alle Handys liegen – meines eingeschlossen. Die Idee stammt übrigens nicht von mir, sondern von meiner Tochter, die sich beschwert hat, dass ich beim Essen ständig E-Mails beantworte. Das hat gesessen. Als Selbstständiger hatte ich lange das Gefühl, jeden Anruf sofort annehmen zu müssen, weil der Kunde sonst eben bei der Konkurrenz anruft. Heute habe ich für das Geschäft ein zweites Telefon, das nach Feierabend ausgeschaltet bleibt, und siehe da: Mir ist dadurch kein einziger Auftrag entgangen. An unsere Regel halten sich die Kinder inzwischen deutlich besser als ich. Ab und zu ertappe ich mich dabei, wie ich heimlich in den Flur gehe und nachsehe, ob jemand geschrieben hat. Einen kompletten Verzicht halte ich trotzdem nicht für sinnvoll: Wir planen unsere Ausflüge mit dem Handy, und die Großeltern schicken uns jeden Sonntag Fotos."
+      ]
+     },
+     {
+      "letter": "c",
+      "name": "Leonie",
+      "time": "15.03. · 08:02 Uhr",
+      "paragraphs": [
+       "In der Fastenzeit habe ich sämtliche Social-Media-Apps gelöscht, sieben Wochen lang. Die ersten Tage waren seltsam: Ständig hatte ich das Gefühl, mein Handy vibriere in der Tasche, obwohl es stumm auf dem Schreibtisch lag. Nach etwa zwei Wochen wurde ich ruhiger, und in den sieben Wochen habe ich mehr gelesen als im ganzen Jahr davor. Einen Preis hatte das Experiment allerdings: Weil in meinem Freundeskreis fast alles über Gruppenchats läuft, habe ich von zwei Geburtstagsfeiern erst hinterher erfahren. Niemand war auf die Idee gekommen, mich anzurufen. Inzwischen sind die Apps wieder da, diesmal aber mit einem Limit von 30 Minuten am Tag, an das ich mich meistens halte. Was mich an der ganzen Debatte ärgert: Sie tut so, als hinge alles von der Willenskraft des Einzelnen ab. Dabei werden diese Apps von Fachleuten gezielt so entwickelt, dass man möglichst lange dabeibleibt. Gegen ein ganzes Team von Psychologen komme ich mit guten Vorsätzen allein nicht an."
+      ]
+     },
+     {
+      "letter": "d",
+      "name": "Tobias",
+      "time": "15.03. · 19:30 Uhr",
+      "paragraphs": [
+       "Ich bin beruflich drei, vier Tage pro Woche unterwegs, und ohne Smartphone wäre ich aufgeschmissen: Bahntickets, Hotel, Navigation, Übersetzungen – alles läuft darüber. Deshalb habe ich mit dem Wort „Entgiftung“ ein Problem. Das Handy ist für mich kein Gift, sondern ein Werkzeug; entscheidend ist, wann und wofür man es benutzt. Einen Urlaub völlig ohne Netz können sich meiner Meinung nach ohnehin nur Leute leisten, die im Job eine Vertretung haben. Ich habe keine. Was ich mir wünschen würde, wären klare Absprachen im Betrieb. In Frankreich haben Beschäftigte sogar ein Recht darauf, nach Feierabend nicht erreichbar zu sein. Bei uns hängt das von der Laune der Vorgesetzten ab. Privat habe ich mir angewöhnt, einmal im Monat meine Bildschirmzeit auszuwerten. Die Zahlen sind oft ernüchternd, vor allem was die Abende im Hotel betrifft. Aber sie helfen mir, ehrlich zu mir selbst zu sein, statt mir einzureden, ich hätte alles im Griff."
+      ]
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "text": "Wer hat für eine Auszeit vom Smartphone bezahlt, die nicht lange gewirkt hat?",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Wer wurde von einem Familienmitglied kritisiert?",
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "text": "Wer hält eine bestimmte Bezeichnung für unpassend?",
+     "answer": "d"
+    },
+    {
+     "no": "3",
+     "text": "Bei wem ließen die anfänglichen Schwierigkeiten mit der Zeit nach?",
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "text": "Wen stört die ständige Erreichbarkeit eigentlich nicht?",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "text": "Wessen Befürchtung hat sich nicht bestätigt?",
+     "answer": "b"
+    },
+    {
+     "no": "6",
+     "text": "Wer hat durch den Verzicht Nachteile im Freundeskreis erlebt?",
+     "answer": "c"
+    },
+    {
+     "no": "7",
+     "text": "Wer hält einen Urlaub ohne Internet für ein Privileg?",
+     "answer": "d"
+    },
+    {
+     "no": "8",
+     "text": "Wer verbannt das Handy nachts aus dem Schlafzimmer?",
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "text": "Wer sieht auch App-Anbieter in der Verantwortung?",
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie lesen in einer Zeitschrift einen Artikel über die Rückkehr der Nachtzüge. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+   "title": "Mit dem Schlafwagen durch Europa",
+   "lead": "Lange galten Nachtzüge als Auslaufmodell. Jetzt erleben sie ein Comeback – mit Nebenwirkungen.",
+   "paragraphs": [
+    "Es ist kurz vor neun am Abend, Gleis 7 am Wiener Hauptbahnhof. Familien, Geschäftsreisende und Studierende mit Rucksäcken warten auf den Zug nach Hamburg. [0] Wer am nächsten Morgen ausgeschlafen in Norddeutschland ankommen will, hat seinen Platz meist schon Wochen im Voraus reserviert. Spontan noch ein Bett zu bekommen, ist in der Hauptreisezeit fast aussichtslos.",
+    "Vor zehn Jahren hätte kaum jemand ein solches Bild für möglich gehalten. Viele europäische Bahnen hatten ihre Nachtverbindungen damals eingestellt, auch die Deutsche Bahn, die 2016 ihre letzten Schlaf- und Liegewagen abgab. [10] Die Wagen waren alt, das Personal teuer, und auf vielen Strecken waren Billigflieger schneller und günstiger.",
+    "Dass die Züge heute wieder rollen, ist vor allem den Österreichischen Bundesbahnen zu verdanken. Sie übernahmen einen Teil der Fahrzeuge und bauten unter dem Namen „Nightjet“ ein eigenes Netz auf. [11] Inzwischen verbinden Nachtzüge Dutzende Städte zwischen Brüssel und Rom.",
+    "Für den Aufschwung gibt es mehrere Gründe. Immer mehr Menschen wollen aus Klimagründen aufs Fliegen verzichten, ohne dafür einen ganzen Reisetag zu opfern. [12] Hinzu kommt, dass man ohne Sicherheitskontrolle mitten in der Stadt einsteigt und mitten in der Stadt ankommt.",
+    "Ganz ohne Schattenseiten ist das Comeback allerdings nicht. Fahrgäste klagen über Verspätungen von mehreren Stunden, defekte Klimaanlagen oder Wagen, die kurzfristig ausgetauscht werden. [13] Das liegt auch daran, dass ein Nachtzug häufig mehrere Länder durchquert, deren Bahnen sich über Fahrpläne und Personal einigen müssen.",
+    "Und billig ist die Nacht auf Schienen selten. Ein Einzelabteil im Schlafwagen kostet schnell mehr als ein Flug samt Hotelübernachtung. [14] Die Bahnen verweisen darauf, dass sie für jeden gefahrenen Kilometer Gebühren zahlen, während Kerosin in der EU bis heute weitgehend steuerfrei ist.",
+    "Trotzdem wächst das Angebot weiter. Neue Anbieter aus den Niederlanden und Schweden planen eigene Verbindungen, und auch die EU will grenzüberschreitende Nachtzüge stärker fördern. [15] Ob der Nachtzug damit dauerhaft zur Alternative wird, hängt nicht zuletzt davon ab, ob die neuen Wagen pünktlich geliefert werden."
+   ],
+   "source": "aus einer deutschen Zeitschrift",
+   "example": {
+    "no": "0",
+    "text": "Der Nachtzug ist an diesem Abend bis auf den letzten Platz ausgebucht."
+   },
+   "sentences": {
+    "a": "Genau das verspricht der Nachtzug: Man verschläft die Strecke einfach.",
+    "b": "Seitdem baut die Deutsche Bahn ihr Nachtzugnetz stetig aus.",
+    "c": "Das Geschäft lohne sich nicht mehr, hieß es damals.",
+    "d": "Die Hersteller kommen mit der Produktion allerdings kaum hinterher.",
+    "e": "Was als riskante Wette galt, hat sich als Erfolg erwiesen.",
+    "f": "Die Preise sind deshalb in den letzten Jahren deutlich gesunken.",
+    "g": "Für viele Familien ist das ein Grund, doch wieder zu fliegen.",
+    "h": "Nicht selten schläft man dann im Sitzwagen statt im gebuchten Abteil."
+   },
+   "unused": [
+    "b",
+    "f"
+   ],
+   "items": [
+    {
+     "no": "10",
+     "answer": "c"
+    },
+    {
+     "no": "11",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "answer": "h"
+    },
+    {
+     "no": "14",
+     "answer": "g"
+    },
+    {
+     "no": "15",
+     "answer": "d"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen in einer Zeitung einen Artikel darüber, warum Menschen wichtige Aufgaben aufschieben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Morgen, morgen, nur nicht heute“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "title": "Morgen, morgen, nur nicht heute",
+   "lead": "Wer Aufgaben vor sich herschiebt, gilt schnell als faul. Ganz so einfach ist es aber nicht.",
+   "paragraphs": [
+    "Die Steuererklärung liegt seit Wochen auf dem Schreibtisch, von der Präsentation für Montag existiert noch keine einzige Folie – stattdessen wird die Küche geputzt oder ein Video nach dem anderen angesehen. Umfragen zufolge schiebt rund jeder fünfte Erwachsene regelmäßig wichtige Aufgaben so lange hinaus, dass er sich damit selbst schadet. Unter Studierenden liegt der Anteil noch deutlich höher.",
+    "Lange galt Aufschieben als Zeichen von Faulheit oder mangelnder Disziplin. Die Forschung zeichnet inzwischen ein anderes Bild. „Prokrastination ist in erster Linie kein Problem des Zeitmanagements, sondern eines der Gefühlsregulation“, sagt die Psychologin Katrin Oswald. Wer eine Aufgabe vor sich herschiebt, weicht demnach nicht der Arbeit selbst aus, sondern den Gefühlen, die mit ihr verbunden sind: der Langeweile, der Unsicherheit oder der Angst, den eigenen Ansprüchen nicht zu genügen.",
+    "Kurzfristig funktioniert diese Strategie sogar: Sobald das Dokument geschlossen ist, lässt die Anspannung nach, man fühlt sich erleichtert. Genau darin liegt jedoch die Falle, denn das Gehirn merkt sich, dass Ausweichen belohnt wird, und wählt beim nächsten Mal wieder denselben Weg. Je näher der Termin rückt, desto größer werden Druck und schlechtes Gewissen.",
+    "Besonders anfällig sind nach Oswalds Beobachtung nicht etwa die Nachlässigen, sondern Menschen mit hohen Ansprüchen an sich selbst. Wer fürchtet, dass das Ergebnis nicht perfekt wird, fängt lieber gar nicht erst an. Hinzu kommt ein Phänomen, das Fachleute als Distanz zum „zukünftigen Ich“ beschreiben. In Experimenten behandelten Versuchspersonen ihr eigenes späteres Ich ähnlich wie eine fremde Person – und überließen ihm bereitwillig die unangenehmen Aufgaben.",
+    "Was also hilft? Appelle an die Willenskraft bringen wenig, sagt Oswald. Wirksamer sei es, den Einstieg so klein wie möglich zu machen: nicht „die Hausarbeit schreiben“, sondern „die Datei anlegen und drei Sätze notieren“. Hilfreich sei außerdem, die Arbeit an feste Zeiten und Orte zu binden, statt jedes Mal neu zu entscheiden, wann man sich an den Schreibtisch setzt.",
+    "Eine Rolle spielt zudem der Umgang mit sich selbst, auch wenn das zunächst paradox klingt. Eine kanadische Studie ergab: Studierende, die nachsichtig mit sich waren, nachdem sie das Lernen für eine Prüfung aufgeschoben hatten, schoben vor der nächsten Prüfung weniger auf als jene, die sich heftige Vorwürfe machten. Strenge gegenüber sich selbst verstärkt offenbar genau die negativen Gefühle, vor denen man eigentlich flieht.",
+    "Ganz verschwinden wird das Aufschieben wohl nie, und das muss es auch nicht. Nicht jede verschobene Aufgabe ist ein Problem; manchmal stellt sich heraus, dass sie gar nicht so wichtig war. Kritisch wird es erst, wenn Gesundheit, Finanzen oder Beziehungen darunter leiden."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "example": {
+    "no": "0",
+    "stem": "Wer eine wichtige Aufgabe aufschiebt, …",
+    "options": {
+     "a": "beschäftigt sich oft mit anderen Tätigkeiten.",
+     "b": "hat in Wirklichkeit meistens zu viel zu tun.",
+     "c": "schadet damit vor allem anderen Menschen."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "stem": "Nach Ansicht von Katrin Oswald schieben Menschen Aufgaben auf, weil sie …",
+     "options": {
+      "a": "ihre Zeit schlecht einteilen.",
+      "b": "unangenehme Gefühle meiden.",
+      "c": "sich zu viel vornehmen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "17",
+     "stem": "Das Aufschieben wird leicht zur Gewohnheit, weil …",
+     "options": {
+      "a": "die Erleichterung als Belohnung wirkt.",
+      "b": "der Druck mit der Zeit nachlässt.",
+      "c": "das Gehirn unangenehme Aufgaben vergisst."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "stem": "Besonders gefährdet sind laut Oswald Menschen, die …",
+     "options": {
+      "a": "wenig sorgfältig sind.",
+      "b": "ungern mit anderen arbeiten.",
+      "c": "viel von sich verlangen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "stem": "In den Experimenten zeigte sich, dass die Versuchspersonen …",
+     "options": {
+      "a": "Aufgaben lieber anderen überließen.",
+      "b": "ihr späteres Ich wie einen Fremden behandelten.",
+      "c": "sich für später zu viel vornahmen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "20",
+     "stem": "Oswald empfiehlt, …",
+     "options": {
+      "a": "an die Disziplin zu appellieren.",
+      "b": "täglich neu zu planen.",
+      "c": "ganz klein anzufangen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "21",
+     "stem": "Die Studie aus Kanada legt nahe, dass …",
+     "options": {
+      "a": "Selbstvorwürfe eher schaden.",
+      "b": "Studierende öfter aufschieben.",
+      "c": "Strenge gegen sich selbst hilft."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob das Bargeld abgeschafft werden sollte. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+   "title": "Bargeld – ein Auslaufmodell?",
+   "example": {
+    "no": "0",
+    "text": "Wer bar zahlt, gibt bewusster aus.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "22",
+     "text": "Was für Kunden bequem ist, kommt kleine Läden teuer zu stehen.",
+     "answer": "e"
+    },
+    {
+     "no": "23",
+     "text": "Wer digital bezahlt, verrät mehr über sich, als ihm lieb ist.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Den Wert des Geldes begreift man mit den Händen.",
+     "answer": "h"
+    },
+    {
+     "no": "25",
+     "text": "Im Ernstfall ist auf Technik kein Verlass.",
+     "answer": "d"
+    },
+    {
+     "no": "26",
+     "text": "Ohne Bargeld hätte illegale Arbeit weniger Chancen.",
+     "answer": "f"
+    },
+    {
+     "no": "27",
+     "text": "Der Fortschritt darf niemanden zurücklassen.",
+     "answer": "c"
+    }
+   ],
+   "texts": [
+    {
+     "letter": "a",
+     "text": "Seit ich wieder bar bezahle, landet weniger Unnötiges im Einkaufswagen. Wenn die Scheine weniger werden, überlege ich zweimal, ob ich die dritte Packung Kekse wirklich brauche. Beim Bezahlen mit Karte fehlt mir dieses Gefühl völlig.",
+     "byline": "Bettina, Kassel"
+    },
+    {
+     "letter": "b",
+     "text": "Jede Kartenzahlung hinterlässt Spuren: wann ich wo war und was ich gekauft habe. Die Daten landen bei Banken, und niemand kann mir sagen, was in zehn Jahren damit geschieht. Bargeld ist eine der letzten Möglichkeiten, im Alltag anonym zu bleiben.",
+     "byline": "Malte, Leipzig"
+    },
+    {
+     "letter": "c",
+     "text": "Meine Mutter ist 86 und hat weder ein Smartphone noch Lust auf Apps. Ihre Rente holt sie am Schalter ab und verteilt sie auf Umschläge. Wer das Bargeld abschafft, nimmt Menschen wie ihr ein Stück Selbstständigkeit.",
+     "byline": "Renate, Bielefeld"
+    },
+    {
+     "letter": "d",
+     "text": "Letzten Winter war unser Ort nach einem Sturm zwei Tage ohne Strom. Kein Kartenterminal funktionierte, die Geldautomaten waren außer Betrieb. Beim Bäcker bekam nur Brot, wer Bargeld hatte. Seitdem liegt bei uns immer eine kleine Reserve in der Schublade.",
+     "byline": "Jörg, Rosenheim"
+    },
+    {
+     "letter": "e",
+     "text": "Viele zahlen sogar den Kaffee für 1,80 Euro mit Karte. Für mich kostet jede dieser Zahlungen eine Gebühr, dazu kommt die Miete für das Terminal. Bei kleinen Beträgen bleibt am Ende kaum etwas übrig. Große Ketten verkraften das, ein Kiosk wie meiner nicht.",
+     "byline": "Sevgi, Mannheim"
+    },
+    {
+     "letter": "f",
+     "text": "Wer auf dem Bau oder in der Gastronomie arbeitet, weiß, wie viel dort „schwarz“ bezahlt wird. Dem Staat entgehen dadurch jedes Jahr Milliarden. Wenn jede Zahlung digital erfolgt, lässt sie sich zurückverfolgen. Wer ehrlich ist, hat davon nichts zu befürchten.",
+     "byline": "Carsten, Hamburg"
+    },
+    {
+     "letter": "g",
+     "text": "Seit drei Jahren bezahle ich nur noch mit dem Handy. Ob im Café, auf dem Wochenmarkt oder am Parkscheinautomaten – überall klappt das in Sekunden. Früher habe ich ständig nach Kleingeld gesucht. Ehrlich gesagt verstehe ich die ganze Aufregung nicht.",
+     "byline": "Aylin, Köln"
+    },
+    {
+     "letter": "h",
+     "text": "Unsere Kinder bekommen ihr Taschengeld in Münzen. Beim Sparen sehen sie, wie sich das Glas füllt – und dass ein Eis den Plan verschiebt. Eine Zahl in einer App bleibt für Achtjährige abstrakt. Geld muss man in der Hand gehabt haben.",
+     "byline": "Thomas, Graz"
+    }
+   ],
+   "unused": [
+    "g"
+   ]
+  },
+  "t5": {
+   "instruction": "Sie möchten an der Volkshochschule einen Kurs belegen und lesen die Teilnahmebedingungen. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+   "title": "Teilnahmebedingungen",
+   "subtitle": "der Volkshochschule Neustadt · gültig ab dem Herbstsemester",
+   "headings": {
+    "a": "Kursgebühren und Zahlung",
+    "b": "Anmeldung",
+    "c": "Teilnahmebescheinigungen",
+    "d": "Ermäßigungen",
+    "e": "Rücktritt durch Teilnehmende",
+    "f": "Haftung und Versicherung",
+    "g": "Absage durch die Volkshochschule",
+    "h": "Nutzung der Räume"
+   },
+   "unused": [
+    "a",
+    "c",
+    "f",
+    "h"
+   ],
+   "example": {
+    "no": "0",
+    "label": "§ 0",
+    "paragraphs": [
+     "Die Anmeldung ist schriftlich, online oder persönlich in der Geschäftsstelle möglich und für beide Seiten verbindlich. Eine Benachrichtigung erhalten Sie nur, wenn der Kurs bereits ausgebucht ist; in diesem Fall kommen Sie auf die Warteliste."
+    ],
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "28",
+     "label": "§ 28",
+     "paragraphs": [
+      "(1) Eine Abmeldung ist bis spätestens sieben Tage vor Kursbeginn kostenfrei möglich. Sie bedarf der Textform; ein Anruf genügt nicht.",
+      "(2) Bei einer späteren Abmeldung wird die volle Gebühr fällig, es sei denn, Sie benennen eine Ersatzperson, die an Ihrer Stelle teilnimmt."
+     ],
+     "answer": "e"
+    },
+    {
+     "no": "29",
+     "label": "§ 29",
+     "paragraphs": [
+      "Schülerinnen und Schüler, Studierende, Auszubildende sowie Inhaberinnen und Inhaber des Neustadt-Passes erhalten auf Antrag einen Nachlass von 50 Prozent. Der Antrag ist mit der Anmeldung zu stellen; der Nachweis ist spätestens beim ersten Kurstermin vorzulegen."
+     ],
+     "answer": "d"
+    },
+    {
+     "no": "30",
+     "label": "§ 30",
+     "paragraphs": [
+      "Wird die Mindestzahl von acht Teilnehmenden nicht erreicht oder fällt die Kursleitung aus, ohne dass Ersatz gefunden werden kann, kann die Volkshochschule den Kurs absagen. Bereits gezahlte Gebühren werden dann vollständig erstattet. Weitergehende Ansprüche, etwa auf Erstattung von Fahrtkosten, sind ausgeschlossen."
+     ],
+     "answer": "g"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Die Frau möchte ihren Vertrag beenden.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Einen neuen Tarif …",
+     "options": {
+      "a": "kann sie nur schriftlich beantragen.",
+      "b": "bekommt sie sofort im Geschäft.",
+      "c": "gibt es erst ab dem nächsten Monat."
+     },
+     "answer": "b"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Die Frau erklärt, warum ihr der Chor so wichtig ist.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Dem Chor beigetreten ist sie ursprünglich, um …",
+       "options": {
+        "a": "ihre Stimme ausbilden zu lassen.",
+        "b": "nach einem Umzug Anschluss zu finden.",
+        "c": "besser mit Stress umgehen zu können."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "In der Meldung geht es um neue Regeln für Leihroller.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Wer einen Roller außerhalb der Zonen abstellt, …",
+       "options": {
+        "a": "kann die Fahrt nicht beenden.",
+        "b": "muss ein Bußgeld zahlen.",
+        "c": "zahlt dem Anbieter mehr."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die beiden sprechen über eine Regelung, die bereits gilt.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Der Mann schlägt vor, dass …",
+       "options": {
+        "a": "das Team selbst die Zeiten festlegt.",
+        "b": "die Chefin die Zeiten festlegt.",
+        "c": "alle spätestens um zehn Uhr anfangen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Frau rät von Tieren aus dem Tierheim ab.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Die meisten Tiere werden zurückgebracht, weil die Halter …",
+       "options": {
+        "a": "die Kosten falsch einschätzen.",
+        "b": "den Zeitaufwand unterschätzen.",
+        "c": "keine passende Wohnung haben."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Der Mann ändert am Ende seine eigenen Pläne.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Die Frau …",
+       "options": {
+        "a": "hat die Eintrittskarten selbst gekauft.",
+        "b": "kennt den Fotografen persönlich.",
+        "c": "würde sonst jemand anderen fragen."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+   "context": "In der Sendung „Wissen am Mittag“ spricht der Moderator mit der Stadtklimaforscherin Dr. Sabine Hartung über Hitze in deutschen Städten.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Frau Hartung hält vor allem für problematisch, dass …",
+     "options": {
+      "a": "es mittags in der Stadt zu heiß wird.",
+      "b": "sich der Körper nachts kaum noch erholen kann.",
+      "c": "es in vielen Straßen keinen Schatten gibt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Besonders gefährdet sind laut Frau Hartung Menschen, die …",
+     "options": {
+      "a": "in modernen Hochhäusern wohnen.",
+      "b": "sich tagsüber viel draußen aufhalten.",
+      "c": "unter schlecht gedämmten Dächern leben."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Was sagt Frau Hartung über Bäume?",
+     "options": {
+      "a": "Sie kühlen erst nach vielen Jahren spürbar.",
+      "b": "Sie wirken stärker als helle Dächer.",
+      "c": "Sie kommen in der Stadt mit wenig Wasser aus."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Klimaanlagen hält Frau Hartung …",
+     "options": {
+      "a": "grundsätzlich für schädlich.",
+      "b": "für die beste Lösung in schlecht gedämmten Dachwohnungen.",
+      "c": "nur in manchen Einrichtungen für nötig."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Das Pilotprojekt hat gezeigt, dass …",
+     "options": {
+      "a": "persönliche Kontakte besonders viel bewirken.",
+      "b": "Broschüren die Menschen am besten erreichen.",
+      "c": "ältere Menschen ungern ihre Wohnung verlassen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "16",
+     "stem": "Für die Anpassung der Städte fehlt nach Meinung von Frau Hartung vor allem …",
+     "options": {
+      "a": "die nötige Technik.",
+      "b": "die Bereitschaft, sich unbeliebt zu machen.",
+      "c": "das Geld, um neue Grünflächen anzulegen."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über das Leben in kleinen Städten. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Herr Yilmaz, Grafikdesigner",
+    "c": "Frau Behrendt, Buchhändlerin"
+   },
+   "example": {
+    "no": "0",
+    "text": "In vielen kleinen Städten ziehen inzwischen mehr Menschen zu als weg.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "17",
+     "text": "Er/Sie hat den Wohnort eher aus einer Notlage heraus gewechselt.",
+     "answer": "b"
+    },
+    {
+     "no": "18",
+     "text": "Durch den Zuzug ist das Wohnen für manche Einheimische teurer geworden.",
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "text": "Er/Sie hat die Nähe im Dorf früher als Einengung empfunden.",
+     "answer": "a"
+    },
+    {
+     "no": "20",
+     "text": "Die medizinische Versorgung hat mit der Entwicklung nicht Schritt gehalten.",
+     "answer": "c"
+    },
+    {
+     "no": "21",
+     "text": "Er/Sie hat einen früheren Vorsatz nicht umsetzen können.",
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "text": "Wie gut man sich einlebt, hängt vor allem von den Menschen vor Ort ab.",
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema „Vertrauen im Team“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "23",
+     "stem": "Entscheidend für erfolgreiche Teams ist vor allem …",
+     "options": {
+      "a": "die Ausstattung.",
+      "b": "die Qualifikation der Mitglieder.",
+      "c": "ein angstfreies Klima."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "stem": "Wo nie gestritten wird, …",
+     "options": {
+      "a": "fehlt oft echte Offenheit.",
+      "b": "arbeitet man besonders effizient.",
+      "c": "ist die Leitung meist streng."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "stem": "Vertrauen entsteht vor allem durch …",
+     "options": {
+      "a": "gemeinsame Ausflüge.",
+      "b": "Einzelgespräche mit der Leitung.",
+      "c": "verlässliches Verhalten im Alltag."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "stem": "Ein Vertrauensbruch …",
+     "options": {
+      "a": "lässt sich leicht reparieren.",
+      "b": "zerstört oft lange Aufgebautes.",
+      "c": "entsteht meist durch Informationsmangel."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "stem": "Wenn Vorgesetzte Fehler zugeben, …",
+     "options": {
+      "a": "verlieren sie an Autorität.",
+      "b": "machen andere mehr Fehler.",
+      "c": "wirken sie kompetenter."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "stem": "Programme zur Kontrolle am Computer …",
+     "options": {
+      "a": "untergraben das Vertrauen.",
+      "b": "sind kaum zu vermeiden.",
+      "c": "sind nur ausnahmsweise sinnvoll."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Für Teams im Homeoffice empfiehlt er, …",
+     "options": {
+      "a": "sich öfter im Büro zu treffen.",
+      "b": "auch über Privates zu reden.",
+      "c": "Aufgaben genauer zu dokumentieren."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "stem": "Zum Schluss rät er, …",
+     "options": {
+      "a": "mit Misserfolgen zu beginnen.",
+      "b": "Schweigen sofort zu beenden.",
+      "c": "die Agenda vorab zu senden."
+     },
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 50,
+    "words": 150,
+    "situation": [
+     "Sie schreiben einen Forumsbeitrag zum Thema „Einkaufen im Internet“."
+    ],
+    "points": [
+     "Äußern Sie Ihre Meinung zu Online-Bewertungen von Produkten und Dienstleistungen.",
+     "Nennen Sie Gründe, warum sich viele Menschen bei ihren Entscheidungen auf solche Bewertungen verlassen.",
+     "Nennen Sie andere Möglichkeiten, sich vor einem Kauf zu informieren.",
+     "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+    ],
+    "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+    "model": {
+     "label": "Forumsbeitrag, ca. 200 Wörter",
+     "text": "Liebe Forumsmitglieder,\n\nvor einem Kauf schaue ich mir fast immer an, wie andere Kundinnen und Kunden ein Produkt bewerten. Trotzdem sehe ich solche Bewertungen inzwischen kritischer als früher.\n\nMeiner Meinung nach können Online-Bewertungen durchaus hilfreich sein, allerdings nur, wenn man sie richtig liest. Fünf Sterne allein sagen wenig aus; aufschlussreicher sind ausführliche Kommentare, in denen jemand konkrete Erfahrungen schildert. Hinzu kommt, dass längst nicht alle Bewertungen echt sind.\n\nDass sich dennoch so viele Menschen darauf verlassen, hat mehrere Gründe. Zum einen ist das Angebot im Internet so groß, dass man schnell den Überblick verliert. Zum anderen vertrauen wir den Erfahrungen vieler Menschen eher als der Werbung eines Herstellers.\n\nEs gibt aber auch andere Wege, sich zu informieren: etwa unabhängige Testberichte von Verbraucherorganisationen, die Beratung im Fachgeschäft oder ein Gespräch mit Bekannten, die das Produkt schon besitzen.\n\nDer größte Vorteil dieser Quellen besteht darin, dass man weiß, wer hinter einer Einschätzung steht. Im Geschäft kann man das Produkt außerdem ausprobieren und gezielt nachfragen.\n\nMein Fazit: Bewertungen sind ein guter Anfang, ersetzen aber keine sorgfältige Recherche. Wie handhabt ihr das?"
+    },
+    "typicalErrors": "Die Punkte 3 und 4 werden vermischt: andere Möglichkeiten nennen, aber keine Vorteile begründen · deutlich weniger als 150 Wörter."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 100,
+    "situation": [
+     "Ihr Team bereitet eine Veranstaltung für Kundinnen und Kunden vor. In der letzten Besprechung wurde beschlossen, dass Sie die Einladungen verschicken. Sie waren an diesem Tag krank und haben erst heute davon erfahren – verschickt werden sollten die Einladungen eigentlich schon gestern. Schreiben Sie eine Nachricht an Ihre Teamleiterin, Frau Kruse."
+    ],
+    "points": [
+     "Entschuldigen Sie sich für die Verzögerung.",
+     "Erklären Sie, wie es zu dem Missverständnis gekommen ist.",
+     "Machen Sie einen Vorschlag, wie es jetzt weitergehen kann.",
+     "Bitten Sie darum, Aufgaben künftig auch schriftlich mitgeteilt zu bekommen."
+    ],
+    "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    "model": {
+     "label": "Nachricht an die Teamleiterin, ca. 110 Wörter",
+     "text": "Betreff: Einladungen zur Kundenveranstaltung\n\nSehr geehrte Frau Kruse,\n\nes tut mir sehr leid, dass die Einladungen zu unserer Kundenveranstaltung noch nicht verschickt worden sind.\n\nDa ich am Tag der letzten Besprechung krank war, habe ich erst heute aus dem Protokoll erfahren, dass mir diese Aufgabe übertragen wurde.\n\nIch schlage vor, dass ich die Einladungen noch heute per E-Mail versende und die gedruckten Exemplare morgen früh zur Post bringe. So verlieren wir höchstens einen Tag.\n\nAußerdem hätte ich eine Bitte: Könnten Aufgaben, die in meiner Abwesenheit verteilt werden, künftig kurz per E-Mail an mich weitergeleitet werden? So ließe sich ein solches Missverständnis leicht vermeiden.\n\nMit freundlichen Grüßen\nJulia Novak"
+    },
+    "typicalErrors": "Schuld allein bei den Kollegen suchen · Vorschlag ohne konkreten Zeitpunkt · Hallo Frau Kruse oder LG."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Interview: Hitze in deutschen Städten",
+   "t3": "Radiogespräch: Das Leben in kleinen Städten",
+   "t4": "Vortrag: Vertrauen im Team"
+  },
+  "schreiben": [
+   "Forumsbeitrag: Einkaufen im Internet",
+   "Nachricht an die Teamleiterin"
+  ],
+  "sprechen": {
+   "vortrag": [
+    "Weiterbildung neben dem Beruf",
+    "Kinderbetreuung",
+    "Sich ehrenamtlich engagieren",
+    "Mit Stress umgehen"
+   ],
+   "diskussion": "Sollte es für alle jungen Erwachsenen ein verpflichtendes Gesellschaftsjahr geben?"
+  }
+ },
+ "notes": "Aus dem PDF Goethe B2 Modelltest 1 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}

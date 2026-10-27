@@ -1,0 +1,785 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einem Forum, wie Menschen über Kleidung aus zweiter Hand denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+   "forum": {
+    "title": "Kleidung aus zweiter Hand",
+    "posts": [
+     {
+      "letter": "a",
+      "name": "Jana",
+      "time": "02.10. · 18:12 Uhr",
+      "paragraphs": [
+       "Angefangen habe ich im Studium, schlicht aus Geldmangel: Eine Jeans für acht Euro statt für achtzig, das war ein Argument. Inzwischen geht es mir um etwas anderes. Ich mag Sachen, die nicht jeder trägt, und auf dem Flohmarkt finde ich Stücke, die es in keinem Laden mehr gibt. Was ich selbst nicht mehr anziehe, verkaufe ich über eine App; ein paar Hundert Euro im Jahr kommen so schon zusammen. Ärgerlich finde ich, was aus manchen Vintage-Läden geworden ist. Seit „Second Hand“ als schick gilt, verlangen sie für eine alte Lederjacke so viel wie für eine neue. Mit Umweltschutz hat das für mich übrigens wenig zu tun, auch wenn man mir das oft unterstellt. Ich finde es einfach spannender, zu suchen, als im Kaufhaus zwischen fünfzig gleichen Pullovern zu wählen. Manchmal komme ich nach zwei Stunden mit leeren Händen nach Hause, aber gerade das macht den Reiz aus: Finde ich dann doch etwas Besonderes, freue ich mich umso mehr."
+      ]
+     },
+     {
+      "letter": "b",
+      "name": "Holger",
+      "time": "02.10. · 21:40 Uhr",
+      "paragraphs": [
+       "Für unsere Kinder kaufe ich fast alles gebraucht. Die wachsen so schnell, dass manche Hosen nach drei Monaten schon wieder zu kurz sind – da wäre es Unsinn, jedes Mal neu zu kaufen. Bei mir selbst ist das anders: Anzüge und Hemden fürs Büro kaufe ich neu, weil mir gebrauchte Sachen nie richtig passen. Online bin ich vorsichtig geworden. Vor zwei Jahren habe ich auf einer Plattform eine teure Markenjacke bestellt, die sich als billige Fälschung herausstellte; mein Geld habe ich nie wiederbekommen. Seitdem gehe ich lieber auf den Kinderflohmarkt in unserer Schule. Dort kann ich die Sachen anfassen, die Nähte prüfen und direkt mit den Eltern reden. Und nebenbei unterstützt man den Förderverein, der einen Teil der Standgebühren bekommt. Meine Frau findet übrigens, ich sollte auch für mich öfter gebraucht kaufen. Vielleicht probiere ich es irgendwann mit einer Winterjacke, bei Anzügen bleibe ich aber skeptisch."
+      ]
+     },
+     {
+      "letter": "c",
+      "name": "Sabine",
+      "time": "03.10. · 09:05 Uhr",
+      "paragraphs": [
+       "Ich freue mich über jeden, der gebraucht kauft, aber ich warne vor falschen Hoffnungen. Wer drei gebrauchte Pullover kauft statt eines neuen, hat für die Umwelt wenig gewonnen. Ich habe den Eindruck, dass viele sich mit dem guten Gewissen einfach mehr gönnen und der Konsum insgesamt nicht sinkt. Deshalb organisiere ich in unserem Stadtteil zweimal im Jahr eine Tauschparty: Alle bringen fünf Teile mit, die sie nicht mehr tragen, und nehmen dafür andere mit. Bezahlt wird nichts, und was übrig bleibt, geht an eine Kleiderkammer. Mindestens genauso wichtig finde ich es, Kleidung zu reparieren. Einen Knopf annähen oder eine Naht schließen kann fast jeder lernen. Bei unseren Treffen zeigt eine ältere Nachbarin, wie das geht, und die Jüngeren staunen jedes Mal. Viele hätten ihre Lieblingshose sonst einfach weggeworfen, nur weil ein Knopf fehlte. Das ist für mich der eigentliche Wandel, den wir brauchen."
+      ]
+     },
+     {
+      "letter": "d",
+      "name": "Murat",
+      "time": "03.10. · 20:18 Uhr",
+      "paragraphs": [
+       "Ich arbeite seit zehn Jahren in einem Modegeschäft und sehe, wie sich das Verhalten verändert. Viele Kundinnen kaufen ein Kleid, tragen es einmal für ein Foto und stellen es am nächsten Tag zum Verkauf ins Netz. Kleidung wird so behandelt wie etwas, das man sich kurz ausleiht. Die Plattformen fördern das sogar, weil jeder Weiterverkauf ihnen eine Gebühr bringt. Ich habe nichts gegen gebrauchte Kleidung, im Gegenteil. Aber das Problem ist nicht, ob etwas neu oder alt ist, sondern wie oft wir kaufen. Ich selbst habe mir angewöhnt, lieber wenige, dafür gute Sachen zu kaufen und sie jahrelang zu tragen. Mein Wintermantel ist zwölf Jahre alt und sieht immer noch ordentlich aus. Das ist mir wichtiger als jede neue Kollektion. Wer gut kauft, muss eben seltener kaufen – ob man im Laden oder auf dem Flohmarkt kauft, spielt für mich eine eher untergeordnete Rolle."
+      ]
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "text": "Wer hat beim Kauf im Internet schlechte Erfahrungen gemacht?",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Wer kauft heute aus anderen Gründen gebraucht als früher?",
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "text": "Wer sorgt dafür, dass Kleidung kostenlos den Besitzer wechselt?",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "text": "Wer beobachtet, dass Kleidung oft nur kurz getragen wird?",
+     "answer": "d"
+    },
+    {
+     "no": "4",
+     "text": "Wer behandelt Familienmitglieder beim Kauf unterschiedlich?",
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "text": "Wer befürchtet, dass insgesamt nicht weniger gekauft wird?",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "text": "Wer meint, der Trend habe gebrauchte Mode verteuert?",
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "text": "Wer setzt lieber auf wenige, langlebige Stücke?",
+     "answer": "d"
+    },
+    {
+     "no": "8",
+     "text": "Wer verdient mit alter Kleidung etwas dazu?",
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "text": "Wer will Kleidung vor dem Kauf in die Hand nehmen?",
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie lesen in einer Zeitschrift einen Artikel über die neue Beliebtheit von Brettspielen. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+   "title": "Zurück an den Tisch",
+   "lead": "Brettspiele galten lange als altmodisch. Heute erleben sie einen Boom – nicht nur in Familien.",
+   "paragraphs": [
+    "Freitagabend in einem Café in Leipzig: An jedem Tisch sitzen vier, fünf Leute über bunten Spielbrettern, in den Regalen stehen mehr als tausend Spiele. [0] Wer keinen Tisch reserviert hat, muss meist wieder gehen. Für zwölf Euro pro Person darf man so lange bleiben, wie man möchte, und eine Mitarbeiterin erklärt auf Wunsch die Regeln.",
+    "Solche Spielecafés gibt es inzwischen in vielen deutschen Städten. [10] Seit Jahren meldet die Branche steigende Umsätze, und die größte Publikumsmesse für Brettspiele weltweit, die jeden Herbst in Essen stattfindet, zählt fast 200.000 Besucherinnen und Besucher.",
+    "Dabei hatten Brettspiele lange ein verstaubtes Image. Man verband sie mit verregneten Nachmittagen bei den Großeltern oder mit endlosem Streit über die Regeln. [11] Moderne Spiele sind dagegen oft kooperativ: Alle am Tisch gewinnen oder verlieren gemeinsam. Statt sich gegenseitig Häuser und Hotels abzunehmen, retten die Spieler zusammen eine Stadt vor einer Epidemie oder bauen gemeinsam ein Raumschiff.",
+    "Warum aber greifen ausgerechnet junge Erwachsene, die mit Smartphone und Spielkonsole aufgewachsen sind, zu Würfeln und Karten? Fachleute sprechen von einer Gegenbewegung. [12] Wer spielt, legt das Handy beiseite und schaut seinem Gegenüber in die Augen. Auch die Corona-Jahre haben den Trend verstärkt: Als Kinos und Kneipen geschlossen waren, entdeckten viele Familien alte Spiele wieder – und kauften neue dazu.",
+    "Zudem haben sich die Spiele selbst verändert. Früher dauerte eine Partie oft einen ganzen Abend, heute sind viele Spiele nach einer halben Stunde vorbei. [13] So passt eine Runde sogar in die Mittagspause.",
+    "Der Boom hat allerdings auch Schattenseiten. Jedes Jahr kommen allein in Deutschland weit über tausend neue Titel auf den Markt. [14] Kleine Verlage klagen, dass ihre Spiele in der Masse untergehen, bevor sie überhaupt jemand kennt. Hinzu kommt, dass Papier, Holz und Transport teurer geworden sind. Viele von ihnen können ihre Spiele deshalb nur noch in kleinen Auflagen drucken lassen.",
+    "Umso wichtiger sind Auszeichnungen wie der Preis „Spiel des Jahres“, der seit 1979 vergeben wird. [15] Ein Spiel, das ihn gewinnt, verkauft sich danach oft um ein Vielfaches besser."
+   ],
+   "source": "aus einer deutschen Zeitschrift",
+   "example": {
+    "no": "0",
+    "text": "Das Lokal ist an solchen Abenden regelmäßig voll."
+   },
+   "sentences": {
+    "a": "Erwachsene holten sie deshalb höchstens an Weihnachten hervor.",
+    "b": "Die meisten Spielecafés mussten deshalb inzwischen wieder schließen.",
+    "c": "Für viele Käuferinnen und Käufer ist er eine wichtige Orientierung.",
+    "d": "Vor zwanzig Jahren hätte man über diese Geschäftsidee wohl gelacht.",
+    "e": "Die Regeln lassen sich meist in wenigen Minuten erklären.",
+    "f": "Online-Versionen der Spiele sind deshalb heute beliebter als die gedruckten.",
+    "g": "Nach Stunden vor Bildschirmen sehnen sich viele nach Erlebnissen zum Anfassen.",
+    "h": "Der Handel verliert damit zunehmend den Überblick."
+   },
+   "unused": [
+    "b",
+    "f"
+   ],
+   "items": [
+    {
+     "no": "10",
+     "answer": "d"
+    },
+    {
+     "no": "11",
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "answer": "g"
+    },
+    {
+     "no": "13",
+     "answer": "e"
+    },
+    {
+     "no": "14",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen in einer Zeitung einen Artikel über Einsamkeit. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Allein unter vielen“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "title": "Allein unter vielen",
+   "lead": "Einsamkeit galt lange als Problem alter Menschen. Neue Studien zeichnen ein anderes Bild.",
+   "paragraphs": [
+    "Man kann in einer Großstadt mit drei Millionen Menschen leben, jeden Tag Dutzenden Leuten begegnen – und sich trotzdem einsam fühlen. Wie viele Menschen in Deutschland davon betroffen sind, lässt sich nur schätzen. Je nach Umfrage geben zwischen einem Zehntel und einem Viertel der Erwachsenen an, sich häufig einsam zu fühlen.",
+    "Fachleute unterscheiden dabei sorgfältig zwischen Alleinsein und Einsamkeit. „Wer allein lebt, ist nicht automatisch einsam“, erklärt die Sozialpsychologin Maren Albrecht. „Einsamkeit entsteht, wenn die Beziehungen, die man hat, nicht zu denen passen, die man sich wünscht.“ Entscheidend sei also nicht die Zahl der Kontakte, sondern ihre Qualität. Wer hundert Bekannte hat, aber niemanden, den er nachts um drei anrufen könnte, kann sich einsamer fühlen als jemand mit zwei engen Freunden.",
+    "Überraschend ist, wen es trifft. Lange galt Einsamkeit vor allem als Problem hochbetagter Menschen. Neuere Befragungen zeigen jedoch, dass junge Erwachsene zwischen 18 und 29 Jahren besonders häufig betroffen sind, häufiger sogar als Menschen im Rentenalter. Als Gründe nennen die Forschenden Umzüge für Ausbildung und Beruf, befristete Verträge und ein Leben, in dem Freundschaften immer wieder neu aufgebaut werden müssen.",
+    "Dass Einsamkeit nicht nur unglücklich, sondern auch krank machen kann, gilt inzwischen als gut belegt. Wer dauerhaft einsam ist, hat ein höheres Risiko für Herz-Kreislauf-Erkrankungen, Depressionen und Demenz. Eine viel zitierte Auswertung zahlreicher Studien kam zu dem Ergebnis, dass chronische Einsamkeit der Gesundheit ähnlich schadet wie das Rauchen. Der Körper reagiert auf soziale Isolation mit Stress, als befände er sich ständig in Alarmbereitschaft.",
+    "Einige Länder haben darauf politisch reagiert. Großbritannien ernannte 2018 als erstes Land eine Ministerin, die sich um das Thema kümmern sollte; in Deutschland beschloss die Bundesregierung einige Jahre später eine eigene Strategie gegen Einsamkeit. Kritiker bezweifeln allerdings, dass sich ein so persönliches Gefühl mit Programmen und Broschüren bekämpfen lässt. Zudem, so ihr Einwand, schäme sich ein großer Teil der Betroffenen und nehme deshalb keine Hilfe in Anspruch.",
+    "Albrecht sieht das differenzierter. Broschüren allein helfen tatsächlich wenig, räumt sie ein. Wirksamer seien Orte, an denen sich Menschen ohne großen Aufwand immer wieder begegnen: Bibliotheken mit Sitzecken, Gemeinschaftsgärten, Sportvereine. „Freundschaften entstehen selten beim ersten Treffen, sondern durch Wiederholung. Man sieht sich, grüßt sich und kommt irgendwann ins Gespräch.“",
+    "Und was kann jeder Einzelne tun? Albrecht rät, nicht sofort nach neuen Freundschaften zu suchen, sondern alte Kontakte wiederzubeleben. Eine kurze Nachricht an eine frühere Kollegin koste zwei Minuten und werde fast immer freundlicher aufgenommen, als man befürchte. Viele, so Albrecht, warteten nur darauf, dass sich jemand meldet."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "example": {
+    "no": "0",
+    "stem": "Wie viele Menschen einsam sind, …",
+    "options": {
+     "a": "lässt sich nicht genau bestimmen.",
+     "b": "ist auf dem Land deutlich höher.",
+     "c": "hängt von der Größe der Stadt ab."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "stem": "Laut Maren Albrecht fühlt sich ein Mensch einsam, wenn …",
+     "options": {
+      "a": "er lange allein wohnt.",
+      "b": "er weniger Kontakte hat als andere.",
+      "c": "seine Beziehungen ihn nicht erfüllen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "17",
+     "stem": "Junge Erwachsene sind laut neueren Befragungen …",
+     "options": {
+      "a": "wegen häufiger Umzüge gefährdet.",
+      "b": "seltener einsam als Ältere.",
+      "c": "vor allem durch soziale Medien einsam."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "stem": "Dauerhafte Einsamkeit …",
+     "options": {
+      "a": "führt meist zu Depressionen.",
+      "b": "stresst den Körper dauerhaft.",
+      "c": "schadet mehr als Rauchen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "19",
+     "stem": "Die politischen Maßnahmen gegen Einsamkeit …",
+     "options": {
+      "a": "haben in Großbritannien gewirkt.",
+      "b": "kamen in Deutschland zuerst.",
+      "c": "halten manche für wirkungslos."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "20",
+     "stem": "Albrecht hält es für besonders hilfreich, …",
+     "options": {
+      "a": "mehr Broschüren zu verteilen.",
+      "b": "regelmäßige Begegnungen zu fördern.",
+      "c": "Einsame zu einem ersten Treffen einzuladen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "21",
+     "stem": "Albrecht rät Einzelnen, …",
+     "options": {
+      "a": "alte Kontakte aufzufrischen.",
+      "b": "zuerst neue Freunde zu suchen.",
+      "c": "abzuwarten, bis andere sich melden."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob auf deutschen Autobahnen ein Tempolimit eingeführt werden sollte. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+   "title": "Tempolimit auf der Autobahn?",
+   "example": {
+    "no": "0",
+    "text": "Sicherheit geht vor Fahrspaß.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "22",
+     "text": "In anderen Ländern ist ein Limit längst selbstverständlich.",
+     "answer": "h"
+    },
+    {
+     "no": "23",
+     "text": "Wirksamer Klimaschutz muss nicht teuer sein.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Ohne Kontrollen bleibt jedes Verbot wirkungslos.",
+     "answer": "f"
+    },
+    {
+     "no": "25",
+     "text": "Die eigentlichen Probleme der Autobahnen liegen woanders.",
+     "answer": "e"
+    },
+    {
+     "no": "26",
+     "text": "Wer langsamer fährt, kommt gelassener am Ziel an.",
+     "answer": "d"
+    },
+    {
+     "no": "27",
+     "text": "Ein Limit könnte dem Ansehen deutscher Autos schaden.",
+     "answer": "g"
+    }
+   ],
+   "texts": [
+    {
+     "letter": "a",
+     "text": "Als Notfallsanitäter komme ich zu Unfällen, die bei Tempo 200 passiert sind. Da gibt es oft nichts mehr zu retten. Jeder Kilometer pro Stunde weniger verkürzt den Bremsweg und mildert die Folgen eines Aufpralls. Wer das einmal gesehen hat, diskutiert nicht mehr über Fahrspaß.",
+     "byline": "Uwe, Kassel"
+    },
+    {
+     "letter": "b",
+     "text": "Ein Tempolimit wäre die billigste Klimamaßnahme überhaupt: ein paar Schilder, fertig. Dennoch würde es jedes Jahr Millionen Tonnen CO₂ einsparen, und zwar sofort und nicht erst in zwanzig Jahren. Kein Förderprogramm und kein neues Kraftwerk erreicht so viel für so wenig Geld.",
+     "byline": "Lea, Freiburg"
+    },
+    {
+     "letter": "c",
+     "text": "Ich fahre ohnehin selten schneller als 140. Aber ich möchte nachts auf einer leeren Autobahn schneller fahren dürfen, wenn mir danach ist. Der Staat muss nicht alles regeln, was vernünftige Menschen von selbst richtig machen. Es geht mir um Freiheit, nicht um Tempo.",
+     "byline": "Klaus, Stuttgart"
+    },
+    {
+     "letter": "d",
+     "text": "Letzten Sommer bin ich durch Dänemark und Schweden gefahren, überall mit Tempolimit. Niemand hat gedrängelt oder mit der Lichthupe geblinkt. Nach zehn Stunden kam ich entspannter an als hier nach drei. Erst da merkte ich, wie sehr mich das ständige Bremsen und Beschleunigen stresst.",
+     "byline": "Mira, Bremen"
+    },
+    {
+     "letter": "e",
+     "text": "Ich pendle jeden Tag über die A40 und stehe im Stau – bei Tempo null. Schuld sind Baustellen, marode Brücken und zu viele Lastwagen, nicht ein paar Raser. Statt über neue Schilder zu streiten, sollte man endlich die Straßen und Brücken in Ordnung bringen.",
+     "byline": "Stefan, Dortmund"
+    },
+    {
+     "letter": "f",
+     "text": "Schon heute halten sich viele nicht an das Tempolimit in Baustellen, weil kaum kontrolliert wird. Bei der Polizei sind Hunderte Stellen unbesetzt. Ein neues Gesetz ohne mehr Personal und ohne mehr Blitzer wäre reine Symbolpolitik, die am Ende nichts ändert.",
+     "byline": "Nadine, Hannover"
+    },
+    {
+     "letter": "g",
+     "text": "Ich arbeite seit zwanzig Jahren in der Autoindustrie. Kunden in Asien und Amerika kaufen deutsche Wagen auch deshalb, weil sie für hohe Geschwindigkeiten entwickelt und getestet werden. Ein Limit wäre für viele im Ausland ein Zeichen, dass genau diese Stärke plötzlich nicht mehr zählt.",
+     "byline": "Frank, Wolfsburg"
+    },
+    {
+     "letter": "h",
+     "text": "Ich bin in den Niederlanden aufgewachsen, dort gilt tagsüber Tempo 100. Darüber regt sich niemand auf, es ist einfach normal. Fast alle Länder der Welt haben eine Höchstgeschwindigkeit auf Autobahnen. Dass Deutschland seit Jahrzehnten darüber streitet, verstehen meine Freunde dort bis heute überhaupt nicht.",
+     "byline": "Pieter, Aachen"
+    }
+   ],
+   "unused": [
+    "c"
+   ]
+  },
+  "t5": {
+   "instruction": "Sie möchten in einem Fitnessstudio Mitglied werden und lesen die Mitgliedsbedingungen. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+   "title": "Mitgliedsbedingungen",
+   "subtitle": "Fitnessstudio „Kraftwerk“ · Stand: Januar",
+   "headings": {
+    "a": "Mitgliedsbeiträge",
+    "b": "Kündigung",
+    "c": "Vertragsbeginn und Laufzeit",
+    "d": "Nutzung der Trainingsgeräte",
+    "e": "Haftung",
+    "f": "Ruhen der Mitgliedschaft",
+    "g": "Öffnungszeiten",
+    "h": "Mitbringen von Gästen"
+   },
+   "unused": [
+    "a",
+    "b",
+    "d",
+    "g"
+   ],
+   "example": {
+    "no": "0",
+    "label": "§ 0",
+    "paragraphs": [
+     "Die Mitgliedschaft beginnt an dem im Vertrag genannten Tag und hat eine Mindestlaufzeit von zwölf Monaten. Wird sie nicht rechtzeitig beendet, verlängert sie sich danach auf unbestimmte Zeit."
+    ],
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "28",
+     "label": "§ 28",
+     "paragraphs": [
+      "(1) Bei Krankheit, Schwangerschaft oder einem beruflich bedingten Auslandsaufenthalt kann die Mitgliedschaft auf Antrag für bis zu sechs Monate ausgesetzt werden. (2) Dem Antrag ist ein Nachweis, etwa ein ärztliches Attest, beizufügen. (3) Für die Dauer der Unterbrechung werden keine Beiträge erhoben; die Mindestlaufzeit verlängert sich entsprechend."
+     ],
+     "answer": "f"
+    },
+    {
+     "no": "29",
+     "label": "§ 29",
+     "paragraphs": [
+      "Jedes Mitglied darf pro Monat bis zu zwei Begleitpersonen mitbringen. Diese müssen sich an der Theke anmelden und eine Tageskarte zum ermäßigten Preis von 8 Euro erwerben. Die Kurse im Gruppenraum stehen Gästen nicht offen."
+     ],
+     "answer": "h"
+    },
+    {
+     "no": "30",
+     "label": "§ 30",
+     "paragraphs": [
+      "Für Wertsachen, die in den Umkleiden nicht in den abschließbaren Schränken aufbewahrt werden, übernimmt das Studio keine Haftung. Dasselbe gilt für Kleidung und Taschen, die in den Trainingsräumen abgelegt werden. Schäden an Geräten, die durch unsachgemäße Benutzung entstehen, hat das Mitglied zu ersetzen."
+     ],
+     "answer": "e"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Der Mann möchte einen Termin vereinbaren.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Zur Blutabnahme soll er …",
+     "options": {
+      "a": "sich vorher telefonisch anmelden.",
+      "b": "ohne Frühstück kommen.",
+      "c": "am Nachmittag vorbeikommen."
+     },
+     "answer": "b"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Die Frau erklärt, warum sie so früh Sport treibt.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Das Laufen hat ihr vor allem geholfen, …",
+       "options": {
+        "a": "schneller zu werden.",
+        "b": "sich auf einen Wettkampf vorzubereiten.",
+        "c": "im Alltag gelassener zu werden."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Die Meldung betrifft eine Sperrung nach einem Unfall.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Wer mit dem Ersatzbus fährt, …",
+       "options": {
+        "a": "sollte mehr Zeit einplanen.",
+        "b": "braucht dafür ein zusätzliches Ticket.",
+        "c": "kann sein Fahrrad ohne Aufpreis mitnehmen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die Nachbarn sprechen über eine beschädigte Sendung.",
+       "answer": "R"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Während des Urlaubs der Frau …",
+       "options": {
+        "a": "gießt Herr Brandt ihre Blumen.",
+        "b": "nimmt ihre Schwester die Pakete an.",
+        "c": "kümmert sich Herr Brandt um ihre Post."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Frau hält Städte für ungeeignet, um Bienen zu halten.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Honig aus der Stadt …",
+       "options": {
+        "a": "enthält häufig Schadstoffe aus der Luft.",
+        "b": "ist oft reiner als Honig vom Land.",
+        "c": "wird in Geschäften immer seltener angeboten."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Die beiden einigen sich am Ende auf ein Geschenk.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Die Frau …",
+       "options": {
+        "a": "hält Geld anfangs für unpersönlich.",
+        "b": "hat den Kletterkurs schon gebucht.",
+        "c": "wollte von Anfang an Kletterschuhe schenken."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Kultur. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+   "context": "In der Sendung „Menschen hinter den Büchern“ spricht der Moderator mit der Literaturübersetzerin Ulrike Sander.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Dass Leser nicht auf ihren Namen achten, …",
+     "options": {
+      "a": "empfindet Frau Sander heute als Bestätigung.",
+      "b": "ärgert Frau Sander bis heute sehr.",
+      "c": "sieht Frau Sander als Zeichen schlechter Kritiken."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Bevor Frau Sander mit dem Übersetzen beginnt, …",
+     "options": {
+      "a": "übersetzt sie zur Probe einzelne Kapitel.",
+      "b": "bespricht sie schwierige Stellen mit dem Autor.",
+      "c": "versucht sie, den Ton des ganzen Buches zu erfassen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Bei Wortspielen …",
+     "options": {
+      "a": "lässt sie diese im Deutschen einfach weg.",
+      "b": "erfindet sie notfalls an anderer Stelle einen Witz.",
+      "c": "erklärt sie den Witz für die Leser in einer Fußnote."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Im Zusammenhang mit Übersetzungsprogrammen befürchtet Frau Sander, dass …",
+     "options": {
+      "a": "Romane bald nur noch maschinell übersetzt werden.",
+      "b": "Übersetzer künftig schlechter bezahlt werden.",
+      "c": "die Programme bei Geschäftsbriefen zu viele Fehler machen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "In ihren Notizbüchern sammelt Frau Sander …",
+     "options": {
+      "a": "Ausdrücke, die ihr im Alltag begegnen.",
+      "b": "italienische Wörter, die sie noch nicht kennt.",
+      "c": "Sätze, die ihr beim Übersetzen nicht gelungen sind."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "16",
+     "stem": "Jungen Übersetzern empfiehlt Frau Sander vor allem, …",
+     "options": {
+      "a": "möglichst lange im Ausland zu leben.",
+      "b": "zunächst nur Sachtexte zu übersetzen.",
+      "c": "an ihrem eigenen Deutsch zu arbeiten."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen darüber, ob man sein Hobby zum Beruf machen sollte. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Frau Kramer, Konditorin",
+    "c": "Herr Neumann, Softwareentwickler"
+   },
+   "example": {
+    "no": "0",
+    "text": "Viele Menschen wünschen sich, mit ihrem Hobby Geld zu verdienen.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "17",
+     "text": "Er/Sie hat sich auf den beruflichen Wechsel gründlich vorbereitet.",
+     "answer": "b"
+    },
+    {
+     "no": "18",
+     "text": "Wer mit einem Hobby Geld verdient, muss sich nach dem Geschmack anderer richten.",
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "text": "Er/Sie hat eine Freizeitbeschäftigung aufgegeben, nachdem sie zum Nebenjob geworden war.",
+     "answer": "a"
+    },
+    {
+     "no": "20",
+     "text": "Im neuen Beruf bleibt für die eigentliche Lieblingstätigkeit wenig Zeit.",
+     "answer": "b"
+    },
+    {
+     "no": "21",
+     "text": "Ein sicheres Einkommen verschafft ihm/ihr künstlerische Freiheit.",
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "text": "Nicht jede Leidenschaft übersteht es, zur Pflicht zu werden.",
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören einen kurzen Vortrag. Die Rednerin spricht über das Thema „Wie Gewohnheiten entstehen“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "23",
+     "stem": "Dass wir vieles aus Gewohnheit tun, …",
+     "options": {
+      "a": "beunruhigt die Rednerin.",
+      "b": "entlastet das Gehirn.",
+      "c": "gilt vor allem im Beruf."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "stem": "Ausgelöst wird eine Gewohnheit durch …",
+     "options": {
+      "a": "Hunger oder Durst.",
+      "b": "eine bewusste Entscheidung.",
+      "c": "bestimmte Umstände."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "stem": "Die Zahl von 21 Tagen …",
+     "options": {
+      "a": "stammt aus London.",
+      "b": "gilt für einfache Gewohnheiten.",
+      "c": "ist wissenschaftlich nicht belegt."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "stem": "Wer einen Tag ausfallen lässt, …",
+     "options": {
+      "a": "gefährdet den Erfolg kaum.",
+      "b": "muss neu beginnen.",
+      "c": "sollte am nächsten Tag doppelt üben."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "stem": "Menschen, die ihre Vorsätze umsetzen, …",
+     "options": {
+      "a": "haben mehr Willenskraft.",
+      "b": "gestalten ihr Umfeld passend.",
+      "c": "nehmen sich mehrere Ziele gleichzeitig vor."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Eine neue Gewohnheit sollte man …",
+     "options": {
+      "a": "mit einer alten verbinden.",
+      "b": "nur am Wochenende üben.",
+      "c": "gleich in großem Umfang beginnen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Schlechte Gewohnheiten …",
+     "options": {
+      "a": "verschwinden mit der Zeit.",
+      "b": "lassen sich ganz löschen.",
+      "c": "muss man ersetzen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "stem": "Am Ende empfiehlt die Rednerin, …",
+     "options": {
+      "a": "nur ein Ziel zu verfolgen.",
+      "b": "Rückfälle zu bestrafen.",
+      "c": "Fortschritte täglich zu notieren."
+     },
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 50,
+    "words": 150,
+    "situation": [
+     "Sie schreiben einen Forumsbeitrag zum Thema „Freizeit im Verein“."
+    ],
+    "points": [
+     "Äußern Sie Ihre Meinung dazu, die Freizeit in einem Verein zu verbringen.",
+     "Nennen Sie Gründe, warum heute weniger Menschen Mitglied in einem Verein werden.",
+     "Nennen Sie andere Möglichkeiten, die Freizeit gemeinsam mit anderen zu gestalten.",
+     "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+    ],
+    "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+    "model": {
+     "label": "Forumsbeitrag, ca. 200 Wörter",
+     "text": "Liebe Forumsmitglieder,\n\nseit fünfzehn Jahren spiele ich in einem Volleyballverein, und ich kann mir meine Woche ohne das Training kaum vorstellen.\n\nMeiner Meinung nach lohnt es sich, einen Teil der Freizeit in einem Verein zu verbringen. Man trifft regelmäßig dieselben Menschen, übernimmt Verantwortung und lernt Leute kennen, denen man sonst nie begegnet wäre.\n\nTrotzdem werden heute weniger Menschen Mitglied. Das liegt zum einen daran, dass viele beruflich so eingespannt sind, dass sie sich ungern auf feste Termine festlegen. Zum anderen gibt es heute viel mehr Freizeitangebote als früher, vom Fitnessstudio bis zum Online-Kurs.\n\nWer sich nicht binden möchte, kann seine Freizeit auch anders gemeinsam gestalten: etwa in Laufgruppen, die sich über soziale Netzwerke verabreden, in Kursen der Volkshochschule oder bei offenen Nachbarschaftstreffen.\n\nDer Vorteil solcher Angebote liegt vor allem in ihrer Flexibilität. Man kann spontan teilnehmen, zahlt keine Jahresbeiträge und kann ausprobieren, was einem wirklich Spaß macht.\n\nMeiner Ansicht nach haben beide Formen ihre Berechtigung. Wer aber auf Dauer Freundschaften sucht, ist im Verein besser aufgehoben. Wie seht ihr das?"
+    },
+    "typicalErrors": "Nur über den eigenen Verein erzählen, ohne Gründe für den Mitgliederrückgang zu nennen · Punkt 4 fehlt."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 100,
+    "situation": [
+     "Sie arbeiten im Vertrieb eines Unternehmens. Ihr Vorgesetzter, Herr Lindner, hat Sie gebeten, nächste Woche den Messestand Ihrer Firma zu betreuen. In derselben Woche findet jedoch eine Weiterbildung statt, für die Sie sich schon vor Monaten angemeldet haben. Schreiben Sie eine Nachricht an Herrn Lindner."
+    ],
+    "points": [
+     "Beschreiben Sie Ihre Situation.",
+     "Bitten Sie um Verständnis für Ihre Lage.",
+     "Machen Sie einen Vorschlag, wie sich beides vereinbaren lässt.",
+     "Zeigen Sie Verständnis für die Situation Ihres Vorgesetzten."
+    ],
+    "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    "model": {
+     "label": "Nachricht an den Vorgesetzten, ca. 130 Wörter",
+     "text": "Betreff: Messe in der nächsten Woche\n\nSehr geehrter Herr Lindner,\n\nvielen Dank, dass Sie mir die Betreuung unseres Messestands zutrauen. Leider habe ich mich bereits im März für eine Weiterbildung zur Verhandlungsführung angemeldet, die genau in derselben Woche stattfindet. Die Teilnahme ist schon bezahlt und lässt sich nicht verschieben.\n\nIch hoffe sehr, dass Sie dafür Verständnis haben.\n\nMir ist bewusst, dass die Messe für unsere Abteilung sehr wichtig ist und dass im Moment viele Kolleginnen und Kollegen im Urlaub sind.\n\nDeshalb schlage ich vor, dass ich den Stand vorab mit aufbaue und Frau Petersen, die unsere Kunden ebenfalls gut kennt, ihn an den Messetagen betreut. Gern bereite ich alle Unterlagen für sie vor.\n\nMit freundlichen Grüßen\nDaniel Weiß"
+    },
+    "typicalErrors": "Die Messe einfach absagen, ohne Lösung · kein Verständnis für den Vorgesetzten · Hallo Herr Lindner."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Interview mit einer Literaturübersetzerin",
+   "t3": "Radiogespräch: Hobby zum Beruf machen?",
+   "t4": "Vortrag: Wie Gewohnheiten entstehen"
+  },
+  "schreiben": [
+   "Forumsbeitrag: Freizeit im Verein",
+   "Nachricht an den Vorgesetzten"
+  ],
+  "sprechen": {
+   "vortrag": [
+    "Urlaub machen",
+    "Wohnen im Alter",
+    "Eine Fremdsprache lernen",
+    "Einkaufen"
+   ],
+   "diskussion": "Sollten Autofahrer für die Fahrt in die Innenstadt bezahlen müssen?"
+  }
+ },
+ "notes": "Aus dem PDF Goethe B2 Modelltest 2 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}
