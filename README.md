@@ -17,8 +17,8 @@ Goethe-Zertifikat A2, B1, B2 모의고사(Modelltest)입니다. 페이퍼 시험
 
 Settings → Pages → Build and deployment에서 Source를 `Deploy from a branch`, Branch를 `main` / `/ (root)`로 지정합니다.
 
-- 시작 페이지: https://sophiadeutschakademie.github.io/SODA-ZERTIFIKAT/
-- 각 앱: 위 주소 뒤에 폴더 이름을 붙입니다. 예) https://sophiadeutschakademie.github.io/SODA-ZERTIFIKAT/goethe-b1/
+- 시작 페이지: https://sophiadeutschakademie.github.io/SODA-Goethe/
+- 각 앱: 위 주소 뒤에 폴더 이름을 붙입니다. 예) https://sophiadeutschakademie.github.io/SODA-Goethe/goethe-b1/
 - Lehrwerk 목차: https://sophiadeutschakademie.github.io/SODA-Lehrwerk/#inhalt
 
 `.nojekyll` 파일은 숨김 파일이라 폴더에서 안 보일 수 있어요. 지우지 마세요.
