@@ -1,0 +1,785 @@
+{
+  "id": 5,
+  "roman": "V",
+  "lesen": {
+    "t1": {
+      "instruction": "Sie lesen in einem Forum, wie Menschen über das Verhältnis zu ihren Nachbarn denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+      "forum": {
+        "title": "Wie nah dürfen Nachbarn sein?",
+        "posts": [
+          {
+            "letter": "a",
+            "name": "Britta",
+            "time": "12.10. · 20:15 Uhr",
+            "paragraphs": [
+              "Ich wohne seit acht Jahren in einem Haus mit zweiundzwanzig Parteien, und ich kenne vielleicht fünf davon beim Namen. Das klingt kühl, ist mir aber so am liebsten. Im Treppenhaus grüße ich freundlich, halte auch mal die Tür auf, mehr muss es nicht sein. Eine Nachbarin versuchte vor Jahren, aus unserem Haus eine große Familie zu machen: Sie klingelte ständig, wollte wissen, wohin ich fahre und wer mich besucht. Irgendwann machte ich die Tür einfach nicht mehr auf. Trotzdem bin ich kein unsozialer Mensch. Über eine Nachbarschafts-App verleihe ich meine Bohrmaschine, und neulich habe ich einem jungen Paar beim Sofatragen geholfen. Das Schöne daran: Man hilft, wenn man Zeit und Lust hat, und danach ist man niemandem etwas schuldig. Meinen Zweitschlüssel hat übrigens eine Freundin am anderen Ende der Stadt – nicht, weil ich meinen Nachbarn misstraue, sondern weil ich nicht möchte, dass jemand im Haus jeden meiner Schritte kennt."
+            ]
+          },
+          {
+            "letter": "b",
+            "name": "Kemal",
+            "time": "13.10. · 07:48 Uhr",
+            "paragraphs": [
+              "Als wir vor sechs Jahren in unsere Reihenhaussiedlung zogen, sprach uns wochenlang niemand an. Das änderte sich erst, als mein Sohn seinen Fußball in den Garten nebenan schoss und ich den Ball mit rotem Kopf zurückholen musste. Seither grillen wir regelmäßig zusammen, teilen uns einen Rasenmäher und passen in den Ferien gegenseitig auf die Häuser auf. Jeden Sommer organisiere ich ein Straßenfest, zu dem jeder etwas zu essen mitbringt. Natürlich läuft nicht alles harmonisch. Gestritten wird bei uns am häufigsten um Parkplätze, weil manche Familien drei Autos haben und die Straße eng ist. Richtig unangenehm wurde es aber erst, als jemand eine Chatgruppe für die Siedlung einrichtete. Seitdem regt sich über jede Kleinigkeit sofort jemand auf, und aus einer falsch abgestellten Mülltonne werden vierzig Nachrichten. Ein kurzes Gespräch am Zaun löst die meisten Probleme schneller als jede Nachricht auf dem Handy."
+            ]
+          },
+          {
+            "letter": "c",
+            "name": "Sophie",
+            "time": "13.10. · 14:02 Uhr",
+            "paragraphs": [
+              "Für mein Studium zog ich im Herbst in eine fremde Stadt, in eine WG im dritten Stock eines Altbaus. Schon in der zweiten Woche stand die Nachbarin von unten vor der Tür und beschwerte sich über unsere Musik. Ich hatte ein schlechtes Gewissen und ging am nächsten Tag mit einem selbst gebackenen Kuchen zu ihr. Seitdem trage ich ihr die Einkäufe nach oben, und sie gießt unsere Pflanzen, wenn wir verreist sind. Ich hätte nie gedacht, dass meine wichtigste Bezugsperson in der neuen Stadt einundachtzig Jahre alt sein würde. Aufgewachsen bin ich in einem Dorf, in dem jeder über jeden Bescheid wusste. Das habe ich als Kind eher als anstrengend empfunden. In der Stadt kann man sich aussuchen, wen man näher kennenlernt – allerdings nur, wenn jemand den ersten Schritt macht. In unserem Haus bin das meistens ich."
+            ]
+          },
+          {
+            "letter": "d",
+            "name": "Gerd",
+            "time": "14.10. · 09:30 Uhr",
+            "paragraphs": [
+              "Ich lebe seit meiner Geburt im selben Dorf, und bis heute kenne ich fast jeden hier beim Vornamen. Trotzdem hat sich einiges verändert. Die jungen Familien, die in den letzten Jahren zugezogen sind, pendeln in die Stadt und sind unter der Woche kaum zu Hause. Die Hilfsbereitschaft ist noch da, aber man muss heute darum bitten – früher kam sie von allein. Deshalb habe ich mit ein paar Freunden einen Verein gegründet, der Fahrten zum Arzt oder zum Einkaufen anbietet, vor allem für die Älteren, die nicht mehr selbst fahren können. Was mich ärgert, sind die hohen Zäune und Hecken, die manche Zugezogene um ihr Grundstück ziehen. Wer sich so abschirmt, darf sich nicht wundern, wenn ihn niemand einlädt. Andererseits braucht Nachbarschaft auch Geduld: Der Hahn meines Nachbarn kräht jeden Morgen um fünf. Am Anfang machte mich das wütend, inzwischen wache ich davon gar nicht mehr auf."
+            ]
+          }
+        ]
+      },
+      "example": {
+        "no": "0",
+        "text": "Wer ist durch ein Kind mit den Nachbarn ins Gespräch gekommen?",
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "1",
+          "text": "Wer vergleicht die Hilfsbereitschaft von früher und heute?",
+          "answer": "d"
+        },
+        {
+          "no": "2",
+          "text": "Wer hat auf eine Beschwerde mit einem Geschenk reagiert?",
+          "answer": "c"
+        },
+        {
+          "no": "3",
+          "text": "Wer hat sich von einer aufdringlichen Nachbarin zurückgezogen?",
+          "answer": "a"
+        },
+        {
+          "no": "4",
+          "text": "Wer hält Gespräche für wirksamer als Chatgruppen?",
+          "answer": "b"
+        },
+        {
+          "no": "5",
+          "text": "Wer hat sich an eine Störung gewöhnt?",
+          "answer": "d"
+        },
+        {
+          "no": "6",
+          "text": "Wer hat sich als Kind im Dorf eher eingeengt gefühlt?",
+          "answer": "c"
+        },
+        {
+          "no": "7",
+          "text": "Wer nennt Autos als häufigsten Streitpunkt?",
+          "answer": "b"
+        },
+        {
+          "no": "8",
+          "text": "Wer hilft gern, aber ohne feste Verpflichtung?",
+          "answer": "a"
+        },
+        {
+          "no": "9",
+          "text": "Wer hat ein Hilfsangebot für Ältere ins Leben gerufen?",
+          "answer": "d"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie lesen in einer Zeitschrift einen Artikel über Reparatur-Treffs. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+      "title": "Der Toaster bekommt eine zweite Chance",
+      "lead": "Jeden ersten Samstag im Monat wird das Gemeindehaus in Marbach zur Werkstatt. Wer kommt, bringt kaputte Dinge mit – und geht meistens mit einem funktionierenden Gerät nach Hause.",
+      "paragraphs": [
+        "Samstagmorgen, kurz nach zehn. Vor dem Gemeindehaus steht bereits eine kleine Schlange: eine Frau mit einem Toaster, ein Junge mit einem ferngesteuerten Auto, ein älterer Herr mit einem Radio unter dem Arm. [0] Drinnen warten acht Ehrenamtliche an langen Tischen, darunter ein pensionierter Elektriker, eine Schneiderin und zwei Informatikstudenten.",
+        "Die Idee stammt aus den Niederlanden. Im Jahr 2009 eröffnete die Journalistin Martine Postma in Amsterdam das erste Repair-Café, weil sie sich darüber ärgerte, wie viele brauchbare Dinge im Müll landeten. [10] Allein in Deutschland gibt es heute mehr als tausend solcher Treffs, viele davon in kleinen Gemeinden.",
+        "Repariert wird gemeinsam. Die Besucher sollen ihr Gerät nicht einfach am Eingang abgeben, sondern selbst mit anpacken: Schrauben lösen, Teile reinigen, zuschauen, wie ein Kabel gelötet wird. [11] Viele kommen deshalb ein zweites Mal – nicht, weil wieder etwas kaputt ist, sondern um selbst zu helfen.",
+        "Nicht jedes Gerät lässt sich retten. Bei manchen Produkten ist das Gehäuse fest verklebt, Ersatzteile sind nicht zu bekommen, oder der Hersteller hält die Reparaturanleitung unter Verschluss. [12] Seit 2021 müssen Hersteller in der EU deshalb für bestimmte Geräte mehrere Jahre lang Ersatzteile anbieten.",
+        "Die Erfolgsquote in Marbach liegt nach Angaben der Organisatoren bei rund zwei Dritteln. [13] Bezahlen müssen die Besucher nichts; wer möchte, wirft etwas in die Spendenbox, aus der neues Werkzeug und der Kaffee für alle bezahlt werden.",
+        "Für viele geht es dabei um mehr als um Geld. Die Rentnerin Hildegard Mohr etwa bringt seit Jahren immer wieder ihre alte Nähmaschine mit, die sie zur Hochzeit geschenkt bekommen hat. [14] „Eine neue würde heute nicht viel kosten“, sagt sie, „aber die hier hat Geschichte.“",
+        "Inzwischen interessieren sich auch Schulen für das Modell. In Marbach bietet eine Realschule seit diesem Jahr eine Reparatur-AG an, in der Jugendliche am Nachmittag alte Laptops wieder flottmachen. [15] Der pensionierte Elektriker jedenfalls hat schon einen Nachfolger gefunden: Der Junge mit dem ferngesteuerten Auto kommt mittlerweile jeden Monat."
+      ],
+      "source": "aus einer deutschen Zeitschrift",
+      "example": {
+        "no": "0",
+        "text": "Sie alle haben etwas gemeinsam: Ihre Geräte funktionieren nicht mehr."
+      },
+      "sentences": {
+        "a": "Wer als Jugendlicher ein Gerät von innen gesehen hat, wirft später seltener etwas weg.",
+        "b": "Solche Hürden sind gewollt, denn am Neukauf verdienen die Hersteller mehr.",
+        "c": "Trotzdem landen die meisten am Ende im Müll.",
+        "d": "An der Maschine hängen Erinnerungen, die kein Neukauf ersetzt.",
+        "e": "Das Konzept verbreitete sich schneller, als sie erwartet hatte.",
+        "f": "Dafür verlangen die Helfer eine kleine Gebühr.",
+        "g": "So lernen die Besucher nicht nur ihr Gerät, sondern auch die Helfer kennen.",
+        "h": "Am höchsten ist sie bei Lampen, am niedrigsten bei Handys."
+      },
+      "unused": [
+        "c",
+        "f"
+      ],
+      "items": [
+        {
+          "no": "10",
+          "answer": "e"
+        },
+        {
+          "no": "11",
+          "answer": "g"
+        },
+        {
+          "no": "12",
+          "answer": "b"
+        },
+        {
+          "no": "13",
+          "answer": "h"
+        },
+        {
+          "no": "14",
+          "answer": "d"
+        },
+        {
+          "no": "15",
+          "answer": "a"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie lesen in einer Zeitung einen Artikel über Entscheidungen im Alltag. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Die Qual der Wahl“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "title": "Die Qual der Wahl",
+      "lead": "Dreißig Sorten Marmelade, zweihundert Fernsehprogramme, tausend Jobangebote: Noch nie hatten Menschen so viele Möglichkeiten – und noch nie fiel es ihnen so schwer, sich zu entscheiden. Ein Entscheidungsforscher erklärt, warum weniger oft mehr ist.",
+      "paragraphs": [
+        "Vor gut einem Jahr stand Carolin Esser zwanzig Minuten vor dem Regal mit den Müslisorten. Mit Nüssen oder ohne, mit Schokolade, zuckerfrei, in Bio-Qualität? Am Ende verließ die 29-Jährige den Laden ohne Müsli – und mit dem Gefühl, versagt zu haben. Eine Erfahrung, die viele kennen: Je größer das Angebot, desto schwerer fällt die Wahl – und desto öfter fällt sie gar nicht.",
+        "Der Psychologe Konstantin Reuter erforscht seit Jahren, wie Menschen Entscheidungen treffen. Die verbreitete Annahme, mehr Auswahl mache zufriedener, hält er für einen Irrtum. „Ab einer gewissen Zahl von Möglichkeiten wächst nicht die Freude, sondern die Angst, etwas Falsches zu wählen“, sagt er. In einem bekannten Experiment kauften Kunden in einem Supermarkt deutlich häufiger Marmelade, wenn ihnen sechs statt vierundzwanzig Sorten angeboten wurden.",
+        "Hinzu kommt, dass jede Entscheidung Kraft kostet. Wer von morgens bis abends über Kleinigkeiten nachdenkt – welches Brot, welche Route, welche Antwort auf eine Nachricht –, hat abends kaum noch Energie für die wichtigen Fragen. Reuter spricht von einer stillen Erschöpfung, die man selbst meist gar nicht bemerke. Manche bekannte Unternehmer würden deshalb jeden Tag dasselbe tragen, nicht aus Faulheit, sondern um sich Entscheidungen zu ersparen.",
+        "Besonders schwer tun sich Menschen, die bei jeder Wahl das Beste wollen. Reuter nennt sie Maximierer. Sie vergleichen endlos, schieben den Kauf immer weiter hinaus und sind, so Reuter, selbst dann unzufrieden, wenn sie sich für ein gutes Produkt entschieden haben – weil es irgendwo vielleicht ein besseres gäbe. Wer sich dagegen mit „gut genug“ begnügt, entscheidet schneller und bereut seltener.",
+        "Der Einzelne sei daran allerdings nicht allein schuld, betont Reuter. Geschäfte und Internetplattformen würden ihr Angebot absichtlich vergrößern, weil ein volles Regal attraktiv wirke. Dass die Kunden darunter leiden, nähmen sie in Kauf. Erste Anbieter denken inzwischen um: Manche Supermärkte haben ihr Sortiment um ein Drittel verkleinert und verkaufen trotzdem nicht weniger als vorher.",
+        "Was also tun? Reuter empfiehlt, die Zahl der Möglichkeiten künstlich zu begrenzen: nur drei Angebote vergleichen, sich für die Entscheidung eine Frist setzen, bei Alltagsfragen feste Gewohnheiten einführen. Vor allem aber rät er, nach einer Entscheidung nicht mehr zurückzublicken. „Wer ständig prüft, was er verpasst hat, verdirbt sich die Freude an jeder Wahl“, sagt er. Das gelte im Supermarkt ebenso wie bei der Berufswahl.",
+        "Carolin Esser hat inzwischen ihre eigene Lösung gefunden. Sie kauft seit einem Jahr immer dasselbe Müsli, auch wenn daneben ständig neue Sorten auftauchen. Vermisst hat sie bisher nichts. „Ich habe gemerkt, dass ich gar kein besseres Müsli wollte“, sagt sie. „Ich wollte nur nicht mehr davorstehen müssen.“"
+      ],
+      "source": "aus einer deutschen Tageszeitung",
+      "example": {
+        "no": "0",
+        "stem": "Vielen Menschen fällt es schwer, …",
+        "options": {
+          "a": "ein Geschäft ohne Einkauf zu verlassen.",
+          "b": "sich bei großer Auswahl zu entscheiden.",
+          "c": "Zeit beim Einkaufen zu sparen."
+        },
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "16",
+          "stem": "Laut Konstantin Reuter führt ein großes Angebot …",
+          "options": {
+            "a": "zu Angst vor Fehlern.",
+            "b": "zu mehr Freude beim Kauf.",
+            "c": "zu höheren Verkaufszahlen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "17",
+          "stem": "Wer tagsüber viele kleine Entscheidungen trifft, …",
+          "options": {
+            "a": "spürt die Müdigkeit sofort.",
+            "b": "hat für Wichtiges weniger Kraft.",
+            "c": "entscheidet mit der Zeit schneller."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "18",
+          "stem": "Maximierer …",
+          "options": {
+            "a": "treffen meist die beste Wahl.",
+            "b": "sind nach dem Kauf zufrieden.",
+            "c": "zweifeln auch nach einer guten Wahl."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "19",
+          "stem": "Große Sortimente …",
+          "options": {
+            "a": "sind von den Anbietern so gewollt.",
+            "b": "werden von den Kunden gefordert.",
+            "c": "werden inzwischen überall verkleinert."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "20",
+          "stem": "Nach einer Entscheidung sollte man laut Reuter …",
+          "options": {
+            "a": "die anderen Angebote prüfen.",
+            "b": "eine Frist für Korrekturen festlegen.",
+            "c": "nicht mehr an Alternativen denken."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "21",
+          "stem": "Carolin Esser …",
+          "options": {
+            "a": "probiert gern neue Sorten.",
+            "b": "will sich das Entscheiden ersparen.",
+            "c": "hat endlich das beste Müsli gefunden."
+          },
+          "answer": "b"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob das Wahlalter auf 16 Jahre gesenkt werden sollte. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+      "title": "Wählen mit 16?",
+      "example": {
+        "no": "0",
+        "text": "Keine Abgaben ohne Mitsprache",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "22",
+          "text": "Erst politische Bildung, dann das Wahlrecht",
+          "answer": "g"
+        },
+        {
+          "no": "23",
+          "text": "Vernunft lässt sich nicht am Alter ablesen",
+          "answer": "c"
+        },
+        {
+          "no": "24",
+          "text": "Junge Wähler als Gegengewicht zur älteren Mehrheit",
+          "answer": "h"
+        },
+        {
+          "no": "25",
+          "text": "Wer früh beginnt, geht auch später regelmäßig wählen",
+          "answer": "b"
+        },
+        {
+          "no": "26",
+          "text": "Für ein Urteil über Parteiprogramme fehlt die Erfahrung",
+          "answer": "f"
+        },
+        {
+          "no": "27",
+          "text": "Ein Widerspruch zu den übrigen Altersgrenzen",
+          "answer": "e"
+        }
+      ],
+      "texts": [
+        {
+          "letter": "a",
+          "text": "Ich habe mit 16 eine Ausbildung angefangen und vom ersten Gehalt Steuern und Sozialabgaben bezahlt. Über die Verwendung dieses Geldes durfte ich aber zwei Jahre lang nicht mitbestimmen. Wer zur Kasse gebeten wird, sollte auch an der Urne gefragt werden.",
+          "byline": "Fabian, Oldenburg"
+        },
+        {
+          "letter": "b",
+          "text": "Wählen ist Gewohnheitssache. Wer mit 16 zum ersten Mal wählt, hat meist noch Eltern und Schule, die ihn begleiten, und geht auch später eher regelmäßig zur Wahl. Mit 18 dagegen ziehen viele um, beginnen ein Studium oder einen Job und verpassen den Einstieg.",
+          "byline": "Nora, Wuppertal"
+        },
+        {
+          "letter": "c",
+          "text": "Ich kenne Fünfzigjährige, die ihre Stimme nach Bauchgefühl abgeben, und Sechzehnjährige, die Wahlprogramme vergleichen. Niemand wird am achtzehnten Geburtstag über Nacht vernünftig. Wenn Reife das Kriterium sein soll, müsste man sie prüfen – und das will zu Recht niemand.",
+          "byline": "Dieter, Heilbronn"
+        },
+        {
+          "letter": "d",
+          "text": "In Nordrhein-Westfalen dürfen Sechzehnjährige schon lange bei Kommunalwahlen abstimmen. Viele nutzen das nicht, aber bei den Zwanzig- bis Fünfundzwanzigjährigen sieht es nicht besser aus. Die niedrige Beteiligung liegt also nicht am Alter, sondern daran, dass die Parteien junge Menschen kaum noch erreichen.",
+          "byline": "Melek, Hagen"
+        },
+        {
+          "letter": "e",
+          "text": "Mit 16 darf man keinen Handyvertrag abschließen, kein Auto fahren und keinen Schnaps kaufen, weil der Staat einen noch für schutzbedürftig hält. Dann soll man aber über die Zukunft des ganzen Landes entscheiden? Das ist widersprüchlich. Volljährigkeit und Wahlrecht gehören zusammen.",
+          "byline": "Leonard, Koblenz"
+        },
+        {
+          "letter": "f",
+          "text": "Meine Enkel sind klug, aber sie glauben vieles, was ihnen Leute im Internet erzählen, die davon leben, Aufmerksamkeit zu bekommen. Um ein Wahlprogramm zu beurteilen, braucht man Erfahrung mit Miete, Arbeit und Behörden. Die kommt nun einmal erst später.",
+          "byline": "Gisela, Bamberg"
+        },
+        {
+          "letter": "g",
+          "text": "Ich bin nicht grundsätzlich gegen die Idee, aber in der Schule hatte ich in zehn Jahren genau ein Halbjahr Politikunterricht. Bevor man Jugendlichen das Wahlrecht gibt, sollte man ihnen beibringen, wie Parlamente und Parteien eigentlich funktionieren.",
+          "byline": "Tarik, Paderborn"
+        },
+        {
+          "letter": "h",
+          "text": "In Österreich wählen wir seit 2007 ab 16, und der Grund war einfach: Die Gesellschaft wird älter. Wenn die über Sechzigjährigen die Mehrheit stellen, entscheiden sie über Schulen und Klimaschutz, die vor allem die Jüngeren betreffen. Ein paar junge Stimmen mehr sorgen für Ausgleich.",
+          "byline": "Annika, Innsbruck"
+        }
+      ],
+      "unused": [
+        "d"
+      ]
+    },
+    "t5": {
+      "instruction": "Sie möchten in ein Studentenwohnheim einziehen und lesen die Hausordnung. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+      "title": "Hausordnung",
+      "subtitle": "des Studentenwohnheims „Am Mühlbach“ · gültig ab 1. September",
+      "headings": {
+        "a": "Einzug und Schlüssel",
+        "b": "Mietdauer und Kündigung",
+        "c": "Gäste und Übernachtungen",
+        "d": "Ruhezeiten",
+        "e": "Gemeinschaftsräume und Küche",
+        "f": "Reinigung und Abfall",
+        "g": "Haustiere",
+        "h": "Kaution und Nebenkosten"
+      },
+      "unused": [
+        "b",
+        "d",
+        "e",
+        "g"
+      ],
+      "example": {
+        "no": "0",
+        "label": "§ 0",
+        "paragraphs": [
+          "Beim Einzug erhalten Sie zwei Schlüssel und einen Chip für die Haustür. Beides darf nicht an Dritte weitergegeben werden. Für den Verlust eines Schlüssels berechnen wir 60 Euro."
+        ],
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "28",
+          "label": "§ 28",
+          "paragraphs": [
+            "Vor dem Einzug ist eine Kaution in Höhe von zwei Monatsmieten zu hinterlegen. Die Kaution wird spätestens sechs Wochen nach Ende des Mietverhältnisses zurückgezahlt, sofern das Zimmer ohne Schäden übergeben wurde. Für Strom, Wasser und Internet zahlen Sie eine monatliche Pauschale; der Verbrauch wird einmal im Jahr abgerechnet."
+          ],
+          "answer": "h"
+        },
+        {
+          "no": "29",
+          "label": "§ 29",
+          "paragraphs": [
+            "Besucherinnen und Besucher sind jederzeit willkommen. Gäste, die länger als drei Nächte in Folge bleiben, melden Sie bitte beim Hausmeister an; mehr als zehn Übernachtungen im Monat sind nicht gestattet. Ab 22 Uhr gilt auch mit Besuch Zimmerlautstärke. Für Schäden, die Ihre Gäste verursachen, haften Sie."
+          ],
+          "answer": "c"
+        },
+        {
+          "no": "30",
+          "label": "§ 30",
+          "paragraphs": [
+            "Ihr Zimmer halten Sie selbst sauber. Für die Gemeinschaftsküche jedes Stockwerks gilt ein wöchentlicher Putzplan. Abfall bringen Sie bitte getrennt in die Container im Hof; Sperrmüll darf dort nicht abgestellt werden."
+          ],
+          "answer": "f"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+      "example": [
+        {
+          "no": "01",
+          "type": "rf",
+          "text": "Der Gast beschwert sich über das Frühstück.",
+          "answer": "F"
+        },
+        {
+          "no": "02",
+          "type": "abc",
+          "stem": "Der Gast …",
+          "options": {
+            "a": "bekommt noch heute ein ruhigeres Zimmer.",
+            "b": "wechselt morgen das Zimmer.",
+            "c": "reist früher ab als geplant."
+          },
+          "answer": "b"
+        }
+      ],
+      "texts": [
+        {
+          "label": "Text 1",
+          "items": [
+            {
+              "no": "1",
+              "type": "rf",
+              "text": "Die Frau hat keine handwerkliche Ausbildung.",
+              "answer": "R"
+            },
+            {
+              "no": "2",
+              "type": "abc",
+              "stem": "Warum renoviert die Frau selbst?",
+              "options": {
+                "a": "Der Handwerker ist nicht gekommen.",
+                "b": "Es ist deutlich billiger.",
+                "c": "Ihre Familie hat es ihr beigebracht."
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "items": [
+            {
+              "no": "3",
+              "type": "rf",
+              "text": "Die Reparatur der Bremsen war teurer als vereinbart.",
+              "answer": "F"
+            },
+            {
+              "no": "4",
+              "type": "abc",
+              "stem": "Die Kundin soll …",
+              "options": {
+                "a": "den Wagen sofort abholen.",
+                "b": "noch heute Bescheid geben.",
+                "c": "morgen früh ein Ersatzteil mitbringen."
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "items": [
+            {
+              "no": "5",
+              "type": "rf",
+              "text": "Eine der beiden Frauen hat sich bereits beschwert.",
+              "answer": "R"
+            },
+            {
+              "no": "6",
+              "type": "abc",
+              "stem": "Am Ende …",
+              "options": {
+                "a": "will die erste Frau nur noch zu Hause arbeiten.",
+                "b": "gibt die erste Frau ihre Pflanze ab.",
+                "c": "wollen beide mit der Chefin sprechen."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "items": [
+            {
+              "no": "7",
+              "type": "rf",
+              "text": "Die meisten Fundsachen werden von ihren Besitzern abgeholt.",
+              "answer": "F"
+            },
+            {
+              "no": "8",
+              "type": "abc",
+              "stem": "Was rät Herr Lemke?",
+              "options": {
+                "a": "Wertsachen nicht in der Jacke zu lassen.",
+                "b": "Verluste erst nach einigen Wochen zu melden.",
+                "c": "Gegenstände mit dem Namen zu versehen."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 5",
+          "items": [
+            {
+              "no": "9",
+              "type": "rf",
+              "text": "Die Frau hat ihrer Mutter bereits Hilfe zugesagt.",
+              "answer": "R"
+            },
+            {
+              "no": "10",
+              "type": "abc",
+              "stem": "Was beschließt die Frau?",
+              "options": {
+                "a": "Sie fährt gleich nach dem Konzert zu ihren Eltern.",
+                "b": "Sie reist erst am Samstag ab.",
+                "c": "Sie überlässt die Karte ihrem Bruder."
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+      "context": "In der Sendung „Nachgefragt“ spricht der Moderator mit Dr. Franziska Heller über Krähen in der Stadt.",
+      "items": [
+        {
+          "no": "11",
+          "stem": "Warum leben immer mehr Krähen in Städten?",
+          "options": {
+            "a": "Sie finden dort geeignete Bäume.",
+            "b": "Sie finden Futter und haben kaum Feinde.",
+            "c": "Sie werden von Anwohnern gefüttert."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "12",
+          "stem": "Was haben Forscher mit Masken herausgefunden?",
+          "options": {
+            "a": "Krähen vergessen ein Gesicht jahrelang nicht.",
+            "b": "Krähen fürchten sich vor Masken.",
+            "c": "Krähen erkennen nur Menschen, von denen sie selbst gefangen wurden."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "13",
+          "stem": "Was sagt Frau Heller über das Knacken von Nüssen?",
+          "options": {
+            "a": "Krähen schaffen es mit dem Schnabel.",
+            "b": "Krähen verstecken die Nüsse bis zum Winter.",
+            "c": "Krähen lassen Autos die Arbeit machen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "14",
+          "stem": "Laut Frau Heller beschweren sich Anwohner …",
+          "options": {
+            "a": "über Angriffe auf Spaziergänger.",
+            "b": "über Lärm und Schmutz durch die Kolonien.",
+            "c": "über Schäden in ihren Gärten."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "15",
+          "stem": "Was ist in Deutschland verboten?",
+          "options": {
+            "a": "Krähen zu füttern.",
+            "b": "Krähen zu fotografieren.",
+            "c": "Krähennester zu beseitigen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "16",
+          "stem": "Frau Heller empfiehlt den Städten, …",
+          "options": {
+            "a": "den Vögeln andere Plätze anzubieten.",
+            "b": "die Bäume im Winter zu fällen.",
+            "c": "die Nester im Frühjahr entfernen zu lassen."
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über die Frage, ob man nach der Schule eine Ausbildung machen oder studieren sollte. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      "speakers": {
+        "a": "Moderatorin",
+        "b": "Frau Sommer, Tischlermeisterin",
+        "c": "Herr Baumann, Berufsberater"
+      },
+      "example": {
+        "no": "0",
+        "text": "Zu Hause wurde nie über einen anderen Weg als die Universität gesprochen.",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "17",
+          "text": "Viele schreiben sich ein, um die Entscheidung hinauszuzögern.",
+          "answer": "a"
+        },
+        {
+          "no": "18",
+          "text": "Wer abbricht, korrigiert nur seinen Weg.",
+          "answer": "c"
+        },
+        {
+          "no": "19",
+          "text": "Das schlechte Bild vom Handwerk ist längst überholt.",
+          "answer": "b"
+        },
+        {
+          "no": "20",
+          "text": "Eine Ausbildung schließt ein Studium nicht aus.",
+          "answer": "b"
+        },
+        {
+          "no": "21",
+          "text": "Im Unterricht kommt das Handwerk zu kurz.",
+          "answer": "a"
+        },
+        {
+          "no": "22",
+          "text": "Eltern mischen sich zu sehr in die Berufswahl ein.",
+          "answer": "c"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema „Warum wir vergessen“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+      "items": [
+        {
+          "no": "23",
+          "stem": "Laut Professor Sauer ist Vergessen …",
+          "options": {
+            "a": "ein Zeichen für Krankheiten.",
+            "b": "ein Fehler des Gehirns.",
+            "c": "eine nützliche Fähigkeit."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "24",
+          "stem": "Die Frau mit dem außergewöhnlichen Gedächtnis …",
+          "options": {
+            "a": "lernt besonders leicht.",
+            "b": "empfindet es als Belastung.",
+            "c": "nutzt ihre Fähigkeit beruflich."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "25",
+          "stem": "Erinnerungen …",
+          "options": {
+            "a": "verändern sich beim Abrufen.",
+            "b": "bleiben jahrelang unverändert.",
+            "c": "werden mit der Zeit genauer."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "26",
+          "stem": "Zeugen vor Gericht …",
+          "options": {
+            "a": "irren sich trotz großer Sicherheit.",
+            "b": "lügen häufiger als gedacht.",
+            "c": "merken sich Einzelheiten besonders gut."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "27",
+          "stem": "Im Schlaf …",
+          "options": {
+            "a": "löscht das Gehirn Unwichtiges.",
+            "b": "ruht sich das Gehirn aus.",
+            "c": "wird Gelerntes dauerhaft gespeichert."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "28",
+          "stem": "Beim „Google-Effekt“ merkt man sich …",
+          "options": {
+            "a": "Inhalte aus dem Internet besser.",
+            "b": "eher den Ort als den Inhalt.",
+            "c": "Internetseiten nur für kurze Zeit."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "29",
+          "stem": "Beim Lernen hilft es, …",
+          "options": {
+            "a": "sich selbst zu testen.",
+            "b": "den Stoff mehrmals zu lesen.",
+            "c": "kurz vor der Prüfung zu wiederholen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "30",
+          "stem": "Am Ende empfiehlt der Redner, …",
+          "options": {
+            "a": "morgens zu lernen.",
+            "b": "abends zu lernen.",
+            "c": "ohne Handy zu lernen."
+          },
+          "answer": "b"
+        }
+      ]
+    }
+  },
+  "schreiben": {
+    "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+    "tasks": [
+      {
+        "no": 1,
+        "minutes": 50,
+        "words": 150,
+        "situation": [
+          "Sie schreiben einen Forumsbeitrag zum Thema „Lebensmittel im Müll“."
+        ],
+        "points": [
+          "Äußern Sie Ihre Meinung dazu, ob Supermärkte unverkaufte Lebensmittel wegwerfen dürfen.",
+          "Nennen Sie Gründe, warum so viele Lebensmittel im Müll landen.",
+          "Nennen Sie andere Möglichkeiten, mit unverkauften Lebensmitteln umzugehen.",
+          "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+        ],
+        "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+        "model": {
+          "label": "Forumsbeitrag, ca. 190 Wörter",
+          "text": "Liebe Forumsmitglieder,\n\nin unserem Forum geht es gerade um die Frage, ob Supermärkte unverkaufte Lebensmittel einfach wegwerfen dürfen. Als ich neulich abends die vollen Container hinter einem Discounter gesehen habe, war für mich klar, dass ich dazu etwas schreiben muss.\n\nMeiner Meinung nach sollte es verboten sein, essbare Lebensmittel zu vernichten. Es kann nicht richtig sein, dass Brot vom Vortag im Müll landet, während andere Menschen am Monatsende nicht wissen, wie sie ihren Kühlschrank füllen sollen.\n\nDass so viel weggeworfen wird, hat mehrere Gründe. Zum einen wollen Kunden bis zum Ladenschluss volle Regale sehen, zum anderen orientieren sich viele allein am Mindesthaltbarkeitsdatum, obwohl ein Joghurt auch danach noch genießbar ist.\n\nDabei gäbe es andere Möglichkeiten: Geschäfte könnten Waren kurz vor Ablauf der Mindesthaltbarkeit günstiger anbieten, mit Tafeln zusammenarbeiten oder Apps nutzen, über die man übrig gebliebene Lebensmittel abends billig abholen kann.\n\nDer Vorteil liegt auf der Hand: Die Geschäfte verdienen noch etwas, Menschen mit wenig Geld werden unterstützt, und es landet weniger im Müll, was Ressourcen schont.\n\nIch bin also dafür, das Wegwerfen zu verbieten – vor allem aber dafür, die Alternativen bekannter zu machen. Was meint ihr?"
+        },
+        "typicalErrors": "Punkt 3 verfehlt: Tipps für zu Hause statt Alternativen für Geschäfte · deutlich weniger als 150 Wörter."
+      },
+      {
+        "no": 2,
+        "minutes": 25,
+        "words": 100,
+        "situation": [
+          "Sie arbeiten im Lager eines Handelsunternehmens. Am kommenden Samstag sollen alle Beschäftigten bei der jährlichen Inventur helfen. An diesem Tag heiratet jedoch Ihre Schwester, und Sie haben bei der Feier eine wichtige Aufgabe. Ihre Vorgesetzte, Frau Vogt, hat den Dienstplan bereits verschickt. Schreiben Sie eine Nachricht an Frau Vogt."
+        ],
+        "points": [
+          "Beschreiben Sie Ihre Situation.",
+          "Bitten Sie um Verständnis für Ihre Lage.",
+          "Machen Sie einen Vorschlag, wie die Inventur trotzdem gelingen kann.",
+          "Zeigen Sie Verständnis für die Situation Ihrer Vorgesetzten."
+        ],
+        "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+        "model": {
+          "label": "Nachricht an die Vorgesetzte, ca. 120 Wörter",
+          "text": "Betreff: Inventur am Samstag\n\nSehr geehrte Frau Vogt,\n\nim Dienstplan für die Inventur am Samstag bin ich für die Frühschicht eingeteilt. An diesem Tag heiratet jedoch meine Schwester, und ich bin ihre Trauzeugin.\n\nIch bitte Sie deshalb um Verständnis, dass ich am Samstag nicht im Lager sein kann. Der Termin stand schon fest, bevor der Dienstplan verschickt wurde, und ich hätte Sie früher darüber informieren müssen.\n\nMir ist bewusst, dass die Inventur das ganze Team braucht und dass es für Sie schwierig ist, so kurzfristig umzuplanen.\n\nIch schlage daher vor, schon am Freitagabend mit der Zählung im Kühllager zu beginnen und am Sonntag die Nacharbeiten zu erledigen. Herr Demir hat sich außerdem bereit erklärt, meine Samstagsschicht zu übernehmen.\n\nBitte lassen Sie mich wissen, ob Sie damit einverstanden sind.\n\nMit freundlichen Grüßen\nJohanna Brandes"
+        },
+        "typicalErrors": "um Verständnis bitten und Verständnis zeigen verwechselt · nur Absage ohne Vorschlag · Hallo Frau Vogt oder LG."
+      }
+    ]
+  },
+  "index": {
+    "hoeren": {
+      "t1": "Fünf kurze Texte",
+      "t2": "Interview mit einer Wissenschaftlerin: Krähen in der Stadt",
+      "t3": "Radiogespräch: Ausbildung oder Studium?",
+      "t4": "Vortrag: Warum wir vergessen"
+    },
+    "schreiben": [
+      "Forumsbeitrag: Lebensmittel im Müll",
+      "Nachricht an die Vorgesetzte"
+    ],
+    "sprechen": {
+      "vortrag": [
+        "Energie sparen zu Hause",
+        "Lesen in der Freizeit",
+        "Eine Arbeitsstelle finden",
+        "Feste feiern"
+      ],
+      "diskussion": "Sollten Kurzstreckenflüge verboten werden?"
+    }
+  },
+  "notes": "Aus dem PDF Goethe B2 Modelltest 5 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}
