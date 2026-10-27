@@ -1,0 +1,846 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "leas-reiseblog.de · Unterwegs mit Lea",
+    "date": "Sonntag, 17. März",
+    "title": "Plan B",
+    "paragraphs": [
+     "Eigentlich sollte dieser Eintrag schon gestern online sein. Stattdessen schreibe ich ihn jetzt in Janas Küche in Wien – aber der Reihe nach: Am Freitagmorgen stand ich um sechs am Hamburger Flughafen. Das Ticket hatte ich schon vor drei Monaten gebucht, weil meine Freundin Jana am Samstag ihren dreißigsten Geburtstag feiern wollte. An der Anzeigetafel dann die Überraschung: „Flug gestrichen“. Streik. Am Schalter warteten schon über hundert Leute, und die Mitarbeiterin konnte mir nur sagen, dass der nächste freie Platz in einem Flugzeug nach Wien erst am Montag frei sei. Montag! Da wäre die Feier längst vorbei gewesen!",
+     "Also habe ich auf dem Handy nach Zügen gesucht. Es gibt tatsächlich eine direkte Verbindung; sie dauert allerdings fast neun Stunden, und die Fahrkarte für denselben Tag kostete mehr als mein Flugticket. Ich habe trotzdem gebucht – was blieb mir übrig? Zum Glück hatte ich meinen Laptop dabei, so konnte ich unterwegs arbeiten und musste keinen Urlaubstag nehmen. Mein Vater meinte am Telefon, ich solle lieber ein Auto mieten. Aber neun Stunden allein auf der Autobahn? Nein danke.",
+     "Die Zugfahrt war dann überraschend angenehm: Ich hatte einen Fensterplatz, das WLAN funktionierte fast die ganze Zeit, und in Nürnberg stieg eine ältere Dame zu, die mir bis Passau von ihrer Zeit als Köchin auf einem Schiff erzählte. Nur der Speisewagen war eine Enttäuschung: Die Kaffeemaschine war kaputt.",
+     "Kurz nach zehn Uhr abends kam ich in Wien an, mit zwanzig Minuten Verspätung. Jana hat mich trotz der späten Stunde vom Bahnhof abgeholt. Wir haben dann noch bis zwei Uhr in ihrer Küche gesessen – so viel zu meinem Plan, früh ins Bett zu gehen. Die Feier gestern war wunderbar, und heute Nachmittag geht es mit dem Nachtzug zurück – auf das Flugzeug verzichte ich diesmal gern. Das Geld für das gestrichene Ticket bekomme ich übrigens zurück, das hat mir die Fluggesellschaft per E-Mail versprochen. Ob es wirklich ankommt, erzähle ich euch dann hier."
+    ],
+    "closing": "Bis bald, eure Lea"
+   },
+   "example": {
+    "no": "0",
+    "text": "Lea wollte mit dem Flugzeug nach Wien reisen.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Die Reise war schon lange geplant.",
+     "answer": "R"
+    },
+    {
+     "no": "2",
+     "text": "Mit dem Flugzeug wäre Lea zu spät zur Party gekommen.",
+     "answer": "R"
+    },
+    {
+     "no": "3",
+     "text": "Die Bahn war die günstigere Lösung.",
+     "answer": "F"
+    },
+    {
+     "no": "4",
+     "text": "Der Vorschlag mit der Bahn kam von Leas Vater.",
+     "answer": "F"
+    },
+    {
+     "no": "5",
+     "text": "Auf der Fahrt hatte Lea Gesellschaft.",
+     "answer": "R"
+    },
+    {
+     "no": "6",
+     "text": "Die Fluggesellschaft hat Lea den Ticketpreis bereits erstattet.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Pflücken erlaubt",
+     "lead": "In Lohheim wächst auf öffentlichen Flächen Gemüse – für alle.",
+     "paragraphs": [
+      "Wer im Sommer durch den Stadtpark von Lohheim spaziert, sieht statt Rosen Tomatenpflanzen und statt Rasen Kartoffelbeete. „Pflücken erlaubt“ steht auf kleinen Schildern. Seit fünf Jahren pflanzt die Stadt auf öffentlichen Flächen Obst und Gemüse, das sich alle Bürgerinnen und Bürger kostenlos nehmen dürfen. Die Idee kam aus der Stadtgärtnerei: Die Blumenbeete waren teuer und mussten jedes Jahr neu bepflanzt werden. „Gemüse kostet uns nicht mehr als Blumen, aber es nützt den Menschen“, sagt Stadtgärtner Ralf Beck. Die Zerstörungen, die viele am Anfang befürchtet hatten, blieben aus. „Was allen gehört, macht man nicht so schnell kaputt“, meint Beck. Nur die Kirschen im Kurpark seien jedes Jahr weg, bevor die Gärtner überhaupt hinschauen könnten. Am beliebtesten sind Tomaten und Kräuter; Kartoffeln bleiben dagegen oft liegen, weil viele nicht wissen, wann sie reif sind. Auf jedem Schild steht deshalb, woran man das erkennt. Inzwischen helfen rund 60 Freiwillige beim Gießen und Ernten, und eine Schulklasse kümmert sich um die Kräuterbeete am Bahnhof. Beck bekommt regelmäßig Anfragen aus anderen Städten. Sein Rat: klein anfangen, mit einem einzigen Beet an einer belebten Stelle. „Und Geduld haben. Im ersten Jahr wurde bei uns fast nichts geerntet – die Leute haben sich nicht getraut, obwohl es ausdrücklich erlaubt war.“"
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "In Lohheim …",
+      "options": {
+       "a": "darf man im Park kein Gemüse pflücken.",
+       "b": "kann jeder kostenlos Obst und Gemüse ernten.",
+       "c": "muss man Gemüse aus dem Park bezahlen."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "eine Gemeinde, die ihre Grünflächen essbar macht.",
+        "b": "eine Schulklasse, die am Bahnhof Kräuter anbaut.",
+        "c": "einen Verein, der Lebensmittel an Bedürftige verteilt."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "8",
+       "stem": "Warum setzt Lohheim auf Gemüsebeete?",
+       "options": {
+        "a": "Die Blumenbeete wurden häufig beschädigt.",
+        "b": "Gemüse ist in der Pflege günstiger.",
+        "c": "Die Einwohner haben etwas davon."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "9",
+       "stem": "Ralf Beck rät anderen Städten, …",
+       "options": {
+        "a": "von Anfang an viele Helfer zu gewinnen.",
+        "b": "im kleinen Rahmen zu beginnen.",
+        "c": "die Beete im ersten Jahr einzuzäunen."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Bücher statt Telefonate",
+     "lead": "In Aarburg ist aus einer alten Telefonkabine* eine Bibliothek geworden.",
+     "paragraphs": [
+      "Seit die Telefongesellschaft vor einigen Jahren die letzten öffentlichen Telefonkabinen abgebaut hat, stehen in vielen Gemeinden leere Häuschen ungenutzt herum. In Aarburg hat ein Verein die alte Kabine am Bahnhofplatz in eine Bibliothek verwandelt: Wer ein Buch bringt, darf ein anderes mitnehmen – ohne Ausweis, ohne Gebühr, rund um die Uhr. Die Idee hatte die pensionierte Lehrerin Ruth Kessler. „Bei mir zu Hause standen Hunderte Bücher, die ich nie mehr lesen würde“, erzählt sie. Sie fragte bei der Gemeinde nach, und diese vermietet ihr die Kabine seither für einen Franken pro Jahr. Die Regale baute ihr Nachbar, ein Schreiner. Ein Jahr später steht die Kabine nie leer: Krimis und Kinderbücher sind am beliebtesten, Kochbücher bleiben lange stehen. Einmal pro Woche schaut Kessler vorbei, sortiert die Bücher und räumt beschädigte aus. In die Kabine passen rund 150 Bände; Feuchtigkeit war am Anfang das größte Problem, doch seit an der Tür eine neue Dichtung sitzt, bleiben die Regale trocken. Probleme? „Am Anfang haben zwei Jugendliche ihre Getränkedosen in die Regale gestellt. Ich habe einen Abfalleimer danebengestellt, seitdem ist Ruhe.“ Die Kinderbücher stehen inzwischen in einem eigenen, niedrigen Regal, damit die Kleinen selbst auswählen können. Wie viele Bücher im Jahr durch die Kabine gehen, zählt die Gemeinde: 2023 waren es rund 4000. Die Gemeinde plant nun eine zweite Kabine beim Schwimmbad. Betreiben soll sie diesmal die Schule."
+     ],
+     "footnote": "*Telefonkabine = Schweizer Standard für „Telefonzelle“",
+     "source": "aus einer Schweizer Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "die Geschichte des öffentlichen Telefons in der Schweiz.",
+        "b": "eine Lehrerin, die ihre Büchersammlung verkauft.",
+        "c": "eine Idee, die einem ausgedienten Häuschen eine neue Aufgabe gibt."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "11",
+       "stem": "Ruth Kessler …",
+       "options": {
+        "a": "wollte Bücher loswerden, die sie nicht mehr brauchte.",
+        "b": "zahlt der Gemeinde eine hohe Miete.",
+        "c": "hat die Regale selbst gezimmert."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "12",
+       "stem": "Die zweite Tauschbibliothek …",
+       "options": {
+        "a": "ist bereits in Betrieb.",
+        "b": "wird nicht von denselben Leuten betreut wie die erste.",
+        "c": "ist eine Idee von Frau Kessler."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Bekannten möchten in ihrer Freizeit etwas Neues lernen und suchen passende Angebote.",
+   "example": {
+    "no": "0",
+    "text": "Ayşe hat von ihrer Oma eine Nähmaschine bekommen und möchte endlich selbst etwas nähen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Paul fliegt im Sommer nach Mexiko und möchte sich dort verständigen können.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Marta möchte ein Instrument lernen, arbeitet aber in wechselnden Schichten.",
+     "answer": "d"
+    },
+    {
+     "no": "15",
+     "text": "Ben isst kein Fleisch und sucht am Feierabend Gesellschaft.",
+     "answer": "e"
+    },
+    {
+     "no": "16",
+     "text": "Frau Yilmaz, 68, möchte ihre Enkel öfter auf dem Bildschirm sehen.",
+     "answer": "f"
+    },
+    {
+     "no": "17",
+     "text": "Vom langen Sitzen im Büro tut Jonas der Rücken weh. Zeit hat er nur mittags.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Lin braucht das Zertifikat B2, kann aber nur von zu Hause aus lernen.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Herr Brandt sucht etwas, das er gemeinsam mit seiner zwölfjährigen Tochter machen kann.",
+     "answer": "c"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "inst",
+     "header": "Volkshochschule Nord",
+     "tag": "FRÜHJAHR",
+     "title": "Spanisch für die Reise – Mexiko, Kuba, Spanien",
+     "subtitle": "Sprache und Alltag für unterwegs",
+     "facts": [
+      "Montag und Mittwoch · 18.30–20.00 Uhr",
+      "12 Abende ab 8. April · 180 €"
+     ],
+     "body": [
+      "Am Ende können Sie im Restaurant bestellen, nach dem Weg fragen und sich vorstellen. Für alle, die noch nie Spanisch gelernt haben. Kleine Gruppen, Lehrbuch inbegriffen."
+     ],
+     "footer": "www.vhs-nord.de · 0421 / 36 10 10"
+    },
+    {
+     "letter": "b",
+     "design": "serif",
+     "header": "Nähwerkstatt Faden & Knopf",
+     "tag": "",
+     "title": "",
+     "subtitle": "Vier Samstage, eine Tasche und ein Kissen",
+     "facts": [],
+     "body": [
+      "Wir zeigen Ihnen die Grundlagen: Schnitt, gerade Naht, Reißverschluss und Saum. Am Ende nehmen Sie eine fertige Tasche und ein Kissen mit nach Hause. Stoffe und Garn stellen wir, Ihre eigene Nähmaschine bringen Sie bitte mit. Höchstens sechs Personen, 9 bis 13 Uhr."
+     ],
+     "footer": "Anmeldung: 0421 / 55 66 77 · Werkstatt am Kanal 3"
+    },
+    {
+     "letter": "c",
+     "design": "dashed",
+     "header": "Werkstatt am Deich",
+     "tag": "",
+     "title": "",
+     "subtitle": "ARBEITEN MIT TON – AN SECHS SAMSTAGEN",
+     "facts": [],
+     "body": [
+      "Groß und Klein an einer Scheibe: Wir arbeiten immer zu zweit – ein Kind zwischen 8 und 14 Jahren und eine erwachsene Person aus der Familie. Nachmittags von 14 bis 17 Uhr, Material und Brennen inbegriffen."
+     ],
+     "footer": "140 € pro Paar · werkstatt-am-deich.de"
+    },
+    {
+     "letter": "d",
+     "design": "barhead",
+     "deco": {
+      "icon": "note"
+     },
+     "header": "Musikschule Tonleiter",
+     "tag": "",
+     "title": "Nur Sie, die Lehrkraft und Ihr Instrument.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Gitarre, Klavier oder Geige – und weil niemand sonst in der Stunde sitzt, verabreden wir den Termin jede Woche neu, morgens, abends oder am Sonntag. Wer kurzfristig arbeiten muss, verschiebt die Stunde einfach. Leihinstrumente sind vorhanden, die erste Stunde ist kostenlos."
+     ],
+     "footer": "Tel. 0421 / 33 20 20 · musikschule-tonleiter.de"
+    },
+    {
+     "letter": "e",
+     "design": "rules",
+     "header": "Löffelweise",
+     "tag": "",
+     "title": "",
+     "subtitle": "KOCHEN OHNE FLEISCH UND FISCH",
+     "facts": [],
+     "body": [
+      "Freitagabends kochen wir ein Menü aus drei Ländern – und setzen uns anschließend gemeinsam an die lange Tafel. Wer allein kommt, sitzt bestimmt nicht allein am Tisch. 18 bis 22 Uhr, keine Vorkenntnisse nötig, 65 € mit Getränken."
+     ],
+     "footer": "Marktstraße 12 · www.loeffelweise.de"
+    },
+    {
+     "letter": "f",
+     "design": "pinned",
+     "header": "Treffpunkt Mitte",
+     "tag": "",
+     "title": "Smartphone und Tablet verstehen – ab 60",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Die Kinder wohnen weit weg? Wir üben in Ruhe, wie Sie Ihre Liebsten sehen und hören, Bilder verschicken und Nachrichten lesen. Vier Dienstagvormittage, kostenlos. Bitte bringen Sie Ihr eigenes Gerät mit."
+     ],
+     "footer": "Anmeldung im Büro oder 0421 / 44 10 10"
+    },
+    {
+     "letter": "g",
+     "design": "corp",
+     "header": "SPRACHINSTITUT LINGUA",
+     "tag": "",
+     "title": "Deutsch B2 – Vorbereitung auf die Prüfung",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Vier Wochen Intensivkurs in kleinen Gruppen, Montag bis Freitag von 9 bis 12 Uhr. Der Unterricht findet ausschließlich bei uns am Theaterplatz statt; einen Fernkurs bieten wir bewusst nicht an. Start: 3. Juni."
+     ],
+     "footer": "www.lingua-institut.de"
+    },
+    {
+     "letter": "h",
+     "design": "inverse",
+     "header": "CODECLUB JUNIOR",
+     "tag": "",
+     "title": "",
+     "subtitle": "SAMSTAGS 10 BIS 13 UHR",
+     "facts": [],
+     "body": [
+      "Wir bauen eigene Spiele und kleine Roboter, ganz ohne Vorkenntnisse. Für alle zwischen 10 und 14 Jahren, Laptops stehen bereit. Die Eltern holen ihre Kinder um 13 Uhr wieder ab – im Raum sitzen nur die Jugendlichen und unser Team."
+     ],
+     "footer": "codeclub-junior.de"
+    },
+    {
+     "letter": "i",
+     "design": "classified",
+     "header": "MUSIKVEREIN HARMONIE",
+     "tag": "KURSE",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Gitarre in der Gruppe. Zehn Abende im Vereinsheim, donnerstags von 19 bis 20.30 Uhr. Wer fehlt, verpasst den Stoff – Nachholtermine gibt es nicht, weil die Gruppe gemeinsam weiterarbeitet. Ein eigenes Instrument ist erforderlich. 80 €, Anmeldung bis Ende März."
+     ],
+     "footer": "harmonie-musikverein.de"
+    },
+    {
+     "letter": "j",
+     "design": "mono",
+     "header": "Physiopraxis Rückgrat",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Kräftigen und Dehnen · 30 Min.",
+      "Di + Do · 12.15–12.45",
+      "Am Marktplatz 4 · 8 €"
+     ],
+     "body": [
+      "Für alle, die den ganzen Tag am Schreibtisch sitzen: eine halbe Stunde zwischen zwei Terminen, danach duschen und zurück ins Büro. Sportkleidung ist nicht nötig. Ab fünf Personen aus einem Betrieb wird es günstiger."
+     ],
+     "footer": "Tel. 0421 / 78 90 12"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für ein Handyverbot in Restaurants, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Restaurants, in denen Gäste am Tisch weder telefonieren noch im Internet surfen dürfen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.gastro-magazin.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Renate",
+    "byline": "Renate, 61, Kassel",
+    "text": "Endlich! In unserem Lieblingsrestaurant sitzen am Nachbartisch vier junge Leute, und jeder starrt auf sein Handy – kein Wort. Ein Verbot wäre ein Segen – dann redet man wieder miteinander, so wie früher.",
+    "answer": "J"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Sabine",
+     "byline": "Sabine, 44, Bochum",
+     "text": "Als wir neulich in Italien waren, hat der Kellner die Handys der Kinder in einer Kiste gesammelt – und was soll ich sagen: Wir haben zwei Stunden gelacht und geredet wie seit Jahren nicht. Zu Hause schaffen wir das nicht freiwillig. Manchmal braucht es eben eine Regel von außen.",
+     "answer": "J"
+    },
+    {
+     "no": "21",
+     "name": "Tobias",
+     "byline": "Tobias, 29, Linz",
+     "text": "Ich verstehe die Wirte, ehrlich gesagt. Aber ich bin oft beruflich unterwegs und esse allein – da lese ich beim Essen Nachrichten oder telefoniere kurz mit meiner Freundin. Soll ich stattdessen die Wand anstarren? Wer andere stört, den kann der Wirt auch so bitten, leiser zu sein. Mehr braucht es doch nicht.",
+     "answer": "N"
+    },
+    {
+     "no": "22",
+     "name": "Marek",
+     "byline": "Marek, 35, Dresden",
+     "text": "Ein Restaurant ist kein Kindergarten. Ich bin erwachsen und entscheide selbst, ob mein Handy auf dem Tisch liegt. Wer mir das verbieten will, verliert mich als Gast. Übrigens fotografiere ich gern mein Essen – das ist kostenlose Werbung für den Wirt, darüber sollte er einmal nachdenken.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Hanna",
+     "byline": "Hanna, 19, Bern",
+     "text": "Meiner Generation wird das Handy immer wieder vorgeworfen. Trotzdem: Wenn ich mit Freunden essen gehe und alle nur auf ihr Display gucken, nervt es mich auch. Ich fände es gut, wenn ein Lokal Handys am Tisch verbieten würde – dann weiß man vorher, worauf man sich einlässt, und geht bewusst dorthin.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Ulrich",
+     "byline": "Ulrich, 52, Graz",
+     "text": "Strenge Regeln lösen selten Probleme, meistens schaffen sie neue. Wer wichtige Anrufe erwartet – Eltern kleiner Kinder oder Ärzte im Bereitschaftsdienst –, bleibt dann einfach zu Hause. Besser wäre ein freundlicher Hinweis auf der Speisekarte. Das haben wir in unserem Café so gemacht, und die meisten Gäste halten sich daran.",
+     "answer": "N"
+    },
+    {
+     "no": "25",
+     "name": "Jasmin",
+     "byline": "Jasmin, 38, Hannover",
+     "text": "Ich habe lange gedacht, das geht zu weit. Dann habe ich ein Wochenende ohne Handy verbracht und gemerkt, wie viel entspannter ein Abendessen sein kann. Inzwischen gehe ich am liebsten in Restaurants, in denen das Handy in der Tasche bleiben muss – ja, es gibt schon einige. Für mich ist das kein Verbot, sondern ein Geschenk.",
+     "answer": "J"
+    },
+    {
+     "no": "26",
+     "name": "Kemal",
+     "byline": "Kemal, 47, Frankfurt",
+     "text": "Als Vater von drei Kindern wünsche ich mir nichts mehr als ein Abendessen ohne Bildschirme. Aber das ist meine Aufgabe, nicht die des Wirts. Wenn ich es nicht schaffe, meinen Kindern Regeln beizubringen, hilft auch kein Schild an der Restauranttür.",
+     "answer": "N"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie haben eine Jahreskarte für das städtische Hallenbad gekauft und informieren sich über die Badeordnung.",
+   "doc": {
+    "title": "BADEORDNUNG · STÄDTISCHES HALLENBAD",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Eintritt",
+      "text": "Das Bad ist täglich von 7 bis 22 Uhr geöffnet. Der Einlass endet eine Stunde vor Schließung. Die Badezeit beginnt am Drehkreuz und endet mit der Rückgabe des Chips an der Kasse; wird die gebuchte Zeit überschritten, berechnen wir den Aufpreis nach. Jahreskarten sind nicht übertragbar. Bei Verlust stellen wir gegen eine Gebühr von 10 Euro eine Ersatzkarte aus."
+     },
+     {
+      "heading": "Kinder",
+      "text": "Kinder unter acht Jahren dürfen das Bad nur in Begleitung einer erwachsenen Person besuchen. Für Kinder bis sechs Jahre ist der Eintritt frei. Das Schwimmerbecken (Tiefe 3,80 m) darf nur von Personen genutzt werden, die sicher schwimmen können."
+     },
+     {
+      "heading": "Hygiene",
+      "text": "Vor dem Betreten der Becken ist zu duschen. Straßenschuhe sind in den Umkleiden auszuziehen; im gesamten Nassbereich sind ausschließlich Badeschuhe erlaubt. Das Bad stellt kostenlos Haartrockner zur Verfügung; die Benutzung eigener elektrischer Geräte ist untersagt."
+     },
+     {
+      "heading": "Sicherheit",
+      "text": "Den Anweisungen des Personals ist Folge zu leisten. Der Sprungturm ist nur zu den ausgehängten Zeiten und nach Freigabe durch die Aufsicht benutzbar. Ballspiele sind ausschließlich im Nichtschwimmerbecken gestattet. Bei Gewitter ist das Außenbecken sofort zu verlassen."
+     },
+     {
+      "heading": "Garderobe",
+      "text": "Für Kleidung und Wertsachen stehen abschließbare Schränke zur Verfügung; der Chip dient als Schlüssel. Für abhandengekommene Gegenstände übernimmt das Bad keine Haftung. Fundsachen werden zwei Wochen an der Kasse aufbewahrt und danach dem städtischen Fundbüro übergeben."
+     },
+     {
+      "heading": "Essen und Trinken",
+      "text": "Mitgebrachte Speisen dürfen nur im Bistrobereich verzehrt werden. Glasflaschen sind im gesamten Bad verboten."
+     },
+     {
+      "heading": "",
+      "text": "Wer gegen die Badeordnung verstößt, kann des Bades verwiesen werden; ein Anspruch auf Rückerstattung des Eintritts besteht in diesem Fall nicht."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer um 21.30 Uhr zum Hallenbad kommt, …",
+     "options": {
+      "a": "kann noch eine halbe Stunde schwimmen.",
+      "b": "muss den vollen Eintritt bezahlen.",
+      "c": "kommt nicht mehr hinein."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "stem": "Kinder …",
+     "options": {
+      "a": "zahlen bis zum achten Geburtstag nichts.",
+      "b": "dürfen erst ab acht Jahren allein kommen.",
+      "c": "müssen im flachen Becken bleiben."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "stem": "Wenn man seine Jahreskarte verliert, …",
+     "options": {
+      "a": "muss man für eine neue Karte bezahlen.",
+      "b": "kann man mit der Karte eines Bekannten schwimmen gehen.",
+      "c": "wendet man sich an das städtische Fundbüro."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "stem": "Im Hallenbad …",
+     "options": {
+      "a": "ist Ballspielen überall erlaubt.",
+      "b": "darf man mitgebrachte Geräte an die Steckdose anschließen.",
+      "c": "darf man keine Getränke in Glasflaschen mitbringen."
+     },
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Herr Kowalskis Auto ist repariert.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Die Reparatur …",
+     "options": {
+      "a": "fiel günstiger aus als besprochen.",
+      "b": "kostet 380 Euro.",
+      "c": "muss bar bezahlt werden."
+     },
+     "answer": "b"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Der Zug fährt heute wie geplant bis zur Endstation.",
+       "answer": "F"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Wer zum Flughafen will, …",
+       "options": {
+        "a": "muss eine zusätzliche Fahrkarte kaufen.",
+        "b": "steigt in Frankfurt in einen anderen Zug um.",
+        "c": "verlässt den Zug schon in Mannheim."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Marco muss den Plan für Samstag ändern.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Marco …",
+       "options": {
+        "a": "kommt um acht bei Selin vorbei.",
+        "b": "hat die Karten schon gekauft.",
+        "c": "will erst Selins Zusage abwarten."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Am Sonntag regnet es im ganzen Land.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "In den Bergen …",
+       "options": {
+        "a": "bleibt es den ganzen Sonntag trocken.",
+        "b": "fällt in höheren Lagen Schnee.",
+        "c": "steigen die Temperaturen auf 20 Grad."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Durchsage richtet sich an die Kunden eines Möbelhauses.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Die Kinderbetreuung …",
+       "options": {
+        "a": "ist vorübergehend an einen anderen Ort verlegt.",
+        "b": "befindet sich im dritten Stock.",
+        "c": "wird diese Woche nicht angeboten."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Diese Woche findet keine Yogastunde statt.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Frau Nowak …",
+       "options": {
+        "a": "erhält ihr Geld in jedem Fall zurück.",
+        "b": "soll sich telefonisch melden.",
+        "c": "bekommt einen Ersatztermin am Ende des Kurses."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie machen mit Ihrer Familie Urlaub auf einem Bauernhof im Allgäu. Am ersten Abend begrüßt die Bäuerin alle Gäste.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Gäste …",
+     "options": {
+      "a": "bekommen dreimal am Tag etwas zu essen.",
+      "b": "müssen sich mittags und abends selbst versorgen.",
+      "c": "sind auf die Gasthäuser im Dorf angewiesen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Wer beim Melken zuschauen möchte, …",
+     "options": {
+      "a": "hat zweimal am Tag Gelegenheit dazu.",
+      "b": "muss dafür vor sechs Uhr aufstehen.",
+      "c": "muss sich in eine Liste eintragen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Reiten dürfen die Kinder …",
+     "options": {
+      "a": "jeden Tag, wenn sie möchten.",
+      "b": "ohne vorherige Eintragung.",
+      "c": "nur an zwei festen Tagen in der Woche."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Für die Wanderung zur Alm …",
+     "options": {
+      "a": "kann man sich noch am Morgen anmelden.",
+      "b": "ist passendes Schuhwerk vorgeschrieben.",
+      "c": "ist man den ganzen Tag unterwegs."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Fahrräder …",
+     "options": {
+      "a": "leiht man sich im Dorf aus.",
+      "b": "darf man nur mit eigenem Helm benutzen.",
+      "c": "bekommt man auf dem Hof, ohne etwas zu bezahlen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sitzen in der S-Bahn und hören, wie sich zwei Kollegen, Nina und Tom, über ihr Wochenende unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Die Idee zum Kochkurs kam von Nina selbst.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "Der Teig war schneller fertig, als Nina gedacht hatte.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Nina wird zwei Kursteilnehmer bald wiedersehen.",
+     "answer": "R"
+    },
+    {
+     "no": "19",
+     "text": "Ninas erster Versuch zu Hause hat geklappt.",
+     "answer": "F"
+    },
+    {
+     "no": "20",
+     "text": "Tom hat auf der Feier vor allen Gästen gesprochen.",
+     "answer": "F"
+    },
+    {
+     "no": "21",
+     "text": "Die Gäste hatten Einfluss auf die Musik.",
+     "answer": "R"
+    },
+    {
+     "no": "22",
+     "text": "Die Tante hat sich mit ihrer Geschenkidee durchgesetzt.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Der Moderator der Radiosendung „Standpunkte“ diskutiert mit der Medizinstudentin Lea Hoffmann und dem Schreinermeister Karl Brenner zum Thema „Soll jeder junge Mensch nach der Schule ein soziales Jahr machen?“.",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Lea Hoffmann",
+    "c": "Karl Brenner"
+   },
+   "example": {
+    "no": "0",
+    "text": "Viele junge Menschen wissen nach der Schule nicht, was sie machen wollen.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Nach einem sozialen Jahr fällt die Berufswahl leichter.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Im Handwerk bleiben Lehrstellen unbesetzt.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Wer gezwungen wird, hilft niemandem wirklich.",
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "text": "Soziale Einrichtungen haben zu wenige Mitarbeiter.",
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "text": "Die Bezahlung im sozialen Jahr reicht nicht zum Leben.",
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "text": "Auch eine Ausbildung im Betrieb nützt der Gesellschaft.",
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "text": "Für manche Familien wäre ein schlecht bezahltes Jahr ein Problem.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Das Angebot sollte nicht auf Schulabgänger beschränkt sein.",
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie waren am Wochenende mit Freunden in Berlin. Ein Freund/Eine Freundin von Ihnen konnte nicht mitkommen, weil er/sie arbeiten musste."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie war das Wochenende?",
+     "Begründen Sie: Was hat Ihnen am besten gefallen und warum?",
+     "Machen Sie einen Vorschlag für eine gemeinsame Unternehmung."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an eine Freundin, ca. 95 Wörter",
+     "text": "Betreff: Unser Wochenende in Berlin\n\nLiebe Mia,\n\nschade, dass du am Wochenende arbeiten musstest! Berlin war toll. Wir sind am Freitagabend mit dem Zug gefahren und haben in einem Hostel in Kreuzberg gewohnt. Am Samstag haben wir das Brandenburger Tor gesehen und sind über einen Flohmarkt gebummelt, abends waren wir bei einem kleinen Konzert.\n\nAm besten hat mir die Bootsfahrt auf der Spree gefallen, weil man vom Wasser aus die ganze Stadt sieht und die Füße endlich einmal Pause hatten.\n\nWie wäre es, wenn wir im Herbst zusammen nach Dresden fahren? Ich könnte schon einmal nach günstigen Zugverbindungen schauen.\n\nLiebe Grüße\nSofia"
+    },
+    "typicalErrors": "Leitpunkt 3 (Vorschlag) vergessen oder ohne konkreten Termin · nur beschreiben, nicht begründen („weil …“) · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Fernsehen eine Diskussionssendung zum Thema „Immer erreichbar?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.diskussion-aktuell.de",
+     "label": "Gästebuch",
+     "author": "Daniel · 12.03. 20:41 Uhr",
+     "text": "Mein Chef schickt auch am Sonntag E-Mails, und meine Freunde erwarten, dass ich sofort antworte. Seit einem Monat schalte ich das Handy abends aus. Am Anfang war das komisch, aber jetzt schlafe ich besser. Trotzdem habe ich manchmal Angst, etwas Wichtiges zu verpassen."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Ich verstehe Daniel gut. Auch ich bekomme abends noch Nachrichten von der Arbeit, und früher habe ich immer sofort geantwortet. Meiner Meinung nach ist das nicht gesund: Wer nie abschaltet, kann sich auch nicht erholen.\n\nIch finde, man braucht klare Regeln. Bei mir bleibt das Handy ab 21 Uhr in der Küche, und meine Freunde wissen das. Wirklich wichtige Nachrichten erreichen einen trotzdem – dann ruft jemand an.\n\nDie Angst, etwas zu verpassen, hatte ich am Anfang auch. Heute denke ich: Man verpasst viel mehr, wenn man ständig auf das Display schaut."
+    },
+    "typicalErrors": "Nur Daniels Meinung zusammenfassen, keine eigene · keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Ihre Vermieterin, Frau Berger, möchte am Freitagnachmittag in Ihre Wohnung kommen, um die Heizung zu überprüfen. Sie sind zu dieser Zeit nicht zu Hause."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Frau Berger. Entschuldigen Sie sich höflich und schlagen Sie einen anderen Termin vor. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an die Vermieterin, ca. 45 Wörter",
+     "text": "Sehr geehrte Frau Berger,\n\nleider bin ich am Freitagnachmittag nicht zu Hause, weil ich bis 18 Uhr arbeiten muss. Das tut mir sehr leid. Wäre es Ihnen möglich, stattdessen am Samstagvormittag oder am Montag nach 17 Uhr zu kommen? Bitte sagen Sie mir kurz Bescheid, welcher Termin Ihnen passt.\n\nMit freundlichen Grüßen\nAnna Kowal"
+    },
+    "typicalErrors": "Entschuldigung ohne Alternativtermin · Hallo Frau Berger / Liebe Grüße bei einer Vermieterin · Grund für die Abwesenheit fehlt."
+   }
+  ]
+ }
+}

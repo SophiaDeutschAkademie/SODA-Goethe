@@ -1,0 +1,641 @@
+{
+  "id": 9,
+  "roman": "IX",
+  "lesen": {
+    "t1": {
+      "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+      "blog": {
+        "site": "oma-auf-zeit.de · Gisela",
+        "date": "Donnerstag, 14. November",
+        "title": "Oma auf Zeit",
+        "paragraphs": [
+          "Vor einem Jahr bin ich in Rente gegangen, und ehrlich gesagt wusste ich zuerst nicht, was ich mit meiner freien Zeit anfangen sollte. Meine eigenen Enkel leben mit meiner Tochter in Kanada; wir sehen uns höchstens einmal im Jahr. Im Wartezimmer meiner Ärztin habe ich dann einen Zettel des Familienzentrums gelesen: „Leihgroßeltern gesucht“. Angerufen habe ich erst drei Wochen später – so lange habe ich mich nicht getraut.",
+          "Im Familienzentrum habe ich dann Jasmin kennengelernt. Sie ist Krankenschwester, arbeitet im Schichtdienst und zieht ihre beiden Kinder allein groß: Noah ist fünf, Lina drei. Noah hat mir sofort sein Lieblingsauto gezeigt, die Kleine dagegen hat sich die ganze Stunde hinter ihrer Mutter versteckt. Am Ende hat Jasmin gefragt, ob ich mir das vorstellen kann. Ich konnte.",
+          "Seit Februar hole ich die beiden jeden Dienstag und Donnerstag von der Kita ab und bleibe bei ihnen, bis Jasmin nach Hause kommt. Geld wollte ich dafür nie haben, und das Familienzentrum ist sowieso dagegen. Jasmin hat aber darauf bestanden, mir wenigstens die Monatskarte für den Bus zu bezahlen.",
+          "Natürlich läuft nicht alles glatt. Im März habe ich vergessen, dass die Kita an einem Donnerstag früher schließt, und Noah und Lina haben mit einer Erzieherin auf mich gewartet. Ich hätte im Boden versinken können. Jasmin hat nur gelacht: Das passiere ihr auch ständig. Seitdem steht jeder Termin der Kita in meinem Kalender.",
+          "Inzwischen backen wir zusammen, und Lina, die mich anfangs kaum angesehen hat, klettert mir jetzt sofort auf den Schoß. Noahs Lieblingskuchen ist Marmorkuchen, den gibt es fast jede Woche. Meine Tochter in Kanada war am Anfang ein bisschen eifersüchtig, glaube ich. Mittlerweile fragt sie bei jedem Videoanruf nach „deinen Kleinen“, und Noah zeigt ihr stolz seine Bilder.",
+          "Im nächsten Sommer fliege ich für vier Wochen nach Kanada. Vier Wochen sind lang, für die Kinder und für mich. Jasmin hat aber schon eine Nachbarin gefunden, die mich in dieser Zeit vertritt. Ich habe Noah erklärt, dass ich wiederkomme. Er hat lange überlegt und dann gesagt: „Gut. Aber bring mir einen Bären mit.“"
+        ],
+        "closing": "Eure Gisela"
+      },
+      "example": { "no": "0", "text": "Gisela ist seit einiger Zeit nicht mehr berufstätig.", "answer": "R" },
+      "items": [
+        { "no": "1", "text": "Gisela hat sich gleich nach dem Lesen des Zettels gemeldet.", "answer": "F" },
+        { "no": "2", "text": "Beim ersten Treffen hatten beide Kinder sofort Vertrauen zu Gisela.", "answer": "F" },
+        { "no": "3", "text": "Jasmin übernimmt einen Teil von Giselas Ausgaben.", "answer": "R" },
+        { "no": "4", "text": "Einmal mussten die Kinder in der Kita auf Gisela warten.", "answer": "R" },
+        { "no": "5", "text": "Giselas Tochter findet es bis heute nicht gut, dass ihre Mutter sich um fremde Kinder kümmert.", "answer": "F" },
+        { "no": "6", "text": "Während Giselas Reise übernimmt jemand anders ihre Aufgaben.", "answer": "R" }
+      ]
+    },
+    "t2": {
+      "texts": [
+        {
+          "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+          "title": "Das Dorf als Wirt",
+          "lead": "In Hollerbach gehört das letzte Gasthaus jetzt den Einwohnern.",
+          "paragraphs": [
+            "Als die Wirtsleute des „Goldenen Hirschen“ vor zwei Jahren in Rente gehen wollten, fand sich kein Käufer. Für Hollerbach, ein Dorf mit 900 Einwohnern im Odenwald, wäre das das Ende gewesen: Die Bäckerei hatte schon geschlossen, die Bankfiliale auch. „Ohne Gasthaus gibt es keinen Ort mehr, an dem man sich trifft“, sagt Bürgermeisterin Karin Weidner. Deshalb gründeten die Bewohner eine Genossenschaft. Wer mitmachen will, kauft mindestens einen Anteil für 500 Euro. Inzwischen gehört das Gasthaus 340 Mitgliedern, darunter auch ehemalige Hollerbacher, die längst in Frankfurt oder Hamburg leben. Mit dem Geld wurden die Küche erneuert und die Toiletten barrierefrei umgebaut. Den Rest haben viele Mitglieder selbst erledigt: Sie haben gestrichen, Böden verlegt und den Biergarten neu angelegt. Gekocht wird von einem angestellten Koch; bedient werden die Gäste aber vor allem von Freiwilligen aus dem Dorf, die sich in einen Plan eintragen. Bezahlt werden sie nicht, dafür bekommen sie an ihrem Abend ein kostenloses Essen. Geöffnet ist von Mittwoch bis Sonntag. Donnerstags treffen sich mittags die älteren Bewohner zum Seniorenessen, freitags ist Stammtisch. Reich wird mit dem Gasthaus niemand: Was am Jahresende übrig bleibt, wird in das Haus investiert; Gewinne werden nicht ausgezahlt. Schwierig ist im Moment nur die Suche nach Helfern für die Wochenenden, an denen viele Freiwillige selbst unterwegs sind. Im Frühjahr soll deshalb eine zweite Kraft für den Service fest angestellt werden."
+          ],
+          "footnote": "",
+          "source": "aus einer deutschen Zeitung",
+          "example": {
+            "no": "0",
+            "stem": "Die früheren Wirtsleute …",
+            "options": {
+              "a": "haben das Gasthaus an die Gemeinde verkauft.",
+              "b": "wollten mit dem Arbeiten aufhören.",
+              "c": "leben heute in Frankfurt."
+            },
+            "answer": "b"
+          },
+          "items": [
+            {
+              "no": "7",
+              "stem": "In diesem Text geht es um …",
+              "options": {
+                "a": "ein Dorf, in dem es keine Geschäfte mehr gibt.",
+                "b": "eine Bürgermeisterin, die ein altes Gasthaus gekauft hat.",
+                "c": "Bewohner, die gemeinsam ihr Gasthaus weiterführen."
+              },
+              "answer": "c"
+            },
+            {
+              "no": "8",
+              "stem": "Im Gasthaus …",
+              "options": {
+                "a": "arbeiten ausschließlich bezahlte Angestellte.",
+                "b": "bedienen Dorfbewohner, ohne Lohn zu bekommen.",
+                "c": "kochen die Mitglieder der Genossenschaft abwechselnd."
+              },
+              "answer": "b"
+            },
+            {
+              "no": "9",
+              "stem": "Das Geld, das am Ende des Jahres übrig bleibt, …",
+              "options": {
+                "a": "bekommen die freiwilligen Helferinnen und Helfer.",
+                "b": "wird unter den Mitgliedern verteilt.",
+                "c": "fließt wieder zurück in das Gasthaus."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+          "title": "Wenn um Mitternacht das Licht ausgeht",
+          "lead": "In der steirischen Gemeinde Gamsbach bleiben die Straßenlaternen nachts aus.",
+          "paragraphs": [
+            "Seit Jänner* ist es in Gamsbach nachts wirklich dunkel: Um Mitternacht gehen in der steirischen Gemeinde alle Straßenlaternen aus, erst um fünf Uhr früh werden sie wieder eingeschaltet. Der wichtigste Grund ist das Geld. Die Stromkosten der Gemeinde haben sich in den letzten Jahren fast verdoppelt, und durch die Abschaltung spart Gamsbach rund 18.000 Euro im Jahr. „Davon können wir den Kindergartenbus ein ganzes Jahr bezahlen“, sagt Bürgermeister Franz Leitner. Auch für die Natur sei die Dunkelheit gut: Weniger Licht bedeutet weniger tote Insekten, und Vögel und Fledermäuse finden sich besser zurecht. Nicht alle Bewohner waren von Anfang an begeistert. Vor allem ältere Frauen hatten Angst, nachts allein nach Hause zu gehen. Bei einer Bürgerversammlung im Herbst gab es deshalb heftige Diskussionen, und einige Bewohner sammelten Unterschriften gegen die Pläne. Die Polizei kann allerdings keinen Anstieg von Einbrüchen oder Überfällen feststellen. Für Schichtarbeiter, die nach Mitternacht vom Bahnhof kommen, gibt es eine Ausnahme: Die Straße vom Bahnhof ins Zentrum bleibt beleuchtet. Außerdem verteilt die Gemeinde kostenlos Stirnlampen; über 300 Stück wurden bereits abgeholt. Mit der Dunkelheit kommen inzwischen sogar Gäste: Hobby-Astronomen reisen an, um den Sternenhimmel zu beobachten, und ein Gasthof bietet schon geführte „Sternwanderungen“ an. Ab dem Sommer werden die alten Laternen nach und nach durch sparsame LED-Lampen ersetzt. An der nächtlichen Abschaltung ändert das aber nichts."
+          ],
+          "footnote": "*Jänner = österreichischer Standard für „Januar“",
+          "source": "aus einer österreichischen Zeitung",
+          "example": null,
+          "items": [
+            {
+              "no": "10",
+              "stem": "In diesem Text geht es um …",
+              "options": {
+                "a": "eine Gemeinde, die neue Straßenlampen gekauft hat.",
+                "b": "einen Ort, der nachts auf Straßenlicht verzichtet.",
+                "c": "Bewohner, die sich nachts nicht mehr allein auf die Straße trauen."
+              },
+              "answer": "b"
+            },
+            {
+              "no": "11",
+              "stem": "Wer nachts mit dem Zug ankommt, …",
+              "options": {
+                "a": "findet auf dem Weg ins Zentrum genug Licht.",
+                "b": "muss sich selbst eine Stirnlampe kaufen.",
+                "c": "wird von der Polizei bis nach Hause begleitet."
+              },
+              "answer": "a"
+            },
+            {
+              "no": "12",
+              "stem": "Die Dunkelheit …",
+              "options": {
+                "a": "hat zu mehr Einbrüchen im Ort geführt.",
+                "b": "soll durch die LED-Lampen bald wieder enden.",
+                "c": "lockt neue Besucher an."
+              },
+              "answer": "c"
+            }
+          ]
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+      "context": "Einige Ihrer Bekannten möchten essen gehen oder suchen ein Angebot rund ums Essen.",
+      "example": { "no": "0", "text": "Familie Weber möchte am Sonntagvormittag gemütlich und lange frühstücken gehen.", "answer": "b" },
+      "items": [
+        { "no": "13", "text": "Frau Lindner feiert ihren 70. Geburtstag mit 40 Gästen im Gemeindehaus. Kochen möchte sie an diesem Tag nicht.", "answer": "d" },
+        { "no": "14", "text": "Familie Arslan möchte am Wochenende essen gehen. Ihr Sohn ist zwei und kann nicht lange still sitzen.", "answer": "a" },
+        { "no": "15", "text": "Paul hat bis 23 Uhr Dienst im Krankenhaus. Danach möchte er gern noch irgendwo eine warme Mahlzeit essen.", "answer": "0" },
+        { "no": "16", "text": "Sandra lebt vegan und sucht für ein Abendessen mit Freunden ein Lokal, in dem sie alles auf der Karte essen kann.", "answer": "f" },
+        { "no": "17", "text": "Herr Takahashi kocht gern und möchte lernen, wie man Nudeln selbst herstellt.", "answer": "c" },
+        { "no": "18", "text": "Herr Novak hat mittags nur eine halbe Stunde Pause und will in dieser Zeit etwas Warmes essen.", "answer": "e" },
+        { "no": "19", "text": "Nina möchte ihrem Freund einen besonderen Abend schenken: Ein Profi soll für die beiden bei ihnen zu Hause kochen.", "answer": "g" }
+      ],
+      "ads": [
+        {
+          "letter": "a",
+          "design": "chalk",
+          "header": "",
+          "tag": "",
+          "title": "Gasthaus Zwergenland",
+          "subtitle": "DAS FAMILIENRESTAURANT",
+          "facts": [],
+          "body": ["Bei uns dürfen Kinder laut sein! Im großen Spielzimmer mit Rutsche und Bällebad kümmert sich am Wochenende eine Erzieherin um die Kleinen ab zwei Jahren – die Eltern essen in Ruhe. Kinderteller ab 4,90 €."],
+          "footer": "Sa + So 11–20 Uhr · Am Mühlbach 2"
+        },
+        {
+          "letter": "b",
+          "design": "rules",
+          "header": "CAFÉ MORGENROT",
+          "tag": "",
+          "title": "Sonntags-Brunch",
+          "subtitle": "",
+          "facts": [],
+          "body": ["Jeden Sonntag von 9 bis 14 Uhr: großes Buffet mit frischen Brötchen, Eierspeisen, Obst und hausgemachtem Kuchen – so lange Sie möchten. Kaffee und Tee sind inklusive."],
+          "footer": "19,50 € · Reservierung: 0421 / 55 12 80"
+        },
+        {
+          "letter": "c",
+          "design": "dashed",
+          "header": "Trattoria Da Lucia",
+          "tag": "",
+          "title": "PASTA-KURS",
+          "subtitle": "",
+          "facts": [],
+          "body": ["Jeden zweiten Samstag zeigt Lucia Ihnen in unserer Küche, wie aus Mehl und Eiern Tagliatelle und Ravioli werden. Danach essen wir gemeinsam."],
+          "footer": "3 Stunden · 69 € · Anmeldung im Lokal"
+        },
+        {
+          "letter": "d",
+          "design": "corp",
+          "header": "",
+          "tag": "",
+          "title": "Partyservice Tafelfreuden",
+          "subtitle": "SIE FEIERN – WIR KOCHEN",
+          "facts": [],
+          "body": ["Warmes Buffet für Feiern ab 20 Personen, geliefert an jeden Ort in der Region. Geschirr und Besteck bringen wir mit. Bitte mindestens zwei Wochen vorher bestellen."],
+          "footer": "tafelfreuden.de"
+        },
+        {
+          "letter": "e",
+          "design": "bignum",
+          "header": "",
+          "tag": "10 MIN",
+          "title": "Mittagstisch im Bistro Takt",
+          "subtitle": "MO–FR 11.30 – 14.30 UHR",
+          "facts": [],
+          "body": ["Täglich zwei warme Gerichte zur Wahl. Ihr Essen steht spätestens zehn Minuten nach der Bestellung auf dem Tisch – sonst ist der Kaffee gratis."],
+          "footer": "Menü 8,50 € · Lindenstraße 14"
+        },
+        {
+          "letter": "f",
+          "design": "barhead",
+          "header": "",
+          "tag": "",
+          "title": "Grünkern",
+          "subtitle": "VEGAN ESSEN",
+          "facts": [],
+          "body": ["Bei uns kommen weder Fleisch noch Fisch, Milch oder Eier auf den Teller – alles ist rein pflanzlich. Abendkarte Dienstag bis Samstag, 18 bis 22 Uhr. Für Gruppen ab sechs Personen bitte reservieren."],
+          "footer": ""
+        },
+        {
+          "letter": "g",
+          "design": "pinned",
+          "header": "",
+          "tag": "",
+          "title": "Der Koch kommt zu Ihnen",
+          "subtitle": "",
+          "facts": [],
+          "body": ["Ich kaufe ein, koche in Ihrer Küche ein Menü mit drei oder vier Gängen und räume hinterher auf – für zwei bis zwölf Personen. Auch als Geschenkgutschein."],
+          "footer": "Marco Behrens · 0170 / 22 33 44"
+        },
+        {
+          "letter": "h",
+          "design": "sign",
+          "header": "",
+          "tag": "",
+          "title": "RODEO",
+          "subtitle": "STEAKHOUSE · FREITAGS LIVE-MUSIK",
+          "facts": [],
+          "body": ["Steaks vom Grill, Burger und Spareribs – für alle, die Fleisch lieben. Dienstag bis Sonntag ab 17 Uhr, warme Küche bis 22.30 Uhr."],
+          "footer": ""
+        },
+        {
+          "letter": "i",
+          "design": "ticket",
+          "header": "",
+          "tag": "",
+          "title": "FOOD-TRUCK-FESTIVAL",
+          "subtitle": "SA, 7. JUNI · MESSEPLATZ",
+          "facts": [],
+          "body": ["20 Food Trucks mit Burgern, Tacos, Currys und Crêpes. Von 12 bis 23 Uhr, Eintritt frei. Sitzplätze unter Zelten sind vorhanden."],
+          "footer": ""
+        },
+        {
+          "letter": "j",
+          "design": "hotel",
+          "header": "WEINBAR",
+          "tag": "",
+          "title": "Rebe",
+          "subtitle": "",
+          "facts": [],
+          "body": ["Über 100 Weine aus Europa, dazu Käse, Schinken und Oliven. Warme Küche gibt es bei uns nicht. Mittwoch bis Samstag, 19 bis 2 Uhr."],
+          "footer": "Marktgasse 5"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für ein Pflichtjahr für junge Menschen, Ja oder Nein?",
+      "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über den Vorschlag, dass alle jungen Menschen nach der Schule ein Jahr lang einen sozialen Dienst leisten sollen.",
+      "header": "LESERKOMMENTARE",
+      "site": "www.junge-stimmen.de/forum",
+      "example": {
+        "no": "0",
+        "name": "Paula",
+        "byline": "Paula, 19, Freiburg",
+        "text": "Ich mache gerade ein Freiwilliges Soziales Jahr in einem Kindergarten, und es ist das beste Jahr meines Lebens – aber genau deshalb, weil ich es mir selbst ausgesucht habe. Wer gezwungen wird, kommt jeden Morgen schlecht gelaunt zur Arbeit. Davon haben weder die Kinder noch die Erzieherinnen etwas. Helfen muss man wirklich wollen, sonst funktioniert es nicht.",
+        "answer": "N"
+      },
+      "items": [
+        {
+          "no": "20",
+          "name": "Leonie",
+          "byline": "Leonie, 18, Bremen",
+          "text": "Ich verstehe ja, dass Krankenhäuser und Altenheime dringend Personal brauchen, und ich finde soziales Engagement wichtig. Trotzdem: Ich habe gerade Abitur gemacht und einen Studienplatz in Medizin bekommen, auf den ich zwei Jahre gewartet habe. Ein Jahr Pause würde mich einfach zurückwerfen. Der Staat sollte lieber dafür sorgen, dass Pflegekräfte endlich besser bezahlt werden und gern in ihrem Beruf bleiben.",
+          "answer": "N"
+        },
+        {
+          "no": "21",
+          "name": "Ursula",
+          "byline": "Ursula, 58, Erfurt",
+          "text": "Ich leite seit zwanzig Jahren ein Altenheim. Jedes Jahr kommen einige Freiwillige zu uns, und ich sehe, wie sie sich verändern: Am Anfang sind sie unsicher, nach ein paar Monaten unterhalten sie sich ganz selbstverständlich mit Menschen, die ihre Großeltern sein könnten. Diese Erfahrung sollte niemand verpassen. Ein Jahr für die Gemeinschaft ist nicht zu viel verlangt.",
+          "answer": "J"
+        },
+        {
+          "no": "22",
+          "name": "Dirk",
+          "byline": "Dirk, 49, Wiesbaden",
+          "text": "Als mein Sohn nach der Schule ein freiwilliges Jahr beim Rettungsdienst machen wollte, war ich dagegen. Ich dachte, er verliert nur Zeit. Heute weiß er, was er beruflich will, ist selbstständiger geworden und hat Freunde aus ganz anderen Kreisen. Seitdem sehe ich das anders: Ich fände es richtig, wenn alle jungen Leute so ein Jahr machen müssten.",
+          "answer": "J"
+        },
+        {
+          "no": "23",
+          "name": "Mehmet",
+          "byline": "Mehmet, 24, Duisburg",
+          "text": "Ich wäre sofort dafür, wenn die jungen Leute einen richtigen Lohn bekämen, von dem sie auch leben können. Laut dem Artikel ist aber nur ein Taschengeld von 400 Euro im Monat geplant. Wer nicht mehr bei den Eltern wohnen kann, zahlt davon nicht einmal die Miete. So, wie es jetzt aussieht, halte ich nichts von der Idee.",
+          "answer": "N"
+        },
+        {
+          "no": "24",
+          "name": "Tim",
+          "byline": "Tim, 31, Zürich",
+          "text": "Statt die Jugendlichen zu zwingen, sollte man das freiwillige Jahr endlich attraktiver machen: mehr Geld, ein kostenloses Ticket für Bus und Bahn und Pluspunkte bei der Bewerbung um einen Studienplatz. Dann würden sich viel mehr junge Menschen von selbst melden. Mit Druck erreicht man bei Jugendlichen meistens das Gegenteil – das habe ich als Jugendtrainer oft genug erlebt.",
+          "answer": "N"
+        },
+        {
+          "no": "25",
+          "name": "Christa",
+          "byline": "Christa, 66, Linz",
+          "text": "Meine Enkel finden die Idee furchtbar, und meine Tochter sagt, man dürfe jungen Leuten nicht ein ganzes Jahr wegnehmen. Ich sehe das ganz anders. Ich habe in meiner Jugend ein Jahr lang in einem Krankenhaus ausgeholfen und dort mehr fürs Leben gelernt als in der Schule. Dass bald alle so eine Erfahrung machen sollen, begrüße ich sehr.",
+          "answer": "J"
+        },
+        {
+          "no": "26",
+          "name": "Gabi",
+          "byline": "Gabi, 53, Rostock",
+          "text": "Junge Menschen haben heute ohnehin sehr viel Druck: Schule, Prüfungen, die Suche nach einer Ausbildung und nach einer bezahlbaren Wohnung. Jetzt will man ihnen auch noch vorschreiben, wie sie ein ganzes Jahr ihres Lebens verbringen sollen. Ich musste so etwas in meiner Jugend zum Glück auch nicht machen. Ob man sich engagiert, sollte jeder selbst entscheiden dürfen.",
+          "answer": "N"
+        }
+      ]
+    },
+    "t5": {
+      "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "context": "Sie möchten an der Volkshochschule einen Kurs besuchen und lesen die Teilnahmebedingungen.",
+      "doc": {
+        "title": "TEILNAHMEBEDINGUNGEN · VOLKSHOCHSCHULE LINDENBERG",
+        "intro": "",
+        "sections": [
+          { "heading": "Anmeldung", "text": "Sie können sich online, telefonisch oder persönlich in unserer Geschäftsstelle anmelden, am besten spätestens zwei Wochen vor Kursbeginn. Die Anmeldung ist verbindlich. Eine schriftliche Bestätigung verschicken wir nicht; wir melden uns nur, wenn ein Kurs ausfällt oder sich etwas ändert." },
+          { "heading": "Gebühren", "text": "Die Kursgebühr wird eine Woche vor Kursbeginn von Ihrem Konto abgebucht. Schülerinnen und Schüler, Studierende und Arbeitsuchende erhalten mit einem gültigen Nachweis 50 Prozent Ermäßigung. Für Material wie Bücher oder Lebensmittel in Kochkursen kann eine zusätzliche Gebühr anfallen. Eine Ermäßigung muss bei der Anmeldung beantragt werden; nachträglich ist das nicht möglich." },
+          { "heading": "Mindestzahl", "text": "Ein Kurs findet nur statt, wenn sich mindestens acht Personen angemeldet haben. Muss ein Kurs abgesagt werden, erstatten wir die volle Gebühr." },
+          { "heading": "Abmeldung", "text": "Bis sieben Tage vor Kursbeginn können Sie sich kostenlos abmelden. Danach müssen Sie die volle Gebühr bezahlen, es sei denn, Sie nennen uns eine Person, die Ihren Platz übernimmt. Die Abmeldung muss schriftlich oder per E-Mail erfolgen." },
+          { "heading": "Unterrichtsausfall", "text": "Fällt eine Kursstunde wegen Krankheit der Kursleitung aus, wird sie nachgeholt. Stunden, die Sie selbst versäumen, werden nicht erstattet. Über Änderungen informieren wir Sie per SMS oder E-Mail." },
+          { "heading": "Kursort", "text": "Die meisten Kurse finden im Bildungszentrum am Marktplatz statt. Dort gibt es nur wenige Parkplätze; bitte kommen Sie möglichst mit dem Bus oder dem Fahrrad." },
+          { "heading": "Bescheinigung", "text": "Eine Teilnahmebescheinigung erhalten Sie kostenlos, wenn Sie mindestens 80 Prozent der Kursstunden besucht haben." },
+          { "heading": "Hausordnung", "text": "Essen ist in unseren Räumen nur in der Cafeteria erlaubt. Kinder dürfen leider nicht in den Unterricht mitgebracht werden." }
+        ],
+        "footer": ""
+      },
+      "example": null,
+      "items": [
+        {
+          "no": "27",
+          "stem": "Nach der Anmeldung …",
+          "options": {
+            "a": "bekommt man eine Bestätigung per Post.",
+            "b": "muss man die Gebühr sofort bezahlen.",
+            "c": "hört man nur bei Änderungen etwas."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "28",
+          "stem": "Wer sich fünf Tage vor Kursbeginn abmeldet, …",
+          "options": {
+            "a": "kann eine andere Person schicken.",
+            "b": "bekommt die halbe Gebühr zurück.",
+            "c": "muss für den Kurs nichts mehr bezahlen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "29",
+          "stem": "Wenn die Kursleiterin krank ist, …",
+          "options": {
+            "a": "bekommen alle einen Teil der Gebühr zurück.",
+            "b": "wird die Stunde verschoben.",
+            "c": "fällt der ganze Kurs ersatzlos aus."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "30",
+          "stem": "Eine Teilnahmebescheinigung …",
+          "options": {
+            "a": "ist nicht kostenlos.",
+            "b": "gibt es nur nach einer bestandenen Prüfung.",
+            "c": "bekommt, wer selten gefehlt hat."
+          },
+          "answer": "c"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+      "example": [
+        { "no": "01", "type": "rf", "text": "Frau Petersens Termin am Donnerstag fällt aus.", "answer": "R" },
+        {
+          "no": "02",
+          "type": "abc",
+          "stem": "Frau Petersen soll …",
+          "options": {
+            "a": "sich telefonisch melden.",
+            "b": "am Freitag vorbeikommen.",
+            "c": "eine andere Friseurin wählen."
+          },
+          "answer": "a"
+        }
+      ],
+      "texts": [
+        {
+          "label": "Text 1",
+          "items": [
+            { "no": "1", "type": "rf", "text": "Die Kinder können heute Abend wie geplant ans Lagerfeuer kommen.", "answer": "F" },
+            {
+              "no": "2",
+              "type": "abc",
+              "stem": "Gäste mit kleinen Zelten …",
+              "options": {
+                "a": "sollen ihr Zelt abbauen und nach Hause fahren.",
+                "b": "dürfen an einem anderen Ort übernachten.",
+                "c": "bekommen an der Rezeption ein neues Zelt."
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "items": [
+            { "no": "3", "type": "rf", "text": "Der Umzug beginnt früher als zuerst geplant.", "answer": "R" },
+            {
+              "no": "4",
+              "type": "abc",
+              "stem": "Tarek soll …",
+              "options": {
+                "a": "Essen mitbringen.",
+                "b": "direkt zur neuen Wohnung kommen.",
+                "c": "ein Werkzeug mitnehmen."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "items": [
+            { "no": "5", "type": "rf", "text": "Im Sommer fehlt es den Krankenhäusern oft an Blut.", "answer": "R" },
+            {
+              "no": "6",
+              "type": "abc",
+              "stem": "Wer zum ersten Mal Blut spenden möchte, …",
+              "options": {
+                "a": "darf nicht über 64 sein.",
+                "b": "muss vorher auf das Frühstück verzichten.",
+                "c": "braucht eine Bescheinigung vom Arzt."
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "items": [
+            { "no": "7", "type": "rf", "text": "Die Eltern von Jonas sollen ins Restaurant kommen.", "answer": "F" },
+            {
+              "no": "8",
+              "type": "abc",
+              "stem": "Heute …",
+              "options": {
+                "a": "bekommen alle Kunden Rabatt auf Lampen.",
+                "b": "ist das Restaurant den ganzen Tag geschlossen.",
+                "c": "kann man nachmittags noch Kuchen essen."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 5",
+          "items": [
+            { "no": "9", "type": "rf", "text": "Herr Lorenz fliegt am 3. Mai früher als geplant.", "answer": "F" },
+            {
+              "no": "10",
+              "type": "abc",
+              "stem": "Die Reiseunterlagen …",
+              "options": {
+                "a": "muss Herr Lorenz persönlich im Büro abholen.",
+                "b": "kann Herr Lorenz auch per Mail bekommen.",
+                "c": "kosten eine zusätzliche Gebühr."
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Sie wohnen in einem Mehrfamilienhaus. Bei einer Mieterversammlung informiert Herr Kraft von der Hausverwaltung über die Renovierung des Hauses.",
+      "items": [
+        {
+          "no": "11",
+          "stem": "Das Gerüst …",
+          "options": {
+            "a": "wird nur für die neuen Fenster aufgestellt.",
+            "b": "steht mehrere Monate am Haus.",
+            "c": "wird im Juli abgebaut."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "12",
+          "stem": "Den Termin für die neuen Fenster …",
+          "options": {
+            "a": "erfahren die Mieter vorher schriftlich.",
+            "b": "können sich die Mieter selbst aussuchen und ändern.",
+            "c": "vereinbart jeder Mieter direkt mit dem Hausmeister."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "13",
+          "stem": "Für die Monate Juli und August …",
+          "options": {
+            "a": "müssen die Mieter einen Antrag stellen.",
+            "b": "steigt die Miete um 40 Euro.",
+            "c": "zahlen die Mieter weniger Miete."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "14",
+          "stem": "Nach der Renovierung …",
+          "options": {
+            "a": "wird die Wohnung etwas teurer.",
+            "b": "bleibt die Miete so hoch wie vorher.",
+            "c": "steigen die Heizkosten."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "15",
+          "stem": "Wer ein Auto hat, …",
+          "options": {
+            "a": "kann auf dem Hof parken.",
+            "b": "muss sich in der Nähe einen Parkplatz mieten.",
+            "c": "parkt gratis in einer anderen Straße."
+          },
+          "answer": "c"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+      "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Sie sind auf einer Geburtstagsfeier und hören, wie sich zwei Gäste, Katja und Ömer, unterhalten.",
+      "items": [
+        { "no": "16", "text": "Katja hat ihren Beruf gewechselt, weil ihr die Arbeit im Büro keinen Spaß mehr gemacht hat.", "answer": "F" },
+        { "no": "17", "text": "Während der Ausbildung hatte Katja kein Einkommen.", "answer": "F" },
+        { "no": "18", "text": "Vor ihrer ersten Fahrt allein war Katja sehr nervös.", "answer": "R" },
+        { "no": "19", "text": "Katja findet das Fahren schwieriger als die Arbeitszeiten.", "answer": "F" },
+        { "no": "20", "text": "Ömer und sein Bruder haben ihren Imbisswagen selbst eingerichtet.", "answer": "R" },
+        { "no": "21", "text": "Am Anfang lief das Geschäft mit dem Imbisswagen schlecht.", "answer": "R" },
+        { "no": "22", "text": "Ömer will bald nur noch mit dem Imbisswagen arbeiten.", "answer": "F" }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+      "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Die Moderatorin der Radiosendung „Standpunkte“ diskutiert mit Sabine Krüger, Geschäftsführerin eines Regionalflughafens, und dem Verkehrsexperten Jonas Ebert von einem Umweltverband über die Frage: „Sollen Kurzstreckenflüge verboten werden?“",
+      "speakers": { "a": "Moderatorin", "b": "Sabine Krüger", "c": "Jonas Ebert" },
+      "example": { "no": "0", "text": "Schon seit Längerem wird gefordert, kurze Flüge zu verbieten.", "answer": "a" },
+      "items": [
+        { "no": "23", "text": "Für manche Reisende gibt es zum Flugzeug keine gute Alternative.", "answer": "b" },
+        { "no": "24", "text": "Wenn man alle Zeiten zusammenrechnet, ist der Zug auf manchen Strecken schneller.", "answer": "c" },
+        { "no": "25", "text": "Im Zug kann man unterwegs besser arbeiten als im Flugzeug.", "answer": "c" },
+        { "no": "26", "text": "In einem anderen Land gibt es ein solches Verbot bereits.", "answer": "a" },
+        { "no": "27", "text": "Ein Verbot würde Arbeitsplätze in der Region gefährden.", "answer": "b" },
+        { "no": "28", "text": "Bahnfahren müsste billiger werden.", "answer": "c" },
+        { "no": "29", "text": "Die Luftfahrt bemüht sich selbst um mehr Umweltschutz.", "answer": "b" },
+        { "no": "30", "text": "Inzwischen fliegen viel weniger Menschen innerhalb Deutschlands als vor einigen Jahren.", "answer": "a" }
+      ]
+    }
+  },
+  "schreiben": {
+    "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+    "tasks": [
+      {
+        "no": 1,
+        "minutes": 20,
+        "words": 80,
+        "situation": [
+          "Sie haben am Sonntag zum ersten Mal an einem Halbmarathon teilgenommen. Ein Freund/Eine Freundin von Ihnen möchte wissen, wie es war."
+        ],
+        "points": [
+          "Beschreiben Sie: Wie war der Lauf?",
+          "Begründen Sie: Warum haben Sie mitgemacht?",
+          "Machen Sie einen Vorschlag für ein gemeinsames Training."
+        ],
+        "post": null,
+        "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+        "model": {
+          "label": "E-Mail an eine Freundin, ca. 90 Wörter",
+          "text": "Betreff: Mein erster Halbmarathon!\n\nLiebe Anna,\n\nam Sonntag bin ich meinen ersten Halbmarathon gelaufen! Die Strecke führte am Rhein entlang und durch die Altstadt. Bei Kilometer 15 taten mir die Beine so weh, dass ich fast aufgehört hätte. Nach zwei Stunden und zehn Minuten war ich im Ziel – total müde, aber glücklich.\n\nMitgemacht habe ich, weil ich nach meiner Knieoperation wieder fit werden wollte. Außerdem wollte ich mir selbst zeigen, dass ich das schaffe.\n\nHast du Lust, mit mir zu trainieren? Wir könnten jeden Samstagmorgen zusammen im Park laufen.\n\nLiebe Grüße\nLuca"
+        },
+        "typicalErrors": "Der Lauf wird beschrieben, aber der Grund fehlt · Vorschlag ohne Zeitpunkt · Sie statt du."
+      },
+      {
+        "no": 2,
+        "minutes": 25,
+        "words": 80,
+        "situation": [
+          "Sie haben im Fernsehen eine Diskussionssendung zum Thema „Hunde am Arbeitsplatz – eine gute Idee?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+        ],
+        "points": [],
+        "post": {
+          "site": "www.tv-arbeitswelt.de",
+          "label": "Gästebuch",
+          "author": "Carina · 12.09. 20:41 Uhr",
+          "text": "In unserer Firma dürfen alle ihren Hund mit ins Büro bringen. Ich finde das super: Die Stimmung ist viel entspannter, und mittags gehen wir zusammen spazieren. Ein Kollege hat allerdings eine Hundeallergie und arbeitet jetzt meistens im Homeoffice. Das ist doch auch keine Lösung."
+        },
+        "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+        "model": {
+          "label": "Diskussionsbeitrag, ca. 95 Wörter",
+          "text": "Carina spricht ein interessantes Thema an. Ich kann verstehen, dass ein Hund im Büro die Stimmung verbessert. Viele Menschen sind entspannter, wenn ein Tier in der Nähe ist, und gemeinsame Spaziergänge sind gut für das Team.\n\nTrotzdem bin ich eher dagegen. Nicht alle mögen Hunde, manche haben Angst oder eine Allergie wie Carinas Kollege. Es ist nicht fair, wenn diese Menschen deshalb zu Hause arbeiten müssen.\n\nVielleicht wäre es eine Lösung, Hunde nur in bestimmten Räumen zu erlauben. So könnten alle zufrieden sein."
+        },
+        "typicalErrors": "Carinas Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+      },
+      {
+        "no": 3,
+        "minutes": 15,
+        "words": 40,
+        "situation": [
+          "Ihre Nachbarin, Frau Roth, ist im Urlaub. Sie haben versprochen, zwei Wochen lang ihre Blumen zu gießen. Jetzt müssen Sie aber für ein paar Tage dringend verreisen."
+        ],
+        "points": [],
+        "post": null,
+        "instruction": "Schreiben Sie an Frau Roth. Entschuldigen Sie sich höflich, erklären Sie die Situation und machen Sie einen Vorschlag. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+        "model": {
+          "label": "E-Mail an die Nachbarin, ca. 50 Wörter",
+          "text": "Sehr geehrte Frau Roth,\n\nleider muss ich morgen für vier Tage zu meiner Mutter fahren, weil sie krank ist. Es tut mir sehr leid, dass ich Ihre Blumen in dieser Zeit nicht gießen kann. Meine Freundin, Frau Ilić, würde das gern übernehmen. Darf ich ihr Ihren Schlüssel geben?\n\nMit freundlichen Grüßen\nDaniel Weber"
+        },
+        "typicalErrors": "Kein Vorschlag, wer die Blumen gießt · Hallo Frau Roth oder Liebe Grüße · keine Entschuldigung."
+      }
+    ]
+  },
+  "notes": "Alle 60 Lösungen (Lesen 1–30, Hören 1–30) aus dem Lösungsschlüssel (S. 17) übernommen und mit dem Kommentar (S. 20–21) abgeglichen. Beispiele laut markierten Kästchen auf den Aufgabenseiten: Lesen 1 R, Lesen 2 b, Lesen 3 b (Anzeige im Blank), Lesen 4 Paula N, Hören 1 01 R und 02 a, Hören 4 a. Lesen 5 hat kein Beispiel. Zweispaltige Texte (Lesen 2, Lesen 4, Lesen 5 Items) nach Seitenbild in Spaltenreihenfolge zusammengesetzt. Anzeigen: Dekor (Logos, Symbole, Karomuster, Rahmen, Icon in e) weggelassen; „10 MIN“ in e als tag (Uhr-Symbol im Original); Titel und Untertitel nach Schriftbild verteilt (z. B. c: Name der Trattoria als header, PASTA-KURS als title; j: „— WEINBAR —“ als header WEINBAR); in a, b, c, e, g Preis-/Kontaktzeilen als footer mit „ · “ verbunden. Layouts (design) pro Anzeige frei gewählt, alle verschieden. Lesen 3: Situation 15 hat keine passende Anzeige (0); h, i, j bleiben unbenutzt. Hören: Textquelle der Beispielantworten ist die markierte Box (Seite 9, 12), Hörtext zur Kontrolle gelesen (Beispiel 01 R, 02 a stimmen). Schreiben: Musterlösungen von S. 18 (drei Spalten getrennt gelesen); Typische Fehler ohne führende Ziffer. Validator-Warnung bei hoeren.t3.19 („Arbeitszeiten“ im Original-Item) ist ein Fehlalarm der Kopfzeilen-Regex; der Text ist wortgetreu."
+}

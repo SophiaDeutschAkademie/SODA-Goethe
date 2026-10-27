@@ -1,0 +1,848 @@
+{
+ "id": 6,
+ "roman": "VI",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "ute-im-gruenen.de · Ute",
+    "date": "Samstag, 20. Juli",
+    "title": "Summende Mitbewohner",
+    "paragraphs": [
+     "Vor einem Jahr hätte ich jeden ausgelacht, der mir gesagt hätte, dass ich einmal Imkerin werde. Über Bienen wusste ich damals nur zwei Dinge: Sie machen Honig, und sie stechen. Dann hat mein Sohn Paul in der Schule ein Projekt über das Bienensterben gemacht und mir so lange davon erzählt, bis ich mich im Herbst beim Imkerverein für einen Anfängerkurs angemeldet habe.",
+     "Im März haben wir zum ersten Mal an echten Bienenkästen gearbeitet, und meine Hände haben vor Angst gezittert. Herr Brandl, unser Kursleiter, imkert seit vierzig Jahren und hat nur gesagt: „Ruhig bleiben. Bienen merken, wenn du nervös bist.“",
+     "Ein Bienenvolk kostet beim Züchter etwa 200 Euro, dazu kommen Kasten, Werkzeug und Schutzkleidung. Mein Volk habe ich aber von Herrn Brandl bekommen: Im April hat er mir einen Kasten in den Garten gestellt und gesagt, er sei froh, wenn jemand Neues anfängt. Nur die Ausrüstung musste ich selbst bezahlen.",
+     "Mit unserer Nachbarin, Frau Kessler, gab es am Anfang Ärger. Sie kam gleich am zweiten Tag herüber, weil sie Angst um ihre Enkel hatte. Ich habe ihr den Kasten gezeigt und erklärt, dass Bienen nur stechen, wenn man sie stört. Inzwischen sitzt sie manchmal mit einer Tasse Kaffee am Zaun und schaut den Bienen zu.",
+     "Zweimal pro Woche schaue ich nach den Bienen. Den Schutzanzug ziehe ich dafür inzwischen nicht mehr an; Schleier und Handschuhe reichen mir. Nur beim Honigernten bin ich von Kopf bis Fuß eingepackt. Gestochen wurde ich trotzdem schon dreimal – immer am Handgelenk.",
+     "Letzte Woche war es dann so weit: die erste Ernte. Zwölf Gläser sind es geworden, und ich habe noch nie so leckeren Honig gegessen. Paul wollte sofort einen Stand vor dem Haus aufbauen, aber für einen Verkauf ist das viel zu wenig. Die Hälfte haben wir an Familie und Nachbarn verschenkt – Frau Kessler hat natürlich das erste Glas bekommen.",
+     "Im nächsten Frühjahr kommt ein zweites Volk dazu; Herr Brandl hat schon eins für mich reserviert. Mehr als zwei sollen es aber nicht werden – mein Garten ist klein, und ich will im Sommer auch noch Zeit für anderes haben."
+    ],
+    "closing": "Summende Grüße, Ute"
+   },
+   "example": {
+    "no": "0",
+    "text": "Ute hat seit diesem Frühjahr eigene Bienen.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Schon vor dem Kurs kannte sich Ute gut mit Bienen aus.",
+     "answer": "F"
+    },
+    {
+     "no": "2",
+     "text": "Für ihr erstes Bienenvolk musste Ute nichts bezahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "3",
+     "text": "Frau Kessler hatte von Anfang an nichts gegen die Bienen.",
+     "answer": "F"
+    },
+    {
+     "no": "4",
+     "text": "Ute trägt bei der Arbeit an den Bienen immer ihren Schutzanzug.",
+     "answer": "F"
+    },
+    {
+     "no": "5",
+     "text": "Mit ihrem Honig hat Ute bisher kein Geld verdient.",
+     "answer": "R"
+    },
+    {
+     "no": "6",
+     "text": "Ute möchte im nächsten Jahr mehr Bienen halten als jetzt.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Besuch in der Nacht",
+     "lead": "In Waldhagen kommen Wildschweine bis in die Gärten – die Stadt sucht nach Lösungen.",
+     "paragraphs": [
+      "Frank Lehner traute seinen Augen nicht: Als er an einem Sonntagmorgen im Oktober aus dem Fenster sah, war sein Rasen vollständig umgegraben. In der Nacht hatte eine Gruppe Wildschweine den Garten nach Würmern und Wurzeln durchsucht. Lehner ist kein Einzelfall. In Waldhagen, einer Kleinstadt direkt am Wald, kommen die Tiere seit zwei Jahren immer häufiger in die Wohngebiete. Nicht nur Gärten, auch Spielplätze, Friedhöfe und der Sportplatz der Grundschule wurden schon umgegraben. „Sie finden hier einfach mehr zu fressen als im Wald“, erklärt Förster Uwe Kamps. Schuld seien vor allem offene Mülltonnen, Obst, das unter den Bäumen liegen bleibt, und Komposthaufen. Manche Bewohner füttern die Tiere sogar, weil sie sie niedlich finden – obwohl das verboten ist und bis zu 5.000 Euro Strafe kosten kann. Angriffe auf Menschen sind selten. Wer einem Wildschwein begegnet, sollte stehen bleiben, langsam zurückgehen und dem Tier einen Weg zur Flucht lassen. Vorsichtig sein sollte man vor allem im Frühjahr, wenn die Mütter ihre Jungen verteidigen. Die Stadt hat inzwischen ein Wildtiertelefon eingerichtet, bei dem man Begegnungen melden kann. Außerdem verteilt sie kostenlos Schlösser für Mülltonnen. Wer sein Fallobst nicht selbst aufsammeln kann, bekommt Hilfe von der Stadtgärtnerei. Jagen darf in den Gärten niemand, und daran soll sich auch nichts ändern. Stattdessen will die Stadt im Frühjahr einen Zaun am Waldrand testen – zunächst auf einem Kilometer Länge."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Frank Lehner …",
+      "options": {
+       "a": "hat die Wildschweine in seinem Garten beobachtet.",
+       "b": "hat am Morgen gesehen, was die Tiere angerichtet hatten.",
+       "c": "hat die Tiere in der Nacht gefüttert."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Wildtiere, die immer öfter in eine Stadt kommen.",
+        "b": "einen Förster, der im Wald die Wildschweine zählt.",
+        "c": "Bewohner, die gegen einen neuen Zaun protestieren."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "8",
+       "stem": "Die Tiere kommen in die Wohngebiete, weil …",
+       "options": {
+        "a": "sie im Wald immer weniger Platz zum Leben haben.",
+        "b": "sie in den Gärten vor den Jägern sicher sind.",
+        "c": "es dort mehr Futter gibt."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "9",
+       "stem": "Die Stadt …",
+       "options": {
+        "a": "erlaubt den Bewohnern, die Tiere in ihren Gärten zu jagen.",
+        "b": "hilft den Bewohnern dabei, ihren Müll vor Tieren zu sichern.",
+        "c": "hat am Waldrand bereits einen kilometerlangen Zaun aufgestellt."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Kühle Zuflucht an heißen Tagen",
+     "lead": "In Graz öffnen bei großer Hitze Pfarrsäle und Seniorenzentren ihre Türen für alle, die sich abkühlen möchten.",
+     "paragraphs": [
+      "Wenn das Thermometer in Graz über 30 Grad steigt, hängt vor dem Pfarrsaal St. Leonhard ein blaues Schild: „Kühler Raum – Eintritt frei“. Drinnen stehen Liegestühle, ein Wasserspender und ein Regal mit Zeitungen und Gesellschaftsspielen. Auch am Nachmittag ist es hier mit 23 Grad angenehm kühl. Zweimal pro Woche kommt eine Krankenschwester vorbei und misst auf Wunsch den Blutdruck. Heuer* gibt es in der Stadt bereits vierzehn solcher Räume, die meisten in Pfarrsälen, Seniorenzentren und Bibliotheken. Gedacht ist das Angebot vor allem für ältere Menschen, die allein leben und in ihren Wohnungen unter der Hitze leiden. „Viele trinken zu wenig, weil sie keinen Durst spüren, und merken nicht, wie gefährlich das ist“, sagt die Ärztin Andrea Pichler, die das Projekt mitentwickelt hat. Gekommen sind bisher aber auch viele Mütter mit Babys und Menschen ohne Wohnung; an manchen Nachmittagen sind alle Liegestühle besetzt. Wer den Weg nicht allein schafft, kann sich von Freiwilligen des Roten Kreuzes abholen lassen; ein Anruf am Vortag genügt. Das größte Problem: Gerade die Menschen, für die das Angebot gedacht ist, verlassen bei Hitze ihre Wohnung oft gar nicht. Deshalb rufen Ehrenamtliche an heißen Tagen ältere Menschen an, die sich vorher dafür angemeldet haben, und fragen, wie es ihnen geht. Im nächsten Sommer sollen die Räume auch am Wochenende geöffnet sein – bisher schließen sie am Freitag um 18 Uhr."
+     ],
+     "footnote": "*heuer = österreichischer Standard für „in diesem Jahr“",
+     "source": "aus einer österreichischen Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Ärzte, die ältere Menschen an heißen Tagen zu Hause besuchen.",
+        "b": "eine Stadt, in der es im Sommer nicht genug Trinkwasser gibt.",
+        "c": "Orte, an denen man sich bei Hitze abkühlen kann."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "11",
+       "stem": "Wer nicht allein zu einem kühlen Raum kommen kann, …",
+       "options": {
+        "a": "bekommt für die Fahrt ein kostenloses Taxi der Stadt.",
+        "b": "wird nach vorheriger Anmeldung von Helfern gebracht.",
+        "c": "wird an heißen Tagen von einer Ärztin angerufen."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "12",
+       "stem": "Ein Problem ist, dass …",
+       "options": {
+        "a": "ältere Menschen bei Hitze oft zu Hause bleiben.",
+        "b": "an den Wochenenden zu viele Besucher kommen.",
+        "c": "es auch in den Räumen am Nachmittag oft zu warm wird."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Bekannten suchen eine Wohnung oder ein Zimmer.",
+   "example": {
+    "no": "0",
+    "text": "Malik beginnt im Oktober sein Studium und sucht ein günstiges Zimmer in der Nähe der Uni.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Frau Ivanova arbeitet ab März für vier Monate als Krankenschwester in der Stadt. Eigene Möbel möchte sie nicht mitbringen.",
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "text": "Familie Brandt hat zwei Kinder und einen Hund. Sie braucht mehr Platz und möchte im Sommer draußen sitzen können.",
+     "answer": "f"
+    },
+    {
+     "no": "15",
+     "text": "Herr und Frau Yilmaz, beide über siebzig, suchen eine Wohnung für die nächsten Jahre. Treppen sind für sie ein Problem; Geschäfte und Ärzte sollen zu Fuß erreichbar sein.",
+     "answer": "g"
+    },
+    {
+     "no": "16",
+     "text": "Carla studiert und hat wenig Geld. Sie würde einem älteren Menschen gern im Alltag helfen, wenn sie dafür weniger Miete zahlt.",
+     "answer": "a"
+    },
+    {
+     "no": "17",
+     "text": "Herr Becker lebt allein und arbeitet von zu Hause aus. Er braucht einen eigenen Raum für seine Arbeit und möchte nicht im Zentrum wohnen.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Herr und Frau Klein möchten in die Innenstadt ziehen und ihre beiden Katzen mitnehmen.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Jan ist 26 und arbeitet als Koch. Er möchte mit Leuten in seinem Alter zusammenwohnen, aber nicht mit Studenten.",
+     "answer": "i"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "notebook",
+     "header": "",
+     "tag": "",
+     "title": "WOHNEN FÜR HILFE",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ältere Menschen bieten Studierenden ein Zimmer an. Statt Miete zu zahlen, helfen Sie beim Einkaufen, im Garten oder im Haushalt: pro Quadratmeter eine Stunde im Monat. Nur die Nebenkosten zahlen Sie selbst."
+     ],
+     "footer": "Studierendenwerk · Beratung Mo–Do 10–14 Uhr"
+    },
+    {
+     "letter": "b",
+     "design": "inverse",
+     "header": "",
+     "tag": "",
+     "title": "ZIMMER FREI",
+     "subtitle": "STUDENTENWOHNHEIM AM CAMPUS",
+     "facts": [],
+     "body": [
+      "Einzelzimmer mit eigenem Bad ab 290 Euro warm, fünf Minuten zu Fuß zur Universität. Gemeinschaftsküche auf jeder Etage, WLAN inklusive. Nur für eingeschriebene Studierende. Bewerbungen ab dem 1. Juli online."
+     ],
+     "footer": "wohnheim-am-campus.de · ab Oktober"
+    },
+    {
+     "letter": "c",
+     "design": "corp",
+     "header": "Apartmenthaus Kranich",
+     "tag": "Wohnen auf Zeit",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Voll möblierte Apartments am Hauptbahnhof – mit Küche, Bettwäsche und wöchentlicher Reinigung. Für Berufstätige, die vorübergehend in der Stadt arbeiten. Mietdauer drei bis zwölf Monate. Haustiere sind leider nicht erlaubt."
+     ],
+     "footer": "0421 / 66 70 80 · kranich-apartments.de"
+    },
+    {
+     "letter": "d",
+     "design": "ticket",
+     "deco": {
+      "stub": "7 · ALTSTADT"
+     },
+     "header": "",
+     "tag": "",
+     "title": "Ferienwohnung Altstadtblick",
+     "subtitle": "MITTEN IN DER ALTSTADT",
+     "facts": [],
+     "body": [
+      "Gemütliche Zwei-Zimmer-Wohnung für zwei bis vier Gäste, buchbar für mindestens drei Nächte und höchstens drei Wochen. Hunde und Katzen sind bei uns herzlich willkommen!"
+     ],
+     "footer": "Buchung: altstadtblick.de"
+    },
+    {
+     "letter": "e",
+     "design": "classified",
+     "header": "KLEINANZEIGEN",
+     "tag": "VERMIETUNG",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "REIHENHAUS MIT GARTEN am Stadtpark, 5 Zimmer, 125 m², Garage, frei ab 1. September. Nur an Familien mit Kindern, keine Haustiere. Kaltmiete 1.480 Euro plus Nebenkosten."
+     ],
+     "footer": "Tel. 0421 / 22 81 90 (ab 18 Uhr)"
+    },
+    {
+     "letter": "f",
+     "design": "stamp",
+     "header": "WOHNUNGSGENOSSENSCHAFT",
+     "tag": "NEUBAU",
+     "title": "Lindenhof",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Am Stadtrand entstehen Vier-Zimmer-Wohnungen für Familien mit Kindern, jede mit eigenem kleinem Garten. Spielplatz im Innenhof, Kita und Grundschule in der Nähe. Haustiere sind erlaubt. Einzug ab Herbst."
+     ],
+     "footer": "Infotag: Samstag, 14 Uhr · Lindenhof 3"
+    },
+    {
+     "letter": "g",
+     "design": "mono",
+     "header": "MIETWOHNUNG · EXPOSÉ NR. 112",
+     "tag": "",
+     "title": "Barrierefrei wohnen am Marktplatz",
+     "subtitle": "",
+     "facts": [
+      "Zimmer · 2",
+      "Wohnfläche · 58 m²",
+      "Etage · 3. OG, Aufzug",
+      "Eingang · stufenlos",
+      "Im Haus · Supermarkt, Hausarzt",
+      "Haustiere · nein",
+      "Warmmiete · 890 €"
+     ],
+     "body": [],
+     "footer": "Hausverwaltung Koch · 0421 / 50 40 30"
+    },
+    {
+     "letter": "h",
+     "design": "speech",
+     "header": "",
+     "tag": "",
+     "title": "Mehrgenerationen-WG Sonnenwinkel",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Bei uns wohnen Jung und Alt zusammen: Studierende, Berufstätige und Rentner. Jeder hat ein eigenes Zimmer mit Bad; Küche und Garten teilen wir. Gesucht: Mitbewohner, die länger bleiben und gern etwas gemeinsam unternehmen."
+     ],
+     "footer": "Am Ortsrand · Bus alle 30 Minuten · sonnenwinkel-wg.de"
+    },
+    {
+     "letter": "i",
+     "design": "browser",
+     "deco": {
+      "button": "Antworten"
+     },
+     "header": "WG-BÖRSE",
+     "tag": "jetzt",
+     "title": "Zimmer frei in Berufstätigen-WG",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir sind drei Berufstätige zwischen 25 und 32 und suchen ab Mai einen netten Mitbewohner. 16-m²-Zimmer, unmöbliert, unbefristet, 420 Euro warm. Bitte keine Studierenden. Haustiere leider nicht (Allergie)."
+     ],
+     "footer": "Später · Antworten"
+    },
+    {
+     "letter": "j",
+     "design": "dashed",
+     "header": "",
+     "tag": "",
+     "title": "3-Zimmer-Wohnung",
+     "subtitle": "STADTRAND NORD",
+     "facts": [],
+     "body": [
+      "Helle Wohnung im 3. Stock (ohne Aufzug), ruhige Lage, Bus ins Zentrum. Ein Zimmer eignet sich als Arbeitszimmer. Ideal für Singles oder Paare. Warmmiete 960 Euro."
+     ],
+     "footer": "Tel. 0421 / 73 12 45"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für ein Verbot von privatem Feuerwerk an Silvester, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Städte, die privates Feuerwerk an Silvester verbieten wollen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.stadtleben-magazin.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Werner",
+    "byline": "Werner, 61, Dortmund",
+    "text": "Silvester ohne Raketen? Das kann ich mir nicht vorstellen. Seit meiner Kindheit gehen wir um Mitternacht mit der ganzen Familie auf die Straße, stoßen mit den Nachbarn an und schauen in den bunten Himmel. Natürlich muss man vorsichtig sein und hinterher aufräumen. Aber einmal im Jahr darf es ruhig laut werden. Wer seine Ruhe will, kann ja für ein paar Tage aufs Land fahren.",
+    "answer": "N"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Sabine",
+     "byline": "Sabine, 44, Hannover",
+     "text": "Ich arbeite als Tierärztin, und für mich ist Silvester die schlimmste Nacht des Jahres. Hunde verstecken sich stundenlang unter dem Bett, Katzen laufen in Panik weg, und am Neujahrstag bringen mir Leute Vögel, die gegen Fensterscheiben geflogen sind. Ein großes Feuerwerk der Stadt, weit weg von den Wohnhäusern, wäre für mich in Ordnung. Die Knallerei in jeder einzelnen Straße muss aber endlich aufhören.",
+     "answer": "J"
+    },
+    {
+     "no": "21",
+     "name": "Markus",
+     "byline": "Markus, 39, Köln",
+     "text": "Ich kann gut verstehen, dass sich viele über den Lärm und den Müll am Neujahrsmorgen ärgern. Trotzdem halte ich ein Verbot für den falschen Weg. Wer soll das in dieser Nacht kontrollieren? Die Polizei hat schon jetzt genug zu tun. Die Leute würden ihre Raketen dann eben im Ausland kaufen, und die sind oft viel gefährlicher als die geprüften Produkte bei uns.",
+     "answer": "N"
+    },
+    {
+     "no": "22",
+     "name": "Eva",
+     "byline": "Eva, 52, Salzburg",
+     "text": "Statt alles zu verbieten, sollte jede Stadt Zonen festlegen: In der Altstadt und in der Nähe von Krankenhäusern und Altenheimen darf niemand Böller zünden, auf großen Plätzen und Wiesen am Stadtrand dagegen schon. So hätten alle etwas davon – die Familien, die gern feiern, und die Menschen, die ihre Ruhe brauchen. Bei uns funktioniert das seit drei Jahren erstaunlich gut.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Dennis",
+     "byline": "Dennis, 35, Leipzig",
+     "text": "Früher habe ich jedes Jahr für mindestens hundert Euro Raketen gekauft und mich wochenlang darauf gefreut. Letztes Silvester hat dann ein Böller die Fensterscheibe im Kinderzimmer zerstört – zum Glück hat unser Sohn an diesem Abend bei den Großeltern geschlafen. Seitdem sehe ich die Sache anders: Ein paar Minuten Spaß sind dieses Risiko nicht wert. Ich hoffe, dass unsere Stadt bald handelt.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Helga",
+     "byline": "Helga, 68, Graz",
+     "text": "Meine Enkel finden Feuerwerk wunderbar, und mein Mann würde am liebsten selbst noch Raketen in den Himmel schießen. Ich sehe das ganz anders, auch wenn ich damit in meiner Familie allein bin. Ich habe vierzig Jahre lang als Krankenschwester in der Notaufnahme gearbeitet und jedes Jahr an Silvester verbrannte Hände und verletzte Augen gesehen, oft bei Jugendlichen. Das alles muss wirklich nicht sein.",
+     "answer": "J"
+    },
+    {
+     "no": "25",
+     "name": "Leonie",
+     "byline": "Leonie, 29, Bremen",
+     "text": "Ich wäre sofort dafür, wenn die Stadt stattdessen ein schönes gemeinsames Feuerwerk am Fluss organisieren würde, wie es viele andere Städte machen. Das hat unser Bürgermeister aber schon abgelehnt – zu teuer, sagt er. Dann soll man den Leuten wenigstens ihre eigenen Raketen lassen. Ein Jahreswechsel ganz ohne Lichter am Himmel wäre für viele, besonders für die Kinder, einfach traurig.",
+     "answer": "N"
+    },
+    {
+     "no": "26",
+     "name": "Ralf",
+     "byline": "Ralf, 57, Kassel",
+     "text": "Am Neujahrsmorgen sieht unsere Straße jedes Mal aus wie eine Müllhalde: Papier, Plastik und Glasflaschen überall, und aufräumen müssen am Ende wir Anwohner. Dazu kommt die Luft: In dieser einen Nacht misst man so viel Feinstaub wie sonst in mehreren Wochen. Für mich ist die Sache klar: Raketen und Böller gehören nicht in die Hände von Privatleuten.",
+     "answer": "J"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Ihr Sohn geht ab September in eine Kindertagesstätte. Sie lesen die Kita-Ordnung.",
+   "doc": {
+    "title": "KITA-ORDNUNG · KITA SONNENBLUME",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Öffnungszeiten",
+      "text": "Die Kita ist montags bis freitags von 7 bis 17 Uhr geöffnet; ab 16 Uhr werden die Gruppen zusammengelegt. Bitte bringen Sie Ihr Kind bis spätestens 9 Uhr, denn dann beginnt das gemeinsame Frühstück. Wenn Sie später kommen, melden Sie sich bitte vorher telefonisch in der Gruppe."
+     },
+     {
+      "heading": "Abholen",
+      "text": "Wir übergeben Kinder nur an die Eltern oder an Personen, die Sie uns bei der Anmeldung schriftlich genannt haben. Soll ausnahmsweise jemand anders Ihr Kind abholen, geben Sie uns bitte vorher eine unterschriebene Vollmacht. Die abholende Person muss außerdem einen Ausweis vorzeigen."
+     },
+     {
+      "heading": "Krankheit",
+      "text": "Kranke Kinder dürfen die Kita nicht besuchen. Nach Fieber, Erbrechen oder Durchfall muss Ihr Kind mindestens 24 Stunden ohne Beschwerden gewesen sein, bevor es wiederkommt. Medikamente geben wir nur nach schriftlicher Absprache. Bitte sagen Sie bis 8.30 Uhr Bescheid, wenn Ihr Kind fehlt."
+     },
+     {
+      "heading": "Essen",
+      "text": "Frühstück, Mittagessen und ein Snack am Nachmittag sind im Monatsbeitrag enthalten. Süßigkeiten geben Sie Ihrem Kind bitte nicht mit, auch nicht zum Geburtstag; dafür backen wir an diesem Tag gemeinsam in der Gruppe einen Kuchen. Allergien teilen Sie uns bitte mit einem ärztlichen Attest mit."
+     },
+     {
+      "heading": "Schließzeiten",
+      "text": "In den Sommerferien bleibt die Kita drei Wochen geschlossen, außerdem zwischen Weihnachten und Neujahr. Wer in dieser Zeit keine Betreuung hat, kann sein Kind bis zum 31. März für die Notgruppe anmelden."
+     },
+     {
+      "heading": "Kündigung",
+      "text": "Der Betreuungsvertrag kann mit einer Frist von drei Monaten zum Monatsende gekündigt werden. Die Kündigung muss schriftlich bei der Kita-Leitung erfolgen; eine E-Mail reicht nicht."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wenn ausnahmsweise die Großmutter das Kind abholt, …",
+     "options": {
+      "a": "muss sie das vorher telefonisch in der Gruppe ankündigen.",
+      "b": "genügt es, wenn sie an der Tür ihren Ausweis zeigt.",
+      "c": "braucht die Kita eine schriftliche Erlaubnis der Eltern."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "stem": "Ein Kind, das am Montag Fieber hatte, …",
+     "options": {
+      "a": "darf erst wiederkommen, wenn es einen Tag lang gesund war.",
+      "b": "braucht ein ärztliches Attest, bevor es wieder in die Kita darf.",
+      "c": "darf am Dienstag wiederkommen, wenn das Fieber weg ist."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Zum Geburtstag eines Kindes …",
+     "options": {
+      "a": "dürfen die Eltern Süßigkeiten für alle mitbringen.",
+      "b": "müssen die Eltern einen Kuchen backen.",
+      "c": "macht die Gruppe gemeinsam einen Kuchen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "stem": "Wer in den Sommerferien arbeiten muss, …",
+     "options": {
+      "a": "kann sein Kind ohne Anmeldung in die Notgruppe bringen.",
+      "b": "muss sich früh um einen Betreuungsplatz kümmern.",
+      "c": "zahlt in diesen Wochen einen niedrigeren Beitrag."
+     },
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Herr Hofmann kann sein Auto heute abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Herr Hofmann soll …",
+     "options": {
+      "a": "vorher in der Werkstatt anrufen.",
+      "b": "den Ersatzschlüssel mitbringen.",
+      "c": "die Rechnung überweisen."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Auf der Talabfahrt kann man heute bis ganz nach unten fahren.",
+       "answer": "F"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Die Kinder der Skischule …",
+       "options": {
+        "a": "treffen sich heute an einem anderen Ort.",
+        "b": "haben heute Nachmittag keinen Kurs.",
+        "c": "beginnen ihren Kurs heute später als sonst."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Die Trauung findet früher statt, als Tim dachte.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Tim soll …",
+       "options": {
+        "a": "mit dem eigenen Auto zum Gasthof fahren.",
+        "b": "etwas für die neue Wohnung des Paares kaufen.",
+        "c": "Mara am Samstag Geld für das Paar geben."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die Anrufer melden einen Einbruch in der Wohnung der Angerufenen.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Wer so einen Anruf bekommt, soll …",
+       "options": {
+        "a": "die Rückruftaste drücken und bei der Polizei nachfragen.",
+        "b": "auflegen und selbst die Polizei anrufen.",
+        "c": "Wertsachen nur einem Polizisten in Uniform geben."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Führung beginnt heute zu einer anderen Uhrzeit als sonst.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Die Schließfächer …",
+       "options": {
+        "a": "kosten heute einen Euro pro Fach.",
+        "b": "sind heute wegen der Veranstaltung geschlossen.",
+        "c": "kosten am Ende nichts."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "An einem Tag pro Woche ist das Fundbüro auch nachmittags geöffnet.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Frau Nowak muss …",
+       "options": {
+        "a": "beim Abholen ein wenig Geld bezahlen.",
+        "b": "dem Finder einen Finderlohn zahlen.",
+        "c": "vorher anrufen und einen Termin machen."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie helfen als Freiwillige oder Freiwilliger beim Stadtlauf. Vor dem Start erklärt Frau Wagner vom Organisationsteam die Aufgaben.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Becher …",
+     "options": {
+      "a": "sollen möglichst voll sein.",
+      "b": "geben die Helfer den Läufern auf der Straße.",
+      "c": "füllt man nur bis zur Hälfte."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "stem": "Nach dem letzten Läufer …",
+     "options": {
+      "a": "holen die Helfer den Müll mit einem Auto ab.",
+      "b": "räumen die Helfer ihre Station selbst auf.",
+      "c": "ist die Arbeit der Helfer sofort zu Ende."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Wenn es einem Läufer schlecht geht, sollen die Helfer …",
+     "options": {
+      "a": "nicht von seiner Seite gehen, bis Hilfe kommt.",
+      "b": "ihm etwas gegen die Schmerzen zu schlucken geben.",
+      "c": "ihn selbst zur nächsten Station bringen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Ein Mittagessen …",
+     "options": {
+      "a": "bekommen die Helfer direkt an ihrer Station.",
+      "b": "gibt es für die Helfer im Zelt am Start.",
+      "c": "gibt es für die Helfer erst am Nachmittag."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Wer mit dem Auto da ist, …",
+     "options": {
+      "a": "soll sein Auto jetzt woanders abstellen.",
+      "b": "darf den ganzen Tag an der Turnhalle stehen bleiben.",
+      "c": "bekommt von den Gruppenleitern einen Parkausweis."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sind auf dem Wochenmarkt und hören, wie sich zwei frühere Schulfreunde, Tanja und Martin, unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Tanja hat sich selbst für die Quizshow angemeldet.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "Vor der Einladung wurde Tanjas Wissen geprüft.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Als die Kameras liefen, war Tanja weniger aufgeregt.",
+     "answer": "R"
+    },
+    {
+     "no": "19",
+     "text": "Tanjas Mann konnte ihr bei der Frage über Fußball helfen.",
+     "answer": "F"
+    },
+    {
+     "no": "20",
+     "text": "Seit Martin nicht mehr raucht, ist er schwerer geworden.",
+     "answer": "R"
+    },
+    {
+     "no": "21",
+     "text": "Martins Arzt hat ihn dazu gebracht, mit dem Rauchen aufzuhören.",
+     "answer": "F"
+    },
+    {
+     "no": "22",
+     "text": "Seit dem Neujahrstag hat Martin keine einzige Zigarette mehr geraucht.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Die Moderatorin der Radiosendung „Standpunkte“ diskutiert mit der Hotelbesitzerin Ulrike Sander und dem Reiseblogger Felix Navarro über die Frage: „Kann man Bewertungen im Internet trauen?“",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Ulrike Sander",
+    "c": "Felix Navarro"
+   },
+   "example": {
+    "no": "0",
+    "text": "Viele Menschen informieren sich im Internet, bevor sie sich entscheiden.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Eine einzige falsche Bewertung hat dem Betrieb deutlich geschadet.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Gäste beschreiben ein Hotel realistischer als das Hotel selbst.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Ein Teil der Kommentare im Netz stammt nicht von echten Kunden.",
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "text": "Manche Gäste versuchen, mit Bewertungen Druck zu machen.",
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "text": "Bewertungen ohne sehr gute oder sehr schlechte Noten sind oft am hilfreichsten.",
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "text": "Es lohnt sich, auf negative Kommentare öffentlich zu reagieren.",
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "text": "Für Buchungsportale gelten inzwischen strengere Regeln.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Man sollte sich bei der Wahl nicht allein auf Bewertungen verlassen.",
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben vor einem Monat mit einem Tanzkurs angefangen. Ein Freund/Eine Freundin von Ihnen weiß noch nichts davon."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie ist der Kurs?",
+     "Begründen Sie: Warum haben Sie mit dem Tanzen angefangen?",
+     "Machen Sie einen Vorschlag, wie er/sie den Kurs kennenlernen kann."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an eine Freundin, ca. 90 Wörter",
+     "text": "Betreff: Ich tanze jetzt!\n\nLiebe Jana,\n\nstell dir vor: Seit einem Monat gehe ich jeden Mittwoch zu einem Salsakurs! Wir sind zwölf Leute, und unser Lehrer kommt aus Kuba. Er ist sehr geduldig, auch wenn ich ihm manchmal auf die Füße trete.\n\nAngefangen habe ich, weil ich den ganzen Tag am Schreibtisch und abends nur auf dem Sofa saß. Beim Tanzen bewege ich mich und lerne gleichzeitig neue Leute kennen.\n\nAm 12. Mai gibt es eine kostenlose Probestunde. Komm doch mit, dann kannst du es selbst ausprobieren!\n\nViele Grüße\nSofia"
+    },
+    "typicalErrors": "Nur der Kurs wird beschrieben, der Grund fehlt · Vorschlag ohne Zeitpunkt · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Fernsehen eine Sendung zum Thema „Markenkleidung für Kinder – muss das sein?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.tv-elternforum.de",
+     "label": "Gästebuch",
+     "author": "Martina · 15.03. 21:02 Uhr",
+     "text": "Meine Tochter ist 14 und will nur noch Kleidung von bestimmten Marken tragen. Eine Jacke kostet dann schnell 200 Euro, und ehrlich gesagt sehe ich kaum einen Unterschied. Aber sie sagt, ohne die richtigen Marken wird sie in der Schule ausgelacht. Soll ich nachgeben?"
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Martina spricht ein Problem an, das viele Eltern kennen. Ich verstehe, dass Jugendliche dazugehören möchten. Mit 14 ist es sehr wichtig, was die anderen in der Klasse denken.\n\nTrotzdem finde ich, dass Eltern nicht alles bezahlen müssen. Eine Idee wäre, dass Martina einen festen Betrag gibt, zum Beispiel so viel, wie eine normale Jacke kostet. Den Rest kann ihre Tochter vom Taschengeld oder mit einem kleinen Job bezahlen. So lernt sie, was Dinge wirklich kosten.\n\nIch selbst habe als Jugendliche auch lange für eine teure Jeans gespart – und sie danach viel besser gepflegt."
+    },
+    "typicalErrors": "Martinas Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Sie haben am Donnerstag um 10 Uhr einen Termin bei Ihrer Zahnärztin, Frau Dr. Hartwig. Sie können zu diesem Termin aber nicht kommen."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Frau Dr. Hartwig. Entschuldigen Sie sich höflich, nennen Sie den Grund und bitten Sie um einen neuen Termin. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an die Zahnarztpraxis, ca. 45 Wörter",
+     "text": "Sehr geehrte Frau Dr. Hartwig,\n\nleider kann ich am Donnerstag um 10 Uhr nicht zu meinem Termin kommen, weil ich kurzfristig für eine kranke Kollegin auf eine Messe fahren muss. Das tut mir sehr leid. Könnten Sie mir bitte einen neuen Termin geben, am besten nächste Woche am Nachmittag?\n\nMit freundlichen Grüßen\nKarim Aziz"
+    },
+    "typicalErrors": "Keine Bitte um einen neuen Termin · Hallo Frau Hartwig oder Liebe Grüße · kein Grund genannt."
+   }
+  ]
+ },
+ "notes": "Alle Lösungen aus dem Lösungsschlüssel (S. 17); Beispiele: Lesen 1 R (Ute hat Bienen seit Frühjahr), Lesen 2 b, Lesen 3 b (markiert), Lesen 4 Werner N (Box Nein markiert), Hören 1 01 R / 02 a nach Hörtext, Hören 4 Beispiel a (Moderatorin, nach Hörtext). Lesen 3: Anzeige i hat die Schaltflächen „Später“ und „Antworten“ (Später im footer, Antworten als deco.button); Anzeige j zeigt zusätzlich einen Grundriss mit den Raumnamen WOHNEN, SCHLAFEN, BÜRO, KÜCHE, BAD (nicht übernommen, nur Dekoration); Anzeige g: Tabelle als facts „Label · Wert“; Anzeige d: Schlüsselanhänger „7 ALTSTADT“ als deco.stub; Anzeige f: Eckband „NEUBAU“ als tag. Lesen 2 Text 2: Fußnote „*heuer“ steht im Text als „Heuer*“. Keine Widersprüche zwischen Schlüssel und Texten gefunden."
+}

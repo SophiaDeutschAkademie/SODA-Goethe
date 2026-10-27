@@ -1,0 +1,842 @@
+{
+  "id": 10,
+  "roman": "X",
+  "lesen": {
+    "t1": {
+      "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+      "blog": {
+        "site": "wieder-auf-den-beinen.de · Helmut",
+        "date": "Sonntag, 23. März",
+        "title": "Neues Knie mit 61",
+        "paragraphs": [
+          "Zwei Jahre lang habe ich die Schmerzen ignoriert. Erst konnte ich nicht mehr wandern, dann kaum noch Treppen steigen. Meine Frau hat mich schließlich zum Orthopäden geschickt – oder besser gesagt: Sie hat den Termin gemacht und mich hingefahren. Die Diagnose war eindeutig: Das rechte Knie war völlig kaputt, ich brauchte ein künstliches Gelenk.",
+          "Vor der Operation hatte ich mehr Angst als vor jeder Prüfung meines Lebens. Mein Nachbar, der vor drei Jahren die gleiche Operation hatte, hat mir Mut gemacht. „Am zweiten Tag läufst du schon über den Flur“, hat er gesagt. Trotzdem habe ich in der Nacht davor kaum geschlafen. Er hatte übrigens recht – allerdings mit Krücken und sehr, sehr langsam.",
+          "Nach einer Woche im Krankenhaus ging es für drei Wochen in eine Reha-Klinik im Schwarzwald. Eigentlich hätte ich lieber eine ambulante Reha in der Nähe gemacht, um abends zu Hause zu sein, aber dafür hätte ich jeden Tag mit dem Taxi fahren müssen. Im Nachhinein bin ich froh: In der Klinik hatte ich jeden Tag Physiotherapie, Training im Wasser und Zeit, mich nur um mein Knie zu kümmern.",
+          "Am schwierigsten war nicht der Schmerz, sondern die Geduld. Ich wollte jeden Tag Fortschritte sehen, und manchmal ging es zwei Tage lang gar nicht weiter. Dann war ich schlecht gelaunt und habe mit niemandem gesprochen. In solchen Momenten hat meine Physiotherapeutin Jana nur gesagt: „Ihr Knie ist nicht im Urlaub, es arbeitet.“",
+          "Jetzt bin ich seit vier Wochen wieder zu Hause. Die Krücken stehen in der Ecke, nur für längere Wege nehme ich noch eine mit. Treppen steige ich langsam, aber ohne Schmerzen. Autofahren darf ich erst nach der nächsten Kontrolle beim Arzt, deshalb fährt mich meine Frau zweimal pro Woche zur Physiotherapie.",
+          "Und das Wandern? Im Mai möchte ich mit meinem Wanderverein wieder mitgehen, zuerst nur die kurze Runde von acht Kilometern. Die große Alpentour im Sommer lasse ich dieses Jahr aus. Das tut weh, aber nicht so sehr wie mein altes Knie. Meine Wanderfreunde haben mir schon eine Karte geschrieben: Sie warten auf mich."
+        ],
+        "closing": "Euer Helmut"
+      },
+      "example": {
+        "no": "0",
+        "text": "Helmut hatte lange Zeit Probleme mit seinem Knie.",
+        "answer": "R"
+      },
+      "items": [
+        {
+          "no": "1",
+          "text": "Den Termin beim Orthopäden hat nicht Helmut selbst vereinbart.",
+          "answer": "R"
+        },
+        {
+          "no": "2",
+          "text": "Ein Bekannter hatte die gleiche Operation schon hinter sich.",
+          "answer": "R"
+        },
+        {
+          "no": "3",
+          "text": "Helmut wollte die Reha unbedingt in einer Klinik machen.",
+          "answer": "F"
+        },
+        {
+          "no": "4",
+          "text": "In der Reha waren die Schmerzen für Helmut das größte Problem.",
+          "answer": "F"
+        },
+        {
+          "no": "5",
+          "text": "Helmut fährt inzwischen wieder selbst mit dem Auto zur Physiotherapie.",
+          "answer": "F"
+        },
+        {
+          "no": "6",
+          "text": "Helmut wird in diesem Jahr auf eine längere Tour verzichten.",
+          "answer": "R"
+        }
+      ]
+    },
+    "t2": {
+      "texts": [
+        {
+          "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+          "title": "Ein Baum für jedes Baby",
+          "lead": "In Mittelbach pflanzt die Stadt für jedes neugeborene Kind einen Baum.",
+          "paragraphs": [
+            "Wenn in Mittelbach ein Kind zur Welt kommt, bekommen die Eltern seit drei Jahren nicht nur Glückwünsche vom Bürgermeister, sondern auch einen Brief mit einer besonderen Einladung: Im Herbst dürfen sie für ihr Kind einen Baum pflanzen. Etwa 600 Babys werden in der Stadt jedes Jahr geboren, entsprechend viele junge Bäume kommen dazu. Gepflanzt wird auf einer ehemaligen Wiese am Stadtrand, die inzwischen „Geburtswald“ heißt. Jeder Baum trägt ein kleines Schild mit dem Vornamen und dem Geburtsjahr des Kindes. Die Kosten von rund 80 Euro pro Baum übernimmt die Stadt; wer möchte, kann mit einer Spende helfen. Welche Baumart gepflanzt wird, entscheiden die Förster, denn nicht jeder Baum verträgt die immer trockeneren Sommer. „Am Anfang wollten viele Eltern Apfelbäume“, erzählt Förster Jens Hollmann. „Die passen hier aber nicht.“ Die größte Sorge sind die heißen Monate: Im letzten Sommer sind fast hundert junge Bäume vertrocknet. Seitdem gießen Freiwillige, oft die Familien selbst, die jungen Bäume nach einem festen Plan. Geht ein Baum trotzdem ein, wird er im nächsten Herbst kostenlos ersetzt. Für viele Eltern ist der Wald längst mehr als ein Umweltprojekt: Am Wochenende sieht man dort Familien beim Picknick, und Großeltern fotografieren ihre Enkel neben „ihrem“ Baum. Die Stadt plant nun einen Rundweg mit Bänken – und überlegt, das Angebot auf Kinder auszuweiten, die neu nach Mittelbach ziehen."
+          ],
+          "footnote": "",
+          "source": "aus einer deutschen Zeitung",
+          "example": {
+            "no": "0",
+            "stem": "Die Eltern eines neugeborenen Kindes …",
+            "options": {
+              "a": "bekommen vom Bürgermeister einen Baum geschenkt.",
+              "b": "werden zu einer Pflanzaktion eingeladen.",
+              "c": "müssen für den Baum eine Gebühr zahlen."
+            },
+            "answer": "b"
+          },
+          "items": [
+            {
+              "no": "7",
+              "stem": "In diesem Text geht es um …",
+              "options": {
+                "a": "einen Förster, der in einem trockenen Wald neue Baumarten testet.",
+                "b": "eine Stadt, die für jedes neue Kind einen Baum pflanzt.",
+                "c": "Eltern, die einen Wald gekauft haben."
+              },
+              "answer": "b"
+            },
+            {
+              "no": "8",
+              "stem": "Welche Bäume gepflanzt werden, …",
+              "options": {
+                "a": "dürfen die Eltern selbst aussuchen.",
+                "b": "hängt von der Spende der Familie ab.",
+                "c": "entscheiden Fachleute."
+              },
+              "answer": "c"
+            },
+            {
+              "no": "9",
+              "stem": "Wenn ein junger Baum vertrocknet, …",
+              "options": {
+                "a": "pflanzt die Stadt einen neuen.",
+                "b": "müssen die Eltern einen neuen kaufen.",
+                "c": "bleibt die Stelle im Wald leer."
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+          "title": "Der Zaun, den man nicht sieht",
+          "lead": "Auf einer Alp* im Kanton Graubünden tragen Kühe GPS-Halsbänder statt Zäune.",
+          "paragraphs": [
+            "Auf der Alp Furna im Kanton Graubünden sucht man die Zäune vergeblich. Trotzdem bleiben die 80 Kühe von Bauer Reto Casutt brav auf ihrer Weide. Jede trägt ein Halsband mit GPS-Empfänger. Auf dem Handy legt Casutt fest, wo die Tiere grasen dürfen. Nähert sich eine Kuh der unsichtbaren Grenze, hört sie zuerst einen Ton. Geht sie trotzdem weiter, bekommt sie einen leichten Stromstoss – etwa so stark wie bei einem normalen Weidezaun. „Nach zwei, drei Tagen haben die meisten Kühe verstanden, dass sie beim Ton umkehren müssen“, sagt Casutt. Früher hat er jeden Sommer mehrere Wochen damit verbracht, kilometerlange Zäune aufzustellen und wieder abzubauen. Diese Zeit spart er jetzt. Stattdessen kann er sich mehr um die Tiere und die Käserei kümmern. Ein Halsband kostet allerdings rund 300 Franken, dazu kommen Gebühren für die Software. Die Hälfte der Kosten übernimmt in der Testphase der Kanton. Tierschützer sehen das Projekt kritisch: Sie wollen genau wissen, wie oft die Tiere einen Stromstoss bekommen. Die Daten werden deshalb von einer Hochschule ausgewertet. Auch Wanderer mussten sich an die neue Technik gewöhnen: Weil kein Tor mehr zeigt, wo eine Weide beginnt, stehen sie plötzlich mitten in der Herde. Schilder an den Wegen erklären inzwischen, wie man sich verhält: ruhig weitergehen und die Tiere nicht füttern. Wenn die Ergebnisse gut sind, sollen ab nächstem Jahr zehn weitere Alpen mitmachen."
+          ],
+          "footnote": "*Alp = Schweizer Standard für „Alm“",
+          "source": "aus einer Schweizer Zeitung",
+          "example": null,
+          "items": [
+            {
+              "no": "10",
+              "stem": "In diesem Text geht es um …",
+              "options": {
+                "a": "Kühe, die ohne sichtbare Zäune auf der Weide bleiben.",
+                "b": "einen Bauern, der für seine Alp neue, moderne Zäune kauft.",
+                "c": "Wanderer, die sich auf einer Alp vor Kühen fürchten."
+              },
+              "answer": "a"
+            },
+            {
+              "no": "11",
+              "stem": "Die Halsbänder …",
+              "options": {
+                "a": "bezahlt der Kanton vollständig.",
+                "b": "geben den Kühen ohne Warnung sofort einen Stromstoss.",
+                "c": "warnen die Tiere zuerst mit einem Geräusch."
+              },
+              "answer": "c"
+            },
+            {
+              "no": "12",
+              "stem": "Die Daten der Halsbänder …",
+              "options": {
+                "a": "bekommen die Wanderer auf ihr Handy.",
+                "b": "werden wissenschaftlich untersucht.",
+                "c": "dürfen nur Tierschützer sehen."
+              },
+              "answer": "b"
+            }
+          ]
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+      "context": "Einige Ihrer Bekannten suchen eine Veranstaltung oder ein Kulturangebot.",
+      "example": {
+        "no": "0",
+        "text": "Herr Becker interessiert sich für alte Autos und möchte eine Ausstellung besuchen.",
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "13",
+          "text": "Frau Yildiz möchte mit ihren Kindern (4 und 6) ein Theaterstück sehen.",
+          "answer": "g"
+        },
+        {
+          "no": "14",
+          "text": "Jonas lernt Deutsch und möchte einen deutschen Film sehen, bei dem er den Text mitlesen kann.",
+          "answer": "c"
+        },
+        {
+          "no": "15",
+          "text": "Herr und Frau Brandt wollen an ihrem Hochzeitstag klassische Musik hören und vorher elegant essen.",
+          "answer": "j"
+        },
+        {
+          "no": "16",
+          "text": "Lisa möchte an diesem Freitagabend mit Freundinnen eine lustige Vorstellung besuchen.",
+          "answer": "0"
+        },
+        {
+          "no": "17",
+          "text": "Frau Sommer sieht sehr schlecht, möchte aber trotzdem eine Ausstellung erleben.",
+          "answer": "e"
+        },
+        {
+          "no": "18",
+          "text": "Paul möchte einen bekannten Schriftsteller einmal persönlich erleben.",
+          "answer": "a"
+        },
+        {
+          "no": "19",
+          "text": "Familie Klein sucht für Sonntag ein kostenloses Musikangebot im Freien.",
+          "answer": "h"
+        }
+      ],
+      "ads": [
+        {
+          "letter": "a",
+          "design": "serif",
+          "header": "LITERATURHAUS",
+          "tag": "",
+          "title": "Lesung",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Anna Berger liest aus ihrem neuen Roman „Das Haus am Fluss“.",
+            "Danach beantwortet die Autorin ihre Fragen und signiert ihre Bücher."
+          ],
+          "footer": "Donnerstag, 19.30 Uhr · Eintritt 12 €"
+        },
+        {
+          "letter": "b",
+          "design": "band",
+          "header": "",
+          "tag": "OLD · 1920",
+          "title": "",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Oldtimer-Ausstellung im Messezentrum: über 200 Autos und Motorräder aus den Jahren 1920 bis 1980. Samstag und Sonntag, 10 bis 18 Uhr."
+          ],
+          "footer": "Eintritt 9 € · Kinder unter 12 frei"
+        },
+        {
+          "letter": "c",
+          "design": "ticket",
+          "header": "",
+          "tag": "",
+          "title": "Kino im Hinterhof",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Jeden Dienstag zeigen wir deutsche Filme mit deutschen Untertiteln – ideal für alle, die Deutsch lernen. Danach: Gespräch über den Film in einfacher Sprache."
+          ],
+          "footer": "20 Uhr · Karten 6 €"
+        },
+        {
+          "letter": "d",
+          "design": "inverse",
+          "header": "",
+          "tag": "",
+          "title": "Kabarett im Keller",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "„Alles im grünen Bereich“ – das neue Programm von Lotte Kranz. Samstag und Sonntag, jeweils 20 Uhr."
+          ],
+          "footer": "TICKETS AB 18 € · ABENDKASSE AB 19 UHR"
+        },
+        {
+          "letter": "e",
+          "design": "hotel",
+          "header": "",
+          "tag": "",
+          "title": "Stadtmuseum",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Kunst zum Anfassen: Tastführungen für blinde und sehbehinderte Menschen durch unsere Skulpturensammlung. Jeden ersten Sonntag im Monat, 11 Uhr."
+          ],
+          "footer": "Begleitpersonen frei · Tel. 0421 / 36 61 00"
+        },
+        {
+          "letter": "f",
+          "design": "rounded",
+          "header": "IMPROVISATIONSTHEATER",
+          "tag": "",
+          "title": "SPONTAN",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Das Publikum bestimmt, was auf der Bühne passiert. Jeden Freitag, 20 Uhr, ab 16 Jahren. Achtung: Die Vorstellung an diesem Freitag ist bereits ausverkauft."
+          ],
+          "footer": ""
+        },
+        {
+          "letter": "g",
+          "design": "rules",
+          "header": "",
+          "tag": "",
+          "title": "Figurentheater Wackelzahn",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "„Der kleine Drache Funkel“ – ein Stück mit Puppen und viel Musik für Kinder ab vier Jahren. Samstag und Sonntag, 15 Uhr."
+          ],
+          "footer": "Dauer 45 Minuten · Eintritt 7 €"
+        },
+        {
+          "letter": "h",
+          "design": "barhead",
+          "deco": {
+            "icon": "columns"
+          },
+          "header": "",
+          "tag": "",
+          "title": "Sommerkonzerte im Kurpark",
+          "subtitle": "JUNI BIS AUGUST",
+          "facts": [],
+          "body": [
+            "Jeden Sonntag um 11 Uhr spielen Blasorchester und Jazzbands im Musikpavillon. Der Eintritt ist frei. Bei Regen findet das Konzert in der Wandelhalle statt."
+          ],
+          "footer": ""
+        },
+        {
+          "letter": "i",
+          "design": "greyband",
+          "header": "",
+          "tag": "",
+          "title": "OPEN-AIR-KINO AM SEE",
+          "subtitle": "FR + SA NACH SONNENUNTERGANG",
+          "facts": [],
+          "body": [
+            "Filme in Originalsprache mit englischen Untertiteln, empfohlen ab 12 Jahren. Eintritt 8 €, Getränke gibt es an der Bar. Bitte bringen Sie Decken mit."
+          ],
+          "footer": ""
+        },
+        {
+          "letter": "j",
+          "design": "inst",
+          "header": "",
+          "tag": "JEDEN SAMSTAG",
+          "title": "Schlosskonzert mit Menü",
+          "subtitle": "",
+          "facts": [
+            "18 Uhr · Drei-Gänge-Menü",
+            "20 Uhr · Mozart und Haydn im Spiegelsaal"
+          ],
+          "body": [
+            "Erst essen Sie im Schlossrestaurant, danach hören Sie Kammermusik."
+          ],
+          "footer": "Konzert und Menü: 79 € pro Person"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für eine Helmpflicht beim Radfahren, Ja oder Nein?",
+      "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über den Vorschlag, dass alle Radfahrerinnen und Radfahrer einen Helm tragen müssen.",
+      "header": "LESERKOMMENTARE",
+      "site": "www.rad-und-recht.de/forum",
+      "example": {
+        "no": "0",
+        "name": "Rolf",
+        "byline": "Rolf, 57, Hannover",
+        "text": "Ich bin seit fast vierzig Jahren Polizist und habe zu viele Unfälle mit Radfahrern gesehen. Oft waren es keine schnellen Sportler, sondern ganz normale Leute auf dem Weg zum Bäcker. Ein Helm kostet so viel wie ein Abendessen und kann ein Leben retten. Freiwillig setzen ihn leider zu wenige auf, also brauchen wir eine Pflicht.",
+        "answer": "J"
+      },
+      "items": [
+        {
+          "no": "20",
+          "name": "Petra",
+          "byline": "Petra, 39, Münster",
+          "text": "Letzten Herbst bin ich auf nassem Laub ausgerutscht und mit dem Kopf auf die Bordsteinkante gefallen. Der Arzt hat mir gesagt, dass ich ohne Helm wahrscheinlich nicht mehr hier wäre. Seitdem fahre ich keinen Meter mehr ohne. Auch meine Kinder steigen nur noch mit Helm aufs Rad. Wenn alle einen tragen müssten, ließen sich viele schwere Verletzungen vermeiden.",
+          "answer": "J"
+        },
+        {
+          "no": "21",
+          "name": "Max",
+          "byline": "Max, 22, Leipzig",
+          "text": "Früher fand ich Helme peinlich und habe mich über alle lustig gemacht, die einen trugen. Dann hatte mein bester Freund einen Unfall und lag zwei Wochen im Krankenhaus. Heute sehe ich das anders und trage selbst jeden Tag einen Helm. Eine Pflicht wäre richtig, denn freiwillig ändern die meisten ihre Meinung erst, wenn es zu spät ist.",
+          "answer": "J"
+        },
+        {
+          "no": "22",
+          "name": "Annette",
+          "byline": "Annette, 45, Freiburg",
+          "text": "Natürlich ist ein Helm sinnvoll, und meine Kinder tragen immer einen. Trotzdem bin ich gegen eine Pflicht. In Städten wie Kopenhagen fahren viele Menschen Rad, gerade weil es so einfach ist: aufsteigen und losfahren. Müsste man immer einen Helm dabeihaben, würden viele lieber das Auto nehmen – und das wäre für alle schlechter. Wichtiger ist, dass überhaupt mehr Menschen Rad fahren.",
+          "answer": "N"
+        },
+        {
+          "no": "23",
+          "name": "Hakan",
+          "byline": "Hakan, 34, Köln",
+          "text": "Viel wichtiger als eine Helmpflicht wären sichere Radwege. Die meisten schweren Unfälle passieren, weil sich Autos und Fahrräder die gleiche Straße teilen müssen. Ich fahre jeden Tag durch die Innenstadt und habe oft Angst vor den Lastwagen. Wenn die Städte endlich breite, getrennte Wege bauen würden, bräuchte niemand über Helme zu diskutieren. Dafür sollte man das Geld ausgeben, statt die Radfahrer zu bestrafen.",
+          "answer": "N"
+        },
+        {
+          "no": "24",
+          "name": "Ingrid",
+          "byline": "Ingrid, 68, Innsbruck",
+          "text": "Mein Mann und meine Freundinnen finden, dass man Erwachsene nicht zu einem Helm zwingen sollte. Ich sehe das anders. Beim Skifahren tragen wir ganz selbstverständlich einen Helm, und niemand beschwert sich. Warum sollte das beim Fahrrad anders sein – gerade für ältere Menschen wie uns, die nicht mehr so schnell reagieren? Ich hoffe, das Gesetz kommt bald.",
+          "answer": "J"
+        },
+        {
+          "no": "25",
+          "name": "Sven",
+          "byline": "Sven, 41, Bern",
+          "text": "Ich wäre sofort dafür, wenn es eine Pflicht nur für Kinder und für schnelle E-Bikes gäbe. Dort ist das Risiko am größten. Der Vorschlag im Artikel gilt aber für alle, auch für jemanden, der ganz langsam zum Markt fährt. Für viele Ältere wäre das eher ein Grund, das Rad stehen zu lassen. So geht mir das zu weit.",
+          "answer": "N"
+        },
+        {
+          "no": "26",
+          "name": "Lena",
+          "byline": "Lena, 27, Hamburg",
+          "text": "Ich fahre jeden Tag mit dem Rad zur Arbeit, und mein Helm hängt trotzdem oft zu Hause, weil er nicht in die Tasche passt. Klingt banal, aber so geht es vielen. Jeder Erwachsene sollte selbst über sein Risiko entscheiden dürfen. Beim Wandern in den Bergen schreibt uns ja auch niemand vor, was wir tragen sollen.",
+          "answer": "N"
+        }
+      ]
+    },
+    "t5": {
+      "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "context": "Sie möchten an einem Fotowettbewerb teilnehmen und lesen die Teilnahmebedingungen.",
+      "doc": {
+        "title": "TEILNAHMEBEDINGUNGEN · FOTOWETTBEWERB „UNSERE STADT“",
+        "intro": "",
+        "sections": [
+          {
+            "heading": "Teilnahme",
+            "text": "Mitmachen können alle, die in Neustadt wohnen oder arbeiten und mindestens 16 Jahre alt sind. Mitarbeiterinnen und Mitarbeiter der Stadtzeitung und ihre Familien sind ausgeschlossen. Die Teilnahme ist kostenlos und ohne Anmeldung möglich."
+          },
+          {
+            "heading": "Fotos",
+            "text": "Jede Person darf höchstens drei Fotos einreichen. Die Bilder müssen in diesem Jahr im Stadtgebiet entstanden sein. Kleine Änderungen wie Helligkeit oder Farben sind erlaubt; Fotomontagen, bei denen Bildteile hinzugefügt oder entfernt werden, sind dagegen nicht zugelassen. Schwarz-Weiß-Fotos sind ebenfalls willkommen."
+          },
+          {
+            "heading": "Personen auf Fotos",
+            "text": "Sind auf einem Foto Personen deutlich zu erkennen, brauchen wir deren schriftliches Einverständnis. Bei Kindern unter 18 Jahren unterschreiben die Eltern."
+          },
+          {
+            "heading": "Einsendung",
+            "text": "Schicken Sie Ihre Fotos bis zum 31. August per E-Mail an fotowettbewerb@stadtzeitung.de. Bitte geben Sie Ihren Namen, Ihre Adresse und einen Titel für jedes Bild an. Jedes Foto darf höchstens 10 MB groß sein. Ausdrucke per Post können wir leider nicht annehmen."
+          },
+          {
+            "heading": "Preise",
+            "text": "Eine Jury wählt im September die zehn besten Fotos aus. Der erste Preis ist ein Wochenende für zwei Personen am Bodensee, der zweite eine Kamera, der dritte ein Gutschein für ein Fotobuch. Die Gewinnerinnen und Gewinner werden bis zum 30. September per E-Mail benachrichtigt. Alle zehn Bilder werden im Oktober im Rathaus ausgestellt. Über die Reihenfolge entscheidet allein die Jury."
+          },
+          {
+            "heading": "Rechte",
+            "text": "Mit der Teilnahme erlauben Sie der Stadtzeitung, Ihre Fotos zu veröffentlichen, auch im Internet. Ihr Name wird dabei immer genannt, auf Wunsch auch Ihr Wohnort. Die Rechte an den Bildern bleiben bei Ihnen."
+          }
+        ],
+        "footer": ""
+      },
+      "example": null,
+      "items": [
+        {
+          "no": "27",
+          "stem": "Wer 15 Jahre alt ist, …",
+          "options": {
+            "a": "kann am Wettbewerb nicht teilnehmen.",
+            "b": "braucht für die Teilnahme die Unterschrift der Eltern.",
+            "c": "darf nur ein Foto einreichen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "28",
+          "stem": "Bei der Bearbeitung der Fotos …",
+          "options": {
+            "a": "ist jede Veränderung streng verboten.",
+            "b": "darf man störende Gegenstände aus dem Bild entfernen.",
+            "c": "sind kleine Korrekturen erlaubt."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "29",
+          "stem": "Wenn auf einem Foto ein fremdes Kind gut zu erkennen ist, …",
+          "options": {
+            "a": "darf man das Foto nicht einreichen.",
+            "b": "muss man die Eltern um Erlaubnis bitten.",
+            "c": "genügt eine mündliche Zustimmung des Kindes selbst."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "30",
+          "stem": "Die zehn besten Fotos …",
+          "options": {
+            "a": "kann man im Herbst im Rathaus sehen.",
+            "b": "gehören nach dem Ende des Wettbewerbs der Stadtzeitung.",
+            "c": "werden ohne Namen veröffentlicht."
+          },
+          "answer": "a"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+      "example": [
+        {
+          "no": "01",
+          "type": "rf",
+          "text": "Herr Krauses Schuhe sind repariert.",
+          "answer": "R"
+        },
+        {
+          "no": "02",
+          "stem": "Herr Krause soll …",
+          "options": {
+            "a": "einen Beleg mitbringen.",
+            "b": "am Mittwoch kommen.",
+            "c": "vorher anrufen."
+          },
+          "answer": "a",
+          "type": "abc"
+        }
+      ],
+      "texts": [
+        {
+          "label": "Text 1",
+          "items": [
+            {
+              "no": "1",
+              "type": "rf",
+              "text": "Pflanzen sind heute günstiger als sonst.",
+              "answer": "R"
+            },
+            {
+              "no": "2",
+              "stem": "Den gefundenen Schlüssel …",
+              "options": {
+                "a": "bekommt man an der Kasse, an der er gefunden wurde.",
+                "b": "bringt man zum Holzzuschnitt.",
+                "c": "kann man am Eingang abholen."
+              },
+              "answer": "c",
+              "type": "abc"
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "items": [
+            {
+              "no": "3",
+              "type": "rf",
+              "text": "Bernd fährt Melanie morgen wie immer zur Arbeit.",
+              "answer": "F"
+            },
+            {
+              "no": "4",
+              "stem": "Melanie soll …",
+              "options": {
+                "a": "an einer anderen Stelle als sonst warten.",
+                "b": "etwas später als sonst bereit sein.",
+                "c": "Jens morgen früh gleich das Benzingeld geben."
+              },
+              "answer": "a",
+              "type": "abc"
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "items": [
+            {
+              "no": "5",
+              "type": "rf",
+              "text": "Man kann auch ohne die Benachrichtigung wählen.",
+              "answer": "R"
+            },
+            {
+              "no": "6",
+              "stem": "Briefwahl …",
+              "options": {
+                "a": "kann man noch am Wahltag selbst im Rathaus beantragen.",
+                "b": "muss man spätestens am Freitag beantragen.",
+                "c": "ist nur für Jugendliche möglich."
+              },
+              "answer": "b",
+              "type": "abc"
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "items": [
+            {
+              "no": "7",
+              "type": "rf",
+              "text": "Eine Veranstaltung wurde in einen größeren Raum verlegt.",
+              "answer": "R"
+            },
+            {
+              "no": "8",
+              "stem": "Heute …",
+              "options": {
+                "a": "können Besucher günstig in der Mensa essen.",
+                "b": "fällt die Führung durch die Bibliothek aus.",
+                "c": "kann man direkt vor dem Hauptgebäude parken."
+              },
+              "answer": "a",
+              "type": "abc"
+            }
+          ]
+        },
+        {
+          "label": "Text 5",
+          "items": [
+            {
+              "no": "9",
+              "type": "rf",
+              "text": "Der Schornsteinfeger kommt am Nachmittag.",
+              "answer": "F"
+            },
+            {
+              "no": "10",
+              "stem": "Wenn Frau Novak am Montag nicht zu Hause ist, soll sie …",
+              "options": {
+                "a": "selbst einen neuen Termin mit dem Schornsteinfeger vereinbaren.",
+                "b": "die Hausverwaltung anrufen.",
+                "c": "einer Nachbarin den Schlüssel geben."
+              },
+              "answer": "c",
+              "type": "abc"
+            }
+          ]
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Sie machen eine geführte Wanderung im Nationalpark. Vor dem Start erklärt die Rangerin, Frau Hollweg, den Ablauf.",
+      "items": [
+        {
+          "no": "11",
+          "stem": "Wer nicht die ganze Strecke gehen kann, …",
+          "options": {
+            "a": "wartet am Parkplatz auf die anderen.",
+            "b": "fährt von Anfang an mit dem Bus mit.",
+            "c": "kann unterwegs in den Bus steigen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "12",
+          "stem": "Hunde …",
+          "options": {
+            "a": "dürfen mit, wenn sie angeleint sind.",
+            "b": "sind im ganzen Nationalpark leider nicht erlaubt.",
+            "c": "dürfen auf den Wegen frei laufen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "13",
+          "stem": "Pilze und Beeren …",
+          "options": {
+            "a": "darf man nur am Wasserfall sammeln.",
+            "b": "darf man im Park nicht mitnehmen.",
+            "c": "kann man bei der Rangerin kaufen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "14",
+          "stem": "Am Wasserfall …",
+          "options": {
+            "a": "kann man am Kiosk etwas kaufen.",
+            "b": "soll man den Müll in die Eimer werfen.",
+            "c": "kann man frisches Trinkwasser holen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "15",
+          "stem": "Ferngläser …",
+          "options": {
+            "a": "muss jeder selbst mitbringen.",
+            "b": "kann man sich bei der Rangerin leihen.",
+            "c": "kann man an der Waldhütte für wenig Geld kaufen."
+          },
+          "answer": "b"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+      "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Sie sind auf einem Flohmarkt und hören, wie sich zwei Freundinnen, Nadine und Elena, unterhalten.",
+      "items": [
+        {
+          "no": "16",
+          "text": "Für die Unterkunft in Dänemark hat Nadines Familie nichts bezahlt.",
+          "answer": "R"
+        },
+        {
+          "no": "17",
+          "text": "Nadines Mann war von der Idee zuerst nicht begeistert.",
+          "answer": "R"
+        },
+        {
+          "no": "18",
+          "text": "Nadine und die dänische Familie haben sich vor dem Urlaub persönlich getroffen.",
+          "answer": "F"
+        },
+        {
+          "no": "19",
+          "text": "Die Reparatur der Spülmaschine musste Nadines Familie bezahlen.",
+          "answer": "F"
+        },
+        {
+          "no": "20",
+          "text": "Elena hat sich gründlich auf den Test vorbereitet.",
+          "answer": "R"
+        },
+        {
+          "no": "21",
+          "text": "Elenas Mann hat den Test zu Hause ohne Fehler geschafft.",
+          "answer": "F"
+        },
+        {
+          "no": "22",
+          "text": "Elena musste ihren spanischen Pass abgeben.",
+          "answer": "F"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+      "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+      "context": "Der Moderator der Radiosendung „Standpunkte“ diskutiert mit der Lungenärztin Dr. Katrin Wolf und dem Gastwirt Thomas Brenner über die Frage: „Soll das Rauchen in Parks und auf Spielplätzen verboten werden?“",
+      "speakers": {
+        "a": "Moderator",
+        "b": "Katrin Wolf",
+        "c": "Thomas Brenner"
+      },
+      "example": {
+        "no": "0",
+        "text": "In einigen Städten gibt es schon rauchfreie Zonen im Freien.",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "23",
+          "text": "Raucher werden schon heute an vielen Orten ausgeschlossen.",
+          "answer": "c"
+        },
+        {
+          "no": "24",
+          "text": "Zigarettenreste sind der Müll, der am häufigsten gefunden wird.",
+          "answer": "a"
+        },
+        {
+          "no": "25",
+          "text": "Auch im Freien kann der Rauch anderen Menschen schaden.",
+          "answer": "b"
+        },
+        {
+          "no": "26",
+          "text": "Ein Verbot ließe sich kaum überwachen.",
+          "answer": "c"
+        },
+        {
+          "no": "27",
+          "text": "Kinder übernehmen das Verhalten von Erwachsenen.",
+          "answer": "b"
+        },
+        {
+          "no": "28",
+          "text": "In einem Nachbarland gibt es für das Rauchen in Parks Geldstrafen.",
+          "answer": "a"
+        },
+        {
+          "no": "29",
+          "text": "Weniger Gelegenheiten zum Rauchen helfen beim Aufhören.",
+          "answer": "b"
+        },
+        {
+          "no": "30",
+          "text": "Statt eines Verbots sollte es besondere Bereiche für Raucher geben.",
+          "answer": "c"
+        }
+      ]
+    }
+  },
+  "schreiben": {
+    "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+    "tasks": [
+      {
+        "no": 1,
+        "minutes": 20,
+        "words": 80,
+        "situation": [
+          "Sie haben im Winterurlaub zum ersten Mal Ski fahren gelernt. Ein Freund/Eine Freundin von Ihnen möchte wissen, wie es war."
+        ],
+        "points": [
+          "Beschreiben Sie: Wie war der Kurs?",
+          "Begründen Sie: Warum haben Sie das ausprobiert?",
+          "Machen Sie einen Vorschlag für einen gemeinsamen Ausflug."
+        ],
+        "post": null,
+        "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+        "model": {
+          "label": "E-Mail an eine Freundin, ca. 90 Wörter",
+          "text": "Betreff: Ich kann Ski fahren!\n\nLiebe Sophie,\n\nletzte Woche war ich im Allgäu und habe zum ersten Mal auf Skiern gestanden! Ich hatte jeden Vormittag drei Stunden Unterricht in einer kleinen Gruppe. Am ersten Tag bin ich ungefähr zwanzigmal hingefallen, aber am Ende der Woche konnte ich schon die blaue Piste fahren.\n\nAusprobiert habe ich es, weil meine Kollegen jedes Jahr zusammen Ski fahren und ich endlich mitkommen wollte.\n\nHast du Lust, im Februar mit mir einen Tag in die Berge zu fahren? Dann kannst du mir zeigen, wie man richtig bremst!\n\nViele Grüße\nAhmet"
+        },
+        "typicalErrors": "Der Kurs wird beschrieben, aber der Grund fehlt · Vorschlag ohne Zeitpunkt · Sie statt du."
+      },
+      {
+        "no": 2,
+        "minutes": 25,
+        "words": 80,
+        "situation": [
+          "Sie haben im Radio eine Sendung zum Thema „Spenden – hilft das wirklich?“ gehört. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+        ],
+        "points": [],
+        "post": {
+          "site": "www.radio-gesellschaft.de",
+          "label": "Gästebuch",
+          "author": "Jürgen · 04.12. 19:26 Uhr",
+          "text": "Ich spende jedes Jahr zu Weihnachten 100 Euro für Kinder in armen Ländern. Aber ehrlich gesagt weiß ich nie, wie viel davon wirklich ankommt. Meine Frau gibt das Geld lieber direkt dem Obdachlosen vor unserem Supermarkt. Was ist besser?"
+        },
+        "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+        "model": {
+          "label": "Diskussionsbeitrag, ca. 95 Wörter",
+          "text": "Jürgen stellt eine gute Frage. Ich finde Spenden wichtig, weil viele Menschen ohne Hilfe nicht genug zu essen hätten oder nicht zur Schule gehen könnten. Man sollte aber genau prüfen, an wen man spendet. Es gibt Organisationen mit einem Spendensiegel, die zeigen, wofür sie das Geld ausgeben.\n\nIch verstehe aber auch Jürgens Frau. Wenn man jemandem direkt vor dem Supermarkt hilft, sieht man sofort, dass das Geld ankommt.\n\nIch selbst mache beides: Ich unterstütze regelmäßig eine Organisation und kaufe manchmal einem Obdachlosen einen Kaffee."
+        },
+        "typicalErrors": "Jürgens Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+      },
+      {
+        "no": 3,
+        "minutes": 15,
+        "words": 40,
+        "situation": [
+          "Gestern ist Ihre Waschmaschine ausgelaufen. Jetzt hat Ihr Nachbar in der Wohnung unter Ihnen, Herr Wagner, einen Wasserfleck an der Decke."
+        ],
+        "points": [],
+        "post": null,
+        "instruction": "Schreiben Sie an Herrn Wagner. Entschuldigen Sie sich höflich, erklären Sie, was passiert ist, und machen Sie einen Vorschlag. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+        "model": {
+          "label": "E-Mail an den Nachbarn, ca. 50 Wörter",
+          "text": "Sehr geehrter Herr Wagner,\n\nes tut mir sehr leid, dass Sie meinetwegen einen Wasserfleck an der Decke haben. Gestern ist der Schlauch meiner Waschmaschine kaputtgegangen, und das Wasser ist unter den Boden gelaufen. Meine Versicherung bezahlt den Schaden. Darf ich morgen mit einem Maler bei Ihnen vorbeikommen?\n\nMit freundlichen Grüßen\nClara Hoffmann"
+        },
+        "typicalErrors": "Kein Vorschlag (Maler, Versicherung) · Hallo Herr Wagner oder Liebe Grüße · keine Entschuldigung."
+      }
+    ]
+  },
+  "notes": "Alle 60 Lösungen (Lesen 1–30, Hören 1–30) aus dem Lösungsschlüssel (S. 17) übernommen und mit dem Kommentar (S. 20–21) abgeglichen. Beispiele laut markierten Kästchen auf den Aufgabenseiten: Lesen 1 R, Lesen 2 b (Text 1), Lesen 3 b (Anzeige im Blank), Lesen 4 Rolf Ja, Hören 1 01 R und 02 a, Hören 4 a. Lesen 5 hat kein Beispiel, Lesen 2 Text 2 ebenfalls nicht. Zweispaltige Texte (Lesen 2) nach Seitenbild in Spaltenreihenfolge zusammengesetzt (linke Spalte zuerst); Lesen 4: linke Spalte Beispiel, 20–22, rechte Spalte 23–26. Anzeigen: Dekor (Logos, Filmstreifen, Blindenschrift-Symbol, Kennzeichen-Schild „D“, Kreise, Rahmen) weggelassen. Layouts (design) pro Anzeige frei gewählt, alle verschieden. a: Spalte links (Anna Berger liest …) vor rechter Spalte (Danach beantwortet …); b: Kennzeichen-Schild „OLD · 1920“ als tag, die Anzeige hat sonst keine Überschrift; h: Pavillon-Symbol als deco.icon columns; j: der von Gedankenstrichen gerahmte Zusatz „— JEDEN SAMSTAG —“ als tag ohne Striche, Zeitzeilen als facts. Lesen 3: Situation 16 hat keine passende Anzeige (0): d nur Sa/So, f ist an diesem Freitag ausverkauft; b ist das Beispiel; d, f und i bleiben unbenutzt. „Stromstoss“ in Lesen 2 (Schweizer Schreibung) wie im Original. Hören: Beispielantworten aus den markierten Kästchen (Seite 9, 12), mit dem Hörtext (S. 22) abgeglichen. Hören 4: Der Moderator (nicht Moderatorin), Sprecher a Moderator, b Katrin Wolf, c Thomas Brenner. Schreiben: Musterlösungen von S. 18; Typische Fehler ohne führende Ziffer. Sprechen (S. 14–16) ist im JSON nicht vorgesehen."
+}

@@ -1,0 +1,841 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "mein-erstes-jahr.de · Timo",
+    "date": "Montag, 8. April",
+    "title": "Umzug mit Hindernissen",
+    "paragraphs": [
+     "Seit Samstag wohne ich also in der Gartenstraße. Drei Zimmer, vierter Stock, eigener Balkon – und ein Umzug, über den ich in zehn Jahren bestimmt lachen kann. Den Transporter hatte ich schon drei Wochen vorher reserviert, zusammen mit einer Sackkarre und zehn Umzugsdecken. Die Sackkarre war die beste Idee des Tages – ohne sie hätten wir den Kühlschrank nie in den vierten Stock gebracht. Als ich am Samstagmorgen um acht bei der Autovermietung stand, war der große Wagen allerdings noch nicht zurück. „Nehmen Sie den kleinen, der reicht doch“, meinte der Mann am Schalter. Er reichte natürlich nicht: Wir sind dreimal gefahren statt einmal.",
+     "Zugesagt hatten mir zwei Freunde. Jonas hat um halb neun geklingelt, mit zwei Kaffeebechern in der Hand, und ist bis zum Abend geblieben. Der andere lag mit Grippe im Bett – wirklich ärgerlich war das nicht, er hatte mich am Abend vorher angerufen. Dafür stand plötzlich meine neue Nachbarin aus dem dritten Stock im Treppenhaus, sah unsere Kisten und drückte mir ihre Bohrmaschine in die Hand: „Die brauchen Sie sowieso.“ Am Abend hat sie uns dann auch noch zwei Tassen Kaffee hochgebracht.",
+     "Das eigentliche Problem war der Aufzug. Am Freitag lief er noch, am Samstag hing ein Zettel an der Tür: „Wartung“. Vierter Stock, achtzig Stufen, ein Sofa. Jonas hat irgendwann nur noch gelacht. Zwischendurch haben wir dreimal Pause gemacht, und ein Nachbar aus dem Erdgeschoss hat die Haustür offen gehalten, weil unser Keil nicht hielt. Gegen sechs waren wir fertig, danach gab es Pizza auf dem Fußboden, weil der Tisch noch in Teilen im Flur lag.",
+     "Ein Rätsel ist noch offen: Für den Keller fehlt mir der Schlüssel. Der Vermieter hat mir am Telefon versprochen, dass er diese Woche einen zweiten bringt. Bis dahin stehen meine Fahrräder im Wohnzimmer, und im Flur warten noch alle Bücherkartons. Nächstes Wochenende kommen die Regale an die Wand – mit der Bohrmaschine von unten."
+    ],
+    "closing": "Bis dann, Timo"
+   },
+   "example": {
+    "no": "0",
+    "text": "Timo ist in eine andere Wohnung gezogen.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Um das Fahrzeug hatte sich Timo früh gekümmert.",
+     "answer": "R"
+    },
+    {
+     "no": "2",
+     "text": "Timo hat den Wagen bekommen, den er wollte.",
+     "answer": "F"
+    },
+    {
+     "no": "3",
+     "text": "Von Timos Freunden hat nur einer beim Umzug geholfen.",
+     "answer": "R"
+    },
+    {
+     "no": "4",
+     "text": "Die Nachbarin hat Timo ein Werkzeug geliehen.",
+     "answer": "R"
+    },
+    {
+     "no": "5",
+     "text": "Der Aufzug war am Umzugstag in Betrieb.",
+     "answer": "F"
+    },
+    {
+     "no": "6",
+     "text": "Timo hat den Kellerschlüssel inzwischen erhalten.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Der Bus, den die Nachbarn fahren",
+     "lead": "In Reinsdorf bringt ein Kleinbus die Dorfbewohner in die Stadt – am Steuer sitzen Freiwillige.",
+     "paragraphs": [
+      "Wer in Reinsdorf ohne Auto zum Arzt oder zum Einkaufen in die Kreisstadt wollte, hatte es jahrelang schwer: Die Buslinie wurde 2019 gestrichen, weil zu wenige Fahrgäste einstiegen. Heute fährt wieder ein Bus – ein Kleinbus mit acht Plätzen, und am Steuer sitzt kein Angestellter, sondern ein Nachbar. Achtzehn Freiwillige teilen sich den Dienstplan, gefahren wird dienstags, donnerstags und samstags, jeweils dreimal hin und zurück. Die Fahrkarte kostet zwei Euro, Kinder zahlen nichts. Wer nicht sicher ist, wann der Bus kommt, findet den Fahrplan im Schaukasten am Rathaus und als Zettel an jeder Haltestelle. Den Bus hat der Landkreis bezahlt, für Versicherung, Benzin und Werkstatt kommt der Verein auf. „Viele denken, dafür bräuchte man einen Busführerschein. Den braucht man nicht“, sagt Elke Kranz, die den Dienstplan schreibt. „Ein normaler Führerschein genügt, dazu eine Schulung an zwei Abenden. Mitglied im Verein muss man auch nicht sein.“ Gemeldet haben sich vor allem Rentner, inzwischen fahren aber auch zwei Frauen mit, die Schichtdienst haben. Die Fahrgäste sind älter, als der Verein erwartet hatte; freitags sitzen allerdings vor allem Jugendliche im Bus, die zum Schwimmbad wollen. Aus drei Nachbardörfern kommen jetzt Anfragen. Kranz rät ihnen, nicht mit dem Fahrplan anzufangen: „Suchen Sie zuerst die Fahrer. Ein schöner Fahrplan hilft nichts, wenn samstags niemand fahren will.“"
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "In Reinsdorf …",
+      "options": {
+       "a": "fährt seit 2019 kein Bus mehr.",
+       "b": "fahren Freiwillige einen Kleinbus.",
+       "c": "zahlen alle Fahrgäste zwei Euro."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Nachbarn, die den Nahverkehr selbst organisieren.",
+        "b": "einen Landkreis, der neue Buslinien kauft.",
+        "c": "einen Verein, der Führerscheine finanziert."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "8",
+       "stem": "Wer den Bürgerbus fahren möchte, …",
+       "options": {
+        "a": "muss dem Verein beitreten.",
+        "b": "braucht eine besondere Fahrerlaubnis.",
+        "c": "muss vorher einen kurzen Kurs besuchen."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "9",
+       "stem": "Elke Kranz empfiehlt anderen Dörfern, …",
+       "options": {
+        "a": "mit der Suche nach Freiwilligen zu beginnen.",
+        "b": "einen genauen Fahrplan zu veröffentlichen.",
+        "c": "den Bus selbst zu kaufen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Milch holen um Mitternacht",
+     "lead": "In Lehen verkauft ein Bauernhof rund um die Uhr – aus einem Automaten am Hoftor.",
+     "paragraphs": [
+      "Vor dem Hoftor der Familie Gruber in Lehen steht seit zwei Jahren ein weißer Kasten mit Glasfenstern: ein Verkaufsautomat für Milch, Eier, Käse und Speck. Vorher gab es einen Hofladen, geöffnet von 16 bis 18 Uhr. „Die Leute kamen um sieben von der Arbeit und standen vor einer verschlossenen Tür“, erzählt Maria Gruber. Den Automaten kaufte die Familie gebraucht von einem Betrieb, der aufgegeben hatte; neu wäre er kaum zu bezahlen gewesen. Jetzt ist rund um die Uhr geöffnet, und der Umsatz hat sich mehr als verdoppelt. Ganz ohne Probleme lief es nicht: Bis zum Sommer nahm das Gerät nur Münzen, viele Kunden standen ratlos davor. Seit Juli kann man auch mit Karte zahlen, seither kommen deutlich mehr Kunden von außerhalb. Im ersten Winter fror die Technik ein; inzwischen sorgt eine kleine Heizung dafür, dass der Automat auch bei minus zehn Grad läuft. Das Brot liefert die Bäckerin aus dem Dorf, dafür darf sie ihre Semmeln im Automaten verkaufen. Am Gerät hängt eine Preisliste; geändert wird sie einmal im Jahr. Am besten gehen im Sommer Käse und Speck – viele Wanderer holen sich hier ihre Jause*. Der Nachbarhof möchte nun ebenfalls einen Automaten aufstellen. Maria Gruber ist skeptisch: „Bei uns funktioniert das, weil die Straße zum See direkt am Hof vorbeiführt. Wer weit weg von der Straße liegt, wartet umsonst.“"
+     ],
+     "footnote": "*Jause = österreichischer Standard für „Imbiss, Zwischenmahlzeit“",
+     "source": "aus einer österreichischen Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "eine Bäckerei, die Automaten aufstellt.",
+        "b": "einen Bauernhof, der Tag und Nacht verkauft.",
+        "c": "ein Dorf ohne Einkaufsmöglichkeiten."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "11",
+       "stem": "Der Automat …",
+       "options": {
+        "a": "war am Anfang nur mit Bargeld zu bedienen.",
+        "b": "war in der Anschaffung sehr teuer.",
+        "c": "steht im früheren Hofladen."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "12",
+       "stem": "Maria Gruber meint, ein Automat …",
+       "options": {
+        "a": "sollte erst im Sommer aufgestellt werden.",
+        "b": "lohnt sich nur an einer belebten Strecke.",
+        "c": "ist für kleine Höfe zu teuer."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Bekannte von Ihnen möchten sich ehrenamtlich engagieren und suchen eine passende Aufgabe.",
+   "example": {
+    "no": "0",
+    "text": "Frau Ort möchte einem Kind beim Lesen helfen und hat vormittags Zeit.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Sina studiert und hat nur am Wochenende Zeit. Mit Tieren kommt sie gut zurecht.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Herr Öz ist Rentner, sitzt gern am Steuer und möchte für andere unterwegs sein.",
+     "answer": "d"
+    },
+    {
+     "no": "15",
+     "text": "Malik spielt seit Jahren Fußball und würde gern mit Kindern trainieren.",
+     "answer": "e"
+    },
+    {
+     "no": "16",
+     "text": "Frau Bauer arbeitet bis 18 Uhr und möchte Zugewanderten beim Üben helfen.",
+     "answer": "f"
+    },
+    {
+     "no": "17",
+     "text": "Frau Krieg ist wenig mobil und sucht eine Aufgabe für zu Hause.",
+     "answer": "0"
+    },
+    {
+     "no": "18",
+     "text": "Jan repariert in seiner Freizeit alte Elektrogeräte und Fahrräder.",
+     "answer": "j"
+    },
+    {
+     "no": "19",
+     "text": "Herr Nowak, 34, möchte bei Unfällen und Bränden helfen und ist zu einer langen Ausbildung bereit.",
+     "answer": "c"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "tearoff",
+     "header": "Tierheim Sonnenhof",
+     "tag": "EHRENAMT",
+     "title": "Wer geht mit unseren Hunden spazieren?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Vierzig Hunde brauchen zweimal täglich Bewegung – vor allem am Samstag und Sonntag fehlen uns Helferinnen und Helfer. Ab 18 Jahren, Einführung durch unsere Pfleger, Gummistiefel leihen wir Ihnen. Zwei Stunden pro Woche genügen."
+     ],
+     "footer": "tierheim-sonnenhof.de · 0421 / 90 11 22"
+    },
+    {
+     "letter": "b",
+     "design": "chalk",
+     "header": "Grundschule am Wall",
+     "tag": "",
+     "title": "Lesepaten und Lesepatinnen gesucht",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Einmal in der Woche lesen Sie eine Stunde mit einem Kind, dem das Lesen noch schwerfällt – dienstags oder donnerstags zwischen 9 und 11 Uhr. Eine kurze Einführung gibt unsere Lehrerin Frau Reuter."
+     ],
+     "footer": "Anmeldung im Sekretariat · 0421 / 22 33 44"
+    },
+    {
+     "letter": "c",
+     "design": "stripes",
+     "header": "Freiwillige Feuerwehr Reinsdorf",
+     "tag": "WIR BILDEN AUS",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wenn es brennt oder ein Auto verunglückt, sind wir die Ersten am Ort – und das lernen Sie bei uns von Anfang an. Die Grundausbildung umfasst 80 Stunden an Wochenenden, danach wird jeden Montagabend geübt. Voraussetzung: mindestens 18 Jahre alt und gesundheitlich fit."
+     ],
+     "footer": "Kommen Sie montags um 19 Uhr vorbei · ff-reinsdorf.de"
+    },
+    {
+     "letter": "d",
+     "design": "logo",
+     "deco": {
+      "icon": "bus"
+     },
+     "header": "Bürgerbus-Verein Reinsdorf",
+     "tag": "",
+     "title": "Fahrerinnen und Fahrer gesucht.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Dienstags, donnerstags und samstags bringen wir Nachbarn in die Kreisstadt. Ein normaler Führerschein genügt, die Schulung dauert zwei Abende. Sie sagen uns, wann Sie Zeit haben."
+     ],
+     "footer": "Elke Kranz · 0 44 21 / 78 12"
+    },
+    {
+     "letter": "e",
+     "design": "club",
+     "header": "SV Grün-Weiß Reinsdorf",
+     "tag": "",
+     "title": "Kindertraining (6 bis 10 Jahre)",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Zweimal pro Woche, montags und mittwochs ab 16.30 Uhr. Erfahrung auf dem Platz ist uns wichtiger als ein Diplom – den Trainerschein bezahlt der Verein."
+     ],
+     "footer": "Jugendleiter Tim Ahrens · sv-gruen-weiss.de"
+    },
+    {
+     "letter": "f",
+     "design": "speech",
+     "header": "Stadtteilzentrum Nord",
+     "tag": "",
+     "title": "Sprachcafé: Wer spricht mit?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jeden Dienstag von 19 bis 21 Uhr sprechen Erwachsene aus vielen Ländern Deutsch – in kleinen Runden, bei Tee und Keksen. Sie brauchen keine Ausbildung, nur Geduld und Freude am Zuhören."
+     ],
+     "footer": "Einfach vorbeikommen: Nordstraße 8"
+    },
+    {
+     "letter": "g",
+     "design": "hotel",
+     "deco": {
+      "icon": "columns"
+     },
+     "header": "STADTMUSEUM REINSDORF",
+     "tag": "",
+     "title": "Führungen für Schulklassen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie zeigen Kindern unsere Ausstellung zur Stadtgeschichte. Die Termine liegen mittwochs und freitags zwischen 9 und 12 Uhr; die Einarbeitung dauert vier Wochen. Abends und am Wochenende finden keine Führungen statt."
+     ],
+     "footer": "museum-reinsdorf.de"
+    },
+    {
+     "letter": "h",
+     "design": "inverse",
+     "header": "TAFEL REINSDORF",
+     "tag": "",
+     "title": "",
+     "subtitle": "HELFEN SIE BEIM SORTIEREN",
+     "facts": [],
+     "body": [
+      "Wir holen Lebensmittel ab, prüfen sie und geben sie weiter. Gearbeitet wird vormittags in unserer Halle – von zu Hause aus ist das leider nicht möglich. Feste Schichten ab drei Stunden."
+     ],
+     "footer": "tafel-reinsdorf.de"
+    },
+    {
+     "letter": "i",
+     "design": "dropcap",
+     "header": "JUGENDFEUERWEHR REINSDORF",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Mitmachen ab 10 Jahren. Wir treffen uns freitags um 17 Uhr, üben mit echten Geräten und fahren im Sommer ins Zeltlager. Das Angebot gilt für Jugendliche bis 17 Jahre."
+     ],
+     "footer": "Jugendwart Sven Post · 0 44 21 / 65 09"
+    },
+    {
+     "letter": "j",
+     "design": "mono",
+     "deco": {
+      "icon": "wrench"
+     },
+     "header": "Repair-Café im Bürgerhaus",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Samstags von 10 bis 14 Uhr reparieren wir gemeinsam mit den Gästen Toaster, Lampen und Fahrräder. Wer sich mit Elektrogeräten oder Rädern auskennt, ist bei uns goldrichtig. Werkzeug steht bereit. Wie oft Sie kommen, entscheiden Sie selbst."
+     ],
+     "footer": "repaircafe-reinsdorf.de"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für die Vier-Tage-Woche, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Betriebe, die ihren Beschäftigten vier Arbeitstage bei gleichem Lohn anbieten.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.arbeit-heute.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Ingrid",
+    "byline": "Ingrid, 57, Kiel",
+    "text": "Unsere Abteilung macht das seit Januar: freitags ist zu, der Lohn bleibt gleich. Ich bin erholter, und liegen geblieben ist bisher nichts. Sogar mein Mann sagt, ich sei am Wochenende geduldiger. Warum haben wir das nicht schon vor zehn Jahren gemacht?",
+    "answer": "J"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Andreas",
+     "byline": "Andreas, 45, Coburg",
+     "text": "Ich verstehe den Wunsch, ehrlich. In meiner Schreinerei sind wir vier Leute, und unsere Kunden rufen nun einmal freitags an. Wenn ich einen Tag zumache, geht der Auftrag zum Nächsten. Für Büros mag das passen, für kleine Betriebe wie meinen ist es einfach nicht zu machen. Zwei meiner Gesellen sehen das übrigens genauso.",
+     "answer": "N"
+    },
+    {
+     "no": "21",
+     "name": "Melike",
+     "byline": "Melike, 33, Duisburg",
+     "text": "Bei uns liefen sechs Monate zur Probe mit vier Tagen. Wir haben kürzere Besprechungen gehalten und weniger E-Mails geschrieben – geschafft haben wir am Ende genauso viel. Dass die Geschäftsführung jetzt dabei bleibt, war die logische Folge. Krank war in dem halben Jahr fast niemand. Ich möchte nicht mehr zurück.",
+     "answer": "J"
+    },
+    {
+     "no": "22",
+     "name": "Robert",
+     "byline": "Robert, 39, Erfurt",
+     "text": "Vier Tage klingen gut, lösen mein Problem aber nicht. Ich brauche keinen freien Freitag, sondern Arbeitszeiten, die zu meinen Kindern passen. Lieber jeden Tag zwei Stunden früher Schluss oder zwei Tage im Homeoffice – das wäre eine echte Hilfe. Darüber redet in unserer Firma leider niemand.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Sonja",
+     "byline": "Sonja, 48, Halle",
+     "text": "Anfangs war ich skeptisch: Wie soll die Arbeit von fünf Tagen in vier passen? Dann hat unsere Klinik es in der Verwaltung ausprobiert. Heute sind die Krankmeldungen seltener, und wir finden wieder Bewerberinnen. Selbst die Ärztinnen, die zuerst dagegen waren, wollen es behalten. Wenn es sogar bei uns geht, kann man es überall versuchen.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Pawel",
+     "byline": "Pawel, 52, Bremen",
+     "text": "Ich habe zwölf Angestellte in zwei Bäckereien. Meine Leute wären natürlich sofort dafür – aber wer steht dann am Samstag im Laden? Ich müsste drei Leute zusätzlich einstellen und finde schon jetzt keine. Solche Vorschläge kommen immer von Menschen, die nie selbst Personal gesucht haben. In der Stadt findet man vielleicht noch jemanden, bei uns auf dem Land bestimmt nicht.",
+     "answer": "N"
+    },
+    {
+     "no": "25",
+     "name": "Thomas",
+     "byline": "Thomas, 41, Passau",
+     "text": "Nach vier langen Tagen bin ich abends zu müde für die Kinder. Ich hätte lieber fünf kürzere Tage, dann sehe ich sie jeden Nachmittag. Freie Freitage helfen mir wenig, wenn die Woche vorher aus Zehn-Stunden-Tagen besteht. Meine Frau arbeitet ohnehin im Schichtdienst, da passt das schon heute kaum zusammen.",
+     "answer": "N"
+    },
+    {
+     "no": "26",
+     "name": "Hanna",
+     "byline": "Hanna, 29, Wien",
+     "text": "Für mich hängt alles am Geld: vier Tage ja, aber nicht mit zwanzig Prozent weniger im Portemonnaie. Bleibt der Lohn gleich, bin ich sofort dabei. Mein Kollege hat es privat schon gerechnet – ohne die Fahrten zur Arbeit spart man am fünften Tag ohnehin. Vier Tage arbeiten und den vollen Lohn bekommen: Das wäre für mich in Ordnung.",
+     "answer": "J"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie sind in ein Mietshaus gezogen und lesen die Hausordnung.",
+   "doc": {
+    "title": "HAUSORDNUNG · GARTENSTRASSE 14",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Ruhezeiten",
+      "text": "Von 22 bis 6 Uhr sowie sonn- und feiertags ganztägig ist Lärm zu vermeiden. Musizieren ist außerhalb der Ruhezeiten bis zu zwei Stunden täglich erlaubt. Wer ein Fest plant, hängt bitte zwei Tage vorher einen Hinweis im Treppenhaus aus; eine Genehmigung der Verwaltung ist dafür nicht nötig."
+     },
+     {
+      "heading": "Waschküche",
+      "text": "Die Waschmaschinen im Keller stehen von 7 bis 21 Uhr zur Verfügung. Die Zeiten werden im Plan an der Tür eingetragen, pro Wohnung höchstens zwei Termine in der Woche. Nach dem Waschen sind Sieb und Boden zu reinigen. Wäsche darf nur im Trockenraum aufgehängt werden, nicht auf dem Balkon."
+     },
+     {
+      "heading": "Treppenhaus und Keller",
+      "text": "Flure und Treppen müssen frei bleiben; Fahrräder, Kinderwagen und Schuhregale gehören nicht dorthin. Für Fahrräder ist der Raum neben der Einfahrt vorgesehen. Das Treppenhaus wird von einer Firma gereinigt, die Kosten trägt die Hausgemeinschaft."
+     },
+     {
+      "heading": "Müll",
+      "text": "Papier, Glas und Verpackungen werden getrennt. Die Tonnen werden montags von der Hausmeisterin an die Straße gestellt. Sperrmüll darf nicht im Hof abgestellt werden; eine Abholung melden Sie selbst bei der Stadt an."
+     },
+     {
+      "heading": "Grillen und Balkon",
+      "text": "Auf den Balkonen ist Grillen mit Kohle untersagt, elektrische Geräte sind erlaubt. Blumenkästen sind an der Innenseite des Geländers zu befestigen. Gegossen wird so, dass kein Wasser auf den Balkon darunter läuft."
+     },
+     {
+      "heading": "Schäden und Schlüssel",
+      "text": "Schäden melden Sie bitte sofort der Hausmeisterin, bei Wasserschäden auch außerhalb der Bürozeiten. Zusätzliche Schlüssel erhalten Sie gegen eine Gebühr von 15 Euro bei der Verwaltung. Wer den Hausschlüssel verliert, haftet für den Austausch der Schließanlage."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer am Samstagabend Gäste einlädt, …",
+     "options": {
+      "a": "braucht die Erlaubnis der Verwaltung.",
+      "b": "informiert die Nachbarn vorher mit einem Aushang.",
+      "c": "darf bis 24 Uhr Musik machen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "In der Waschküche …",
+     "options": {
+      "a": "darf jede Wohnung zweimal pro Woche waschen.",
+      "b": "ist das Waschen ab 6 Uhr möglich.",
+      "c": "reinigt die Hausmeisterin die Maschinen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Fahrräder …",
+     "options": {
+      "a": "dürfen im Treppenhaus stehen.",
+      "b": "haben einen eigenen Abstellraum.",
+      "c": "werden montags an die Straße gestellt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "stem": "Auf dem Balkon …",
+     "options": {
+      "a": "darf man mit Kohle grillen.",
+      "b": "darf man keine Blumenkästen anbringen.",
+      "c": "ist ein elektrischer Grill erlaubt."
+     },
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Der Termin von Frau Mehl findet nicht statt.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Frau Mehl soll …",
+     "options": {
+      "a": "am Donnerstag später kommen.",
+      "b": "einen Termin im Internet buchen.",
+      "c": "die Praxis anrufen."
+     },
+     "answer": "c"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Der Zug fährt von einem anderen Bahnsteig ab.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Wer ein Fahrrad mitnehmen möchte, …",
+       "options": {
+        "a": "stellt es in den letzten Wagen.",
+        "b": "muss einen späteren Zug nehmen.",
+        "c": "braucht eine Reservierung."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Die Wanderung beginnt später als geplant.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Nele bittet Jan, …",
+       "options": {
+        "a": "für Verpflegung zu sorgen.",
+        "b": "mit dem Auto zu kommen.",
+        "c": "die Fahrkarten zu kaufen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die Autobahn ist in beiden Richtungen nicht befahrbar.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Die Autofahrer sollen …",
+       "options": {
+        "a": "bis zum Abend warten.",
+        "b": "auf die A1 wechseln.",
+        "c": "einen anderen Weg nehmen."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Gäste müssen sofort aus dem Wasser kommen.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Das Freibad …",
+       "options": {
+        "a": "bleibt für heute geschlossen.",
+        "b": "entscheidet in einer halben Stunde, wie es weitergeht.",
+        "c": "gibt allen ihr Geld zurück."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Herr Lang kann sein Rad abholen.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Herr Lang …",
+       "options": {
+        "a": "kann das Rad am Sonntag abholen.",
+        "b": "bekommt einen neuen Sattel geschenkt.",
+        "c": "muss mehr bezahlen als angekündigt."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie haben einen Ferienjob im Hotel Seeblick. Am ersten Tag begrüßt die Personalleiterin die neuen Mitarbeitenden.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Arbeitszeiten …",
+     "options": {
+      "a": "sind eine Woche im Voraus bekannt.",
+      "b": "sind an jedem Tag gleich.",
+      "c": "werden morgens bekannt gegeben."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Das Essen …",
+     "options": {
+      "a": "bringen die Ferienjobber selbst mit.",
+      "b": "ist für die Ferienjobber frei.",
+      "c": "kostet drei Euro pro Schicht."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Die Arbeitskleidung …",
+     "options": {
+      "a": "wird im Haus gereinigt.",
+      "b": "wäscht jeder zu Hause.",
+      "c": "darf man behalten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Wer krank wird, …",
+     "options": {
+      "a": "schreibt den Kollegen eine Nachricht.",
+      "b": "muss sich am Morgen telefonisch melden.",
+      "c": "kommt trotzdem zur Schicht."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Am Ende der Saison …",
+     "options": {
+      "a": "bekommen alle ein Zeugnis.",
+      "b": "gibt es ein Fest für die Gäste.",
+      "c": "gibt es die Chance auf eine feste Stelle."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sitzen in einem Wartezimmer und hören, wie sich zwei Bekannte, Frau Vogt und Herr Jahn, über ihre Pläne unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Herr Jahn hat die Wohnung über eine Anzeige gefunden.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "Die neue Wohnung hat mehr Platz als die alte.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Herr Jahn muss eine neue Küche kaufen.",
+     "answer": "F"
+    },
+    {
+     "no": "19",
+     "text": "Frau Vogt war auf der Radtour allein unterwegs.",
+     "answer": "F"
+    },
+    {
+     "no": "20",
+     "text": "Unterwegs hatten sie ein Problem mit einem Fahrrad.",
+     "answer": "R"
+    },
+    {
+     "no": "21",
+     "text": "Das Wetter war besser als vorhergesagt.",
+     "answer": "R"
+    },
+    {
+     "no": "22",
+     "text": "Frau Vogt plant für das nächste Jahr schon eine weitere Radtour.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Die Moderatorin der Radiosendung „Standpunkte“ diskutiert mit der Verkehrsplanerin Sanne Weber und dem Taxiunternehmer Ali Demir über die Frage: „Soll in der ganzen Stadt Tempo 30 gelten?“",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Sanne Weber",
+    "c": "Ali Demir"
+   },
+   "example": {
+    "no": "0",
+    "text": "Über Tempo 30 wird in vielen Städten heftig gestritten.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Bei Tempo 30 sind die Folgen eines Unfalls weniger schlimm.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Für eine Fahrt durch die Stadt braucht man künftig länger.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Der Verkehr wird insgesamt ruhiger und flüssiger.",
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "text": "Geschwindigkeitsregeln werden ohnehin oft ignoriert.",
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "text": "Vor Schulen und in Wohngebieten ist das schon heute üblich.",
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "text": "Der Umbau der Kreuzungen wird teuer.",
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "text": "Besonders Kinder und alte Menschen haben einen Vorteil.",
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "text": "Vor der Entscheidung braucht man belastbare Zahlen.",
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben am Wochenende einen Fotokurs besucht. Eine Freundin/Ein Freund von Ihnen wollte mitkommen, hatte aber keine Zeit."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie war der Kurs?",
+     "Begründen Sie: Was hat Ihnen besonders gut gefallen und warum?",
+     "Machen Sie einen Vorschlag, was Sie gemeinsam fotografieren könnten."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an eine Freundin, ca. 95 Wörter",
+     "text": "Betreff: Der Fotokurs – du hast was verpasst!\n\nLiebe Yara,\n\nschade, dass du keine Zeit hattest! Der Fotokurs war am Samstag und Sonntag, jeweils von zehn bis sechs. Wir waren nur acht Leute, und der Kursleiter hat zuerst die Technik erklärt. Danach sind wir in die Altstadt gegangen und haben draußen fotografiert.\n\nAm besten hat mir der Sonntagnachmittag gefallen, weil wir unsere Bilder gemeinsam angeschaut haben. Man lernt viel mehr, wenn jemand erklärt, warum ein Foto gut ist.\n\nWollen wir am nächsten Samstag zusammen an den Hafen gehen und die Schiffe fotografieren? Gegen vier ist das Licht dort besonders schön.\n\nLiebe Grüße\nNora"
+    },
+    "typicalErrors": "Leitpunkt 3 (Vorschlag) fehlt oder bleibt ohne Ort und Zeit · den Kurs nur beschreiben, ohne zu begründen · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Radio eine Sendung zum Thema „Gebraucht statt neu?“ gehört. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.radio-thema.de",
+     "label": "Gästebuch",
+     "author": "Miriam · 03.05. 18:22 Uhr",
+     "text": "Unsere Wohnung ist fast komplett gebraucht eingerichtet, und ich finde das gut: Wir sparen Geld, und die alten Möbel halten länger als das Billigregal von letztem Jahr. Kleidung kaufe ich allerdings lieber neu. Und ehrlich: Das Suchen kostet viel Zeit."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Ich kann Miriam gut verstehen. Bei uns sind der Schreibtisch, das Bett und fast alle Regale gebraucht, und wir haben dafür wenig bezahlt. Meiner Meinung nach sind alte Möbel oft besser gebaut als neue.\n\nBeim Suchen hat Miriam allerdings recht: Es dauert. Ich schaue deshalb nur einmal pro Woche in die Anzeigen, und wenn ich etwas brauche, warte ich auch mal zwei Monate.\n\nKleidung kaufe ich dagegen gern gebraucht. Man findet Sachen, die es neu längst nicht mehr gibt – und nach dem Waschen ist alles wie neu. Für mich ist das kein Verzicht, sondern ein Vergnügen."
+    },
+    "typicalErrors": "Miriams Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Ihr Internetanschluss funktioniert seit Tagen nicht. Ein Techniker der Firma NetOne möchte am Dienstagvormittag kommen. Zu dieser Zeit sind Sie bei der Arbeit."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Herrn Kaiser von der Firma NetOne. Erklären Sie höflich, warum der Termin nicht passt, und schlagen Sie einen anderen vor. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an eine Firma, ca. 45 Wörter",
+     "text": "Sehr geehrter Herr Kaiser,\n\nam Dienstagvormittag bin ich leider nicht zu Hause, weil ich bis 17 Uhr arbeiten muss. Wäre ein Termin am Donnerstag nach 17 Uhr oder am Samstagvormittag möglich? Bitte teilen Sie mir kurz mit, was Ihnen passt.\n\nMit freundlichen Grüßen\nNora Baumann"
+    },
+    "typicalErrors": "Terminvorschlag fehlt · Hallo Herr Kaiser oder Liebe Grüße in einer Firmenmail · Grund für die Absage nicht genannt."
+   }
+  ]
+ }
+}

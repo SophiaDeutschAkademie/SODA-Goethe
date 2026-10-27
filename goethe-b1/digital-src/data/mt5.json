@@ -1,0 +1,846 @@
+{
+ "id": 5,
+ "roman": "V",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "unser-altbau.de · Sabine",
+    "date": "Mittwoch, 12. Juni",
+    "title": "Land unter",
+    "paragraphs": [
+     "Seit Freitag weiß ich, wie schnell aus einem ganz normalen Abend ein Albtraum werden kann. Jan hatte Nachtschicht am Flughafen, ich war mit Lotta allein zu Hause. Gegen neun fing es an zu regnen, und zwar so stark, dass man die Straße nicht mehr sehen konnte. Eine halbe Stunde später hörte ich im Keller ein Plätschern: Durch das Fenster der Waschküche lief das Wasser herein wie aus einem Wasserhahn.",
+     "Natürlich wollte ich sofort die Feuerwehr rufen, aber unter der Notrufnummer kam ich nicht durch – an diesem Abend standen im ganzen Viertel die Keller unter Wasser. Gerettet hat uns Herr Adler von gegenüber. Er war früher Installateur und hat eine Pumpe im Schuppen. Um zehn stand er in Gummistiefeln in unserer Waschküche, und bis Mitternacht hatten wir das meiste Wasser draußen. Die Feuerwehr kam erst gegen eins und hat den Rest erledigt.",
+     "Die Waschmaschine hat überlebt, die alte Gefriertruhe nicht. Am meisten Sorgen habe ich mir um eine Kiste gemacht, die auf dem Boden stand: Darin lagen die Fotoalben meiner Großeltern. Ich habe die ganze Nacht nasse Seiten vorsichtig voneinander gelöst und mit dem Föhn getrocknet. Lotta hat mir bis zwei Uhr geholfen und dabei mehr über ihre Urgroßeltern erfahren als in all den Jahren davor. Bis auf ein paar Bilder ist alles noch gut zu erkennen.",
+     "Am Montag kam dann der nächste Schreck: Unsere Versicherung zahlt nichts. Schäden durch Starkregen waren in unserem Vertrag gar nicht enthalten – das stand im Kleingedruckten, das natürlich niemand liest. Die Mitarbeiterin am Telefon war zwar sehr freundlich, aber das hilft uns jetzt auch nicht weiter. Die Truhe bezahlen wir also selbst. Den Vertrag haben wir noch am selben Tag erweitert; teurer ist er dadurch nur um ein paar Euro im Monat.",
+     "Und sonst? Im Keller kommt jetzt alles in Regale, nichts steht mehr auf dem Boden, und die Fotoalben stehen ab sofort im Wohnzimmer. In der Nachbarschaftsgruppe warnen wir uns inzwischen gegenseitig, wenn ein Unwetter angesagt ist. Herr Adler hat eine Flasche Wein bekommen und eine Einladung zum Grillen – sobald es aufhört zu regnen."
+    ],
+    "closing": "Eure Sabine"
+   },
+   "example": {
+    "no": "0",
+    "text": "Sabines Keller stand nach einem Unwetter unter Wasser.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Sabine war während des Unwetters allein im Haus.",
+     "answer": "F"
+    },
+    {
+     "no": "2",
+     "text": "Bevor die Feuerwehr kam, war schon ein Großteil des Wassers weg.",
+     "answer": "R"
+    },
+    {
+     "no": "3",
+     "text": "Die meisten alten Fotos sind nicht verloren.",
+     "answer": "R"
+    },
+    {
+     "no": "4",
+     "text": "Den Schaden an der Gefriertruhe übernimmt die Versicherung.",
+     "answer": "F"
+    },
+    {
+     "no": "5",
+     "text": "Für ihren neuen Versicherungsschutz zahlt die Familie jetzt etwas mehr.",
+     "answer": "R"
+    },
+    {
+     "no": "6",
+     "text": "Sabine will ihren Keller künftig nicht mehr nutzen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Schwimmen lernen mit vierzig",
+     "lead": "Das Hallenbad in Lindenau bietet Kurse für Erwachsene an, die nie schwimmen gelernt haben.",
+     "paragraphs": [
+      "Der Kurs beginnt erst, wenn es draußen dunkel ist: Dienstags um 20 Uhr, wenn im Hallenbad von Lindenau keine Schulklassen und Vereine mehr trainieren, startet „Keine Angst vor Wasser“. Zehn Erwachsene zwischen 25 und 68 Jahren stehen dann im flachen Becken – Menschen, die als Kinder nie schwimmen gelernt haben. „Viele schämen sich so sehr, dass sie jahrelang nicht einmal im Urlaub an den Strand gegangen sind“, sagt Kursleiterin Petra Wolff. Deshalb bleibt die Halle während des Kurses für andere Gäste geschlossen, und niemand schaut vom Rand aus zu. Die ersten beiden Abende verbringen die Teilnehmer nur damit, sich an das Wasser zu gewöhnen: das Gesicht eintauchen, ausatmen, sich treiben lassen. Erst in der vierten Woche geht es ins tiefe Becken. Einige Teilnehmer haben inzwischen sogar das „Seepferdchen“ gemacht – das Abzeichen, das sonst Fünfjährige bekommen. Der Kurs dauert zehn Wochen und kostet 90 Euro; wer ein geringes Einkommen hat, zahlt die Hälfte. Die Stadt hatte das Angebot vor drei Jahren eigentlich nur für Geflüchtete geplant. Inzwischen kommen aber vor allem Menschen, die hier aufgewachsen sind und sich bisher nicht getraut haben. Die Nachfrage ist so groß, dass man fast ein Jahr auf einen Platz wartet. Wolff sucht deshalb weitere Trainerinnen und Trainer. Ab Herbst soll es außerdem einen Kurs nur für Frauen geben – am Sonntagvormittag, mit Kinderbetreuung im Nebenraum."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Der Kurs findet …",
+      "options": {
+       "a": "morgens statt.",
+       "b": "am Abend statt.",
+       "c": "am Wochenende statt."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Kinder, die in der Schule schwimmen lernen.",
+        "b": "Erwachsene, die spät schwimmen lernen.",
+        "c": "ein Hallenbad, das neue Trainer ausbildet."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "8",
+       "stem": "Während des Kurses …",
+       "options": {
+        "a": "dürfen Angehörige am Beckenrand zuschauen.",
+        "b": "üben die Teilnehmer von Anfang an im tiefen Wasser.",
+        "c": "ist das Bad für andere Besucher nicht zugänglich."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "9",
+       "stem": "Das Angebot …",
+       "options": {
+        "a": "war ursprünglich für eine andere Gruppe gedacht.",
+        "b": "ist für Menschen mit wenig Geld kostenlos.",
+        "c": "soll im Herbst durch einen weiteren Abendkurs ergänzt werden."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Zu Fuss statt im Elterntaxi",
+     "lead": "In Uster bringen Eltern die Kinder als „Pedibus“ zur Schule – ganz ohne Auto.",
+     "paragraphs": [
+      "Jeden Morgen um 7.40 Uhr steht Marco Frei mit einer gelben Leuchtweste an der Haltestelle Grüningerstrasse – einen Bus erwartet er aber nicht. Er wartet auf sieben Kinder zwischen fünf und acht Jahren, die er zu Fuss in den Kindergarten und in die Primarschule begleitet. Der „Pedibus“ funktioniert wie ein Linienbus: Es gibt einen Fahrplan, feste Haltestellen und eine Route, die die Eltern mit der Polizei abgesprochen haben. Nur die „Fahrer“ sind Mütter, Väter oder Grosseltern, die sich abwechseln; jeder übernimmt etwa einen Morgen pro Woche. Entstanden ist die Idee, weil vor dem Schulhaus jeden Morgen Chaos herrschte: Eltern hielten mit ihren Autos auf dem Trottoir*, um die Kinder aussteigen zu lassen. „Ausgerechnet für die Kinder, die zu Fuss kamen, wurde es dadurch gefährlich“, sagt Schulleiterin Ruth Brunner. Heute gibt es in Uster vier Linien, und am Schultor ist es deutlich ruhiger geworden. Unterwegs lernen die Kinder, wie man eine Strasse sicher überquert; nach einem Jahr dürfen viele den Weg allein gehen. Die Eltern berichten ausserdem, dass die Kinder wacher im Unterricht sitzen, seit sie morgens zwanzig Minuten an der frischen Luft sind. Kosten entstehen kaum: Die Westen hat die Gemeinde bezahlt. Schwierig wird es nur im Winter, wenn Eltern krank sind und niemand einspringt. Für solche Fälle sucht die Schule jetzt Freiwillige aus dem Quartier, die kurzfristig helfen können."
+     ],
+     "footnote": "*Trottoir = Schweizer Standard für „Gehweg“",
+     "source": "aus einer Schweizer Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Kinder, die mit einem Schulbus fahren.",
+        "b": "eine Schule, die Autos vor dem Eingang verbietet.",
+        "c": "Eltern, die Kinder gemeinsam zu Fuß zur Schule bringen."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "11",
+       "stem": "Die Begleiterinnen und Begleiter …",
+       "options": {
+        "a": "teilen sich die Aufgabe untereinander auf.",
+        "b": "werden für ihre Arbeit von der Gemeinde bezahlt.",
+        "c": "sind an jedem Morgen der Woche dieselben Personen."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "12",
+       "stem": "Probleme gibt es vor allem, wenn …",
+       "options": {
+        "a": "die Kinder allein zur Schule gehen wollen.",
+        "b": "im Winter Begleitpersonen ausfallen.",
+        "c": "die Polizei die Route ändert."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Freunde und Bekannten planen einen Urlaub oder eine Reise und suchen ein passendes Angebot.",
+   "example": {
+    "no": "0",
+    "text": "Familie Roth möchte mit ihrem Hund Urlaub an der Nordsee machen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Herr und Frau Weiß sind über siebzig. Sie möchten gern mit dem Rad reisen, ihre Koffer aber nicht selbst tragen.",
+     "answer": "e"
+    },
+    {
+     "no": "14",
+     "text": "Clara ist 34 und möchte ihr Spanisch verbessern. Am liebsten würde sie bei Einheimischen wohnen.",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "text": "Tobias hat nur ein langes Wochenende frei. Er möchte in die Berge, besitzt aber kein Auto.",
+     "answer": "c"
+    },
+    {
+     "no": "16",
+     "text": "Familie Özdemir sucht für die Sommerferien einen Campingplatz, auf dem ihre beiden Kinder (6 und 9) etwas erleben können.",
+     "answer": "0"
+    },
+    {
+     "no": "17",
+     "text": "Frau Lange ist auf einen Rollstuhl angewiesen und möchte ein paar Tage eine Stadt besichtigen.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Nils möchte seinen Urlaub nutzen, um sich für die Natur einzusetzen.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Herr Albers hat nur wenig Geld, möchte aber trotzdem ein paar Tage ans Meer.",
+     "answer": "a"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "postcard",
+     "header": "",
+     "tag": "ab 19 € PRO NACHT",
+     "title": "Grüße von der Ostsee!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Übernachten im Strandhostel Warnemünde: Mehrbettzimmer ab 19 € pro Nacht, Doppelzimmer ab 48 €. Frühstück 6 €, Gästeküche zur Selbstversorgung. Für Gäste jeden Alters, ohne Mitgliedsausweis. Zum Strand sind es drei Minuten."
+     ],
+     "footer": "strandhostel-warnemuende.de"
+    },
+    {
+     "letter": "b",
+     "design": "badge",
+     "header": "SANKT PETER-ORDING · NORDSEE",
+     "tag": "ab 140 € pro Nacht",
+     "title": "Ferienhaus Dünenblick",
+     "subtitle": "",
+     "facts": [
+      "Mindestaufenthalt eine Woche",
+      "Endreinigung inklusive"
+     ],
+     "body": [
+      "Reetdachhaus für bis zu sechs Personen, 300 Meter hinter dem Deich, mit eingezäuntem Garten. Hunde sind bei uns herzlich willkommen – der Hundestrand liegt gleich um die Ecke."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "c",
+     "design": "timetable",
+     "header": "",
+     "tag": "FR – MO",
+     "title": "Bahnwochenende Allgäu",
+     "subtitle": "",
+     "facts": [
+      "Fr 16.08 München Hbf → Oberstdorf 18.40",
+      "Mo 17.20 Oberstdorf → München Hbf 19.52",
+      "289 € pro Person"
+     ],
+     "body": [
+      "In die Berge – ganz ohne Auto: Hin- und Rückfahrt mit dem Zug ab jedem Bahnhof in Bayern, drei Nächte in der Berghütte „Edelweiß“ mit Halbpension und eine geführte Wanderung."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "d",
+     "design": "bignum",
+     "header": "",
+     "tag": "12 TAGE",
+     "title": "Nordland-Kreuzfahrt",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Entlang der norwegischen Küste – Fjorde, Gletscher und Mitternachtssonne. Außenkabine, Vollpension und Landausflüge inklusive. Ab 2.490 € pro Person; wer bis 31. März bucht, spart zehn Prozent."
+     ],
+     "footer": "Reederei Polaris · 040 / 77 88 99"
+    },
+    {
+     "letter": "e",
+     "design": "route",
+     "header": "",
+     "tag": "8 TAGE",
+     "title": "Elbe-Radreisen",
+     "subtitle": "",
+     "facts": [
+      "Dresden – Meißen – Torgau – Wittenberg"
+     ],
+     "body": [
+      "Täglich 40 bis 60 Kilometer auf flachen Radwegen. Ihr Gepäck bringen wir jeden Morgen ins nächste Hotel – Sie fahren nur mit einer kleinen Tasche. E-Bikes gegen Aufpreis. Besonders beliebt bei Gästen ab 60."
+     ],
+     "footer": "elbe-radreisen.de"
+    },
+    {
+     "letter": "f",
+     "design": "pinned",
+     "header": "",
+     "tag": "",
+     "title": "Nationalpark Harz sucht Helfer",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ein Urlaub, der etwas bewirkt: Mit unseren Rangern reparieren Sie Wanderwege, pflanzen junge Bäume und zählen Vögel. Unterkunft und Essen sind kostenlos, die Anreise zahlen Sie selbst. Voraussetzung: Sie sind mindestens 18 und gut zu Fuß."
+     ],
+     "footer": "Infos im Besucherzentrum Torfhaus"
+    },
+    {
+     "letter": "g",
+     "design": "rounded",
+     "header": "",
+     "tag": "",
+     "title": "RUHE",
+     "subtitle": "CAMPINGPLATZ SEEBLICK",
+     "facts": [],
+     "body": [
+      "Bei uns gibt es keinen Spielplatz und keine Animation – dafür Stille, einen Saunasteg und Stellplätze direkt am Wasser. Bitte beachten Sie: Kinder und Jugendliche unter 16 Jahren können wir leider nicht aufnehmen."
+     ],
+     "footer": "camping-seeblick.de"
+    },
+    {
+     "letter": "h",
+     "design": "dropcap",
+     "header": "SPRACHREISEN SOL",
+     "tag": "SALAMANCA",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Spanisch lernen, wo es gesprochen wird: Unterricht in kleinen Gruppen, vier Stunden am Vormittag, für Erwachsene aller Niveaus. Sie wohnen bei einer spanischen Gastfamilie mit Frühstück und Abendessen – so sprechen Sie auch nach dem Unterricht Spanisch."
+     ],
+     "footer": "Ab zwei Wochen buchbar · sprachreisen-sol.de"
+    },
+    {
+     "letter": "i",
+     "design": "coupon",
+     "header": "",
+     "tag": "",
+     "title": "Sprachcamp Costa Brava",
+     "subtitle": "FÜR JUGENDLICHE VON 12 BIS 17 JAHREN",
+     "facts": [],
+     "body": [
+      "Zwei Wochen Zeltlager am Meer: morgens Spanischunterricht, nachmittags Surfen, Klettern und Ausflüge. Erfahrene Teamer betreuen die Gruppe rund um die Uhr. Anreise im Reisebus ab Köln."
+     ],
+     "footer": "Jugendreisen Mar · Frühbucherrabatt bis 30. April"
+    },
+    {
+     "letter": "j",
+     "design": "greyband",
+     "header": "",
+     "tag": "",
+     "title": "Dresden ohne Hindernisse",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Städtereise für Rollstuhlfahrerinnen und Rollstuhlfahrer: zwei Nächte im Hotel „Elbufer“ mit rollstuhlgerechten Zimmern und Bädern, eine Stadtführung auf stufenlosen Wegen und ein Opernabend mit reservierten Rollstuhlplätzen. Begleitpersonen erhalten 30 Prozent Rabatt."
+     ],
+     "footer": "Reisebüro Weitblick · 0351 / 40 50 60"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für einen fleischfreien Tag in Kantinen, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Firmen und Schulen, deren Kantinen einmal pro Woche kein Fleisch mehr anbieten.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.essen-und-arbeit.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Katrin",
+    "byline": "Katrin, 52, Mainz",
+    "text": "In unserer Kantine gibt es seit einem Jahr jeden Donnerstag nur Gerichte ohne Fleisch. Am Anfang wurde gemeckert, heute ist der Donnerstag der Tag mit den meisten Gästen. Die Köche geben sich mehr Mühe, und ich habe Gerichte kennengelernt, die ich jetzt zu Hause selbst koche. Ein Tag in der Woche tut niemandem weh – dem Klima aber gut.",
+    "answer": "J"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Bernd",
+     "byline": "Bernd, 58, Essen",
+     "text": "Ich verstehe ja, dass viele weniger Fleisch essen wollen, und das ist auch in Ordnung. Aber ich arbeite auf dem Bau, und mittags brauche ich etwas Ordentliches. Die Kantine ist für viele von uns die einzige warme Mahlzeit am Tag. Wer kein Fleisch will, soll eben das Gemüse nehmen – mir sollte aber niemand vorschreiben, was auf meinen Teller kommt.",
+     "answer": "N"
+    },
+    {
+     "no": "21",
+     "name": "Selin",
+     "byline": "Selin, 27, Wien",
+     "text": "Bei uns in der Firma wird jeden Mittwoch vegetarisch gekocht, und seitdem sitze ich mittags endlich mit meinen Kollegen an einem Tisch, statt mir einen Salat mitzubringen. Ich esse seit Jahren kein Fleisch. Dass die anderen einmal pro Woche probieren, was ich jeden Tag esse, finde ich nur fair. Und ehrlich gesagt: Die meisten merken gar nicht, dass etwas fehlt.",
+     "answer": "J"
+    },
+    {
+     "no": "22",
+     "name": "Thomas",
+     "byline": "Thomas, 44, Zürich",
+     "text": "Als die Schule meiner Tochter den Veggie-Tag eingeführt hat, habe ich mich beim Elternabend darüber beschwert. Ein Kind braucht Fleisch, dachte ich. Dann hat uns die Köchin zum Probeessen eingeladen: Linsencurry, Gemüselasagne, Käsespätzle. Meine Tochter hat zweimal nachgenommen – ich übrigens auch. Seitdem sehe ich das entspannter und würde mir so einen Tag auch in meiner Firma wünschen.",
+     "answer": "J"
+    },
+    {
+     "no": "23",
+     "name": "Yvonne",
+     "byline": "Yvonne, 36, Bremen",
+     "text": "Meine Kinder erzählen begeistert vom Veggie-Tag in der Schule, und meine Nachbarin hält ihn für eine tolle Idee. Ich sehe das anders. Mein Sohn isst ohnehin kaum Gemüse; an diesen Tagen kommt er hungrig nach Hause, weil er sein Essen stehen lässt. Die Schule sollte die Kinder lieber für gesundes Essen begeistern, statt ihnen etwas zu verbieten.",
+     "answer": "N"
+    },
+    {
+     "no": "24",
+     "name": "Ahmet",
+     "byline": "Ahmet, 49, Nürnberg",
+     "text": "Ich bin nur dafür, wenn das vegetarische Essen genauso satt macht und nicht teurer ist als die Fleischgerichte. Sonst gehen die Leute einfach zur Imbissbude gegenüber. In unserer Kantine klappt das: Freitags gibt es Eintöpfe mit Bohnen oder Linsen für 4,50 Euro, und die Schlange ist so lang wie an anderen Tagen. So kann es bleiben.",
+     "answer": "J"
+    },
+    {
+     "no": "25",
+     "name": "Laura",
+     "byline": "Laura, 31, Linz",
+     "text": "Warum muss man den Leuten etwas wegnehmen? Viel besser fände ich es, wenn es jeden Tag ein richtig gutes vegetarisches Gericht gäbe – günstiger als das Schnitzel und gleich am Anfang der Theke. Dann greifen die meisten von allein zu, das hat man an unserer Uni schon ausprobiert. Ein fester Tag ohne Fleisch sorgt dagegen nur für schlechte Laune.",
+     "answer": "N"
+    },
+    {
+     "no": "26",
+     "name": "Klaus",
+     "byline": "Klaus, 63, Rostock",
+     "text": "Grundsätzlich hätte ich nichts dagegen, wenn die Qualität stimmen würde. Aber in unserer Betriebskantine gibt es am fleischfreien Montag immer dasselbe: zerkochte Nudeln mit Tomatensoße, und das seit zwei Jahren. Kein Wunder, dass montags die Hälfte der Tische leer bleibt. Solange dem Koch nicht mehr einfällt, ist so ein Tag nur ärgerlich. Ich bringe mir montags inzwischen ein Brot von zu Hause mit.",
+     "answer": "N"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie möchten ein Carsharing-Angebot nutzen und lesen die Nutzungsbedingungen.",
+   "doc": {
+    "title": "NUTZUNGSBEDINGUNGEN · STADTAUTO",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Anmeldung",
+      "text": "Kundin oder Kunde kann werden, wer mindestens 21 Jahre alt ist und seit mindestens zwei Jahren einen gültigen Führerschein besitzt. Die Anmeldung erfolgt online; Führerschein und Personalausweis zeigen Sie einmalig in einer unserer Filialen vor. Die Aufnahmegebühr beträgt 30 Euro."
+     },
+     {
+      "heading": "Buchung",
+      "text": "Fahrzeuge können Sie über die App oder telefonisch bis zu vier Wochen im Voraus reservieren. Bis eine Stunde vor Fahrtbeginn können Sie eine Buchung kostenlos stornieren; danach berechnen wir die Hälfte des Preises. Kindersitze können Sie kostenlos dazubuchen."
+     },
+     {
+      "heading": "Kosten",
+      "text": "Abgerechnet wird nach Zeit und gefahrenen Kilometern. Versicherung und Kraftstoff sind im Preis enthalten. Ist der Tank weniger als ein Viertel voll, tanken Sie bitte mit der Tankkarte aus dem Handschuhfach; dafür schreiben wir Ihnen zehn Minuten Fahrzeit gut."
+     },
+     {
+      "heading": "Rückgabe",
+      "text": "Bringen Sie das Fahrzeug pünktlich an den Stellplatz zurück, an dem Sie es abgeholt haben. Bei Verspätung ohne vorherigen Anruf berechnen wir 15 Euro pro angefangene halbe Stunde."
+     },
+     {
+      "heading": "Schäden und Sauberkeit",
+      "text": "Melden Sie Schäden vor Fahrtbeginn über die App; sonst müssen wir davon ausgehen, dass Sie sie verursacht haben. Rauchen ist in allen Fahrzeugen verboten. Tiere dürfen nur in einer Transportbox mitfahren."
+     },
+     {
+      "heading": "Kündigung",
+      "text": "Die Mitgliedschaft kann jederzeit mit einer Frist von vier Wochen zum Monatsende gekündigt werden. Der Monatsbeitrag von 9 Euro entfällt für Kundinnen und Kunden, die ein Jahresabo für Bus und Bahn besitzen."
+     },
+     {
+      "heading": "Weitere Fahrer",
+      "text": "Das Fahrzeug dürfen nur angemeldete Kundinnen und Kunden fahren. Personen, die im selben Haushalt leben, können sich kostenlos als Zusatzfahrer registrieren lassen."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer seit einem Jahr einen Führerschein hat, …",
+     "options": {
+      "a": "kann sich nur in einer Filiale anmelden.",
+      "b": "kann noch nicht Kunde werden.",
+      "c": "zahlt eine höhere Aufnahmegebühr."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Wer eine Buchung 30 Minuten vor Fahrtbeginn absagt, …",
+     "options": {
+      "a": "hat keine zusätzlichen Kosten.",
+      "b": "darf in den nächsten vier Wochen nichts mehr buchen.",
+      "c": "muss einen Teil des Preises bezahlen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "stem": "Wenn der Tank fast leer ist, …",
+     "options": {
+      "a": "bekommt man fürs Tanken einen kleinen Bonus.",
+      "b": "zahlt man das Benzin zunächst selbst.",
+      "c": "muss man das Auto sofort zurückbringen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "stem": "Der Mann einer Kundin, der mit ihr zusammenwohnt, …",
+     "options": {
+      "a": "darf das Auto ohne Anmeldung fahren.",
+      "b": "muss erst selbst eine Aufnahmegebühr von 30 Euro bezahlen.",
+      "c": "kann sich kostenlos als Fahrer eintragen lassen."
+     },
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Frau Scholl kann ihre Katze heute abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Frau Scholl soll …",
+     "options": {
+      "a": "den Transportkorb mitbringen.",
+      "b": "die Tabletten in der Apotheke kaufen.",
+      "c": "morgen früh in der Praxis anrufen."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Die Fans müssen heute ein anderes Verkehrsmittel nehmen als sonst.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Die Ersatzbusse …",
+       "options": {
+        "a": "fahren wie die Straßenbahn am Ausgang Süd ab.",
+        "b": "sind für Besucher mit Eintrittskarte kostenlos.",
+        "c": "bringen die Fans direkt zu den Parkplätzen am Stadion."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Herr Wolf kann Frau Brenner das Paket heute Abend persönlich geben.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Frau Brenner soll das Paket …",
+       "options": {
+        "a": "in einer Woche bei Familie Wolf abholen.",
+        "b": "beim Paketdienst in der Filiale abholen.",
+        "c": "noch heute bei Frau Wolf abholen."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "In dieser Woche wird der Müll überall einen Tag später abgeholt.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Die Wertstoffhöfe …",
+       "options": {
+        "a": "haben am Samstag länger geöffnet als sonst.",
+        "b": "sind in dieser Woche ganz geschlossen.",
+        "c": "öffnen am Donnerstag erst um 6 Uhr."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Jemand hat eine gefundene Tasche abgegeben.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Heute Abend …",
+       "options": {
+        "a": "wird das Konzert verschoben.",
+        "b": "fällt ein Programmpunkt aus.",
+        "c": "schließt der Infostand früher."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Der Kurs beginnt ab nächster Woche zu einer anderen Uhrzeit.",
+       "answer": "F"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Herr Kowalczyk soll …",
+       "options": {
+        "a": "sich im Büro der Sprachschule noch einmal neu anmelden.",
+        "b": "im Kurs den Aufzug benutzen.",
+        "c": "ein Formular unterschrieben abgeben."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie nehmen an einer Führung hinter den Kulissen des Stadttheaters teil. Zu Beginn spricht die Theaterpädagogin Frau Engel.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Führung …",
+     "options": {
+      "a": "endet auf jeden Fall auf der großen Bühne des Theaters.",
+      "b": "beginnt dort, wo die Bühnenbilder entstehen.",
+      "c": "dauert ungefähr eine halbe Stunde."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Fotos …",
+     "options": {
+      "a": "darf man nur auf der Bühne machen.",
+      "b": "sind in einem Raum nicht erlaubt.",
+      "c": "sind im ganzen Theater verboten."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Im Kostümfundus …",
+     "options": {
+      "a": "dürfen nur Kinder etwas anprobieren.",
+      "b": "kann man Kostüme ausleihen.",
+      "c": "darf man einzelne Stücke anziehen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Die Garderobe …",
+     "options": {
+      "a": "kostet einen kleinen Betrag.",
+      "b": "ist für die Teilnehmenden kostenlos.",
+      "c": "befindet sich im Untergeschoss."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Mit der Führungskarte …",
+     "options": {
+      "a": "kann man im Internet günstigere Karten für diesen Monat kaufen.",
+      "b": "sieht man die Vorstellung heute Abend kostenlos.",
+      "c": "zahlt man für Theaterkarten an der Kasse weniger."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sind in der Kantine und hören, wie sich zwei Kolleginnen, Birte und Anja, in der Mittagspause unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Birte fährt inzwischen meistens mit dem Rad zur Arbeit.",
+     "answer": "R"
+    },
+    {
+     "no": "17",
+     "text": "Das E-Bike hat Birte selbst bezahlt.",
+     "answer": "F"
+    },
+    {
+     "no": "18",
+     "text": "Mit dem Rad braucht Birte länger als früher mit dem Auto.",
+     "answer": "F"
+    },
+    {
+     "no": "19",
+     "text": "Am Anfang war Haruka in der Familie sehr zurückhaltend.",
+     "answer": "R"
+    },
+    {
+     "no": "20",
+     "text": "Anjas Sohn war von der Gastschülerin zunächst nicht begeistert.",
+     "answer": "R"
+    },
+    {
+     "no": "21",
+     "text": "Haruka darf ihren Aufenthalt verlängern.",
+     "answer": "F"
+    },
+    {
+     "no": "22",
+     "text": "Anjas Familie plant, Haruka in Japan zu besuchen.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Der Moderator der Radiosendung „Standpunkte“ diskutiert mit der Grundschullehrerin Claudia Reuter und dem Vater und Elternvertreter Martin Kühne über die Frage: „Sollen Hausaufgaben abgeschafft werden?“",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Claudia Reuter",
+    "c": "Martin Kühne"
+   },
+   "example": {
+    "no": "0",
+    "text": "An vielen Schulen wird über Hausaufgaben diskutiert.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Was früher zu Hause geübt wurde, üben die Kinder jetzt im Unterricht.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Hausaufgaben zeigen Eltern, womit sich ihr Kind gerade beschäftigt.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Manche Eltern arbeiten abends oder sprechen kaum Deutsch.",
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "text": "Ohne Hausaufgaben ist das Familienleben entspannter.",
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "text": "Lernstoff muss man oft wiederholen, damit man ihn behält.",
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "text": "Für Hausaufgaben sollte es eine feste Zeitgrenze geben.",
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "text": "Auf die Noten jüngerer Kinder haben Hausaufgaben wenig Wirkung.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Auch die Lehrkräfte profitieren davon, dass es keine Hausaufgaben mehr gibt.",
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben am Wochenende Ihren 30. Geburtstag gefeiert. Ein Freund/Eine Freundin von Ihnen konnte leider nicht kommen, weil er/sie krank war."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie war die Feier?",
+     "Begründen Sie: Welches Geschenk hat Ihnen am besten gefallen und warum?",
+     "Machen Sie einen Vorschlag, wie Sie beide nachfeiern können."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an einen Freund, ca. 95 Wörter",
+     "text": "Betreff: Schade, dass du nicht da warst!\n\nLieber Markus,\n\nwie geht es dir? Ich hoffe, du bist wieder gesund! Meine Geburtstagsfeier am Samstag war wunderschön. Wir waren ungefähr zwanzig Leute in meinem Garten, haben gegrillt und bis zwei Uhr nachts getanzt.\n\nAm besten hat mir das Geschenk meiner Schwester gefallen: ein Fotobuch mit Bildern aus dreißig Jahren. Beim Anschauen habe ich gleichzeitig gelacht und geweint, weil ich so viele Erinnerungen wiedergefunden habe.\n\nWollen wir nächsten Samstag zusammen essen gehen und ein bisschen nachfeiern? Ich lade dich ein – such dir ein Restaurant aus!\n\nViele Grüße\nLucía"
+    },
+    "typicalErrors": "Das Geschenk wird nur genannt, nicht begründet · Vorschlag ohne Zeitpunkt · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Radio eine Sendung zum Thema „Ausbildung statt Studium?“ gehört. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.radio-bildung.de",
+     "label": "Gästebuch",
+     "author": "Petra · 08.02. 20:14 Uhr",
+     "text": "Mein Sohn hat ein sehr gutes Abitur und will trotzdem Tischler werden. Ich verstehe das nicht ganz – mit einem Studium hätte er später bessere Chancen. Andererseits ist er in der Werkstatt so glücklich, wie er es in der Schule nie war. Und Handwerker werden überall gesucht."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Petra spricht ein wichtiges Thema an. Ich finde, ein Studium ist nicht für jeden der richtige Weg. Wer gern mit den Händen arbeitet, ist in einer Ausbildung oft glücklicher, und das ist genauso viel wert wie ein Abschluss an der Universität.\n\nAußerdem haben Handwerker heute sehr gute Chancen: Sie finden schnell eine Stelle und können sich später selbstständig machen. Mein Cousin ist Elektriker und verdient mehr als viele seiner Freunde mit Studium.\n\nTrotzdem verstehe ich Petras Sorge. Ihr Sohn sollte aber wissen, dass er auch nach der Ausbildung noch studieren kann."
+    },
+    "typicalErrors": "Petras Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Sie haben sich von Ihrem Nachbarn, Herrn Keller, eine Leiter ausgeliehen. Beim Renovieren ist die Leiter kaputtgegangen."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Herrn Keller. Entschuldigen Sie sich höflich, erklären Sie, was passiert ist, und machen Sie einen Vorschlag. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an den Nachbarn, ca. 45 Wörter",
+     "text": "Sehr geehrter Herr Keller,\n\nes tut mir sehr leid, aber beim Streichen ist Ihre Leiter umgefallen, und eine Stufe ist gebrochen. Ich möchte Ihnen gern eine neue Leiter kaufen. Hätten Sie am Samstag Zeit, mit mir in den Baumarkt zu fahren? Dann können Sie selbst ein Modell aussuchen.\n\nMit freundlichen Grüßen\nOmar Saleh"
+    },
+    "typicalErrors": "Kein Vorschlag (ersetzen, reparieren) · Hallo Herr Keller oder Liebe Grüße · keine Entschuldigung."
+   }
+  ]
+ }
+}

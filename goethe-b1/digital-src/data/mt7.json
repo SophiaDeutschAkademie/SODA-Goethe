@@ -1,0 +1,865 @@
+{
+ "id": 7,
+ "roman": "VII",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "tagebuch-einer-pendlerin.de · Miriam",
+    "date": "Mittwoch, 6. März",
+    "title": "Plötzlich Ersthelferin",
+    "paragraphs": [
+     "Ich habe lange überlegt, ob ich darüber schreiben soll. Aber vielleicht bringt es ja jemanden dazu, einen Erste-Hilfe-Kurs zu machen. Mein letzter Kurs lag zwanzig Jahre zurück – damals, für den Führerschein. Im Januar hat dann meine Firma einen Auffrischungskurs angeboten, während der Arbeitszeit und kostenlos. Ehrlich gesagt habe ich mich nur angemeldet, weil ich so einen Nachmittag lang keine E-Mails beantworten musste.",
+     "Der Trainer war früher Rettungssanitäter und hat uns vor allem eines beigebracht: Das Schlimmste ist, gar nichts zu tun. Dann haben wir an Puppen geübt, wie man richtig auf den Brustkorb drückt – hundertmal pro Minute, fünf bis sechs Zentimeter tief. Nach zehn Minuten taten mir die Arme weh. Am Ende hat jeder von uns einmal den Defibrillator ausprobiert – das Gerät sagt einem sogar, was man tun soll.",
+     "Genau drei Wochen später stand ich morgens beim Bäcker in der Schlange, als vor mir ein älterer Mann einfach umfiel. Er atmete nicht mehr. Für einen Moment standen alle nur da. Dann habe ich der Verkäuferin zugerufen, sie solle den Notruf wählen, und angefangen zu drücken. Ein junger Mann hat aus der Apotheke gegenüber einen Defibrillator geholt – ich wusste nicht einmal, dass es dort einen gibt.",
+     "Bis der Rettungswagen kam, hat es acht Minuten gedauert. Mir kam es vor wie eine Stunde. Als die Sanitäter übernommen hatten, zitterten meine Knie so, dass ich mich auf den Boden setzen musste. Zur Arbeit bin ich an diesem Tag nicht mehr gegangen.",
+     "Vorgestern klingelte es dann an meiner Tür. Draußen stand Herr Wendt, der Mann vom Bäcker, mit einem riesigen Blumenstrauß. Seine Tochter hatte über die Bäckerei herausgefunden, wer ich bin. Er lag zwei Wochen im Krankenhaus und bekommt jetzt einen Herzschrittmacher. „Ohne Sie wäre ich nicht mehr hier“, hat er gesagt. Da musste ich weinen.",
+     "Meine Firma will mich jetzt zur Ersthelferin für unsere Abteilung ausbilden lassen, und ich habe Ja gesagt. Auf eine Ausbildung zur Sanitäterin, wie mein Mann vorschlägt, habe ich aber keine Lust – so ein Morgen reicht mir für mein ganzes Leben. Macht bitte alle einen Kurs. Er dauert nur einen Tag."
+    ],
+    "closing": "Eure Miriam"
+   },
+   "example": {
+    "no": "0",
+    "text": "Miriam hat vor Kurzem einen Erste-Hilfe-Kurs gemacht.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Der Kurs fand nicht in Miriams Freizeit statt.",
+     "answer": "R"
+    },
+    {
+     "no": "2",
+     "text": "Im Kurs hat Miriam vor allem theoretisches Wissen gelernt.",
+     "answer": "F"
+    },
+    {
+     "no": "3",
+     "text": "Miriam hat selbst den Rettungsdienst alarmiert.",
+     "answer": "F"
+    },
+    {
+     "no": "4",
+     "text": "Nach dem Einsatz ging es Miriam selbst nicht gut.",
+     "answer": "R"
+    },
+    {
+     "no": "5",
+     "text": "Herr Wendt hat sich bei Miriam persönlich bedankt.",
+     "answer": "R"
+    },
+    {
+     "no": "6",
+     "text": "Miriam möchte eine Ausbildung zur Sanitäterin machen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Die Ärztin kommt per Bildschirm",
+     "lead": "In Krummbach hat seit einem Jahr eine Gesundheitsstation die Arztpraxis ersetzt.",
+     "paragraphs": [
+      "Als Dr. Helmut Reiners vor zwei Jahren in Rente ging, stand Krummbach ohne Arzt da. Einen Nachfolger für die Praxis fand das Dorf mit seinen 1.800 Einwohnern nicht, und die nächste Hausarztpraxis liegt 25 Kilometer entfernt. Seit einem Jahr gibt es in den alten Praxisräumen nun eine Gesundheitsstation. Dort arbeitet die Krankenschwester Anja Fuchs. Sie misst Blutdruck, wechselt Verbände und nimmt Blut ab. Für viele Patienten ist sie inzwischen die wichtigste Ansprechpartnerin, auch wenn es nur um eine Frage zu ihren Tabletten geht. Wenn nötig, verbindet sie die Patienten per Video mit einer Ärztin in der Kreisstadt, die dann Medikamente verschreiben kann. Das Rezept liegt eine Stunde später in der Apotheke im Ort. Geöffnet ist die Station dienstags und donnerstags von 8 bis 13 Uhr; einen Termin muss man vorher telefonisch vereinbaren. Viele ältere Krummbacher waren am Anfang skeptisch. „Ich will keinen Fernseher, ich will einen Arzt“, sagte ein Rentner bei der Eröffnung. Inzwischen kommt er jede Woche. Wer nicht mehr Auto fahren kann, wird von Nachbarn gebracht. Für Notfälle ist die Station allerdings nicht gedacht; dann muss man weiterhin die 112 wählen. Bezahlt wird das Projekt zunächst für drei Jahre von der Krankenkasse und vom Land. Der Bürgermeister hofft trotzdem, dass sich irgendwann wieder ein Arzt im Dorf niederlässt – die Wohnung über der Praxis hält die Gemeinde dafür frei."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Dr. Reiners …",
+      "options": {
+       "a": "arbeitet jetzt in der Kreisstadt.",
+       "b": "hat aufgehört zu arbeiten.",
+       "c": "hat die Gesundheitsstation gegründet."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "einen Arzt, der in einem Dorf eine neue Praxis eröffnet.",
+        "b": "ein Dorf, das ohne eigene Arztpraxis versorgt wird.",
+        "c": "eine Krankenschwester, die Patienten zu Hause besucht."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "8",
+       "stem": "In der Gesundheitsstation …",
+       "options": {
+        "a": "bekommt man Rezepte, ohne wegzufahren.",
+        "b": "werden auch Notfälle direkt von der Krankenschwester behandelt.",
+        "c": "kann man jederzeit auch ohne vorherige Anmeldung vorbeikommen."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "9",
+       "stem": "Die Gemeinde …",
+       "options": {
+        "a": "bezahlt das ganze Projekt ohne Hilfe von außen.",
+        "b": "will die Räume der alten Praxis möglichst bald verkaufen.",
+        "c": "hält für einen künftigen Arzt eine Unterkunft bereit."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Wenn der Pager piepst",
+     "lead": "In vielen Schweizer Dörfern fehlen der Feuerwehr Leute – Rüti geht neue Wege.",
+     "paragraphs": [
+      "In Rüti im Zürcher Oberland löschen keine Berufsfeuerwehrleute die Brände, sondern Nachbarn: der Bäcker, die Lehrerin, der Landwirt. Wie in den meisten Schweizer Gemeinden ist die Feuerwehr hier eine Milizfeuerwehr – die Mitglieder haben einen normalen Beruf und rücken nur aus, wenn ihr Pager piepst. Insgesamt gehören 48 Frauen und Männer dazu; im Jahr gibt es rund 80 Einsätze, vom Küchenbrand bis zum umgestürzten Baum. Das Problem: Tagsüber arbeiten viele von ihnen nicht mehr im Dorf, sondern in Zürich oder Winterthur. „Bei einem Alarm um zehn Uhr morgens hatten wir manchmal nur vier Leute“, sagt Kommandant Beat Keller. Deshalb hat die Gemeinde mit den Firmen im Ort eine Vereinbarung getroffen: Wer Pikett* hat, darf während der Arbeit jederzeit weggehen, und die Gemeinde bezahlt dem Arbeitgeber die verlorene Arbeitszeit. Ausserdem wirbt die Feuerwehr gezielt um Frauen und um Menschen, die neu ins Dorf gezogen sind. Mit Erfolg: Seit letztem Jahr sind elf neue Mitglieder dazugekommen, darunter fünf Frauen. Die Jüngste ist 19 und studiert in Zürich. Neue besuchen zuerst einen Grundkurs an drei Wochenenden; danach gibt es jeden zweiten Dienstag eine Übung. Für jeden Einsatz erhalten die Mitglieder 30 Franken pro Stunde. Schwierig bleibt die Nacht: Wer kleine Kinder hat, kann nicht einfach aus dem Haus laufen. Ab dem nächsten Jahr will Rüti deshalb mit der Feuerwehr des Nachbardorfs zusammenarbeiten."
+     ],
+     "footnote": "*Pikett = Schweizer Standard für „Bereitschaftsdienst“",
+     "source": "aus einer Schweizer Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "ein Dorf, das für seine Feuerwehr Lösungen sucht.",
+        "b": "eine Feuerwehr, die nur noch aus Frauen besteht.",
+        "c": "Firmen, die ihre Mitarbeiter zu Feuerwehrleuten ausbilden."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "11",
+       "stem": "Wer an einem Tag für Einsätze eingeteilt ist, …",
+       "options": {
+        "a": "muss sich für diesen Tag bei der Arbeit freinehmen.",
+        "b": "bekommt dafür von seinem Chef einen höheren Lohn.",
+        "c": "darf bei Alarm sofort die Arbeit verlassen."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "12",
+       "stem": "Ein Problem ist, dass …",
+       "options": {
+        "a": "die neuen Mitglieder für Einsätze zu wenig Geld bekommen.",
+        "b": "Eltern in der Nacht oft nicht kommen können.",
+        "c": "die Übungen nur am Wochenende stattfinden."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Bekannten suchen für ihre Kinder ein Freizeitangebot.",
+   "example": {
+    "no": "0",
+    "text": "Frau Kraus möchte, dass ihr Sohn (8) ein Instrument lernt.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Lea ist zwölf und interessiert sich für Computer. Sie möchte lernen, wie man selbst ein kleines Spiel entwickelt.",
+     "answer": "e"
+    },
+    {
+     "no": "14",
+     "text": "Herr Novak braucht für seine Zwillinge (9) in der ersten Woche der Sommerferien eine Betreuung, während er arbeitet.",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "text": "Paul (10) ist sehr schüchtern. Seine Eltern wünschen sich, dass er lernt, vor anderen Menschen sicherer aufzutreten.",
+     "answer": "c"
+    },
+    {
+     "no": "16",
+     "text": "Familie Sahin möchte am Wochenende mit ihren Kindern (5 und 7) zusammen etwas Kreatives machen.",
+     "answer": "g"
+    },
+    {
+     "no": "17",
+     "text": "Mia (14) liebt Tiere und möchte sich regelmäßig um sie kümmern. Auf ein Pferd will sie sich aber nicht setzen.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Jonas ist 16. Er möchte in einer Halle klettern lernen.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Frau Ostermann sucht für ihre Tochter (11) ein wöchentliches Angebot im Freien, bei dem sie andere Kinder kennenlernt.",
+     "answer": "d"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "dashed",
+     "header": "",
+     "tag": "",
+     "title": "Reiterhof Sonnental",
+     "subtitle": "REITUNTERRICHT FÜR KINDER",
+     "facts": [
+      "30 Minuten · 18 €",
+      "45 Minuten · 25 €",
+      "60 Minuten · 32 €"
+     ],
+     "body": [
+      "Kinder ab 6 Jahren lernen bei uns auf freundlichen Ponys reiten. Wir unterrichten ausschließlich in Einzelstunden, damit jedes Kind in seinem eigenen Tempo lernt. Helm und Stiefel können ausgeliehen werden."
+     ],
+     "footer": "Anmeldung: 0421 / 61 22 30"
+    },
+    {
+     "letter": "b",
+     "design": "barhead",
+     "header": "",
+     "tag": "",
+     "title": "Städtische Musikschule",
+     "subtitle": "INSTRUMENTALUNTERRICHT AB 6 JAHREN",
+     "facts": [],
+     "body": [
+      "Gitarre, Klavier, Geige oder Schlagzeug: Bei uns lernen Kinder ein Instrument – im Einzelunterricht, einmal pro Woche. Die erste Stunde ist eine kostenlose Probestunde. Instrumente kann man für die ersten sechs Monate mieten."
+     ],
+     "footer": "musikschule-stadt.de · Mo–Fr 9–12 Uhr",
+     "deco": {
+      "icon": "note"
+     }
+    },
+    {
+     "letter": "c",
+     "design": "stripes",
+     "header": "",
+     "tag": "",
+     "title": "BÜHNE FREI!",
+     "subtitle": "THEATERKURS · 8 BIS 12 JAHRE",
+     "facts": [],
+     "body": [
+      "Jeden Dienstag von 16 bis 17.30 Uhr im Jugendhaus lernen Kinder spielerisch, laut und deutlich zu sprechen und vor Publikum aufzutreten. Am Ende des Halbjahres zeigen wir ein eigenes Stück."
+     ],
+     "footer": "Anmeldung im Jugendhaus"
+    },
+    {
+     "letter": "d",
+     "design": "rounded",
+     "header": "",
+     "tag": "",
+     "title": "Pfadfinderstamm Adler",
+     "subtitle": "ALLZEIT BEREIT",
+     "facts": [],
+     "body": [
+      "Jeden Freitag um 16 Uhr treffen sich bei uns Mädchen und Jungen von 10 bis 13 Jahren. Wir bauen Hütten im Wald, kochen am Lagerfeuer und lernen, uns mit Karte und Kompass zu orientieren."
+     ],
+     "footer": "Schnuppern ohne Anmeldung · Waldweg 4"
+    },
+    {
+     "letter": "e",
+     "design": "browser",
+     "header": "",
+     "tag": "",
+     "title": "// CODING-CLUB",
+     "subtitle": "für 11- bis 15-Jährige",
+     "facts": [],
+     "body": [
+      "Wir programmieren eigene Spiele und kleine Apps.",
+      "Jeden Donnerstag, 17–19 Uhr, in der Stadtbibliothek.",
+      "Vorkenntnisse? Nicht nötig.",
+      "Laptops sind vorhanden, die Teilnahme ist kostenlos."
+     ],
+     "footer": "> anmelden: coding-club.de",
+     "deco": {
+      "url": "coding-club.txt"
+     }
+    },
+    {
+     "letter": "f",
+     "design": "band",
+     "header": "KLETTERHALLE",
+     "tag": "",
+     "title": "GIPFELSTÜRMER",
+     "subtitle": "KINDERKLETTERN",
+     "facts": [],
+     "body": [
+      "In kleinen Gruppen lernen Kinder von 6 bis 12 Jahren mit erfahrenen Trainern sicheres Klettern. Jeden Samstag von 10 bis 12 Uhr. Achtung: Unser Kursangebot gilt nur für Kinder bis 12 Jahre."
+     ],
+     "footer": "gipfelstuermer-halle.de"
+    },
+    {
+     "letter": "g",
+     "design": "serif",
+     "header": "Töpferwerkstatt",
+     "tag": "",
+     "title": "Lehm & Glut",
+     "subtitle": "TÖPFERN FÜR GROSS UND KLEIN",
+     "facts": [],
+     "body": [
+      "Jeden Samstagvormittag gestalten Eltern und Kinder ab 4 Jahren gemeinsam Schalen, Tassen und Figuren. Ton und Brennen sind im Preis enthalten."
+     ],
+     "footer": "15 Euro pro Person · Mühlenstraße 9"
+    },
+    {
+     "letter": "h",
+     "design": "timetable",
+     "header": "",
+     "tag": "1. WOCHE DER SOMMERFERIEN",
+     "title": "Ferienspaß im Jugendhaus",
+     "subtitle": "",
+     "facts": [
+      "Mo 8–16",
+      "Di 8–16",
+      "Mi 8–16",
+      "Do 8–16",
+      "Fr 8–16",
+      "Sa –",
+      "So –"
+     ],
+     "body": [
+      "Für Kinder von 6 bis 12 Jahren: Spiele, Ausflüge ins Schwimmbad und ein gemeinsames Mittagessen, betreut von ausgebildeten Pädagogen. 90 Euro für die ganze Woche."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "i",
+     "design": "mono",
+     "header": "*** SPIELECAFÉ ***",
+     "tag": "",
+     "title": "WÜRFELGLÜCK",
+     "subtitle": "",
+     "facts": [
+      "Sa + So · 11–20 Uhr",
+      "Spielen p. P. · 3,00 €",
+      "Kinder unter 6 · frei"
+     ],
+     "body": [
+      "Über 500 Brett- und Kartenspiele für die ganze Familie",
+      "Waffeln & Kakao gibt es auch!"
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "j",
+     "design": "pinned",
+     "header": "",
+     "tag": "",
+     "title": "TIERSCHUTZJUGEND",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Du bist zwischen 12 und 17 und magst Tiere? Jeden Mittwochnachmittag hilfst du uns im Tierheim beim Füttern, machst die Gehege sauber und gehst mit unseren Hunden spazieren. Dabei lernst du viel über Tierschutz."
+     ],
+     "footer": "Tierheim Am Mühlbach · tierheim-muehlbach.de"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für ein Wahlrecht ab 16, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über die Frage, ob Jugendliche schon mit 16 Jahren wählen dürfen sollen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.politik-im-alltag.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Johanna",
+    "byline": "Johanna, 17, Rostock",
+    "text": "Mit 16 darf ich arbeiten, Steuern zahlen und selbst entscheiden, welche Ausbildung ich mache. Nur bei der Frage, wer unser Land regiert, darf ich nicht mitreden. Das verstehe ich nicht. Viele in meiner Klasse lesen mehr Nachrichten als ihre Eltern. Gebt uns endlich die Möglichkeit, unsere Meinung auch bei Wahlen zu zeigen. Schließlich geht es auch um unsere Zukunft.",
+    "answer": "J"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Gerhard",
+     "byline": "Gerhard, 70, Ulm",
+     "text": "Ich habe vier Enkel zwischen 14 und 20, und ich mag junge Leute sehr. Aber mit 16 ist man noch leicht zu beeinflussen – von Freunden, von Videos im Internet, manchmal auch von den Lehrern. Man darf mit 16 ja auch noch kein Auto fahren und keinen Vertrag ohne die Eltern unterschreiben. Warum sollte man dann schon über die Regierung entscheiden?",
+     "answer": "N"
+    },
+    {
+     "no": "21",
+     "name": "Svenja",
+     "byline": "Svenja, 45, Bonn",
+     "text": "Ich unterrichte seit fünfzehn Jahren Politik an einer Gesamtschule. Meine Schülerinnen und Schüler diskutieren oft ernsthafter über Themen wie Wohnungsnot oder Klimaschutz als viele Erwachsene, die ich kenne. Viele engagieren sich in der Schülervertretung oder in Umweltgruppen, ohne dass sie jemand dazu auffordert. Wer sie fragt, bekommt kluge Antworten. Es wird höchste Zeit, dass ihre Stimme auch auf dem Wahlzettel zählt.",
+     "answer": "J"
+    },
+    {
+     "no": "22",
+     "name": "Murat",
+     "byline": "Murat, 19, Bielefeld",
+     "text": "Natürlich ist es gut, wenn sich junge Menschen für Politik interessieren – ich war mit 16 selbst bei jeder Demonstration dabei. Trotzdem glaube ich, dass 18 die richtige Grenze ist. Mit 16 wohnen fast alle noch bei den Eltern und kennen viele Probleme nur aus der Ferne. Ein, zwei Jahre mehr Erfahrung schaden niemandem. Wählen kann man dann noch lange genug.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Nicole",
+     "byline": "Nicole, 41, Mainz",
+     "text": "Ich wäre sofort dafür, wenn Jugendliche in der Schule vorher richtig lernen würden, wie unser politisches System funktioniert. Davon ist an der Schule meines Sohnes aber nichts zu sehen: Politik steht dort in der neunten Klasse gerade einmal eine Stunde pro Woche auf dem Stundenplan, und oft fällt sie aus. Unter diesen Bedingungen sollte man das Wahlalter lieber nicht senken.",
+     "answer": "N"
+    },
+    {
+     "no": "24",
+     "name": "Lukas",
+     "byline": "Lukas, 16, Kiel",
+     "text": "Meine Eltern sagen immer, junge Leute interessieren sich sowieso nicht für Politik. Ich sehe das ganz anders. Ich bin 16, lese jeden Tag Nachrichten und engagiere mich im Jugendparlament unserer Stadt. Dort entscheiden wir sogar über ein eigenes Budget für Projekte. Wenn wir das können, können wir auch einen Stimmzettel ausfüllen. Politikmüde Menschen gibt es übrigens in jedem Alter.",
+     "answer": "J"
+    },
+    {
+     "no": "25",
+     "name": "Brigitte",
+     "byline": "Brigitte, 63, Graz",
+     "text": "Als Österreich 2007 das Wahlalter auf 16 gesenkt hat, war ich strikt dagegen. Ich dachte, die Jugendlichen wählen dann nur, was gerade im Internet modern ist. Heute sehe ich das ganz anders: Meine Enkelin hat sich vor ihrer ersten Wahl wochenlang informiert und mir mehr über die Parteien erklärt als jede Zeitung. Ich möchte es auf keinen Fall wieder ändern.",
+     "answer": "J"
+    },
+    {
+     "no": "26",
+     "name": "Paul",
+     "byline": "Paul, 52, Essen",
+     "text": "Wir reden ständig darüber, dass sich junge Menschen mehr engagieren sollen. Gleichzeitig lassen wir sie bei den wichtigsten Entscheidungen außen vor. In einigen Bundesländern dürfen 16-Jährige schon heute den Landtag wählen, und nach allem, was man hört, mit großem Interesse. Wer mit 16 eine Ausbildung macht und Sozialabgaben zahlt, sollte auch mitbestimmen dürfen. Ich sehe keinen Grund, warum das nicht auch bundesweit gelten sollte.",
+     "answer": "J"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie möchten in einem Baumarkt Werkzeug ausleihen und lesen die Mietbedingungen.",
+   "doc": {
+    "title": "MIETBEDINGUNGEN · WERKZEUGVERLEIH HAMMER & CO",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Voraussetzungen",
+      "text": "Werkzeug ausleihen kann, wer mindestens 18 Jahre alt ist. Bitte bringen Sie Ihren Personalausweis mit; ohne Ausweis können wir leider nichts verleihen. Firmenkunden benötigen zusätzlich eine Kopie ihrer Gewerbeanmeldung."
+     },
+     {
+      "heading": "Mietdauer und Preise",
+      "text": "Die Geräte werden tageweise vermietet. Wer ein Gerät am Samstag ab 12 Uhr abholt und am Montag bis 10 Uhr zurückbringt, zahlt nur den Preis für einen Tag (Wochenendtarif). Feiertage werden nicht berechnet. Eine Reservierung ist telefonisch oder online bis zu zwei Wochen im Voraus möglich."
+     },
+     {
+      "heading": "Kaution",
+      "text": "Für jedes Gerät hinterlegen Sie eine Kaution von 50 bis 200 Euro, je nach Wert. Sie erhalten die Kaution bei der Rückgabe zurück, wenn das Gerät vollständig und unbeschädigt ist. Fehlt ein Zubehörteil, behalten wir einen Teil der Kaution ein."
+     },
+     {
+      "heading": "Zahlung",
+      "text": "Die Miete bezahlen Sie bei der Abholung, bar oder mit Karte. Die Kaution kann nur bar hinterlegt werden."
+     },
+     {
+      "heading": "Einweisung",
+      "text": "Bei Maschinen wie Fliesenschneidern und Bohrhämmern erklärt Ihnen unser Personal vor der Ausleihe, wie das Gerät funktioniert. Diese Einweisung ist kostenlos, aber Pflicht; planen Sie dafür etwa 15 Minuten ein."
+     },
+     {
+      "heading": "Rückgabe",
+      "text": "Bitte bringen Sie die Geräte gereinigt zurück; für stark verschmutzte Geräte berechnen wir 15 Euro. Wenn Sie ein Gerät länger brauchen, rufen Sie uns bitte vor Ablauf der Mietzeit an. Bei verspäteter Rückgabe ohne Anruf berechnen wir einen zusätzlichen Miettag."
+     },
+     {
+      "heading": "Schäden",
+      "text": "Melden Sie Defekte bitte sofort und reparieren Sie die Geräte nicht selbst. Für Schäden durch falsche Bedienung haften Sie selbst. Verschleißteile wie Sägeblätter und Bohrer stellen wir extra in Rechnung."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Ein 17-Jähriger, der eine Bohrmaschine braucht, …",
+     "options": {
+      "a": "kann sie mit seinem eigenen Personalausweis ausleihen.",
+      "b": "darf das Gerät noch nicht selbst mieten.",
+      "c": "muss eine höhere Kaution hinterlegen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Wer ein Gerät am Wochenende braucht, …",
+     "options": {
+      "a": "kann von einem günstigeren Tarif profitieren.",
+      "b": "muss es mindestens zwei Wochen vorher reservieren.",
+      "c": "bekommt die Kaution erst am Montag zurück."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "stem": "Bevor man einen Bohrhammer mitnehmen darf, …",
+     "options": {
+      "a": "muss man für eine Erklärung bezahlen.",
+      "b": "muss man eine Kopie der Gewerbeanmeldung vorlegen.",
+      "c": "muss man sich das Gerät erklären lassen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "stem": "Wer ein Gerät später zurückbringen möchte, …",
+     "options": {
+      "a": "sollte vorher Bescheid sagen.",
+      "b": "muss es vorher reinigen lassen.",
+      "c": "bekommt die Kaution nicht zurück."
+     },
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Frau Berg kann ihre neue Brille ab morgen abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Frau Berg soll …",
+     "options": {
+      "a": "ihre alte Brille mitbringen.",
+      "b": "die Brille vorher bezahlen.",
+      "c": "am Samstag kommen."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Die Pause ist kürzer als geplant.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Die Fahrgäste …",
+       "options": {
+        "a": "sollen ihre Wertsachen im Bus lassen.",
+        "b": "bekommen für die Toilette etwas zurück.",
+        "c": "können länger bleiben, wenn sie dem Fahrer Bescheid sagen."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Lisa soll das Kind bei sich zu Hause betreuen.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Lisa soll …",
+       "options": {
+        "a": "Nina vor dem Abend Bescheid geben.",
+        "b": "für Emil am Abend etwas kochen.",
+        "c": "ein Kuscheltier für Emil kaufen und mitbringen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Für die Aktion muss man sich vorher anmelden.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Kinder …",
+       "options": {
+        "a": "können ab sechs Jahren allein mitmachen.",
+        "b": "bekommen besondere Handschuhe.",
+        "c": "dürfen nur mit Begleitung teilnehmen."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Der Vortrag findet am selben Ort statt wie geplant.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Die Gewinner des Gewinnspiels …",
+       "options": {
+        "a": "werden um 17 Uhr am Eingang bekannt gegeben.",
+        "b": "erfahren es später auf elektronischem Weg.",
+        "c": "müssen ihren Preis am Haupteingang abholen."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Herr Brückner muss am Mittwoch nicht unbedingt zu Hause sein.",
+       "answer": "R"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Wenn Herr Brückner den Zählerstand nicht meldet, …",
+       "options": {
+        "a": "kommen die Stadtwerke noch ein zweites Mal vorbei.",
+        "b": "setzen die Stadtwerke einen ungefähren Wert an.",
+        "c": "muss er dafür eine zusätzliche Gebühr bezahlen."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sind auf einem Elternabend. Die Klassenlehrerin, Frau Hesse, informiert über die Klassenfahrt.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Am Tag der Abreise …",
+     "options": {
+      "a": "sollen die Kinder 15 Minuten vor der Abfahrt da sein.",
+      "b": "fährt der Bus nicht an der Schule, sondern am Bahnhof ab.",
+      "c": "fährt der Bus schon um Viertel vor acht ab."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Die Zimmer …",
+     "options": {
+      "a": "können die Eltern für ihr Kind auswählen.",
+      "b": "haben jeweils zwei Betten.",
+      "c": "haben die Schüler selbst verteilt."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Für den Ausflug nach Norderney …",
+     "options": {
+      "a": "müssen die Eltern zusätzlich etwas bezahlen.",
+      "b": "brauchen die Kinder einen gültigen Reisepass.",
+      "c": "brauchen die Kinder ein bestimmtes Dokument."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Das Taschengeld …",
+     "options": {
+      "a": "ist im Preis der Fahrt enthalten.",
+      "b": "sollte nicht zu hoch sein.",
+      "c": "wird von der Lehrerin verwaltet."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Die Handys …",
+     "options": {
+      "a": "müssen die Kinder über Nacht abgeben.",
+      "b": "dürfen nicht mitgenommen werden.",
+      "c": "dürfen die Kinder nur im Notfall benutzen."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sind auf einem Spielplatz und hören, wie sich zwei Väter, Ben und Yusuf, unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Yusufs Frau arbeitet inzwischen wieder.",
+     "answer": "R"
+    },
+    {
+     "no": "17",
+     "text": "Yusufs Chef hatte mit der Elternzeit kein Problem.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Yusufs Familie fährt dieses Jahr wie geplant nach Spanien.",
+     "answer": "F"
+    },
+    {
+     "no": "19",
+     "text": "Die Idee zu Ellas Projekt entstand im Urlaub.",
+     "answer": "R"
+    },
+    {
+     "no": "20",
+     "text": "Ben hat seiner Tochter beim Bauen geholfen.",
+     "answer": "F"
+    },
+    {
+     "no": "21",
+     "text": "Ella hat sich schon für das Bundesfinale qualifiziert.",
+     "answer": "F"
+    },
+    {
+     "no": "22",
+     "text": "Ella will mit ihrem Preisgeld ihr Projekt weiterentwickeln.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Der Moderator der Radiosendung „Standpunkte“ diskutiert mit der Zoodirektorin Christine Möller und dem Tierschützer Daniel Seidel über die Frage: „Brauchen wir noch Zoos?“",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Christine Möller",
+    "c": "Daniel Seidel"
+   },
+   "example": {
+    "no": "0",
+    "text": "Zoos haben jedes Jahr sehr viele Besucher.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Manche Tiere leiden darunter, dass sie zu wenig Platz haben.",
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "text": "Ohne Zoos gäbe es einige Tierarten heute nicht mehr.",
+     "answer": "b"
+    },
+    {
+     "no": "25",
+     "text": "Nur ein kleiner Teil der Zootiere gehört zu bedrohten Arten.",
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "text": "Das Geld sollte besser direkt dort ausgegeben werden, wo die Tiere leben.",
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "text": "Im Zoo erleben Kinder Tiere so, wie es kein Film zeigen kann.",
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "text": "Bestimmte Tierarten sollten gar nicht mehr in Zoos leben.",
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "text": "Einige Zoos halten schon heute keine Elefanten oder Eisbären mehr.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Zoos haben nur eine Zukunft, wenn sie sich verändern.",
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben am Freitag mit Ihren Kolleginnen und Kollegen einen Betriebsausflug gemacht. Ein Freund/Eine Freundin von Ihnen möchte wissen, wie es war."
+    ],
+    "points": [
+     "Beschreiben Sie: Was haben Sie gemacht?",
+     "Begründen Sie: Warum ist so ein Ausflug für Ihr Team wichtig?",
+     "Machen Sie einen Vorschlag für ein Treffen."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an einen Freund, ca. 90 Wörter",
+     "text": "Betreff: Unser Betriebsausflug\n\nLieber Marco,\n\nam Freitag war ich mit meinem Team auf Betriebsausflug. Wir sind mit dem Schiff über den Bodensee gefahren und haben danach in einem Kletterpark ein Teamtraining gemacht. Am Abend haben wir zusammen gegrillt.\n\nSo ein Ausflug ist für uns wichtig, weil wir im Büro kaum Zeit haben, miteinander zu reden. Ich habe zwei Kollegen aus der IT-Abteilung zum ersten Mal richtig kennengelernt.\n\nHast du am Samstag Zeit? Wir könnten zusammen frühstücken, dann erzähle ich dir mehr.\n\nViele Grüße\nElena"
+    },
+    "typicalErrors": "Nur der Ausflug wird beschrieben, die Begründung fehlt · Vorschlag ohne Zeitpunkt · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Radio eine Sendung zum Thema „Pünktlichkeit – wie wichtig ist sie heute noch?“ gehört. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.radio-alltag.de",
+     "label": "Gästebuch",
+     "author": "Holger · 03.11. 18:35 Uhr",
+     "text": "Bei uns im Büro kommt die Hälfte der Kollegen zu jeder Besprechung fünf oder zehn Minuten zu spät. Wer pünktlich ist, sitzt dann allein im Raum und wartet. Meine Kollegen sagen, das sei heute eben normal, man könne ja kurz eine Nachricht schreiben. Ich finde das unhöflich."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Holger spricht ein Thema an, das ich gut kenne. Ich finde Pünktlichkeit sehr wichtig, weil man damit zeigt, dass man die Zeit der anderen respektiert. Wenn fünf Leute zehn Minuten warten, ist fast eine Stunde Arbeitszeit verloren.\n\nNatürlich kann jeder einmal im Stau stehen oder den Bus verpassen. Dann ist eine kurze Nachricht in Ordnung. Aber wer immer zu spät kommt, ist unhöflich. In meinem Heimatland ist man bei privaten Treffen etwas lockerer, bei der Arbeit aber auch pünktlich.\n\nIch würde Holger raten, das Problem in der nächsten Besprechung offen anzusprechen."
+    },
+    "typicalErrors": "Holgers Beitrag nur wiederholen · keine eigene Meinung oder keine Begründung · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Ihr Sohn spielt in einem Fußballverein. Am Samstag hat seine Mannschaft ein wichtiges Turnier, aber Ihr Sohn ist krank."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an den Trainer, Herrn Lang. Entschuldigen Sie Ihren Sohn, erklären Sie die Situation und fragen Sie nach dem nächsten Training. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an den Trainer, ca. 45 Wörter",
+     "text": "Sehr geehrter Herr Lang,\n\nleider kann mein Sohn Tim am Samstag nicht beim Turnier spielen, weil er seit gestern Fieber hat. Das tut ihm und uns leid, denn er hat sich sehr auf das Turnier gefreut. Können Sie mir bitte sagen, wann das nächste Training stattfindet?\n\nMit freundlichen Grüßen\nSandra Kovač"
+    },
+    "typicalErrors": "Keine Frage nach dem Training · Hallo Herr Lang oder Liebe Grüße · kein Grund genannt."
+   }
+  ]
+ },
+ "notes": "Alle Antworten stammen aus dem Lösungsschlüssel (S. 17); Hören-Beispiele 01/02 und 0 aus den Hörtexten bzw. Aufgabenseite. Lesen Teil 3: Die Anzeigen d und h stimmen mit der Situation 14/19 überein (h = Betreuung 1. Ferienwoche, d = wöchentlich im Freien). Keine Konflikte zwischen Schlüssel und Text gefunden. Anzeige e (Coding-Club) ist im PDF als Textdatei mit Zeilennummern gesetzt, Anzeige i als Kassenbon; die Zeilennummern und Punktlinien sind nicht übernommen."
+}

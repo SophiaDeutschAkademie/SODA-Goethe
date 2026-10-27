@@ -1,0 +1,843 @@
+{
+ "id": 4,
+ "roman": "IV",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "dienstags-um-acht.de · Daniel",
+    "date": "Sonntag, 8. Dezember",
+    "title": "Lampenfieber",
+    "paragraphs": [
+     "Gestern war es so weit: mein erstes Konzert. Wer mich kennt, weiß, dass ich bisher höchstens unter der Dusche gesungen habe – und auch das nur, wenn niemand zu Hause war. Dass ich jetzt in einem Chor stehe, habe ich Birgit zu verdanken. Sie sitzt im Büro neben mir und hat im Januar so lange von ihrem Chor „Querbeet“ geschwärmt, bis ich an einem Dienstag mitgegangen bin – eigentlich nur, damit sie endlich Ruhe gibt.",
+     "Vor dem ersten Abend hatte ich richtig Angst. Aber Ines, unsere Chorleiterin, hat nur gelacht: Vorsingen muss bei „Querbeet“ niemand. Sie hat mich neben Herrn Petzold gestellt, der seit dreißig Jahren im Bass singt, und gesagt: „Mach einfach, was er macht.“ Noten lesen kann ich bis heute nicht. Ines schickt uns aber nach jeder Probe Aufnahmen aufs Handy, und die habe ich monatelang im Auto gehört, auf dem Weg zur Arbeit und zurück. Die Leute, die neben mir im Stau stehen, halten mich wahrscheinlich für verrückt.",
+     "Und dann, zwei Tage vor dem Konzert, bin ich erkältet aufgewacht und habe kaum ein Wort herausgebracht. Ich habe literweise Tee mit Honig getrunken und im Büro nur noch E-Mails geschrieben, statt zu telefonieren. Ines schrieb mir, notfalls solle ich eben nur die Lippen bewegen. Am Samstag war die Stimme zum Glück fast wieder da – ganz laut habe ich trotzdem nicht gesungen.",
+     "Der Saal im Rathaus war mit dreihundert Leuten ausverkauft. Meine Frau musste ausgerechnet an diesem Wochenende beruflich nach Hamburg. Dafür saß meine Schwester mit ihren beiden Kindern in der ersten Reihe und hat alles für meine Frau gefilmt. Vor dem ersten Lied hatte ich weiche Knie. Beim dritten Lied habe ich den Text vergessen, aber Herr Petzold hat ihn mir leise vorgesagt. Gemerkt hat es niemand – hoffe ich.",
+     "Nach dem Konzert sind wir alle zusammen Pizza essen gegangen, und Birgit hat mich den ganzen Abend angegrinst, als wollte sie sagen: Siehst du? Da wusste ich: Ich bleibe dabei. Für Februar habe ich mich schon für einen Kurs an der Musikschule angemeldet: „Notenlesen für Anfänger“. Ein Solo beim Sommerkonzert, wie Birgit vorschlägt? Das überlasse ich lieber den anderen."
+    ],
+    "closing": "Bis bald, Daniel"
+   },
+   "example": {
+    "no": "0",
+    "text": "Daniel singt seit diesem Jahr in einem Chor.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Daniel wollte schon lange in einem Chor singen.",
+     "answer": "F"
+    },
+    {
+     "no": "2",
+     "text": "Bei „Querbeet“ wird niemand vor der Aufnahme geprüft.",
+     "answer": "R"
+    },
+    {
+     "no": "3",
+     "text": "Beim Üben hat sich Daniel vor allem auf Noten verlassen.",
+     "answer": "F"
+    },
+    {
+     "no": "4",
+     "text": "Beim Konzert konnte Daniel trotz der Erkältung mitsingen.",
+     "answer": "R"
+    },
+    {
+     "no": "5",
+     "text": "Daniels Frau war beim Konzert nicht dabei.",
+     "answer": "R"
+    },
+    {
+     "no": "6",
+     "text": "Daniel hat vor, beim Sommerkonzert allein zu singen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Eine Stunde Ruhe",
+     "lead": "In Oberkirchen dreht ein Supermarkt jeden Mittwoch Musik und Licht herunter.",
+     "paragraphs": [
+      "Jeden Mittwoch um 15 Uhr wird es im Supermarkt von Stefan Kröger in Oberkirchen plötzlich still. Die Musik aus den Lautsprechern verstummt, das Licht wird um die Hälfte gedimmt, und Durchsagen gibt es bis 16 Uhr keine. Auch die Regale werden in dieser Stunde nicht aufgefüllt, damit keine Rollwagen durch die Gänge fahren. An der „Kasse mit Zeit“ darf niemand drängeln: Wer dort langsamer einpackt oder länger nach Kleingeld sucht, wird nicht gehetzt. Auf die Idee gebracht hat Kröger der Brief einer Mutter. Ihr Sohn ist Autist, und das Einkaufen endete für beide oft in Tränen. „Ich hätte nie gedacht, wie laut mein eigener Laden ist“, sagt Kröger. Ähnliche Angebote gibt es in anderen Ländern schon länger. Die Preise bleiben in der stillen Stunde dieselben – es geht nicht ums Sparen, sondern um Ruhe. An den übrigen Tagen läuft alles wie gewohnt. Genutzt wird das Angebot von mehr Menschen als erwartet: von älteren Kunden, Eltern mit Babys und Leuten, die nach der Arbeit einfach ihre Ruhe wollen. „Zum ersten Mal kann ich in Ruhe überlegen, was ich brauche“, sagt eine Rentnerin, die jeden Mittwoch kommt. Auch die Kassiererinnen genießen die ruhige Stunde. Einige Stammkunden haben sich allerdings beschwert, sie könnten die Preisschilder im Halbdunkel kaum lesen. Kröger nimmt das ernst und lässt die Schilder heller beleuchten. Ab Januar soll es am Samstagmorgen eine zweite stille Stunde geben."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Die stille Stunde …",
+      "options": {
+       "a": "gibt es jeden Tag.",
+       "b": "gibt es einmal pro Woche.",
+       "c": "gibt es nur am Wochenende."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "einen Supermarkt, der nachmittags für eine Stunde schließt.",
+        "b": "Angestellte, die sich bei der Arbeit mehr Ruhe wünschen.",
+        "c": "ein Angebot für Kunden, denen es im Laden oft zu laut ist."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "8",
+       "stem": "In der stillen Stunde …",
+       "options": {
+        "a": "muss sich an einer Kasse niemand beeilen.",
+        "b": "sind die Waren günstiger als sonst.",
+        "c": "werden die Regale im ganzen Markt mit neuer Ware gefüllt."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "9",
+       "stem": "Stefan Kröger …",
+       "options": {
+        "a": "ist auf einer Reise ins Ausland auf die Idee gekommen.",
+        "b": "will die ruhige Stunde bald auch an einem weiteren Tag anbieten.",
+        "c": "hält die Beschwerden einiger Stammkunden insgesamt für übertrieben."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Zu Gast in der Schulkantine",
+     "lead": "In Hallein essen Pensionisten* mittags gemeinsam mit Schulkindern.",
+     "paragraphs": [
+      "Montag, Mittwoch und Freitag, 12.30 Uhr: In der Kantine der Mittelschule Hallein stehen dann nicht nur Zwölfjährige mit ihrem Tablett in der Schlange, sondern auch Menschen, die ihre eigene Schulzeit vor sechzig Jahren beendet haben. Seit dem Herbst können bis zu fünfzehn Pensionistinnen und Pensionisten hier gemeinsam mit den Kindern zu Mittag essen. Die Idee hatte Schulköchin Renate Moser: „Wir hatten jeden Tag Essen übrig, und meine Mutter hat mir oft erzählt, wie einsam sie allein in ihrer Küche isst.“ Auf den Teller kommt dasselbe wie bei den Kindern. Die Gäste zahlen 5,50 Euro, genauso viel wie die Lehrkräfte; für die Kinder kostet das Menü 3,80 Euro. Wer kommen will, meldet sich bis Donnerstag für die folgende Woche im Sekretariat an, damit die Küche planen kann. Am Anfang saßen die älteren Gäste an einem eigenen Tisch am Fenster. Seit Weihnachten setzt sich jeder dorthin, wo Platz ist. „Die Kinder sind ruhiger geworden und tragen unaufgefordert Tabletts für Leute mit Gehstock“, erzählt Direktor Martin Eder. Auch die Gäste lernen dazu: Eine 79-Jährige berichtet, die Kinder hätten ihr gezeigt, wie man Fotos mit dem Handy verschickt. Ein pensionierter Mathematiklehrer bleibt oft noch eine halbe Stunde und hilft bei den Hausaufgaben. Inzwischen stehen zwanzig Namen auf der Warteliste. Mehr Gäste kann die Kantine aber nicht aufnehmen, und auf alle fünf Schultage ausweiten will Moser das Angebot auch nicht: Dafür fehlt in der Küche das Personal."
+     ],
+     "footnote": "*Pensionist = österreichischer Standard für „Rentner“",
+     "source": "aus einer österreichischen Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "eine Schulküche, die Kochkurse für ältere Menschen anbietet.",
+        "b": "ältere Menschen, die mittags gemeinsam mit Kindern essen.",
+        "c": "Schulkinder, die älteren Menschen das Essen nach Hause bringen."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "11",
+       "stem": "Wer als Gast mitessen möchte, …",
+       "options": {
+        "a": "zahlt dafür weniger als die Schülerinnen und Schüler.",
+        "b": "bekommt ein eigenes Menü.",
+        "c": "muss das einige Tage im Voraus mitteilen."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "12",
+       "stem": "Das Angebot …",
+       "options": {
+        "a": "hat mehr Interessenten, als es Plätze gibt.",
+        "b": "soll bald an allen Schultagen stattfinden.",
+        "c": "wird von der Schulleitung eher kritisch gesehen."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Bekannten suchen eine Stelle, einen Ausbildungsplatz oder einen Nebenjob.",
+   "example": {
+    "no": "0",
+    "text": "Lena studiert und möchte am Wochenende Gäste bedienen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Herr Okafor ist seit Kurzem in Rente. Er sitzt gern hinter dem Steuer und möchte sich ein paar Stunden in der Woche etwas dazuverdienen.",
+     "answer": "h"
+    },
+    {
+     "no": "14",
+     "text": "Sofia spricht drei Sprachen und möchte sie im Beruf täglich nutzen. Nachmittags holt sie ihren Sohn von der Schule ab.",
+     "answer": "d"
+    },
+    {
+     "no": "15",
+     "text": "Tim ist sechzehn und möchte in den Sommerferien an der frischen Luft Geld verdienen.",
+     "answer": "a"
+    },
+    {
+     "no": "16",
+     "text": "Frau Brandt ist gelernte Friseurin. Sie möchte wieder in ihrem Beruf arbeiten, aber nur in den Stunden, in denen ihre Kinder im Kindergarten sind.",
+     "answer": "g"
+    },
+    {
+     "no": "17",
+     "text": "Jonas hat gerade die Schule abgeschlossen und möchte einen Beruf lernen, bei dem er nicht den ganzen Tag im Büro sitzt.",
+     "answer": "e"
+    },
+    {
+     "no": "18",
+     "text": "Frau Nguyen kann nach einer Operation das Haus kaum verlassen. Sie sucht eine Arbeit am Computer, die sie von der Wohnung aus erledigen kann.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Herr Weber arbeitet tagsüber in einer Bank und sucht für zwei, drei Abende pro Woche eine Nebenbeschäftigung.",
+     "answer": "j"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "tearoff",
+     "header": "",
+     "tag": "",
+     "title": "FERIENJOB AUF DEM ERDBEERFELD!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Im Juli und August suchen wir Helferinnen und Helfer ab 16 Jahren für die Ernte und den Verkauf an unseren Ständen. Täglich von 7 bis 13 Uhr, die Wochenenden sind frei. Mittagessen auf dem Hof inklusive. Einfach anrufen oder vorbeikommen!"
+     ],
+     "footer": "Erdbeerhof Lindemann · Feldweg 3 · 0421 / 57 57 30"
+    },
+    {
+     "letter": "b",
+     "design": "chalk",
+     "header": "",
+     "tag": "",
+     "title": "Café Kornblume",
+     "subtitle": "sucht Verstärkung!",
+     "facts": [],
+     "body": [
+      "Aushilfe im Service – samstags und sonntags, jeweils 8 bis 14 Uhr. Studierende sind herzlich willkommen, Erfahrung ist nicht nötig: Wir arbeiten dich ein. Gute Laune und Freude am Umgang mit Gästen bringst du bitte mit."
+     ],
+     "footer": "Lindenplatz 7 · frag einfach an der Theke nach Mia"
+    },
+    {
+     "letter": "c",
+     "design": "corp",
+     "header": "NordKontakt GmbH",
+     "tag": "STELLENANGEBOT",
+     "title": "Kundenberater/-in (m/w/d) in Vollzeit",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie beantworten Anfragen per Telefon, E-Mail und Chat – auf Deutsch und Englisch, Spanischkenntnisse sind von Vorteil. Schichtdienst zwischen 8 und 20 Uhr in unserem Büro am Hauptbahnhof. Homeoffice ist in dieser Position leider nicht möglich."
+     ],
+     "footer": "Bewerbung an jobs@nordkontakt.de"
+    },
+    {
+     "letter": "d",
+     "design": "hotel",
+     "deco": {
+      "stars": 4
+     },
+     "header": "",
+     "tag": "",
+     "title": "Hotel am Schlossgarten",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für unsere Rezeption suchen wir ab sofort Verstärkung im Frühdienst, montags bis freitags von 7 bis 13 Uhr. Sie sprechen neben Deutsch fließend Englisch und mindestens eine weitere Fremdsprache und empfangen täglich unsere internationalen Gäste."
+     ],
+     "footer": "personal@hotel-schlossgarten.de"
+    },
+    {
+     "letter": "e",
+     "design": "band",
+     "header": "Gärtnerei Grünwerk",
+     "tag": "AUSBILDUNG",
+     "title": "Gärtner/-in (m/w/d) · Beginn 1. August",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Drei Jahre lang lernen Sie bei uns, Pflanzen zu ziehen sowie Gärten anzulegen und zu pflegen – bei fast jedem Wetter draußen. Sie haben einen Schulabschluss und packen gern mit an? Dann freuen wir uns auf Ihre Bewerbung. Ferien- und Aushilfsjobs bieten wir leider nicht an."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "f",
+     "design": "stamp",
+     "header": "",
+     "tag": "Erst ab 18",
+     "title": "Wir stellen ein!",
+     "subtitle": "Aushilfen für Kasse und Lager (m/w/d)",
+     "facts": [],
+     "body": [
+      "Flexible Arbeitszeiten vormittags oder nachmittags – auch in den Schulferien. Keine Vorkenntnisse nötig, wir arbeiten Sie ein. Den Bewerbungsbogen bekommen Sie an unserer Information oder online."
+     ],
+     "footer": "FRISCHEMARKT KÜHN · frischemarkt-kuehn.de/karriere"
+    },
+    {
+     "letter": "g",
+     "design": "logo",
+     "header": "",
+     "tag": "",
+     "title": "HAARWERK",
+     "subtitle": "FRISEURSALON",
+     "facts": [],
+     "body": [
+      "Friseur/-in (m/w/d) in Teilzeit gesucht. Unser kleines Team braucht Verstärkung für die Vormittage: Montag bis Freitag, 8.30 bis 12.30 Uhr. Samstags arbeitet bei uns nur, wer möchte. Abgeschlossene Ausbildung erforderlich – auch Wiedereinsteigerinnen nach der Elternzeit sind willkommen."
+     ],
+     "footer": "Tel. 0421 / 30 20 10"
+    },
+    {
+     "letter": "h",
+     "design": "browser",
+     "deco": {
+      "url": "apotheke-am-markt.de/jobs",
+      "button": "Jetzt bewerben"
+     },
+     "header": "APOTHEKE AM MARKT · KARRIERE",
+     "tag": "",
+     "title": "Botenfahrer/-in auf Minijob-Basis",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie bringen Medikamente zu Kundinnen und Kunden im Stadtgebiet – an drei Vormittagen pro Woche, jeweils etwa vier Stunden. Ein Dienstwagen steht zur Verfügung, Sie brauchen nur einen Führerschein der Klasse B. Gern auch Rentnerinnen und Rentner."
+     ],
+     "footer": "Jetzt bewerben · apotheke-am-markt.de/jobs"
+    },
+    {
+     "letter": "i",
+     "design": "stripes",
+     "header": "",
+     "tag": "",
+     "title": "FAHRER/-IN GESUCHT!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Paketzustellung in Vollzeit, 40 Stunden pro Woche im Nachtdienst. Voraussetzung: eigenes Fahrzeug und mindestens zwei Jahre Fahrpraxis. Wir zahlen über Tarif und erstatten das Benzin. Start sofort möglich."
+     ],
+     "footer": "BLITZ-KURIER · Bewerbung per WhatsApp: 0170 / 555 12 12"
+    },
+    {
+     "letter": "j",
+     "design": "ticket",
+     "deco": {
+      "stub": "EINTRITT · Nr. 0418"
+     },
+     "header": "",
+     "tag": "",
+     "title": "CAPITOL",
+     "subtitle": "FILMTHEATER",
+     "facts": [],
+     "body": [
+      "Aushilfe für Kasse und Einlass (m/w/d). Du arbeitest abends ab 18 Uhr und am Wochenende, mindestens zwei Abende pro Woche – den Dienstplan machen wir gemeinsam. Mindestalter 18 Jahre. Als Dankeschön gibt es Freikarten für alle Vorstellungen."
+     ],
+     "footer": "jobs@capitol-kino.de"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für offene Geschäfte am Sonntag, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Städte, in denen Geschäfte künftig auch sonntags öffnen dürfen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.verbraucher-magazin.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Ursula",
+    "byline": "Ursula, 58, Stuttgart",
+    "text": "Sechs Tage in der Woche kann man einkaufen, bis spät am Abend und inzwischen auch im Internet. Der Sonntag ist der einzige Tag, an dem ganze Familien gemeinsam frei haben – auch die der Verkäuferinnen. Wer am Sonntag unbedingt neue Schuhe braucht, hat schlecht geplant. Lasst uns diesen einen ruhigen Tag, bevor er genauso hektisch wird wie alle anderen.",
+    "answer": "N"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Marco",
+     "byline": "Marco, 29, Leipzig",
+     "text": "Ich arbeite als Pfleger im Schichtdienst, oft von Montag bis Samstag. Wenn ich frei habe, sind die Geschäfte entweder zu oder so voll, dass ich nach zehn Minuten wieder gehe. Für Leute wie mich wäre ein offener Laden am Sonntag keine Bequemlichkeit, sondern die einzige Möglichkeit, in Ruhe einzukaufen. Im Krankenhaus fragt übrigens auch niemand, ob Sonntag ist.",
+     "answer": "J"
+    },
+    {
+     "no": "21",
+     "name": "Heike",
+     "byline": "Heike, 47, Innsbruck",
+     "text": "Natürlich verstehe ich alle, die unter der Woche keine Zeit zum Einkaufen haben. Ich stehe aber selbst seit zwanzig Jahren an der Kasse, und der Sonntag ist der einzige Tag, an dem ich meine Tochter garantiert sehe. „Freiwillig“ klingt schön, aber wer im Handel Nein sagt, bekommt beim nächsten Dienstplan eben die schlechteren Schichten. Das kenne ich schon von den Samstagen.",
+     "answer": "N"
+    },
+    {
+     "no": "22",
+     "name": "Elif",
+     "byline": "Elif, 41, Köln",
+     "text": "Meine Kundinnen sagen mir fast jede Woche, sie würden gern auch am Sonntag vorbeikommen. Aber ich führe ein kleines Schreibwarengeschäft, zusammen mit einer einzigen Mitarbeiterin. Wer soll da am siebten Tag hinter der Theke stehen? Die großen Ketten haben genug Personal – sie gewinnen, und Läden wie meiner verlieren noch mehr Kundschaft. Deshalb hoffe ich, dass die Stadt es beim alten Gesetz belässt.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Florian",
+     "byline": "Florian, 35, Bern",
+     "text": "Für mich hängt alles davon ab, wie es für die Angestellten geregelt ist. Wenn nur Leute arbeiten, die das freiwillig tun, und wenn sie dafür deutlich mehr Lohn bekommen, spricht aus meiner Sicht nichts dagegen. Genau das sieht das neue Gesetz vor, über das der Artikel berichtet. Ich freue mich also schon darauf, sonntags nach dem Wandern noch schnell etwas einzukaufen.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Rainer",
+     "byline": "Rainer, 66, Dresden",
+     "text": "Als unsere Stadt im letzten Jahr vier offene Sonntage ausprobiert hat, habe ich meinen Nachbarn gesagt: Da gehe ich bestimmt nicht hin. Dann bin ich mit meiner Frau doch einmal hingegangen, eigentlich nur, um zu schimpfen. Wir sind durch die Altstadt gebummelt, haben Kaffee getrunken und ohne Gedränge Geschenke für die Enkel gekauft. Heute sehe ich das anders: Von mir aus könnte es jeden Sonntag so sein.",
+     "answer": "J"
+    },
+    {
+     "no": "25",
+     "name": "Jana",
+     "byline": "Jana, 23, Graz",
+     "text": "Ich jobbe neben dem Studium in einer Drogerie und sehe jeden Abend, wie voll es kurz vor Ladenschluss ist. Das Problem ist nicht der Sonntag, sondern dass viele Geschäfte schon um 18 Uhr schließen – genau dann, wenn alle aus dem Büro kommen. Man sollte die Läden unter der Woche bis 21 Uhr offen lassen. Den Sonntag brauchen dagegen alle, um sich zu erholen, auch ich.",
+     "answer": "N"
+    },
+    {
+     "no": "26",
+     "name": "Tobias",
+     "byline": "Tobias, 38, Hamburg",
+     "text": "Seit meine Frau und ich beide Vollzeit arbeiten, ist unser Samstag ein einziger Einkaufsmarathon: Supermarkt, Baumarkt, Schuhe für die Kinder, alles in wenigen Stunden. Zeit für die Familie bleibt da kaum. Könnten wir einen Teil davon auf den Sonntag verschieben, hätten wir den Samstag endlich wieder für Ausflüge. Wer sonntags lieber zu Hause bleibt, muss ja nicht losgehen.",
+     "answer": "J"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie haben sich in einem Fitnessstudio angemeldet und lesen die Studioordnung.",
+   "doc": {
+    "title": "STUDIOORDNUNG · FITNESSSTUDIO VITAL",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Mitgliedschaft und Zutritt",
+      "text": "Mitglied werden kann man ab 14 Jahren; bis zum 18. Geburtstag ist die schriftliche Zustimmung der Eltern nötig. Jugendliche unter 16 Jahren dürfen nur in Begleitung eines erwachsenen Mitglieds trainieren. Der Zutritt erfolgt mit dem persönlichen Mitgliedsarmband, das nicht an andere Personen weitergegeben werden darf."
+     },
+     {
+      "heading": "Öffnungszeiten und Betreuung",
+      "text": "Das Studio ist täglich von 6 bis 23 Uhr geöffnet, an Feiertagen gelten gesonderte Zeiten. Unsere Trainerinnen und Trainer sind montags bis freitags von 9 bis 21 Uhr für Sie da. Außerhalb dieser Zeiten dürfen nur Mitglieder an den Geräten trainieren, die bereits eine Einweisung erhalten haben. Die Kurse sind im Monatsbeitrag enthalten; eine Anmeldung über die Studio-App ist erforderlich."
+     },
+     {
+      "heading": "Hygiene",
+      "text": "Bitte legen Sie beim Training immer ein Handtuch unter und reinigen Sie die Geräte nach der Benutzung mit dem bereitstehenden Spray. Straßenschuhe sind in den Trainingsräumen nicht gestattet, Getränke nur in verschließbaren Flaschen."
+     },
+     {
+      "heading": "Schließfächer",
+      "text": "Die Schließfächer dürfen nur während des Aufenthalts im Studio benutzt werden. Fächer, die nach Schließung noch belegt sind, werden geöffnet und geleert. Für Wertsachen übernimmt das Studio keine Haftung."
+     },
+     {
+      "heading": "Pause und Kündigung",
+      "text": "Bei längerer Krankheit kann die Mitgliedschaft gegen Vorlage eines ärztlichen Attests für höchstens drei Monate im Jahr beitragsfrei ruhen. Eine Kündigung ist mit einer Frist von einem Monat zum Ende der Vertragslaufzeit möglich und muss schriftlich per Brief erfolgen."
+     },
+     {
+      "heading": "Gäste",
+      "text": "Jedes Mitglied darf einmal im Monat eine Begleitperson kostenlos mitbringen; weitere Besuche sind mit einer Tageskarte für 12 Euro möglich. Gäste melden sich an der Theke mit einem gültigen Ausweis an."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer 15 Jahre alt ist, …",
+     "options": {
+      "a": "braucht nur eine Unterschrift der Eltern.",
+      "b": "darf nur zusammen mit einem Erwachsenen trainieren.",
+      "c": "kann in diesem Alter noch nicht Mitglied im Studio werden."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Wer nach 21 Uhr trainieren möchte, …",
+     "options": {
+      "a": "muss einen Zuschlag bezahlen.",
+      "b": "muss sich vorher über die Studio-App dafür anmelden.",
+      "c": "muss vorher an den Geräten eingewiesen worden sein."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "stem": "Wer längere Zeit krank ist, …",
+     "options": {
+      "a": "kann eine Pause machen, in der er nichts bezahlt.",
+      "b": "kann den Vertrag sofort per E-Mail kündigen.",
+      "c": "zahlt während der Pause den halben Beitrag."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "stem": "Wer eine Freundin zum Training mitnehmen möchte, …",
+     "options": {
+      "a": "kann sie jede Woche kostenlos und ohne Anmeldung mitbringen.",
+      "b": "muss darauf achten, dass sie einen Ausweis dabeihat.",
+      "c": "muss für sie an der Theke eine Tageskarte kaufen."
+     },
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Am Dienstagvormittag gibt es im Haus kein Wasser.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Frau Albers soll …",
+     "options": {
+      "a": "sich vorher Wasser in Flaschen abfüllen.",
+      "b": "am Dienstag zu Hause bleiben.",
+      "c": "den Hausmeister anrufen."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Die Fähre erreicht den Hafen zur geplanten Zeit.",
+       "answer": "F"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Wer mit dem Auto reist, …",
+       "options": {
+        "a": "soll schon jetzt zu seinem Fahrzeug gehen.",
+        "b": "verlässt das Schiff über Deck 2.",
+        "c": "muss auf eine weitere Durchsage warten."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Katrin hat den ursprünglichen Plan für das Geschenk geändert.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Sven soll …",
+       "options": {
+        "a": "dafür sorgen, dass alle eine Karte unterschreiben.",
+        "b": "das Geld für das Geschenk bei den Kollegen einsammeln.",
+        "c": "um zwölf Uhr in die Kantine kommen."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Die Antwort auf die Frage erfährt man im Programm des Senders.",
+       "answer": "R"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Wer gewinnt, …",
+       "options": {
+        "a": "erfährt es noch am selben Abend.",
+        "b": "wird vom Sender angerufen.",
+        "c": "holt die Karten an der Abendkasse ab."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Die Seelöwen werden heute nicht gefüttert.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Heute …",
+       "options": {
+        "a": "ist die Aussichtsplattform gesperrt.",
+        "b": "ist der Zoo länger geöffnet als sonst.",
+        "c": "kann man das Tropenhaus nicht besuchen."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Herr Demir muss für die Abholung einen Termin vereinbaren.",
+       "answer": "F"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Den alten Pass …",
+       "options": {
+        "a": "muss Herr Demir im Amt abgeben.",
+        "b": "bekommt Herr Demir entwertet zurück.",
+        "c": "braucht Herr Demir nicht mitzubringen."
+       },
+       "answer": "b"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie machen mit einer Gruppe eine Kanutour auf der Lahn. Vor dem Start erklärt der Tourleiter, Herr Brandes, den Ablauf.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Tour …",
+     "options": {
+      "a": "wird bei Regen abgebrochen.",
+      "b": "endet an einem anderen Ort, als sie beginnt.",
+      "c": "dauert mit allen Pausen etwa vier Stunden."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Handys und Autoschlüssel …",
+     "options": {
+      "a": "werden mit dem Gepäck transportiert.",
+      "b": "sollte man während der Tour in der Hosentasche tragen.",
+      "c": "kommen in einen Behälter, der nicht nass wird."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Wer sich im Wasser unsicher fühlt, …",
+     "options": {
+      "a": "paddelt im Boot des Tourleiters mit.",
+      "b": "bekommt eine besondere, größere Schwimmweste.",
+      "c": "muss im Boot hinten sitzen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "An der Schleuse …",
+     "options": {
+      "a": "tragen alle ihr Boot um die Schleuse herum.",
+      "b": "machen alle eine längere Pause.",
+      "c": "muss niemand aus dem Boot steigen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "In der Mittagspause …",
+     "options": {
+      "a": "kann man am Kiosk etwas kaufen.",
+      "b": "bekommen alle vom Tourleiter etwas zu essen.",
+      "c": "füllt man die Wasserflaschen am Campingplatz auf."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie stehen an einer Bushaltestelle und hören, wie sich zwei Nachbarn, Frau Kaya und Herr Lorenz, unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Herr Lorenz ist mit seinem Bruder gewandert.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "In den ersten Tagen tat Herrn Lorenz das Laufen weh.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Herr Lorenz hat nicht jede Nacht in einer Pilgerherberge verbracht.",
+     "answer": "R"
+    },
+    {
+     "no": "19",
+     "text": "Herr Lorenz möchte die restliche Strecke allein gehen.",
+     "answer": "F"
+    },
+    {
+     "no": "20",
+     "text": "Das Klassentreffen war Frau Kayas Idee.",
+     "answer": "F"
+    },
+    {
+     "no": "21",
+     "text": "Das Gebäude der früheren Schule steht nicht mehr.",
+     "answer": "R"
+    },
+    {
+     "no": "22",
+     "text": "Die frühere Klassenlehrerin wird beim Treffen dabei sein.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Die Moderatorin der Radiosendung „Standpunkte“ diskutiert mit der Café-Besitzerin Miriam Scholz und dem Verbraucherberater Klaus Hartmann über die Frage: „Brauchen wir noch Bargeld?“",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Miriam Scholz",
+    "c": "Klaus Hartmann"
+   },
+   "example": {
+    "no": "0",
+    "text": "Viele Menschen in Deutschland bezahlen noch gern mit Scheinen und Münzen.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Seit im Café kein Bargeld mehr angenommen wird, warten die Kunden kürzer.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Wer bar bezahlt, kann seine Ausgaben besser kontrollieren.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Immer mehr Geschäfte nehmen gar kein Bargeld mehr an.",
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "text": "Ohne Bargeld im Laden ist die Arbeit sicherer geworden.",
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "text": "Mit jeder Kartenzahlung gibt man Informationen über sich preis.",
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "text": "Auch ältere Menschen kommen mit dem Bezahlen per Handy zurecht.",
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "text": "In einigen Ländern wird Bargeld heute kaum noch benutzt.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Man sollte überall selbst wählen dürfen, wie man bezahlt.",
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben letzte Woche Ihre Führerscheinprüfung bestanden. Ein Freund/Eine Freundin von Ihnen, der/die in einer anderen Stadt wohnt, weiß noch nichts davon."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie war die Prüfung?",
+     "Begründen Sie: Warum ist der Führerschein für Sie wichtig?",
+     "Machen Sie einen Vorschlag für einen gemeinsamen Ausflug."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an eine Freundin, ca. 95 Wörter",
+     "text": "Betreff: Ich hab’s geschafft!\n\nLiebe Sara,\n\nstell dir vor: Seit Donnerstag habe ich meinen Führerschein! Die Prüfung hat ungefähr vierzig Minuten gedauert. Ich war total nervös, und beim Einparken musste ich zweimal korrigieren. Der Prüfer war aber sehr freundlich und hat am Ende gesagt, dass ich ruhig und sicher fahre.\n\nFür mich ist der Führerschein wichtig, weil ich ab Januar in einer Firma am Stadtrand arbeite. Mit dem Bus bräuchte ich jeden Tag über eine Stunde pro Strecke.\n\nHast du Lust, im Frühling mit mir an die Ostsee zu fahren? Ich hole dich ab, und du bist meine erste Beifahrerin!\n\nLiebe Grüße\nTomasz"
+    },
+    "typicalErrors": "Leitpunkt 2 wird nur beschrieben, nicht begründet · Vorschlag ohne Ziel oder Zeitpunkt · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Fernsehen eine Sendung zum Thema „Mit Mitte zwanzig noch bei den Eltern wohnen?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.tv-familienforum.de",
+     "label": "Gästebuch",
+     "author": "Leon · 22.10. 19:47 Uhr",
+     "text": "Ich bin 26 und wohne noch bei meinen Eltern. So kann ich Geld für eine eigene Wohnung sparen, und meine Mutter freut sich, dass sie abends nicht allein isst. Aber manchmal nervt es schon: Freunde einladen ist schwierig, und meine Eltern wollen immer wissen, wann ich nach Hause komme."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Leon beschreibt eine Situation, die viele junge Leute kennen. Ich finde es verständlich, bei den Eltern zu wohnen, solange man studiert oder eine Ausbildung macht. Die Mieten in den Städten sind hoch, und so kann man Geld sparen.\n\nTrotzdem bin ich der Meinung, dass man mit Mitte zwanzig ausziehen sollte. Wer allein wohnt, lernt, selbst zu kochen, Rechnungen zu bezahlen und Probleme ohne Hilfe zu lösen. Ich bin mit 21 in eine WG gezogen, und das war eine meiner besten Entscheidungen.\n\nWichtig ist aber in jedem Fall, dass man sich gegenseitig respektiert – egal, wo man wohnt."
+    },
+    "typicalErrors": "Leons Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Begründung, keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Ihre Chefin, Frau Albrecht, hat Sie gebeten, am kommenden Samstag zu arbeiten, weil ein Kollege krank ist. Sie haben an diesem Tag aber schon etwas anderes vor."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Frau Albrecht. Entschuldigen Sie sich höflich, nennen Sie den Grund und machen Sie einen anderen Vorschlag. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an die Chefin, ca. 45 Wörter",
+     "text": "Sehr geehrte Frau Albrecht,\n\nleider kann ich am Samstag nicht arbeiten, weil meine Schwester an diesem Tag heiratet und ich ihre Trauzeugin bin. Das tut mir sehr leid. Ich könnte aber am Freitag zwei Stunden länger bleiben oder den Dienst am Samstag darauf übernehmen. Wäre das für Sie in Ordnung?\n\nMit freundlichen Grüßen\nNadia Haddad"
+    },
+    "typicalErrors": "Kein Gegenvorschlag · Hallo Frau Albrecht oder Liebe Grüße gegenüber der Chefin · keine Entschuldigung."
+   }
+  ]
+ }
+}

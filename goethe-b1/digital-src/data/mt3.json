@@ -1,0 +1,837 @@
+{
+ "id": 3,
+ "roman": "III",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "merle-schreibt.de · Merle",
+    "date": "Sonntag, 2. Juni",
+    "title": "Drei Tage ohne Bruno",
+    "paragraphs": [
+     "Bruno ist wieder da – und ich kann endlich wieder schlafen. Aber von Anfang an: Am Donnerstagabend zog ein Gewitter über die Stadt, und unser Hund hat vor nichts so viel Angst wie vor Donner. Ich war noch im Büro, mein Mann hatte gerade die Balkontür geöffnet, um zu lüften. Ein Blitz, ein Knall – und Bruno war weg. Über den Balkon im Erdgeschoss, durch den Garten, auf die Straße. Als ich um sieben nach Hause kam, suchte Tom schon seit einer Stunde.",
+     "Die erste Nacht sind wir bis zwei Uhr durch die Straßen gelaufen und haben seinen Namen gerufen. Nichts. Ein Mann mit einer Taschenlampe hat uns geholfen, den Park abzusuchen – ebenfalls ohne Erfolg. Am Freitagmorgen habe ich im Büro angerufen und mir freigenommen – meine Chefin hat keine Sekunde gezögert. Dann haben wir Zettel gedruckt, hundert Stück, mit Foto und Telefonnummer. Tom wollte sie an jeden Laternenpfahl kleben; das ist bei uns allerdings verboten, also haben wir sie in Geschäften, in der Bäckerei und beim Tierarzt ausgelegt. Die Bäckerin hat sogar einen ins Schaufenster gehängt.",
+     "Geholfen hat am Ende etwas anderes. Unsere Nachbarin Frau Yildiz, die ich bis dahin nur vom Grüßen kannte, hat Brunos Foto in die Nachbarschaftsgruppe im Internet gestellt. Innerhalb eines Tages hatten es über dreihundert Leute gesehen. Zwei Anrufe waren falscher Alarm: einmal ein schwarzer Labrador, einmal ein Hund, der Bruno nur entfernt ähnlich sah. Am Samstagnachmittag rief eine Frau aus dem Nachbarstadtteil an: Ein Hund, der genauso aussehe, sitze seit Freitag im Tierheim. Zwanzig Minuten später standen wir dort – und Bruno sprang uns an, als wäre nichts gewesen. Ein Radfahrer hatte ihn am Freitagmorgen am Kanal gefunden und abgegeben.",
+     "Das Tierheim hätte uns übrigens sofort anrufen können, wenn Bruno einen Chip gehabt hätte. Den bekommt er jetzt nächste Woche – der Tierarzt sagt, das dauert keine fünf Minuten. Und Frau Yildiz bekommt am Sonntag einen Kuchen. Sie sagt, das sei nicht nötig. Ich finde schon – und ich habe gelernt, dass man seine Nachbarn kennen sollte, bevor man sie braucht."
+    ],
+    "closing": "Bis bald, Merle"
+   },
+   "example": {
+    "no": "0",
+    "text": "Merles Hund ist weggelaufen.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Bruno ist verschwunden, während Merle bei der Arbeit war.",
+     "answer": "R"
+    },
+    {
+     "no": "2",
+     "text": "Merle musste am Freitag trotzdem ins Büro gehen.",
+     "answer": "F"
+    },
+    {
+     "no": "3",
+     "text": "Merle und Tom haben die Zettel an Straßenlaternen befestigt.",
+     "answer": "F"
+    },
+    {
+     "no": "4",
+     "text": "Merle kannte Frau Yildiz vorher kaum.",
+     "answer": "R"
+    },
+    {
+     "no": "5",
+     "text": "Ein Radfahrer hat Merle angerufen.",
+     "answer": "F"
+    },
+    {
+     "no": "6",
+     "text": "Bruno hatte bis jetzt keinen Chip.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Warten auf den Nachbarn",
+     "lead": "In Hollen ersetzt eine Bank den Bus – wer sich hinsetzt, möchte mitgenommen werden.",
+     "paragraphs": [
+      "Am Ortsausgang von Hollen steht seit dem Frühjahr eine grüne Holzbank mit drei Schildern: „Kreisstadt“, „Bahnhof“, „Schwimmbad“. Wer sich darauf setzt und ein Schild hochklappt, wartet nicht auf den Bus – der kommt in Hollen nur noch zweimal am Tag –, sondern auf einen Nachbarn mit Auto. „Die meisten fahren sowieso in die Stadt, mit leeren Sitzen“, sagt Ortsvorsteherin Gudrun Peters, die diese Idee aus einem Dorf im Schwarzwald mitgebracht hat. Die Bank hat der Schreiner im Ort gebaut, die Schilder haben Schüler bemalt; gekostet hat das Ganze 400 Euro, bezahlt aus der Dorfkasse. Regeln gibt es kaum: Niemand muss anhalten, niemand muss einsteigen, und Geld wird nicht verlangt. Wie oft die Bank genutzt wird, weiß Peters nicht genau – eine Zählung gibt es nicht. Sie schätzt, dass an schönen Tagen etwa zehn Personen mitgenommen werden, im Winter deutlich weniger. Sicher ist, dass man selten länger als zehn Minuten wartet; das haben Jugendliche in den Sommerferien ausprobiert. Kritik kam von der Polizei, die vor dem Einsteigen bei Fremden warnte. Peters hält dagegen: „Hier kennt jeder jeden. Wer mich mitnimmt, ist kein Fremder, sondern der Mann von der Post oder die Frau aus dem Chor.“ Für den Winter plant der Ort ein Dach über der Bank. Eine zweite Bank soll in der Kreisstadt stehen – für die Rückfahrt."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Die Bank in Hollen …",
+      "options": {
+       "a": "ist eine Haltestelle für den Bus.",
+       "b": "ist ein Treffpunkt für Mitfahrer.",
+       "c": "wurde von der Polizei aufgestellt."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "einen Bus, der nur zweimal täglich fährt.",
+        "b": "Schüler, die für ihr Dorf eine Bank gebaut haben.",
+        "c": "Nachbarn, die einander im Auto mitnehmen."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "8",
+       "stem": "Wer auf der Bank sitzt, …",
+       "options": {
+        "a": "zahlt dem Fahrer einen kleinen Betrag.",
+        "b": "wartet meistens nur kurz.",
+        "c": "muss in das erste Auto einsteigen."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "9",
+       "stem": "Gudrun Peters …",
+       "options": {
+        "a": "findet die Warnung der Polizei berechtigt.",
+        "b": "möchte die Bank im nächsten Winter abbauen.",
+        "c": "vertraut den Fahrern aus dem eigenen Dorf."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Zweites Leben für alte Velos*",
+     "lead": "In Brugg machen Jugendliche aus vergessenen Fahrrädern Leihräder für alle.",
+     "paragraphs": [
+      "Rund 150 Fahrräder bleiben jedes Jahr am Bahnhof von Brugg stehen und werden nie mehr abgeholt. Früher landeten sie nach drei Monaten beim Alteisen. Seit zwei Jahren holt sie die Jugendwerkstatt „Kette“ ab. Dort reparieren zwölf Jugendliche zwischen 15 und 18 Jahren die Räder an zwei Nachmittagen pro Woche – unter Anleitung eines pensionierten Mechanikers. „Die meisten haben vorher noch nie einen Schlauch gewechselt“, sagt Werkstattleiterin Nadia Roth. Zuerst lernen sie, Bremsen und Licht zu prüfen; wer das beherrscht, darf sich an die Gangschaltung wagen. Was wieder fährt, wird nicht verkauft, sondern verliehen: Am Bahnhof stehen zwanzig gelbe Räder, die man mit einem Ausweis kostenlos für einen Tag nehmen kann. Bezahlt wird nur, wenn ein Rad zu spät zurückkommt – fünf Franken pro Tag. Wer ein Rad beschädigt zurückbringt, bezahlt die Reparatur. Von diesem Geld und einem Beitrag der Stadt lebt die Werkstatt; Löhne gibt es nicht, die Jugendlichen arbeiten freiwillig. Dafür bekommen sie am Ende des Jahres ein Zeugnis, das bei der Lehrstellensuche hilft. Drei von ihnen haben inzwischen eine Lehre als Velomechaniker begonnen. Nicht alles läuft rund: Im ersten Sommer kamen vier Räder gar nicht zurück, und im Winter nutzt kaum jemand das Angebot. Roth denkt deshalb über eine Pause von Dezember bis Februar nach. Aufhören will sie nicht: „Wir haben eine Warteliste von zwanzig Jugendlichen, die mitmachen möchten.“"
+     ],
+     "footnote": "*Velo = Schweizer Standard für „Fahrrad“",
+     "source": "aus einer Schweizer Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Leihräder, die Jugendliche aus alten Rädern bauen.",
+        "b": "einen Bahnhof, an dem alte Fahrräder verkauft werden.",
+        "c": "einen Mechaniker, der eine Lehre in seiner Werkstatt anbietet."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "11",
+       "stem": "Die Jugendlichen …",
+       "options": {
+        "a": "arbeiten zweimal in der Woche in der Werkstatt.",
+        "b": "verdienen mit der Arbeit etwas Geld.",
+        "c": "kennen sich schon vorher gut mit Fahrrädern aus."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "12",
+       "stem": "Nadia Roth überlegt, …",
+       "options": {
+        "a": "die Werkstatt aus Geldmangel zu schließen.",
+        "b": "die reparierten Räder künftig zu verkaufen.",
+        "c": "das Angebot im Winter zu unterbrechen."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Nachbarinnen und Nachbarn brauchen Hilfe im Alltag und suchen passende Angebote.",
+   "example": {
+    "no": "0",
+    "text": "Frau Lenz fliegt drei Wochen in den Urlaub und sucht jemanden, der sich in dieser Zeit um ihre Katze kümmert.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Herr Blum wechselt am Sonntag die Wohnung und braucht zwei starke Leute, die ihm beim Tragen helfen.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Die Tochter von Familie Koch (7. Klasse) braucht Hilfe in Mathe. Die Eltern möchten, dass sie dafür nicht aus dem Haus muss.",
+     "answer": "e"
+    },
+    {
+     "no": "15",
+     "text": "Frau Ahmed arbeitet Vollzeit und hat für den Haushalt keine Zeit mehr. Sie ist erst abends zu Hause.",
+     "answer": "f"
+    },
+    {
+     "no": "16",
+     "text": "Herr Petrov steht am Sonntagabend vor seiner Wohnungstür – der Schlüssel liegt in der Wohnung.",
+     "answer": "c"
+    },
+    {
+     "no": "17",
+     "text": "Frau Weber, 78, hat einen neuen Computer bekommen und möchte, dass ihr jemand in Ruhe erklärt, wie er funktioniert.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Herr Costa hat morgen früh ein Vorstellungsgespräch. Sein Anzug muss bis dahin gereinigt sein.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Die Waschmaschine von Herrn Sato ist kaputt. Wegwerfen möchte er sie aber nicht.",
+     "answer": "d"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "band",
+     "header": "Studenten packen an",
+     "tag": "UMZUGSHILFE",
+     "title": "Umzug am Wochenende?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Zwei bis vier kräftige junge Leute tragen, schleppen und fahren für Sie – auch am Wochenende. Transporter auf Wunsch, Abrechnung pro Stunde und Person. Meist schon innerhalb von zwei Tagen buchbar."
+     ],
+     "footer": "studenten-packen-an.de · 0421 / 70 70 70"
+    },
+    {
+     "letter": "b",
+     "design": "rounded",
+     "deco": {
+      "icon": "paw"
+     },
+     "header": "Pfötchen · Tierbetreuung",
+     "tag": "",
+     "title": "",
+     "subtitle": "Ihr Tier bleibt zu Hause",
+     "facts": [],
+     "body": [
+      "Wir kommen ein- oder zweimal täglich zu Ihnen, füttern, spielen und reinigen die Katzentoilette – und gießen nebenbei die Blumen. Vorgespräch kostenlos, auch kurzfristig vor dem Urlaub."
+     ],
+     "footer": "pfoetchen-tierbetreuung.de · 0421 / 51 51 51"
+    },
+    {
+     "letter": "c",
+     "design": "stamp",
+     "header": "Schlüsselnotdienst Ruf",
+     "tag": "24 STUNDEN · 7 TAGE",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ausgesperrt? Wir sind rund um die Uhr für Sie da, auch an Sonn- und Feiertagen. In der Regel sind wir innerhalb von 30 Minuten bei Ihnen, öffnen die Tür ohne Schaden am Schloss und nennen Ihnen den Festpreis vorher am Telefon."
+     ],
+     "footer": "0421 / 11 22 00 · schluesselnotdienst-ruf.de"
+    },
+    {
+     "letter": "d",
+     "design": "barhead",
+     "deco": {
+      "icon": "plug"
+     },
+     "header": "Elektro Hansen",
+     "tag": "",
+     "title": "Reparatur statt Neukauf.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Waschmaschine, Trockner, Geschirrspüler oder Herd – wir reparieren alle Marken bei Ihnen zu Hause. Kostenvoranschlag vor Ort, Ersatzteile meist auf Lager. Computer und Telefone reparieren wir nicht."
+     ],
+     "footer": "Tel. 0421 / 65 43 21 · Termine auch abends"
+    },
+    {
+     "letter": "e",
+     "design": "notebook",
+     "header": "Lernen mit Lena",
+     "tag": "",
+     "title": "Einzelunterricht bei Ihnen zu Hause",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unsere Studentinnen und Studenten unterrichten in Ihrer Wohnung – am Küchentisch, ohne Zeitdruck. Alle Hauptfächer, Klasse 5 bis 10. Termine nach Absprache, auch am Wochenende. Die erste Stunde ist kostenlos."
+     ],
+     "footer": "lernen-mit-lena.de · 0421 / 88 77 66"
+    },
+    {
+     "letter": "f",
+     "design": "coupon",
+     "header": "Blitzblank Reinigungsservice",
+     "tag": "",
+     "title": "Sauber, während Sie arbeiten",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir kümmern uns um Ihre Wohnung, wenn Sie nicht da sind: Schlüsselübergabe nach Vereinbarung, immer dieselbe Ansprechpartnerin, wöchentlich oder alle zwei Wochen. Versichert und zuverlässig – fragen Sie Ihre Nachbarn."
+     ],
+     "footer": "Angebot unter 0421 / 33 44 55"
+    },
+    {
+     "letter": "g",
+     "design": "greyband",
+     "header": "LERNSTUDIO ZENTRUM",
+     "tag": "",
+     "title": "Förderung in kleinen Gruppen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Drei bis fünf Schülerinnen und Schüler üben gemeinsam in unseren Räumen am Marktplatz, Montag bis Freitag von 14 bis 18 Uhr. Alle Fächer, alle Klassen. Hausbesuche bieten wir nicht an. Probewoche 20 €."
+     ],
+     "footer": "lernstudio-zentrum.de"
+    },
+    {
+     "letter": "h",
+     "design": "sign",
+     "deco": {
+      "icon": "key"
+     },
+     "header": "SCHUH & SCHLÜSSEL BAR",
+     "tag": "SOFORTSERVICE IM BAHNHOF",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Absätze, Sohlen, Reißverschlüsse – und Schlüsselkopien in fünf Minuten, auch Sicherheitsschlüssel mit Karte. Montag bis Samstag 9 bis 18 Uhr. Türen öffnen wir nicht, dafür rufen Sie bitte einen Notdienst."
+     ],
+     "footer": "Direkt am Ausgang Süd"
+    },
+    {
+     "letter": "i",
+     "design": "classified",
+     "header": "TEXTILPFLEGE WEISS · REINIGUNG UND ÄNDERUNGEN",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Hemden und Blusen am selben Tag: morgens abgegeben, abends fertig. Anzüge, Kleider und Mäntel brauchen drei Werktage. Änderungen und kleine Reparaturen erledigt unsere Schneiderin im Haus."
+     ],
+     "footer": "Bahnhofstraße 4 · Mo–Fr 8–18 Uhr, Sa 9–13 Uhr"
+    },
+    {
+     "letter": "j",
+     "design": "browser",
+     "header": "Digital-Lotsen 60+",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir kommen zu Ihnen nach Hause und erklären Laptop, Tablet und Handy Schritt für Schritt – so lange, bis alles sitzt. Geduldige Helferinnen und Helfer, keine Fachsprache. Erster Termin 15 €. Reparaturen führen wir nicht durch."
+     ],
+     "footer": "digital-lotsen.de · 0421 / 24 24 24"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für eine autofreie Innenstadt, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Städte, die keine privaten Autos mehr in ihr Zentrum lassen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.stadtleben-magazin.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Beate",
+    "byline": "Beate, 52, Münster",
+    "text": "Seit unsere Altstadt frei von Autos ist, sitze ich abends draußen und höre die Brunnen statt der Motoren. Die Läden sind voller als vorher, nicht leerer – die Leute bleiben länger, wenn sie nicht auf die Parkuhr schauen müssen. Wer das einmal erlebt hat, will nicht mehr zurück.",
+    "answer": "J"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Dirk",
+     "byline": "Dirk, 44, Kassel",
+     "text": "Ich verstehe ja, dass sich viele eine ruhige Innenstadt wünschen. Aber ich beliefere dort drei Restaurants, jeden Morgen, mit dem Wagen voll Gemüse. Vor sechs Uhr zu liefern, wie es die Stadt vorschlägt, geht nicht – da sind die Küchen noch geschlossen. Mit dem Lastenrad schaffe ich das nicht, und ein Verbot trifft Leute wie mich, nicht die Sonntagsfahrer.",
+     "answer": "N"
+    },
+    {
+     "no": "21",
+     "name": "Halil",
+     "byline": "Halil, 38, Bochum",
+     "text": "Erst muss der Bus alle zehn Minuten fahren, auch abends, auch am Wochenende. Ich wohne zwanzig Kilometer außerhalb, und nach 20 Uhr fährt dort gar nichts mehr. Dann kann man über eine Sperrung reden. Umgekehrt geht es nicht: Wer heute die Autos aussperrt, sperrt die Leute aus den Vororten aus. Bis dahin: nein.",
+     "answer": "N"
+    },
+    {
+     "no": "22",
+     "name": "Nadine",
+     "byline": "Nadine, 31, Graz",
+     "text": "Bei uns war die Innenstadt an einem Sonntag im Herbst zum ersten Mal gesperrt. Meine Kinder sind mitten auf der Hauptstraße Roller gefahren, und ich habe zum ersten Mal die Fassaden angeschaut. Sogar die Wirte haben ihre Tische auf die Straße gestellt. Am Montag habe ich im Rathaus die Liste für eine dauerhafte Sperrung unterschrieben.",
+     "answer": "J"
+    },
+    {
+     "no": "23",
+     "name": "Ruth",
+     "byline": "Ruth, 67, Freiburg",
+     "text": "Als das hier beschlossen wurde, habe ich einen wütenden Brief an die Zeitung geschrieben. Wie soll ich mit 67 die Einkäufe schleppen? Heute fährt ein kleiner Elektrobus alle acht Minuten durch die Altstadt; ich komme näher an die Läden als früher mit dem Auto, und die Fahrt kostet mich nichts. Den Brief würde ich heute nicht mehr schreiben.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Sven",
+     "byline": "Sven, 49, Hannover",
+     "text": "Meine Kunden kommen aus dem ganzen Umland und tragen große Kartons hinaus – ich verkaufe Lampen. Für so etwas nimmt niemand die Straßenbahn, das sagen mir meine Kunden jede Woche – und die Parkhäuser am Stadtrand sind ihnen zu weit weg. Ein Geschäft wie meins lebt vom Parkplatz vor der Tür. Nehmt ihn weg, und ich bin in einem Jahr weg.",
+     "answer": "N"
+    },
+    {
+     "no": "25",
+     "name": "Anja",
+     "byline": "Anja, 35, Wien",
+     "text": "Für mich hängt alles von den Parkhäusern am Stadtrand ab: Wenn sie günstig sind und ein Bus von dort ins Zentrum fährt, dann sofort. Ohne diese Lösung wäre ich dagegen, denn ich wohne selbst im Umland. Genau so macht es meine Stadt gerade – ich habe schon die Jahreskarte fürs Parkhaus gekauft und freue mich auf den ersten Sommer ohne Blechlawine.",
+     "answer": "J"
+    },
+    {
+     "no": "26",
+     "name": "Georg",
+     "byline": "Georg, 73, Lübeck",
+     "text": "Eine schöne Idee, wirklich. Ich habe früher selbst gern in autofreien Orten Urlaub gemacht. Nur laufe ich seit meiner Hüftoperation kaum noch zweihundert Meter, und ein Taxi bis vor die Apotheke ist für mich keine Bequemlichkeit, sondern Notwendigkeit. Und ich bin nicht der Einzige in meiner Straße, dem es so geht. Für Leute wie mich muss das Zentrum mit dem Auto erreichbar bleiben.",
+     "answer": "N"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie haben sich einen Ausweis der Stadtbibliothek ausstellen lassen und lesen die Benutzungsordnung.",
+   "doc": {
+    "title": "BENUTZUNGSORDNUNG · STADTBIBLIOTHEK",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Ausweis",
+      "text": "Der Bibliotheksausweis wird gegen Vorlage eines Personalausweises ausgestellt und ist ein Jahr gültig. Er kostet für Erwachsene 20 Euro, für Studierende und Auszubildende 10 Euro; Kinder und Jugendliche bis 18 Jahre erhalten ihn kostenlos. Der Ausweis ist nicht übertragbar. Ein Verlust ist umgehend zu melden; für die Ersatzkarte werden 5 Euro berechnet."
+     },
+     {
+      "heading": "Ausleihe",
+      "text": "Bücher und Zeitschriften können vier Wochen, Filme und Spiele zwei Wochen ausgeliehen werden. Eine Verlängerung um jeweils vier Wochen ist zweimal möglich – online, telefonisch oder am Schalter –, sofern das Medium nicht von einer anderen Person vorbestellt wurde. Die aktuelle Ausgabe einer Zeitschrift kann nur im Lesesaal genutzt werden. Pro Ausweis dürfen höchstens 20 Medien gleichzeitig ausgeliehen sein."
+     },
+     {
+      "heading": "Rückgabe und Gebühren",
+      "text": "Medien können zu den Öffnungszeiten am Schalter oder jederzeit über die Rückgabebox neben dem Eingang zurückgegeben werden. Bei verspäteter Rückgabe fällt pro Medium und angefangener Woche 1 Euro an; für Kinderausweise wird die Hälfte berechnet. Beschädigte oder verlorene Medien sind zu ersetzen."
+     },
+     {
+      "heading": "Arbeitsplätze und Technik",
+      "text": "Die Lese- und Arbeitsplätze im ersten Stock stehen allen Besucherinnen und Besuchern offen, auch ohne Ausweis. Die Computerarbeitsplätze können mit Ausweis für zwei Stunden pro Tag reserviert werden. WLAN ist kostenlos, das Passwort erhalten Sie an der Information. Drucken und Kopieren kosten 10 Cent pro Seite."
+     },
+     {
+      "heading": "Verhalten",
+      "text": "In den Lesesälen ist Ruhe zu wahren; Telefongespräche sind nur im Foyer gestattet. Getränke in verschließbaren Flaschen sind erlaubt, Speisen nicht. Taschen und Jacken können in den Schließfächern im Eingangsbereich abgelegt werden; die Bibliothek haftet nicht für mitgebrachte Gegenstände."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer seinen Ausweis verliert, …",
+     "options": {
+      "a": "bekommt kostenlos einen neuen.",
+      "b": "bekommt gegen Bezahlung eine neue Karte.",
+      "c": "muss einen neuen Ausweis für 20 Euro kaufen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "stem": "Ein Buch …",
+     "options": {
+      "a": "darf man nur ein einziges Mal verlängern.",
+      "b": "kann man ausschließlich am Schalter verlängern.",
+      "c": "kann man bis zu zwölf Wochen behalten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "stem": "Wer ein Buch zu spät zurückgibt, …",
+     "options": {
+      "a": "muss das Buch durch ein neues ersetzen.",
+      "b": "zahlt mit einem Kinderausweis weniger.",
+      "c": "darf vorerst nichts mehr ausleihen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "stem": "Wer keinen Bibliotheksausweis hat, …",
+     "options": {
+      "a": "kann im ersten Stock lesen und arbeiten.",
+      "b": "kann einen Computerplatz für zwei Stunden reservieren.",
+      "c": "darf die Bibliothek nicht betreten."
+     },
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Das Training heute findet nicht statt.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Das Ersatztraining …",
+     "options": {
+      "a": "ist am Donnerstag in einer anderen Halle.",
+      "b": "fällt für die Jugendgruppe aus.",
+      "c": "beginnt um 18 Uhr."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Das Flugzeug nach Lissabon startet später als geplant.",
+       "answer": "R"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Die Passagiere …",
+       "options": {
+        "a": "gehen wie auf der Anzeigetafel zum Gate B12.",
+        "b": "bekommen am Schalter neue Tickets.",
+        "c": "sollen zu einem anderen Gate gehen."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Der Elternabend beginnt zu einer anderen Uhrzeit.",
+       "answer": "F"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Frau Sander soll …",
+       "options": {
+        "a": "ein unterschriebenes Formular mitbringen.",
+        "b": "die Lehrerin am Nachmittag zurückrufen.",
+        "c": "Emma am Donnerstag in die Schule begleiten."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Für das Fest muss man Eintritt bezahlen.",
+       "answer": "F"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Wer mit dem Auto kommt, …",
+       "options": {
+        "a": "parkt kostenlos direkt am Marktplatz.",
+        "b": "fährt mit einem Bus in die Stadt.",
+        "c": "zahlt zwölf Euro fürs Parken."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Ein Kind hat im Kaufhaus seine Mutter verloren.",
+       "answer": "R"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Das Angebot in der Sportabteilung …",
+       "options": {
+        "a": "gilt die ganze Woche.",
+        "b": "gilt nur heute.",
+        "c": "gilt für alle Sportartikel."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Frau Petersen kann beide Brillen abholen.",
+       "answer": "F"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Die Sonnenbrille …",
+       "options": {
+        "a": "ist in zehn Minuten fertig.",
+        "b": "kann am Samstag abgeholt werden.",
+        "c": "braucht noch einige Tage."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie besuchen mit einer Gruppe die Schokoladenfabrik Kessler. Vor der Führung begrüßt Sie die Mitarbeiterin Frau Huber.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Die Führung …",
+     "options": {
+      "a": "endet mit einer Verkostung.",
+      "b": "dauert etwa eine Stunde.",
+      "c": "beginnt direkt in der Produktion."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "In der Produktion …",
+     "options": {
+      "a": "darf man nicht fotografieren.",
+      "b": "muss das Handy im Schließfach bleiben.",
+      "c": "sind Fotos ohne Blitz erlaubt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Wer allergisch gegen Nüsse ist, …",
+     "options": {
+      "a": "darf nicht an der Verkostung teilnehmen.",
+      "b": "bekommt andere Schokolade.",
+      "c": "muss die Produktion auslassen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Kinder …",
+     "options": {
+      "a": "dürfen aus Sicherheitsgründen nicht in die Produktion.",
+      "b": "bekommen im Shop eine kleine Überraschung.",
+      "c": "stellen im Museum selbst etwas her."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Für die Vorführung um vier Uhr …",
+     "options": {
+      "a": "zahlt man an der Kasse einen kleinen Betrag.",
+      "b": "muss man sich vorher einen Platz sichern.",
+      "c": "braucht man das Ticket von der Führung."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sitzen in einem Café und hören, wie sich zwei Freunde, Sarah und Lukas, über die vergangenen Wochen unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Lukas hat seine neue Stelle über eine Anzeige gefunden.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "Lukas bekommt in der Buchhandlung ein niedrigeres Gehalt.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Lukas’ Mutter war gegen den Wechsel.",
+     "answer": "F"
+    },
+    {
+     "no": "19",
+     "text": "Lukas arbeitet auch am Samstag.",
+     "answer": "R"
+    },
+    {
+     "no": "20",
+     "text": "Sarah hat alle Nächte im Zelt geschlafen.",
+     "answer": "F"
+    },
+    {
+     "no": "21",
+     "text": "Die Band, die Sarah sehen wollte, hat nicht gespielt.",
+     "answer": "R"
+    },
+    {
+     "no": "22",
+     "text": "Für das nächste Jahr hat Sarah schon eine Unterkunft gebucht.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Der Moderator der Radiosendung „Standpunkte“ diskutiert mit der Lehrerin Petra Lindner und dem Schülersprecher Jonas Weiß über die Frage: „Sollen Handys an Schulen verboten werden?“",
+   "speakers": {
+    "a": "Moderator",
+    "b": "Petra Lindner",
+    "c": "Jonas Weiß"
+   },
+   "example": {
+    "no": "0",
+    "text": "Über Handyverbote wird in vielen Bundesländern diskutiert.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Seit dem Verbot reden die Schüler in den Pausen wieder miteinander.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Das Handy ist ein Hilfsmittel für den Unterricht.",
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "text": "Die Schule sollte den richtigen Umgang mit dem Handy vermitteln.",
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "text": "Eltern legen Wert darauf, ihr Kind jederzeit anrufen zu können.",
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "text": "Ein Verbot verschiebt die Probleme nur in die Freizeit.",
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "text": "Jüngere Schüler brauchen feste Regeln von außen.",
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "text": "In anderen Ländern gibt es schon Erfahrungen mit Verboten.",
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "text": "Auch manche Kollegen sollten den Umgang mit Medien lernen.",
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie haben vor zwei Wochen eine neue Arbeitsstelle angetreten. Ein Freund/Eine Freundin, der/die in einer anderen Stadt wohnt, möchte wissen, wie es Ihnen geht."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie ist Ihre neue Arbeit?",
+     "Begründen Sie: Was gefällt Ihnen besonders gut und warum?",
+     "Machen Sie einen Vorschlag für ein Treffen."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an einen Freund, ca. 95 Wörter",
+     "text": "Betreff: Zwei Wochen neuer Job\n\nLieber Paul,\n\ndu wolltest wissen, wie es mir geht – gut! Seit zwei Wochen arbeite ich in der Stadtbibliothek. Ich bin für die Kinderabteilung zuständig, berate Familien und bereite die Lesestunden am Nachmittag vor. Die Kolleginnen sind freundlich, und um 17 Uhr ist wirklich Schluss.\n\nAm besten gefällt mir die Arbeit mit den Kindern, weil sie ehrlich sagen, ob ein Buch langweilig ist. Davon kann ich viel lernen.\n\nHast du Lust, mich am ersten Oktoberwochenende zu besuchen? Dann zeige ich dir die Bibliothek, und abends gehen wir essen.\n\nLiebe Grüße\nElena"
+    },
+    "typicalErrors": "Leitpunkt 3 (Treffen) fehlt oder bleibt ohne Zeit und Ort · die Arbeit nur beschreiben, ohne zu begründen · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Fernsehen eine Sendung zum Thema „Lebensmittel aus der Region – lohnt sich der höhere Preis?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.tv-forum-aktuell.de",
+     "label": "Gästebuch",
+     "author": "Kerstin · 14.09. 21:05 Uhr",
+     "text": "Ich kaufe Obst und Gemüse seit einem Jahr auf dem Wochenmarkt, bei Bauern aus der Umgebung. Es schmeckt besser, und ich weiß, woher es kommt. Aber ehrlich: Für eine Familie mit drei Kindern ist das auf Dauer zu teuer, und im Winter gibt es fast nur Kohl und Kartoffeln."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Kerstin spricht ein Problem an, das ich gut kenne. Auch ich kaufe Gemüse gern auf dem Markt, weil es frischer ist und die Bauern aus der Nähe kommen. Meiner Meinung nach ist der höhere Preis oft gerechtfertigt: Kurze Wege sind besser für die Umwelt, und das Geld bleibt in der Region.\n\nTrotzdem verstehe ich Familien, die rechnen müssen. Ich kaufe deshalb regional nur das, was gerade Saison hat – im Sommer Beeren, im Herbst Äpfel. Das ist dann sogar günstiger als im Supermarkt.\n\nIm Winter muss man Kompromisse machen. Kohl und Kartoffeln sind allerdings gesünder, als viele glauben – und günstig sind sie auch."
+    },
+    "typicalErrors": "Kerstins Beitrag nur zusammenfassen, statt eine eigene Meinung zu schreiben · keine Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Ihr Deutschkurs macht am Samstag einen Ausflug in ein Museum. Sie haben sich dafür angemeldet, können aber nicht mitkommen."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Ihre Kursleiterin, Frau Sommer. Entschuldigen Sie sich höflich, nennen Sie den Grund und fragen Sie, ob Sie das Geld für die Eintrittskarte zurückbekommen. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an die Kursleiterin, ca. 45 Wörter",
+     "text": "Sehr geehrte Frau Sommer,\n\nleider kann ich am Samstag nicht mit ins Museum kommen, weil ich an diesem Tag arbeiten muss. Das tut mir sehr leid. Könnten Sie mir sagen, ob ich das Geld für die Eintrittskarte zurückbekomme? Ich wünsche Ihnen und dem Kurs einen schönen Ausflug.\n\nMit freundlichen Grüßen\nAmir Nouri"
+    },
+    "typicalErrors": "Grund oder Frage nach dem Geld fehlt · Hallo Frau Sommer oder Liebe Grüße gegenüber der Kursleiterin · keine Entschuldigung."
+   }
+  ]
+ }
+}

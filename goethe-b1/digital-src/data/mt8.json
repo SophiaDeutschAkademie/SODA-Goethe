@@ -1,0 +1,843 @@
+{
+ "id": 8,
+ "roman": "VIII",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 1 bis 6 dazu. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "blog": {
+    "site": "lauter-leise.de · Corinna",
+    "date": "Sonntag, 9. Februar",
+    "title": "Mit den Händen sprechen",
+    "paragraphs": [
+     "Seit vergangenem März haben wir eine neue Kollegin in der Buchhaltung: Hanna. Sie ist von Geburt an gehörlos. In den ersten Wochen haben wir uns nur mit Zetteln und Nachrichten auf dem Handy verständigt. Das hat zwar funktioniert, aber in der Mittagspause saß Hanna meistens allein am Tisch, weil ihr die Gespräche viel zu schnell waren. Das hat mich mehr beschäftigt, als ich zugeben wollte.",
+     "Im Herbst habe ich mich deshalb an der Volkshochschule für einen Kurs in Deutscher Gebärdensprache angemeldet. Hanna wusste davon nichts – ich wollte sie überraschen. Der Kurs findet jeden Montagabend statt, und unsere Lehrerin ist selbst gehörlos. Gesprochen wird im Unterricht kein einziges Wort. Am ersten Abend war ich völlig verloren und habe mich gefragt, warum ich mir das antue.",
+     "Inzwischen weiß ich: Gebärdensprache ist nicht einfach Deutsch mit den Händen. Sie hat eine eigene Grammatik, und das Gesicht spielt eine große Rolle. Wer eine Frage stellt, zieht zum Beispiel die Augenbrauen hoch. Am schwersten fällt mir nicht das Gebärden, sondern das Lesen: Wenn jemand schnell gebärdet, verstehe ich oft nur jedes dritte Wort.",
+     "Kurz vor Weihnachten habe ich mich dann getraut. Ich bin in der Pause zu Hanna gegangen und habe ihr in Gebärdensprache gesagt, dass ich mich auf die Weihnachtsfeier freue. Ich habe bestimmt drei Fehler gemacht. Hanna hat erst gelacht und dann vor Freude geweint, und danach hat sie mich korrigiert – sehr geduldig, wie eine echte Lehrerin.",
+     "Seitdem hat sich in unserer Abteilung einiges verändert. Zwei Kollegen haben sich für den nächsten Kurs angemeldet, und unser Chef hat beschlossen, dass bei Teambesprechungen künftig eine Dolmetscherin dabei ist. Hanna sitzt mittags nicht mehr allein. Manchmal bringt sie uns in der Pause ein neues Zeichen bei, meistens für etwas zu essen.",
+     "Im Sommer möchte ich die Prüfung für die zweite Stufe machen. Dolmetscherin werden will ich aber nicht – dafür bräuchte ich ein ganzes Studium. Mir reicht es, wenn ich mich mit Hanna über alles unterhalten kann, was uns interessiert. Und das klappt schon erstaunlich oft."
+    ],
+    "closing": "Bis bald, Corinna"
+   },
+   "example": {
+    "no": "0",
+    "text": "Corinna lernt seit einiger Zeit Gebärdensprache.",
+    "answer": "R"
+   },
+   "items": [
+    {
+     "no": "1",
+     "text": "Hanna hatte Corinna vorgeschlagen, Gebärdensprache zu lernen.",
+     "answer": "F"
+    },
+    {
+     "no": "2",
+     "text": "Für Corinna ist es schwieriger, andere zu verstehen, als selbst zu gebärden.",
+     "answer": "R"
+    },
+    {
+     "no": "3",
+     "text": "Hanna hat sich über Corinnas Überraschung gefreut.",
+     "answer": "R"
+    },
+    {
+     "no": "4",
+     "text": "Corinnas Chef hat selbst einen Kurs angefangen.",
+     "answer": "F"
+    },
+    {
+     "no": "5",
+     "text": "Corinna möchte später als Dolmetscherin arbeiten.",
+     "answer": "F"
+    },
+    {
+     "no": "6",
+     "text": "Corinna kann sich mit Hanna schon oft gut unterhalten.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "texts": [
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Ausgeschlafen in den Unterricht",
+     "lead": "Am Gymnasium Lindenberg beginnt der Unterricht seit einem Jahr erst um neun Uhr.",
+     "paragraphs": [
+      "Um 7.30 Uhr ist der Schulhof des Gymnasiums Lindenberg noch leer. Früher saßen um diese Zeit schon tausend Jugendliche in ihren Klassenräumen, viele mit müden Augen. Seit einem Jahr beginnt die erste Stunde erst um neun Uhr. Die Idee stammt von der Schülervertretung, die sich auf Untersuchungen von Schlafforschern berief: Jugendliche werden abends später müde als Erwachsene und brauchen morgens mehr Schlaf. „Um acht Uhr ist der Körper eines Fünfzehnjährigen eigentlich noch im Bett“, sagt Schulleiter Thomas Engel. Nach einem Jahr ist die Bilanz positiv: Laut einer Umfrage der Schule schlafen die Schülerinnen und Schüler im Durchschnitt 40 Minuten länger, und es kommen deutlich weniger zu spät. Ob die Noten besser geworden sind, lässt sich noch nicht sagen. Nicht alle sind begeistert. Weil der Unterricht jetzt eine Stunde später endet, haben viele Jugendliche weniger Zeit für Sport oder Musik am Nachmittag. Einige Eltern, die früh zur Arbeit müssen, bringen ihre Kinder trotzdem um halb acht zur Schule. Für sie gibt es seit diesem Schuljahr eine Frühbetreuung in der Bibliothek, in der man lesen oder Hausaufgaben machen kann. Auch die Busunternehmen mussten ihre Fahrpläne ändern. Für die Lehrkräfte bedeutet der spätere Beginn längere Tage; manche korrigieren jetzt am frühen Morgen. Das Kultusministerium beobachtet den Versuch genau; ab dem nächsten Schuljahr wollen zwei weitere Schulen in der Region mitmachen."
+     ],
+     "footnote": "",
+     "source": "aus einer deutschen Zeitung",
+     "example": {
+      "no": "0",
+      "stem": "Die erste Stunde …",
+      "options": {
+       "a": "beginnt um 7.30 Uhr.",
+       "b": "beginnt später als früher.",
+       "c": "fällt seit einem Jahr aus."
+      },
+      "answer": "b"
+     },
+     "items": [
+      {
+       "no": "7",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "Schüler, die abends zu lange am Handy sind.",
+        "b": "eine Schule, die den Unterricht am Nachmittag verkürzt hat.",
+        "c": "eine Schule, an der der Schultag später anfängt."
+       },
+       "answer": "c"
+      },
+      {
+       "no": "8",
+       "stem": "Nach einem Jahr …",
+       "options": {
+        "a": "haben sich die Noten deutlich verbessert.",
+        "b": "kommen weniger Schüler verspätet.",
+        "c": "hat die Schule den Versuch wieder beendet."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "9",
+       "stem": "Für Kinder berufstätiger Eltern …",
+       "options": {
+        "a": "gibt es vor dem Unterricht ein Angebot.",
+        "b": "fährt jetzt ein früherer Bus direkt zur Schule.",
+        "c": "endet der Unterricht schon am Mittag."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+     "title": "Ein Kaffee für den Nächsten",
+     "lead": "In einem Wiener Kaffeehaus zahlen Gäste für Menschen mit, die sich keinen Kaffee leisten können.",
+     "paragraphs": [
+      "Wer im Café Moser in Wien-Ottakring bezahlt, wird manchmal gefragt: „Möchten Sie einen Kaffee aufschieben?“ Gemeint ist ein Kaffee, den man bezahlt, aber nicht selbst trinkt. Für jeden aufgeschobenen Kaffee macht die Kellnerin einen Strich auf einer Tafel neben der Tür. Wer wenig Geld hat, kann an der Theke nach einem dieser Kaffees fragen – ohne Erklärung und ohne einen Ausweis zu zeigen. Die Idee kommt ursprünglich aus Neapel. Dort heißt der aufgeschobene Kaffee „caffè sospeso“, und die Tradition ist über hundert Jahre alt. Inhaberin Eva Moser hat die Idee vor drei Jahren nach einem Urlaub in Italien eingeführt. „Am Anfang hatte ich Angst, dass niemand mitmacht“, erzählt sie. Inzwischen werden jede Woche rund sechzig Kaffees aufgeschoben, meistens eine Melange*. Wer möchte, kann auch einen kleinen Betrag in eine Spardose werfen; das Geld reicht dann für einen weiteren Kaffee. Manche Stammgäste zahlen gleich fünf auf einmal, ein älterer Herr kommt jeden Freitag und zahlt zehn. Abgeholt werden die Kaffees von Studierenden, Rentnerinnen mit kleiner Pension und Menschen, die auf der Straße leben. Missbrauch gebe es kaum, sagt Moser: Wer zweimal am Tag kommt, wird freundlich darauf hingewiesen, dass die Kaffees für möglichst viele reichen sollen. Seit dem Frühjahr gibt es neben Kaffee auch aufgeschobene Suppen. Zwei weitere Kaffeehäuser im Bezirk haben die Idee schon übernommen, und Moser hofft, dass es bald noch mehr werden."
+     ],
+     "footnote": "*Melange = österreichischer Standard für „Milchkaffee“",
+     "source": "aus einer österreichischen Zeitung",
+     "example": null,
+     "items": [
+      {
+       "no": "10",
+       "stem": "In diesem Text geht es um …",
+       "options": {
+        "a": "ein Café, das jeden Freitag kostenlos Kaffee an alle ausschenkt.",
+        "b": "Gäste, die für andere Menschen einen Kaffee mitbezahlen.",
+        "c": "eine Kellnerin, die in Italien Urlaub gemacht hat."
+       },
+       "answer": "b"
+      },
+      {
+       "no": "11",
+       "stem": "Wer einen aufgeschobenen Kaffee möchte, …",
+       "options": {
+        "a": "muss nicht sagen, warum.",
+        "b": "muss an der Theke seinen Ausweis zeigen.",
+        "c": "bekommt ihn nur am Freitag."
+       },
+       "answer": "a"
+      },
+      {
+       "no": "12",
+       "stem": "Eva Moser …",
+       "options": {
+        "a": "musste die Aktion wegen Missbrauchs stark einschränken.",
+        "b": "will die Idee bald auch nach Italien bringen.",
+        "c": "hat ihr Angebot inzwischen um Essen erweitert."
+       },
+       "answer": "c"
+      }
+     ]
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 13 bis 19 und die Anzeigen a bis j aus verschiedenen deutschsprachigen Medien. Wählen Sie: Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Die Anzeige aus dem Beispiel können Sie nicht mehr verwenden. Für eine Situation gibt es keine passende Anzeige. In diesem Fall schreiben Sie 0.",
+   "context": "Einige Ihrer Bekannten planen eine Feier und suchen ein passendes Angebot.",
+   "example": {
+    "no": "0",
+    "text": "Frau Lindqvist möchte für den Geburtstag ihrer Mutter eine Torte bestellen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "13",
+     "text": "Familie Brandner feiert die Hochzeit ihrer Tochter mit 120 Gästen. Eine befreundete Köchin soll das Essen machen; gesucht wird ein passender Raum.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Herr Demir möchte im Sommer mit 25 Freunden draußen grillen, am liebsten mitten in der Natur.",
+     "answer": "f"
+    },
+    {
+     "no": "15",
+     "text": "Lucas wird sieben. Seine Eltern wollen zu Hause feiern und suchen jemanden, der die Kinder unterhält.",
+     "answer": "h"
+    },
+    {
+     "no": "16",
+     "text": "Frau Kühn organisiert die Weihnachtsfeier ihrer Abteilung (12 Personen). Alle sollen dabei gemeinsam etwas tun, und ein Essen soll auch dazugehören.",
+     "answer": "i"
+    },
+    {
+     "no": "17",
+     "text": "Herr und Frau Petrović feiern ihre Silberhochzeit im eigenen Garten und brauchen noch Tische, Bänke und ein Zelt.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Anna möchte ihren Geburtstag im Dezember auf einem Schiff feiern.",
+     "answer": "0"
+    },
+    {
+     "no": "19",
+     "text": "Herr Bauer lädt Gäste zu sich nach Hause ein. Er will ihnen ein Essen anbieten, ohne selbst zu kochen oder danach abzuwaschen.",
+     "answer": "c"
+    }
+   ],
+   "ads": [
+    {
+     "letter": "a",
+     "design": "hotel",
+     "header": "",
+     "tag": "SAALVERMIETUNG",
+     "title": "Bürgerhaus Lindenhof",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unser großer Saal bietet Platz für bis zu 120 Gäste. Eine voll ausgestattete Küche gehört dazu – Sie dürfen Ihr Essen selbst mitbringen oder von einem Koch Ihrer Wahl zubereiten lassen. Feiern sind bis 23 Uhr möglich."
+     ],
+     "footer": "Saalmiete ab 450 € · Tel. 0421 / 30 12 12"
+    },
+    {
+     "letter": "b",
+     "design": "serif",
+     "header": "",
+     "tag": "",
+     "title": "Konditorei Zuckerhut",
+     "subtitle": "TORTEN AUF BESTELLUNG",
+     "facts": [],
+     "body": [
+      "Torten für jeden Anlass – vom Kindergeburtstag bis zur Hochzeit. Bitte bestellen Sie mindestens drei Tage im Voraus. Auf Wunsch schreiben wir Namen oder Glückwünsche auf die Torte."
+     ],
+     "footer": "Bahnhofstraße 12 · Di–So 8–18 Uhr"
+    },
+    {
+     "letter": "c",
+     "design": "corp",
+     "header": "",
+     "tag": "",
+     "title": "Feinkost Hagedorn",
+     "subtitle": "PARTYSERVICE",
+     "facts": [],
+     "body": [
+      "Kalte und warme Buffets für 20 bis 200 Personen. Wir liefern pünktlich zu Ihnen nach Hause oder in Ihren Festsaal und holen Geschirr, Besteck und Gläser am nächsten Tag ungespült wieder ab."
+     ],
+     "footer": "feinkost-hagedorn.de"
+    },
+    {
+     "letter": "d",
+     "design": "barhead",
+     "deco": {
+      "icon": "note"
+     },
+     "header": "",
+     "tag": "",
+     "title": "DJ SOUND-MIKE",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Musik für Hochzeiten, runde Geburtstage und Firmenfeiern – von Schlager bis Hip-Hop. Licht- und Tonanlage bringe ich mit. Ihre Musikwünsche besprechen wir vorher in Ruhe."
+     ],
+     "footer": "ab 300 € pro Abend"
+    },
+    {
+     "letter": "e",
+     "design": "inst",
+     "header": "",
+     "tag": "REC",
+     "title": "Fotostudio Blende 8",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir begleiten Ihre Hochzeit oder Familienfeier mit der Kamera und liefern die Bilder zwei Wochen später auf einem USB-Stick. Neu: unsere Fotobox für Ihre Gäste – mit Hüten, Brillen und sofortigem Ausdruck."
+     ],
+     "footer": "blende8-foto.de"
+    },
+    {
+     "letter": "f",
+     "design": "greyband",
+     "header": "",
+     "tag": "",
+     "title": "GRILLPLATZ AM WALDSEE",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Mitten im Wald, direkt am Wasser: Grillhütte mit Feuerstelle für bis zu 40 Personen. Toiletten sind vorhanden, Strom leider nicht. Musik bitte nur bis 22 Uhr."
+     ],
+     "footer": "50 € pro Tag · Buchung bei der Gemeinde"
+    },
+    {
+     "letter": "g",
+     "design": "rounded",
+     "header": "",
+     "tag": "",
+     "title": "Partyschiff MS Aurora",
+     "subtitle": "FEIERN AUF DEM RHEIN",
+     "facts": [],
+     "body": [
+      "Platz für 30 bis 100 Gäste. Essen und Getränke an Bord sind im Preis enthalten; eigenes Essen ist leider nicht erlaubt. Fahrten von April bis Oktober."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "h",
+     "design": "speech",
+     "header": "",
+     "tag": "",
+     "title": "Clown Pepe kommt!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Kindergeburtstag ohne Stress: Clown Pepe kommt zu Ihnen nach Hause und begeistert Kinder von 4 bis 10 Jahren zwei Stunden lang mit Zaubertricks, Spielen und Luftballontieren."
+     ],
+     "footer": "Tel. 0170 / 2 23 45 67"
+    },
+    {
+     "letter": "i",
+     "design": "dashed",
+     "header": "",
+     "tag": "",
+     "title": "Kochschule Pfeffer & Salz",
+     "subtitle": "FEIERN EINMAL ANDERS",
+     "facts": [],
+     "body": [
+      "Bei uns kochen Gruppen von 8 bis 14 Personen gemeinsam ein Menü mit drei Gängen und essen es anschließend zusammen. Ideal für Geburtstage und Firmenfeiern. Getränke inklusive."
+     ],
+     "footer": ""
+    },
+    {
+     "letter": "j",
+     "design": "mono",
+     "header": "Partyverleih Feierabend",
+     "tag": "pro Tag",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Festzelt (6 × 3 m) · 90 €",
+      "Biertischgarnitur · 12 €",
+      "50 Gläser · 15 €",
+      "Hüpfburg · 80 €"
+     ],
+     "body": [
+      "Lieferung und Aufbau im Umkreis von 30 km kostenlos."
+     ],
+     "footer": ""
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Lesen Sie die Texte 20 bis 26. Wählen Sie: Ist die Person für Schuluniformen, Ja oder Nein?",
+   "context": "In einer Zeitschrift lesen Sie Kommentare zu einem Artikel über Schulen, an denen alle Schülerinnen und Schüler die gleiche Kleidung tragen.",
+   "header": "LESERKOMMENTARE",
+   "site": "www.schule-und-familie.de/forum",
+   "example": {
+    "no": "0",
+    "name": "Karin",
+    "byline": "Karin, 48, Freiburg",
+    "text": "Meine Kinder sollen in der Schule lernen, selbst zu entscheiden – auch, was sie anziehen. Kleidung ist für Jugendliche eine Möglichkeit, zu zeigen, wer sie sind. Wenn alle gleich aussehen, ändert das nichts daran, dass manche Eltern mehr Geld haben als andere. Das sieht man dann eben an den Handys, den Taschen oder an den Schuhen. Ich halte deshalb nichts davon.",
+    "answer": "N"
+   },
+   "items": [
+    {
+     "no": "20",
+     "name": "Sandra",
+     "byline": "Sandra, 41, Augsburg",
+     "text": "Jeden Morgen der gleiche Streit: Meine Tochter steht eine halbe Stunde vor dem Kleiderschrank und findet nichts, was „gut genug“ ist. An der Schule meines Neffen in Irland tragen dagegen alle dunkelblaue Pullover und graue Hosen, und kein Mensch diskutiert darüber. So etwas wünsche ich mir auch für unsere Schule – es würde uns allen viele Nerven sparen.",
+     "answer": "J"
+    },
+    {
+     "no": "21",
+     "name": "Michael",
+     "byline": "Michael, 56, Wien",
+     "text": "Als unsere Schule vor zwei Jahren einheitliche Schulshirts eingeführt hat, war ich als Lehrer skeptisch. Ich hielt das für altmodisch. Heute sehe ich das anders: Auf Ausflügen erkennt man unsere Schüler sofort, und das Mobbing wegen Kleidung ist deutlich zurückgegangen. Die Farben haben die Schülerinnen und Schüler übrigens selbst ausgesucht. Auch die Eltern sind inzwischen zufrieden.",
+     "answer": "J"
+    },
+    {
+     "no": "22",
+     "name": "Julia",
+     "byline": "Julia, 37, Erfurt",
+     "text": "Ich verstehe die Eltern, die sich über teure Markenkleidung ärgern. Aber eine Uniform ist nicht die Lösung. Sie kostet auch Geld, oft mehr als normale Kleidung, und man braucht mehrere Teile zum Wechseln. Außerdem wachsen Kinder ständig. Gerade Familien mit mehreren Kindern hätten es dann schwer. Besser wäre es, mit den Jugendlichen darüber zu reden, was wirklich wichtig ist.",
+     "answer": "N"
+    },
+    {
+     "no": "23",
+     "name": "Oliver",
+     "byline": "Oliver, 44, Potsdam",
+     "text": "Ich bin nur dafür, wenn die Kleidung bequem ist und die Schüler bei der Auswahl mitbestimmen dürfen. Genau so hat es die Schule meiner Tochter gemacht: Die Klassen haben über drei Entwürfe abgestimmt, und jetzt gibt es Kapuzenpullis mit dem Schullogo. Meine Tochter trägt ihren sogar am Wochenende – das sagt doch alles. Gezwungen fühlt sich dort niemand.",
+     "answer": "J"
+    },
+    {
+     "no": "24",
+     "name": "Lena",
+     "byline": "Lena, 16, Münster",
+     "text": "Meine Eltern und meine Lehrer finden Schuluniformen eine tolle Idee. Ich sehe das anders. Ich verbringe den größten Teil des Tages in der Schule, und dann soll ich nicht einmal selbst entscheiden dürfen, was ich trage? Meine Kleidung gehört zu mir, genauso wie meine Musik und meine Frisur. Außerdem lernen wir doch nicht besser, nur weil alle gleich aussehen.",
+     "answer": "N"
+    },
+    {
+     "no": "25",
+     "name": "Ibrahim",
+     "byline": "Ibrahim, 39, Würzburg",
+     "text": "Statt einer Uniform sollte man lieber einfache Regeln festlegen: keine Kleidung mit Beleidigungen oder Werbung für Alkohol und nichts, was zu kurz ist. Wer sich nicht daran hält, muss sich eben umziehen. Mehr braucht es nicht. So behalten die Schüler ihre Freiheit, und die Schule hat trotzdem einen gewissen Rahmen. An unserer Schule funktioniert das seit Jahren gut.",
+     "answer": "N"
+    },
+    {
+     "no": "26",
+     "name": "Peter",
+     "byline": "Peter, 71, Hannover",
+     "text": "Ich bin in Großbritannien zur Schule gegangen und habe jeden Tag eine Krawatte getragen. Geschadet hat mir das nicht – im Gegenteil: Wir haben uns als Gemeinschaft gefühlt, und morgens ging alles schneller. Viele meiner alten Klassenkameraden sehen das genauso. Natürlich muss die Kleidung bezahlbar sein. Ich verstehe nicht, warum man hier so viel Angst vor gleicher Kleidung hat.",
+     "answer": "J"
+    }
+   ]
+  },
+  "t5": {
+   "instruction": "Lesen Sie die Aufgaben 27 bis 30 und den Text dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "context": "Sie möchten mit dem Fernbus fahren und lesen die Beförderungsbedingungen.",
+   "doc": {
+    "title": "BEFÖRDERUNGSBEDINGUNGEN · FERNEXPRESS",
+    "intro": "",
+    "sections": [
+     {
+      "heading": "Fahrkarten",
+      "text": "Ihre Fahrkarte können Sie online, in der App oder beim Fahrer kaufen; beim Fahrer zahlen Sie allerdings zwei Euro mehr. Bitte zeigen Sie beim Einsteigen Ihre Fahrkarte und einen gültigen Ausweis."
+     },
+     {
+      "heading": "Umbuchung und Stornierung",
+      "text": "Bis 15 Minuten vor der Abfahrt können Sie Ihre Fahrt online kostenlos auf einen anderen Tag oder eine andere Uhrzeit umbuchen. Wer die Fahrt ganz absagt, erhält einen Gutschein über den Fahrpreis, aber kein Bargeld."
+     },
+     {
+      "heading": "Gepäck",
+      "text": "Pro Person sind ein Koffer bis 20 Kilogramm und ein kleines Handgepäckstück im Preis enthalten. Ein zweiter Koffer kostet zwei Euro extra und muss vorher online gebucht werden. Fahrräder nehmen wir nur auf Strecken mit Fahrradträger mit; dafür brauchen Sie eine eigene Fahrradkarte. Kinderwagen und Rollstühle melden Sie bitte vorher an; ihr Transport ist kostenlos."
+     },
+     {
+      "heading": "Kinder und Jugendliche",
+      "text": "Kinder unter 6 Jahren reisen nur in Begleitung eines Erwachsenen und brauchen einen eigenen Kindersitz. Kinder von 6 bis 14 Jahren dürfen nur mit einer unterschriebenen Erlaubnis der Eltern allein fahren; ab 15 Jahren ist keine Erlaubnis mehr nötig."
+     },
+     {
+      "heading": "Pünktlichkeit",
+      "text": "Bitte seien Sie spätestens 15 Minuten vor der Abfahrt an der richtigen Haltestelle. Bei mehr als zwei Stunden Verspätung können Sie die Hälfte des Fahrpreises zurückverlangen. Fällt eine Fahrt ganz aus, bringt Sie der nächste Bus ohne Aufpreis ans Ziel."
+     },
+     {
+      "heading": "An Bord",
+      "text": "Essen und Trinken sind an Bord erlaubt, Alkohol jedoch nicht. Bitte telefonieren Sie leise und hören Sie Musik nur mit Kopfhörern. Haustiere dürfen nicht mitfahren; Assistenzhunde sind davon ausgenommen."
+     }
+    ],
+    "footer": ""
+   },
+   "example": null,
+   "items": [
+    {
+     "no": "27",
+     "stem": "Wer seine Fahrkarte im Bus kauft, …",
+     "options": {
+      "a": "bekommt sie etwas günstiger als im Internet.",
+      "b": "muss beim Einsteigen keinen Ausweis zeigen.",
+      "c": "zahlt einen Aufpreis."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "stem": "Wer an einem anderen Tag fahren möchte, …",
+     "options": {
+      "a": "bekommt sein Geld bar zurück.",
+      "b": "kann die Fahrt gratis verschieben.",
+      "c": "muss dafür eine zusätzliche Gebühr bezahlen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "stem": "Ein Zwölfjähriger darf allein fahren, wenn …",
+     "options": {
+      "a": "seine Eltern es schriftlich erlaubt haben.",
+      "b": "er einen eigenen Kindersitz mitbringt und benutzt.",
+      "c": "er mindestens sechs Jahre alt ist und einen Ausweis hat."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "stem": "Wer mit seinem Hund verreisen möchte, …",
+     "options": {
+      "a": "muss für den Hund eine eigene Fahrkarte kaufen.",
+      "b": "darf ihn nur in ganz bestimmten Fällen mitnehmen.",
+      "c": "muss ihn während der Fahrt im Gepäckraum unter dem Bus lassen."
+     },
+     "answer": "b"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+   "readNote": "Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
+   "example": [
+    {
+     "no": "01",
+     "type": "rf",
+     "text": "Herr Schulte kann seinen Anzug heute abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "02",
+     "type": "abc",
+     "stem": "Herr Schulte soll …",
+     "options": {
+      "a": "den Abholschein mitbringen.",
+      "b": "den ganzen Preis bezahlen.",
+      "c": "am Samstagnachmittag kommen."
+     },
+     "answer": "a"
+    }
+   ],
+   "texts": [
+    {
+     "label": "Text 1",
+     "items": [
+      {
+       "no": "1",
+       "type": "rf",
+       "text": "Im ganzen Park ist jetzt alles geschlossen.",
+       "answer": "F"
+      },
+      {
+       "no": "2",
+       "type": "abc",
+       "stem": "Wer den Park früher verlässt, …",
+       "options": {
+        "a": "bekommt den ganzen Eintritt zurück.",
+        "b": "bekommt einen Teil des Eintritts bar zurück.",
+        "c": "erhält etwas für einen späteren Besuch."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 2",
+     "items": [
+      {
+       "no": "3",
+       "type": "rf",
+       "text": "Petra kann morgen nicht mit ihrem eigenen Auto fahren.",
+       "answer": "R"
+      },
+      {
+       "no": "4",
+       "type": "abc",
+       "stem": "Jens soll …",
+       "options": {
+        "a": "Petra wie immer vor ihrem Haus abholen.",
+        "b": "unterwegs noch jemanden mitnehmen.",
+        "c": "Frau Kraus am Bahnhof anrufen."
+       },
+       "answer": "b"
+      }
+     ]
+    },
+    {
+     "label": "Text 3",
+     "items": [
+      {
+       "no": "5",
+       "type": "rf",
+       "text": "Den Turm kann man nur an diesem einen Tag besteigen.",
+       "answer": "R"
+      },
+      {
+       "no": "6",
+       "type": "abc",
+       "stem": "Wer auf den Turm möchte, …",
+       "options": {
+        "a": "muss sich am Eingang eine Karte holen.",
+        "b": "muss dafür einen kleinen Betrag extra bezahlen.",
+        "c": "muss sich vorher telefonisch anmelden."
+       },
+       "answer": "a"
+      }
+     ]
+    },
+    {
+     "label": "Text 4",
+     "items": [
+      {
+       "no": "7",
+       "type": "rf",
+       "text": "Bücher zurückgeben kann man nur während der Öffnungszeiten.",
+       "answer": "F"
+      },
+      {
+       "no": "8",
+       "type": "abc",
+       "stem": "Morgen …",
+       "options": {
+        "a": "fällt die Lesung mit der Autorin aus.",
+        "b": "öffnet die Bibliothek wie immer zur gewohnten Zeit.",
+        "c": "öffnet die Bibliothek erst am Nachmittag."
+       },
+       "answer": "c"
+      }
+     ]
+    },
+    {
+     "label": "Text 5",
+     "items": [
+      {
+       "no": "9",
+       "type": "rf",
+       "text": "Can muss sofort zu einem Arzt.",
+       "answer": "F"
+      },
+      {
+       "no": "10",
+       "type": "abc",
+       "stem": "Frau Aydın kann …",
+       "options": {
+        "a": "auch eine andere berechtigte Person schicken.",
+        "b": "Can allein mit dem Bus nach Hause fahren lassen.",
+        "c": "Can am nächsten Morgen in der Schule abholen."
+       },
+       "answer": "a"
+      }
+     ]
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun einen Text. Sie hören den Text einmal. Dazu lösen Sie fünf Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 11 bis 15. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie machen eine Stadtführung durch Lübeck. Die Stadtführerin, Frau Behrendt, begrüßt die Gruppe.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Wer die Gruppe verliert, …",
+     "options": {
+      "a": "soll die Stadtführerin sofort auf dem Handy anrufen.",
+      "b": "soll zu einem vorher vereinbarten Ort gehen.",
+      "c": "soll am Holstentor auf die anderen warten."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Für die Marienkirche …",
+     "options": {
+      "a": "müssen die Teilnehmer nichts extra zahlen.",
+      "b": "braucht man an der Kasse noch eine eigene Eintrittskarte.",
+      "c": "hat die Gruppe nur am Nachmittag Zeit."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "In den Gängen und Höfen …",
+     "options": {
+      "a": "darf man überhaupt keine Fotos von den Häusern machen.",
+      "b": "gibt es viele kleine Geschäfte.",
+      "c": "soll man die Bewohner nicht stören."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Im Marzipancafé …",
+     "options": {
+      "a": "darf man die Toiletten auch ohne Einkauf benutzen.",
+      "b": "bekommt jeder Teilnehmer ein kleines Stück Marzipan geschenkt.",
+      "c": "hat die Gruppe eine Stunde Pause."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Am Ende der Führung …",
+     "options": {
+      "a": "ist die Gruppe wieder am Holstentor angekommen.",
+      "b": "kann man gegen Bezahlung noch mehr sehen.",
+      "c": "fährt ein Sonderbus direkt zum Bahnhof."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun ein Gespräch. Sie hören das Gespräch einmal. Dazu lösen Sie sieben Aufgaben. Wählen Sie: Sind die Aussagen Richtig oder Falsch?",
+   "readNote": "Lesen Sie jetzt die Aufgaben 16 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Sie sind im Treppenhaus und hören, wie sich zwei Nachbarinnen, Frau Lehmann und Frau Çelik, unterhalten.",
+   "items": [
+    {
+     "no": "16",
+     "text": "Frau Lehmann hat genau die Küche bekommen, die sie bestellt hatte.",
+     "answer": "F"
+    },
+    {
+     "no": "17",
+     "text": "Das Möbelhaus übernimmt die Kosten für den Aufbau.",
+     "answer": "R"
+    },
+    {
+     "no": "18",
+     "text": "Frau Lehmann ärgert sich vor allem darüber, dass sie nicht richtig kochen kann.",
+     "answer": "F"
+    },
+    {
+     "no": "19",
+     "text": "Herr Çelik hat sich den Tischlerkurs selbst ausgesucht.",
+     "answer": "F"
+    },
+    {
+     "no": "20",
+     "text": "Herr Çelik verbringt viel Zeit mit seinem neuen Hobby.",
+     "answer": "R"
+    },
+    {
+     "no": "21",
+     "text": "Herr Çelik möchte auch für Nachbarn Möbel bauen.",
+     "answer": "R"
+    },
+    {
+     "no": "22",
+     "text": "Herr Çelik möchte mit seinen Möbeln Geld verdienen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören nun eine Diskussion. Sie hören die Diskussion zweimal. Dazu lösen Sie acht Aufgaben. Ordnen Sie die Aussagen zu: Wer sagt was?",
+   "readNote": "Lesen Sie jetzt die Aussagen 23 bis 30. Dazu haben Sie 60 Sekunden Zeit.",
+   "context": "Die Moderatorin der Radiosendung „Standpunkte“ diskutiert mit der Schlafforscherin Katrin Böhm und dem Landwirt Georg Steiner über die Frage: „Brauchen wir die Zeitumstellung noch?“",
+   "speakers": {
+    "a": "Moderatorin",
+    "b": "Katrin Böhm",
+    "c": "Georg Steiner"
+   },
+   "example": {
+    "no": "0",
+    "text": "Zweimal im Jahr werden die Uhren umgestellt.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "23",
+     "text": "Viele Menschen haben nach der Umstellung Probleme mit dem Schlaf.",
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "text": "Mit der Sommerzeit wollte man ursprünglich Energie sparen.",
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "text": "Für die Tiere auf dem Hof spielt die Uhrzeit keine Rolle.",
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "text": "Mit der Zeitumstellung spart man kaum Energie.",
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "text": "Lange helle Abende im Sommer sind ein großer Gewinn.",
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "text": "Das Europaparlament war bereits für eine Abschaffung.",
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "text": "Man sollte für immer bei der Winterzeit bleiben.",
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "text": "Bei dauerhafter Sommerzeit wäre es im Winter morgens lange dunkel.",
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben besteht aus drei Teilen. In den Aufgaben 1 und 3 schreiben Sie E-Mails, in Aufgabe 2 schreiben Sie einen Diskussionsbeitrag. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf den Antwortbogen.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 20,
+    "words": 80,
+    "situation": [
+     "Sie waren am Wochenende auf einem Musikfestival. Ein Freund/Eine Freundin von Ihnen konnte leider nicht mitkommen."
+    ],
+    "points": [
+     "Beschreiben Sie: Wie war das Festival?",
+     "Begründen Sie: Warum möchten Sie nächstes Jahr wieder hinfahren?",
+     "Machen Sie einen Vorschlag für einen gemeinsamen Konzertbesuch."
+    ],
+    "post": null,
+    "instruction": "Schreiben Sie eine E-Mail (circa 80 Wörter). Schreiben Sie etwas zu allen drei Punkten. Achten Sie auf den Textaufbau (Anrede, Einleitung, Reihenfolge der Inhaltspunkte, Schluss).",
+    "model": {
+     "label": "E-Mail an eine Freundin, ca. 90 Wörter",
+     "text": "Betreff: Festival-Wochenende\n\nLiebe Ines,\n\nam Wochenende war ich auf dem Seefestival in Konstanz. Drei Tage lang gab es Musik auf zwei Bühnen direkt am Wasser, und wir haben im Zelt geschlafen. Am Samstag hat es zwar geregnet, aber die Stimmung war trotzdem super.\n\nNächstes Jahr möchte ich unbedingt wieder hinfahren, weil man dort so viele neue Bands entdeckt und sehr nette Leute kennenlernt.\n\nIm November spielt eine meiner neuen Lieblingsbands in Stuttgart. Sollen wir zusammen hingehen? Ich besorge die Karten.\n\nViele Grüße\nAna"
+    },
+    "typicalErrors": "Nur das Festival wird beschrieben, die Begründung fehlt · Vorschlag ohne Zeitpunkt · Sie statt du."
+   },
+   {
+    "no": 2,
+    "minutes": 25,
+    "words": 80,
+    "situation": [
+     "Sie haben im Fernsehen eine Sendung zum Thema „Lebensmittel wegwerfen – muss das sein?“ gesehen. Im Online-Gästebuch der Sendung finden Sie folgende Meinung:"
+    ],
+    "points": [],
+    "post": {
+     "site": "www.tv-verbraucher.de",
+     "label": "Gästebuch",
+     "author": "Gisela · 21.09. 20:41 Uhr",
+     "text": "Ich kaufe für meine Familie jede Woche viel zu viel ein, weil ich Angst habe, dass etwas fehlt. Am Ende werfe ich Brot, Joghurt und Gemüse weg, und das tut mir jedes Mal leid. Meine Nachbarin plant jede Mahlzeit vorher, aber dafür habe ich neben der Arbeit keine Zeit."
+    },
+    "instruction": "Schreiben Sie nun Ihre Meinung zum Thema (circa 80 Wörter).",
+    "model": {
+     "label": "Diskussionsbeitrag, ca. 95 Wörter",
+     "text": "Gisela spricht ein Problem an, das viele Familien kennen. Ich glaube aber, man muss nicht jede Mahlzeit genau planen, um weniger wegzuwerfen. Es hilft schon, vor dem Einkaufen kurz in den Kühlschrank zu schauen und eine Liste zu schreiben.\n\nAußerdem kann man Reste am nächsten Tag essen oder einfrieren. Brot vom Vortag schmeckt geröstet noch sehr gut. In meinem Heimatland wirft man fast nie Essen weg, weil viele Menschen wenig Geld haben.\n\nIch finde, wir sollten Lebensmittel mehr schätzen – das spart am Ende auch Geld."
+    },
+    "typicalErrors": "Giselas Beitrag nur zusammenfassen · keine eigenen Vorschläge oder Beispiele · deutlich unter 80 Wörtern."
+   },
+   {
+    "no": 3,
+    "minutes": 15,
+    "words": 40,
+    "situation": [
+     "Sie feiern am Samstagabend Ihren Geburtstag in Ihrer Wohnung. Es könnte etwas laut werden."
+    ],
+    "points": [],
+    "post": null,
+    "instruction": "Schreiben Sie an Ihre Nachbarin, Frau Winter. Entschuldigen Sie sich im Voraus, informieren Sie sie über die Feier und laden Sie sie ein. Schreiben Sie eine E-Mail (circa 40 Wörter). Vergessen Sie nicht die Anrede und den Gruß am Schluss.",
+    "model": {
+     "label": "E-Mail an die Nachbarin, ca. 45 Wörter",
+     "text": "Sehr geehrte Frau Winter,\n\nam Samstagabend feiere ich meinen Geburtstag in meiner Wohnung. Es kann etwas lauter werden, und dafür möchte ich mich schon jetzt entschuldigen. Ab 23 Uhr machen wir die Musik leiser. Wenn Sie Lust haben, kommen Sie doch gern vorbei!\n\nMit freundlichen Grüßen\nDaniel Moreno"
+    },
+    "typicalErrors": "Keine Einladung · Hallo Frau Winter oder Liebe Grüße · keine Entschuldigung."
+   }
+  ]
+ },
+ "notes": "Alle Lösungen aus dem Lösungsschlüssel (S. 17) und mit dem Kommentar (S. 20–21) abgeglichen. Beispiele: Lesen 1 R, Lesen 2 b, Lesen 3 b, Lesen 4 Karin N (Kästchen markiert) und Hören 4 a laut markierter Box bzw. Hörtext. Hören 1 Beispiel 01 R und 02 a aus dem Hörtext (Anzug ab 15 Uhr, Abholschein mitbringen); Kästchen auf der Aufgabenseite nicht geprüft. Lesen 5 hat kein Beispiel. Anzeigen: Rautenzeichen in a, REC-Punkt in e und Dekor in den übrigen Anzeigen weggelassen; „— PARTYSERVICE —“ in c als PARTYSERVICE; Preisliste in j als facts mit „Posten · Preis“."
+}
