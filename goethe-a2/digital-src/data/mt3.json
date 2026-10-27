@@ -1,0 +1,689 @@
+{
+ "id": 3,
+ "roman": "III",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Schwimmen lernen mit 63",
+   "lead": "Jeden Montagabend gehört das Hallenbad in Hagenow den Anfängern. Die meisten von ihnen sind über 50.",
+   "paragraphs": [
+    "Gerd Paulsen steht am Beckenrand und zögert. Dann geht er langsam die Treppe hinunter ins Wasser. Der 63-Jährige hatte sein ganzes Leben lang Angst vor dem Wasser. „Als Kind bin ich einmal fast ertrunken. Danach wollte ich nie wieder ins Wasser“, erzählt er. Jetzt lernt er schwimmen – gemeinsam mit elf anderen Erwachsenen.",
+    "Der Kurs war die Idee von Ayşe Kaya. Die 34-Jährige arbeitet als Bademeisterin im Hallenbad. Immer wieder hat sie gesehen, dass Erwachsene am Beckenrand sitzen und nur ihren Enkeln zuschauen. „Viele schämen sich. Deshalb gibt es bei uns keine Kinder und keine Zuschauer“, sagt sie. In zehn Kursstunden lernen die Teilnehmer, sich im Wasser sicher zu bewegen. Richtig schwimmen können danach aber noch nicht alle.",
+    "Gerd Paulsen hat sich angemeldet, weil seine Enkelin im Sommer mit ihm an den See fahren möchte. „Ich will nicht wieder nur am Ufer sitzen.“ Nach der vierten Stunde schwimmt er schon fünf Meter ohne Hilfe. Der nächste Kurs beginnt im Oktober. Es gibt schon eine Warteliste."
+   ],
+   "quote": "„Viele schämen sich. Deshalb gibt es bei uns keine Kinder und keine Zuschauer.“",
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Schwimmen lernen mit 63“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Gerd Paulsen …",
+    "options": {
+     "a": "ist Bademeister im Hallenbad.",
+     "b": "lernt als Erwachsener schwimmen.",
+     "c": "geht mit seinen Enkeln ins Hallenbad."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Gerd Paulsen hatte Angst vor dem Wasser, weil …",
+     "options": {
+      "a": "er nie Zeit für einen Kurs hatte.",
+      "b": "er lange nicht im Wasser war.",
+      "c": "ihm als Kind etwas Schlimmes passiert ist."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "stem": "Im Kurs …",
+     "options": {
+      "a": "dürfen keine Kinder mitmachen.",
+      "b": "schauen die Enkel zu.",
+      "c": "sind alle Teilnehmer über 50."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "3",
+     "stem": "Nach dem Kurs …",
+     "options": {
+      "a": "können alle Teilnehmer schwimmen.",
+      "b": "machen die Teilnehmer eine Prüfung.",
+      "c": "fühlen sich die Teilnehmer im Wasser sicherer."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "stem": "Gerd Paulsen macht den Kurs, …",
+     "options": {
+      "a": "weil seine Enkelin auch schwimmen lernt.",
+      "b": "weil er im Sommer mit seiner Enkelin baden will.",
+      "c": "weil er im Sommer am See arbeitet."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Der nächste Kurs …",
+     "options": {
+      "a": "beginnt im Sommer.",
+      "b": "ist schon ausgebucht.",
+      "c": "hat noch freie Plätze."
+     },
+     "answer": "b"
+    }
+   ],
+   "image": "img/mt3-lesen-foto.jpg",
+   "imageAlt": "Ein älterer Mann sitzt im Schwimmbecken. Eine Schwimmlehrerin in roter Kleidung hockt am Beckenrand und erklärt ihm etwas."
+  },
+  "t2": {
+   "instruction": "Sie sind am Flughafen. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. Auf welche Ebene gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Flughafen Nordstadt · Terminal 1",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "Ebene 3",
+      "text": "Besucherterrasse (Blick auf die Startbahn) · Restaurant „Wolke 7“ · Konferenzräume · Kapelle"
+     },
+     {
+      "floor": "Ebene 2",
+      "text": "Abflug · Check-in-Schalter 1–60 · Sicherheitskontrolle · Geschäfte (Mode, Bücher, Elektronik) · Drogerie · Ruhezone mit Liegen · Kinderwagenverleih"
+     },
+     {
+      "floor": "Ebene 1",
+      "text": "Ankunft · Gepäckausgabe · Gepäckermittlung (vermisste Koffer) · Zoll · Information · Mietwagen · Wechselstube · Spielecke für Kinder · Café"
+     },
+     {
+      "floor": "Ebene 0",
+      "text": "Bahnhof (S-Bahn S1 und S8, Regionalzüge) · Fahrkartenautomaten · Bushaltestellen · Taxistand · Apotheke · Bäckerei (ab 5 Uhr) · Blumenladen"
+     },
+     {
+      "floor": "Ebene –1",
+      "text": "Parkhaus P1 (Kurzzeitparken) · Gepäckaufbewahrung (Schließfächer, bis 72 Stunden) · Fundbüro · Toiletten · Duschen · Fahrradparkplatz"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie möchten mit der S-Bahn in die Stadt fahren und brauchen eine Fahrkarte.",
+    "options": {
+     "a": "Ebene 0",
+     "b": "Ebene 1",
+     "c": "andere Ebene"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie sind gerade gelandet, aber Ihr Koffer ist nicht da.",
+     "options": {
+      "a": "Ebene –1",
+      "b": "Ebene 1",
+      "c": "andere Ebene"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Sie haben vier Stunden Zeit bis zum nächsten Flug. Sie sind müde und möchten ein bisschen schlafen.",
+     "options": {
+      "a": "Ebene 1",
+      "b": "Ebene 3",
+      "c": "andere Ebene"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Sie haben noch Zeit und möchten den Flugzeugen beim Start zusehen.",
+     "options": {
+      "a": "Ebene 3",
+      "b": "Ebene 2",
+      "c": "andere Ebene"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Sie fliegen nach London und müssen noch Euro in Pfund tauschen.",
+     "options": {
+      "a": "Ebene 1",
+      "b": "Ebene 0",
+      "c": "andere Ebene"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "Sie haben sechs Stunden Aufenthalt und möchten ohne Ihren Koffer in die Stadt fahren.",
+     "options": {
+      "a": "Ebene 1",
+      "b": "Ebene –1",
+      "c": "andere Ebene"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Clara Hoffmann",
+    "to": "Rosa Hoffmann",
+    "subject": "Grüße aus Leipzig!",
+    "greeting": "Liebe Tante Rosa,",
+    "closing": [
+     "Ganz liebe Grüße, auch an Onkel Peter",
+     "Clara"
+    ],
+    "paragraphs": [
+     "jetzt bin ich schon sechs Wochen in Leipzig, und endlich habe ich Zeit, dir zu schreiben. Das Studium hat gut angefangen, aber die ersten Tage waren nicht leicht. Alles war neu: die Stadt, die Uni, die Leute. Ich kannte niemanden, und abends habe ich oft mit Mama telefoniert. Das ist jetzt zum Glück vorbei.",
+     "Ich wohne in einer WG mit zwei anderen Studierenden: Mert studiert Informatik, Sofia kommt aus Portugal und lernt noch Deutsch. Mein Zimmer ist klein, hat aber einen Balkon. Die Wohnung liegt im vierten Stock ohne Aufzug – so bleibe ich wenigstens fit. Die Küche teilen wir uns, und jeden Sonntag kocht einer von uns für alle. Letzte Woche war ich dran – es gab deine Kartoffelsuppe, und alle wollten das Rezept!",
+     "An der Uni gefällt es mir sehr gut. Die Vorlesungen sind interessant, nur die Bibliothek ist immer voll. Deshalb lerne ich meistens zu Hause. Zweimal in der Woche singe ich im Uni-Chor. Dort habe ich die meisten meiner Freunde kennengelernt. Nächsten Monat haben wir unser erstes Konzert.",
+     "Das Geld ist leider knapp. Seit Oktober arbeite ich deshalb an zwei Abenden in der Woche im Kino an der Kasse. Die Arbeit ist nicht schwer, und ich kann alle Filme kostenlos sehen. Nur den Heimweg um Mitternacht mag ich nicht so gern – mit dem Fahrrad bin ich zwanzig Minuten durch die dunkle Stadt unterwegs.",
+     "Kommst du mich im Dezember besuchen? Der Weihnachtsmarkt hier soll wunderschön sein. Du kannst in meinem Zimmer schlafen, ich nehme das Sofa im Wohnzimmer. Sag mir einfach, welches Wochenende dir passt."
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Claras E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Clara …",
+    "options": {
+     "a": "wohnt seit sechs Wochen in Leipzig.",
+     "b": "hat ihr Studium schon beendet.",
+     "c": "besucht ihre Tante in Leipzig."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Am Anfang …",
+     "options": {
+      "a": "hat Clara sich einsam gefühlt.",
+      "b": "hat Claras Mutter in Leipzig gewohnt.",
+      "c": "hatte Clara Probleme mit dem Studium."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "In der WG …",
+     "options": {
+      "a": "hat jedes Zimmer einen Balkon.",
+      "b": "kochen die Mitbewohner abwechselnd für alle.",
+      "c": "isst jeder für sich allein."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Clara lernt meistens zu Hause, weil …",
+     "options": {
+      "a": "die Vorlesungen langweilig sind.",
+      "b": "sie gern mit Mert und Sofia zusammen lernt.",
+      "c": "es in der Bibliothek zu wenig Platz gibt."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Die Arbeit im Kino …",
+     "options": {
+      "a": "findet jeden Abend statt.",
+      "b": "ist sehr anstrengend.",
+      "c": "hat auch einen Vorteil."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Tante Rosa soll …",
+     "options": {
+      "a": "im Wohnzimmer auf dem Sofa schlafen.",
+      "b": "Clara sagen, wann sie Zeit hat.",
+      "c": "ein Zimmer im Hotel nehmen."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen im Internet nach einem Job. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Lea studiert und hat nur morgens vor der Uni Zeit.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Herr Krause ist Rentner und war früher Mathematiklehrer. Er möchte wieder etwas mit jungen Leuten machen.",
+     "answer": "b"
+    },
+    {
+     "no": "17",
+     "text": "Sabine kann von Montag bis Donnerstag abends arbeiten. Sie hat einen Führerschein und ein eigenes Auto.",
+     "answer": "f"
+    },
+    {
+     "no": "18",
+     "text": "Tarik ist 17 und möchte in den Sommerferien an der frischen Luft arbeiten und Geld verdienen.",
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "text": "Frau Yilmaz liebt Kinder. Sie hat am Wochenende Zeit, aber abends möchte sie nicht arbeiten.",
+     "answer": "e"
+    },
+    {
+     "no": "20",
+     "text": "Jonas ist 15 und sucht einen Job für den Samstagvormittag.",
+     "answer": "X"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt3-anzeige-a.png",
+     "alt": "Tageszeitung Nordkurier STELLENMARKT Zusteller/in gesucht Sie bringen unsere Zeitung zu den Leserinnen und Lesern im Stadtteil Westend – Montag bis Samstag von 5 bis 7 Uhr. Eigenes Fahrrad nötig, ab 18 Jahren. 14 Euro pro Stunde. Bewerbung: zustellung@nordkurier.de"
+    },
+    "b": {
+     "img": "img/mt3-anzeige-b.png",
+     "alt": "Können Sie Mathe erklären? Lernstudio Plus Wir suchen Nachhilfelehrer/innen für Mathematik, Klasse 5 bis 10. Unterricht montags bis freitags von 15 bis 18 Uhr in kleinen Gruppen. Erfahrung mit Jugendlichen erwünscht – auch Rentnerinnen und Rentner sind willkommen! Tel. 0451 / 88 20 15"
+    },
+    "c": {
+     "img": "img/mt3-anzeige-c.png",
+     "alt": "OBSTHOF LINDNER Erdbeeren pflücken Wir suchen Erntehelfer/innen für Juni und Juli, täglich von 6 bis 13 Uhr. Arbeit im Freien, ab 16 Jahren. Kostenloser Bus vom Bahnhof. Bezahlung pro Kiste, am Ende der Woche in bar. Einfach vorbeikommen: Lindenweg 3, Grünfeld"
+    },
+    "d": {
+     "img": "img/mt3-anzeige-d.png",
+     "alt": "FAMILIE BRANDT SUCHT Babysitter/in für Zwillinge (3 Jahre) Freitag- und Samstagabend von 19 bis 24 Uhr. Erfahrung mit kleinen Kindern nötig, Nichtraucher/in. 15 Euro pro Stunde, die Fahrt nach Hause bezahlen wir. Bitte nur per SMS: 0170 / 44 12 390"
+    },
+    "e": {
+     "img": "img/mt3-anzeige-e.png",
+     "alt": "MÖBELHAUS WOHNWELT MINIJOB Spielen ist Ihr Job! Für unsere Kinderspielecke suchen wir eine Betreuerin oder einen Betreuer, samstags von 10 bis 18 Uhr. Sie spielen und basteln mit Kindern von 3 bis 8 Jahren und lesen ihnen vor. Mindestalter 18 Jahre. Bewerbung online: wohnwelt.de/jobs"
+    },
+    "f": {
+     "img": "img/mt3-anzeige-f.png",
+     "alt": "Pizzeria Napoli Fahrer/in gesucht Sie bringen unsere Pizzen zu den Kunden – Montag bis Donnerstag von 18 bis 22 Uhr. Führerschein und eigenes Auto oder Roller nötig. Das Trinkgeld gehört Ihnen! Fragen Sie nach Marco: 0451 / 70 31 88"
+    }
+   },
+   "unused": [
+    "d"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Wo beginnt die Führung heute?",
+     "options": {
+      "a": "Im Museumscafé.",
+      "b": "Am Eingang.",
+      "c": "Im zweiten Stock."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Wann hat Frau Jansen ihre nächste Fahrstunde?",
+     "options": {
+      "a": "Am Mittwoch um 17 Uhr.",
+      "b": "Am Mittwoch um 18 Uhr.",
+      "c": "Am Freitag um 17 Uhr."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Wo findet das Konzert bei Regen statt?",
+     "options": {
+      "a": "Im Stadtpark.",
+      "b": "In der Stadthalle.",
+      "c": "In der Kirche."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "stem": "Was soll Herr Beck tun?",
+     "options": {
+      "a": "Bei der Nachbarin laut klopfen.",
+      "b": "Das Paket bei der Post abholen.",
+      "c": "Die Nachbarin morgen anrufen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "In welchem Saal läuft der Film „Sommerregen“?",
+     "options": {
+      "a": "In Saal 1.",
+      "b": "In Saal 3.",
+      "c": "In Saal 5."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Welches Instrument spielen die Kinder? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Emma",
+     "answer": "a"
+    },
+    {
+     "no": "6",
+     "name": "Leon",
+     "answer": "d"
+    },
+    {
+     "no": "7",
+     "name": "Zoe",
+     "answer": "b"
+    },
+    {
+     "no": "8",
+     "name": "Ali",
+     "answer": "h"
+    },
+    {
+     "no": "9",
+     "name": "Nele",
+     "answer": "e"
+    },
+    {
+     "no": "10",
+     "name": "Noah",
+     "answer": "i"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt3-hoeren2-a.png",
+     "alt": "Klavier"
+    },
+    "b": {
+     "img": "img/mt3-hoeren2-b.png",
+     "alt": "Geige"
+    },
+    "c": {
+     "img": "img/mt3-hoeren2-c.png",
+     "alt": "Trompete"
+    },
+    "d": {
+     "img": "img/mt3-hoeren2-d.png",
+     "alt": "Schlagzeug"
+    },
+    "e": {
+     "img": "img/mt3-hoeren2-e.png",
+     "alt": "Querflöte"
+    },
+    "f": {
+     "img": "img/mt3-hoeren2-f.png",
+     "alt": "Gitarre"
+    },
+    "g": {
+     "img": "img/mt3-hoeren2-g.png",
+     "alt": "Cello"
+    },
+    "h": {
+     "img": "img/mt3-hoeren2-h.png",
+     "alt": "Saxofon"
+    },
+    "i": {
+     "img": "img/mt3-hoeren2-i.png",
+     "alt": "Akkordeon"
+    }
+   },
+   "unused": [
+    "c",
+    "f",
+    "g"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Was isst der Mann zu Mittag?",
+     "options": {
+      "a": {
+       "img": "img/mt3-hoeren3-11a.png",
+       "alt": "Suppe"
+      },
+      "b": {
+       "img": "img/mt3-hoeren3-11b.png",
+       "alt": "Pizza"
+      },
+      "c": {
+       "img": "img/mt3-hoeren3-11c.png",
+       "alt": "Salat"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Was nimmt die Frau mit?",
+     "options": {
+      "a": {
+       "img": "img/mt3-hoeren3-12a.png",
+       "alt": "Regenschirm"
+      },
+      "b": {
+       "img": "img/mt3-hoeren3-12b.png",
+       "alt": "Schal"
+      },
+      "c": {
+       "img": "img/mt3-hoeren3-12c.png",
+       "alt": "Sonnenbrille"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Was kaufen die beiden?",
+     "options": {
+      "a": {
+       "img": "img/mt3-hoeren3-13a.png",
+       "alt": "Regal"
+      },
+      "b": {
+       "img": "img/mt3-hoeren3-13b.png",
+       "alt": "Sofa"
+      },
+      "c": {
+       "img": "img/mt3-hoeren3-13c.png",
+       "alt": "Schreibtisch"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Wie viel bezahlt der Mann für den Helm?",
+     "options": {
+      "a": {
+       "img": "img/mt3-hoeren3-14a.png",
+       "alt": "Fahrradhelm für 25 Euro"
+      },
+      "b": {
+       "img": "img/mt3-hoeren3-14b.png",
+       "alt": "Fahrradhelm für 40 Euro"
+      },
+      "c": {
+       "img": "img/mt3-hoeren3-14c.png",
+       "alt": "Fahrradhelm für 60 Euro"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "An welchem Tag treffen sich die beiden?",
+     "options": {
+      "a": {
+       "img": "img/mt3-hoeren3-15a.png",
+       "alt": "Montag, der 4."
+      },
+      "b": {
+       "img": "img/mt3-hoeren3-15b.png",
+       "alt": "Mittwoch, der 6."
+      },
+      "c": {
+       "img": "img/mt3-hoeren3-15c.png",
+       "alt": "Freitag, der 8."
+      }
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Stadtgeschichten“ spricht ein Moderator mit Hanna Vogel. Sie ist Buchhalterin und hat ein ungewöhnliches Hobby: Sie hält Bienen mitten in der Stadt.",
+   "example": {
+    "no": "0",
+    "text": "Hanna Vogel hat ihre Bienen in der Stadt.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Hanna hat alles über Bienen von ihrem Großvater gelernt.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Die Bienen stehen auf dem Dach von Hannas Wohnhaus.",
+     "answer": "Nein"
+    },
+    {
+     "no": "18",
+     "text": "Die Bienen stechen Hanna nur selten.",
+     "answer": "Ja"
+    },
+    {
+     "no": "19",
+     "text": "Hanna verkauft ihren Honig auf dem Wochenmarkt.",
+     "answer": "Nein"
+    },
+    {
+     "no": "20",
+     "text": "Im Winter hat Hanna wenig Arbeit mit den Bienen.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie wollten heute Abend mit Ihrer Freundin Nele ins Kino gehen. Jetzt sind Sie krank. Schreiben Sie Nele eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie nicht kommen können.",
+     "Schreiben Sie, was Nele mit Ihrer Karte machen soll.",
+     "Schlagen Sie einen anderen Tag für ein Treffen vor."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 27 Wörter",
+     "text": "Hallo Nele,\n\nich habe Fieber und muss im Bett bleiben.\nGib meine Karte einfach deiner Schwester.\nWollen wir uns am Sonntag zum Kaffee treffen?\n\nLiebe Grüße, Lara"
+    },
+    "typicalErrors": "Nur *Ich bin krank, sorry* – ohne Hinweis zur Karte und ohne neuen Termin fehlen zwei Punkte."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Sie arbeiten in einem Büro. Am nächsten Freitag haben Sie einen wichtigen Termin und können nicht zur Arbeit kommen. Schreiben Sie Ihrer Chefin, Frau Steinmann, eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie am Freitag nicht kommen können.",
+     "Fragen Sie, ob Sie an diesem Tag freinehmen können.",
+     "Machen Sie einen Vorschlag, wann Sie die Arbeit nachholen."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an die Chefin, 39 Wörter",
+     "text": "Betreff: Freier Tag am Freitag\n\nSehr geehrte Frau Steinmann,\n\nam Freitag um 10 Uhr habe ich einen wichtigen Termin in der Schule meiner Tochter.\nKönnte ich an diesem Tag bitte freinehmen?\nDie Arbeit hole ich gern am Samstagvormittag nach.\n\nMit freundlichen Grüßen\nLara Weiss"
+    },
+    "typicalErrors": "*Hallo Chefin, ich komme Freitag nicht* – falsches Register, keine Frage, kein Vorschlag zum Nachholen."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Fieber, Sonntag, Freitag 10 Uhr, Samstagvormittag)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Frau Steinmann* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Fieber, freinehmen, nachholen, Termin* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Modalverben (*muss*, *könnte*), Imperativ (*Gib … einfach*), Ja/Nein-Frage mit Verb an Position 1 (*Wollen wir uns … treffen?*), Zeitangaben mit *am* und *um*."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Instrumente der Kinder",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Hanna Vogel und ihre Bienen"
+  },
+  "schreiben": [
+   "SMS an Nele: krank",
+   "E-Mail an die Chefin: freier Tag am Freitag"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Wohnort",
+    "Frühstück",
+    "Einkaufen",
+    "Internet",
+    "Kleidung",
+    "Freunde",
+    "Feiertage",
+    "Kino"
+   ],
+   "teil2": [
+    "Wie sieht ein normaler Tag bei Ihnen aus?",
+    "Wie haben Sie Deutsch gelernt?"
+   ],
+   "teil3": "Den Kursraum schmücken (Freitag, zwei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 3 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+}

@@ -1,0 +1,695 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Die Bücher kommen zu den Leuten",
+   "lead": "Marion Kessler fährt mit einem Bücherbus über die Dörfer – und ist für viele Menschen mehr als eine Bibliothekarin.",
+   "paragraphs": [
+    "Dienstags um halb neun steht Marion Kessler mit ihrem gelben Bus vor der Grundschule in Lindhorst. Im Bus gibt es fast 4000 Bücher, aber auch Hörbücher, Spiele und Filme. „Viele Dörfer hier haben keine eigene Bibliothek mehr. Deshalb kommen wir zu ihnen“, erzählt sie.",
+    "Eigentlich wollte Kessler Lehrerin werden. Nach zwei Semestern hat sie das Studium aber abgebrochen und eine Ausbildung in einer Stadtbibliothek gemacht. Für den Bus musste sie mit 41 Jahren erst einen Lkw-Führerschein machen. „Das war schwerer als jede Prüfung an der Uni“, sagt sie und lacht.",
+    "Das Ausleihen kostet nichts, nur für Filme bezahlt man einen Euro. Besonders die älteren Leute kommen nicht nur wegen der Bücher. „Manche erzählen mir von ihren Enkeln oder von ihrem Garten. Für sie bin ich oft der einzige Besuch in der Woche.“",
+    "Im nächsten Jahr bekommt die Bibliothek einen neuen Bus. Er ist kleiner als der alte, fährt elektrisch und hat Platz für Rollstühle."
+   ],
+   "quote": "„Für viele bin ich oft der einzige Besuch in der Woche.“",
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Die Bücher kommen zu den Leuten“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Marion Kessler …",
+    "options": {
+     "a": "arbeitet als Lehrerin an einer Grundschule.",
+     "b": "bringt Bücher in Orte ohne Bibliothek.",
+     "c": "hat in Lindhorst eine Bibliothek eröffnet."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Im Bücherbus kann man …",
+     "options": {
+      "a": "nur Bücher für Kinder finden.",
+      "b": "mehr als nur Bücher ausleihen.",
+      "c": "alles kostenlos mitnehmen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Marion Kessler …",
+     "options": {
+      "a": "hat ihr Studium nicht zu Ende gemacht.",
+      "b": "hat einige Jahre als Lehrerin gearbeitet.",
+      "c": "hat erst nach ihrer Ausbildung studiert."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "3",
+     "stem": "Für die Arbeit im Bücherbus …",
+     "options": {
+      "a": "musste sie noch etwas Neues lernen.",
+      "b": "braucht man keinen besonderen Führerschein.",
+      "c": "hat sie an der Universität eine Prüfung gemacht."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Viele ältere Menschen …",
+     "options": {
+      "a": "leihen vor allem Filme aus.",
+      "b": "freuen sich, dass sie mit jemandem sprechen können.",
+      "c": "suchen im Bus Bücher für ihre Enkel."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Der neue Bus …",
+     "options": {
+      "a": "hat mehr Platz für Bücher.",
+      "b": "fährt schon in diesem Jahr.",
+      "c": "ist auch für Menschen geeignet, die nicht gehen können."
+     },
+     "answer": "c"
+    }
+   ],
+   "image": "img/mt1-lesen-foto.jpg",
+   "imageAlt": "Eine Frau steht an der Tür eines gelben Bücherbusses. Davor warten drei Kinder mit Schulrucksäcken."
+  },
+  "t2": {
+   "instruction": "Sie sind in einem Gesundheitszentrum. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Gesundheitszentrum am Lindenplatz",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "4. Stock",
+      "text": "Dr. med. Petra Lang – Kinder- und Jugendärztin · Hebammenpraxis Storchennest · Logopädie (Sprachtherapie für Kinder und Erwachsene) · Ernährungsberatung (nur nach Terminvereinbarung) · Kursraum (Yoga, Rückenschule, Babymassage)"
+     },
+     {
+      "floor": "3. Stock",
+      "text": "Dr. med. Ahmet Yıldız – Zahnarzt (Notdienst am Wochenende) · Kieferorthopädie (Zahnspangen für Kinder und Erwachsene) · Zahnlabor · Hörgeräte Klangwerk (Hörtest, Reparatur)"
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Dr. med. Sven Bauer – Augenarzt · Optik Weitblick (Brillen, Kontaktlinsen, kostenloser Sehtest) · Dr. med. Hanna Roth – Hautärztin (auch Allergietests)"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Gemeinschaftspraxis Dr. Klein und Dr. Wolf – Allgemeinmedizin, Hausbesuche, Impfungen · Labor (Blutabnahme Mo–Fr 7–9 Uhr) · Physiotherapie Aktiv (Massage, Krankengymnastik)"
+     },
+     {
+      "floor": "EG",
+      "text": "Information · Apotheke am Lindenplatz (Mo–Sa 8–20 Uhr) · Sanitätshaus (Rollstühle, Gehhilfen, Bandagen) · Café „Pause“ · Abstellplatz für Kinderwagen"
+     },
+     {
+      "floor": "UG",
+      "text": "Tiefgarage (erste Stunde kostenlos) · Fahrradkeller · Fundbüro · Toiletten · Schließfächer"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Ihr Sohn ist sechs Jahre alt und hat seit gestern Fieber.",
+    "options": {
+     "a": "4. Stock",
+     "b": "1. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie brauchen eine neue Brille. Sie wissen aber nicht, ob Ihre Augen schlechter geworden sind.",
+     "options": {
+      "a": "3. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Ihre Großmutter versteht am Telefon fast nichts mehr, weil sie schlecht hört.",
+     "options": {
+      "a": "3. Stock",
+      "b": "4. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Ihr Arzt sagt, Sie sollen weniger Zucker essen. Sie möchten lernen, wie Sie gesünder kochen können.",
+     "options": {
+      "a": "EG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Sie haben sich beim Joggen am Fuß verletzt und brauchen für ein paar Wochen Krücken.",
+     "options": {
+      "a": "1. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Sie haben gestern im Wartezimmer Ihren Schal liegen lassen.",
+     "options": {
+      "a": "UG",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Jana Wolff",
+    "to": "Annika Brandt",
+    "subject": "Neuigkeiten von mir … und von Bruno!",
+    "greeting": "Liebe Annika,",
+    "closing": [
+     "Viele Grüße",
+     "Jana"
+    ],
+    "paragraphs": [
+     "endlich habe ich Zeit, dir zu schreiben! Seit drei Wochen wohne ich nicht mehr allein: Ich habe einen Hund aus dem Tierheim geholt. Er heißt Bruno, ist vier Jahre alt und ziemlich groß. Im Tierheim hat er fast ein Jahr auf eine Familie gewartet. Eigentlich wollte ich einen kleinen Hund, aber dann habe ich Bruno gesehen und mich sofort in ihn verliebt.",
+     "Die ersten Tage waren nicht leicht. Bruno hatte Angst vor dem Aufzug und vor lauten Autos. Deshalb sind wir am Anfang nur im Park hinter dem Haus spazieren gegangen. Inzwischen fährt er sogar mit mir Straßenbahn – natürlich mit Maulkorb, das ist hier Pflicht.",
+     "Mein Leben hat sich ganz schön verändert. Ich stehe jetzt jeden Morgen um sechs auf, auch am Wochenende. Früher bin ich nie vor neun aus dem Bett gekommen, das weißt du ja! Ins Büro darf ich Bruno leider nicht mitnehmen. Aber meine Nachbarin, Frau Petrović, ist schon in Rente und passt gern auf ihn auf. Dafür kaufe ich manchmal für sie ein, denn das Tragen fällt ihr schwer.",
+     "Und noch etwas: Durch Bruno habe ich viele Leute kennengelernt. Im Park sprechen mich ständig andere Hundebesitzer an. Mit zwei von ihnen gehe ich jetzt jeden Sonntag im Wald wandern. Danach trinken wir oft noch zusammen Kaffee – so etwas habe ich früher nie gemacht.",
+     "Hast du Lust, mich im Mai zu besuchen? Du hast ja keine Angst vor Hunden, oder? Bruno ist sehr lieb, aber er springt gern an Leuten hoch. Zieh also lieber keine helle Hose an. :-)",
+     "Ich freue mich auf deine Antwort!"
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zur E-Mail von Jana. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Jana schreibt, dass …",
+    "options": {
+     "a": "sie seit drei Wochen einen Hund hat.",
+     "b": "sie in eine neue Wohnung gezogen ist.",
+     "c": "sie jetzt in einem Tierheim arbeitet."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Bruno …",
+     "options": {
+      "a": "ist kleiner, als Jana gedacht hatte.",
+      "b": "ist nicht der Hund, den Jana zuerst wollte.",
+      "c": "ist noch sehr jung."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "In der ersten Zeit …",
+     "options": {
+      "a": "sind Jana und Bruno nicht weit weggegangen.",
+      "b": "ist Bruno gern mit der Straßenbahn gefahren.",
+      "c": "hatte Jana ein bisschen Angst vor Bruno."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Jana …",
+     "options": {
+      "a": "steht jetzt viel früher auf als vorher.",
+      "b": "schläft am Wochenende immer noch lange.",
+      "c": "nimmt Bruno jeden Tag mit ins Büro."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Frau Petrović …",
+     "options": {
+      "a": "geht jeden Sonntag mit Jana in den Wald.",
+      "b": "arbeitet im selben Büro wie Jana.",
+      "c": "bekommt auch Hilfe von Jana."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Annika soll bei ihrem Besuch …",
+     "options": {
+      "a": "ihren eigenen Hund mitbringen.",
+      "b": "keine Angst vor großen Hunden haben.",
+      "c": "überlegen, was sie anzieht."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen im Internet nach Kursen. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Tim möchte mit seinem Handy schönere Fotos machen.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Gabis Lieblingsjeans ist zu lang. Sie möchte die Hose selbst kürzer machen, hat aber zu Hause keine Nähmaschine.",
+     "answer": "d"
+    },
+    {
+     "no": "17",
+     "text": "Oliver arbeitet im Krankenhaus, oft auch nachts. Er möchte endlich ein Instrument spielen lernen.",
+     "answer": "e"
+    },
+    {
+     "no": "18",
+     "text": "Lina sucht ein Geburtstagsgeschenk für ihre zehnjährige Tochter. Das Mädchen steht gern in der Küche.",
+     "answer": "b"
+    },
+    {
+     "no": "19",
+     "text": "Kemal wird im Sommer Vater. Er möchte wissen, was er tun muss, wenn sich sein Kind verletzt.",
+     "answer": "f"
+    },
+    {
+     "no": "20",
+     "text": "Sandra möchte zusammen mit ihrer besten Freundin am Wochenende tanzen lernen.",
+     "answer": "X"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt1-anzeige-a.png",
+     "alt": "VHS Lindau-Mitte Programm Frühjahr Kurs-Nr. 214-F Fotografieren mit dem Smartphone Licht, Perspektive, Bildbearbeitung: Machen Sie mehr aus Ihren Handyfotos! Keine Vorkenntnisse nötig. Bitte bringen Sie Ihr eigenes Smartphone mit. Termin Sa., 7. März, 10–14 Uhr Gebühr 39 € Anmeldung www.vhs-lindau-mitte.de"
+    },
+    "b": {
+     "img": "img/mt1-anzeige-b.png",
+     "alt": "Löffel & Co. KOCHSCHULE Asiatisch kochen für Anfänger – jeden Mittwoch von 18 bis 21 Uhr. Neu: samstags Kochclub für Kinder von 8 bis 12 Jahren. Die Kinder kochen ein ganzes Menü und essen es dann zusammen. Geschenkgutscheine im Laden und online · loeffel-undco.de"
+    },
+    "c": {
+     "img": "img/mt1-anzeige-c.png",
+     "alt": "TANZSCHULE SCHWUNG Ihr erster Tanz als Ehepaar Crashkurs Hochzeitstanz – nur für Brautpaare. An drei Abenden lernen Sie einen einfachen Walzer. Bitte bequeme Schuhe mitbringen. dienstags 19–21 Uhr · 120 € pro Paar Telefon 0571 / 44 81 20"
+    },
+    "d": {
+     "img": "img/mt1-anzeige-d.png",
+     "alt": "HOSE ZU LANG? REISSVERSCHLUSS KAPUTT? In der Nähwerkstatt Faden & Nadel reparieren Sie Ihre Kleidung selbst – mit unserer Hilfe! Nähmaschinen stehen für Sie bereit. Mo–Fr 9–12 Uhr · 8 € pro Vormittag · mit Kinderecke"
+    },
+    "e": {
+     "img": "img/mt1-anzeige-e.png",
+     "alt": "www.saitenweise.de Gitarre lernen – wann Sie wollen. Einzelunterricht per Video: morgens, mittags oder spät in der Nacht. Ihre Termine buchen Sie selbst in unserer App. Keine lange Vertragsbindung. Probestunde buchen Die erste Stunde ist gratis!"
+    },
+    "f": {
+     "img": "img/mt1-anzeige-f.png",
+     "alt": "+ ERSTE HILFE AM KIND Fieber, Sturz, Verbrennung – was tun im Notfall? Kurs für Eltern, Großeltern und Babysitter. Samstag, 21. März, 9–16 Uhr, im Familienzentrum Nord. Mit Teilnahmebescheinigung. 35 € pro Person · www.familienzentrum-nord.de"
+    }
+   },
+   "unused": [
+    "c"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Von welchem Gleis fährt der Zug nach Hannover heute ab?",
+     "options": {
+      "a": "Von Gleis 4.",
+      "b": "Von Gleis 7.",
+      "c": "Von Gleis 12."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Wann kann Frau Schulz ihr Auto abholen?",
+     "options": {
+      "a": "Heute ab 16 Uhr.",
+      "b": "Morgen am Nachmittag.",
+      "c": "Am Freitag."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Was ist beim Stadtfest in diesem Jahr neu?",
+     "options": {
+      "a": "Man kann am Abend ein Feuerwerk sehen.",
+      "b": "Auf dem Marktplatz gibt es Musik.",
+      "c": "Kinder können bei einem Lauf mitmachen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "stem": "Was kann man heute im Zoo nicht machen?",
+     "options": {
+      "a": "Die Affen ansehen.",
+      "b": "Den Pinguinen beim Fressen zusehen.",
+      "c": "Am Nachmittag in den Streichelzoo gehen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "Was soll Lukas mitbringen?",
+     "options": {
+      "a": "Eine Schwimmweste.",
+      "b": "Etwas zu essen.",
+      "c": "Eine Kühltasche."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Was bringen die Nachbarn zum Hoffest mit? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Frau Berger",
+     "answer": "a"
+    },
+    {
+     "no": "6",
+     "name": "Jonas",
+     "answer": "d"
+    },
+    {
+     "no": "7",
+     "name": "Familie Öztürk",
+     "answer": "f"
+    },
+    {
+     "no": "8",
+     "name": "Herr Lindqvist",
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "name": "Paula",
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "name": "Frau Novak",
+     "answer": "i"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt1-hoeren2-a.png",
+     "alt": "Apfelkuchen"
+    },
+    "b": {
+     "img": "img/mt1-hoeren2-b.png",
+     "alt": "Grill mit Würstchen"
+    },
+    "c": {
+     "img": "img/mt1-hoeren2-c.png",
+     "alt": "Kartoffelsalat in einer Schüssel"
+    },
+    "d": {
+     "img": "img/mt1-hoeren2-d.png",
+     "alt": "Gitarre"
+    },
+    "e": {
+     "img": "img/mt1-hoeren2-e.png",
+     "alt": "Lampions"
+    },
+    "f": {
+     "img": "img/mt1-hoeren2-f.png",
+     "alt": "Getränkekiste mit Flaschen"
+    },
+    "g": {
+     "img": "img/mt1-hoeren2-g.png",
+     "alt": "Tisch und Bänke"
+    },
+    "h": {
+     "img": "img/mt1-hoeren2-h.png",
+     "alt": "Obstkorb"
+    },
+    "i": {
+     "img": "img/mt1-hoeren2-i.png",
+     "alt": "Fußball und Drachen"
+    }
+   },
+   "unused": [
+    "e",
+    "g",
+    "h"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Wie fährt die Frau in Zukunft meistens zur Arbeit?",
+     "options": {
+      "a": {
+       "img": "img/mt1-hoeren3-11a.png",
+       "alt": "Fahrrad"
+      },
+      "b": {
+       "img": "img/mt1-hoeren3-11b.png",
+       "alt": "Bus"
+      },
+      "c": {
+       "img": "img/mt1-hoeren3-11c.png",
+       "alt": "Auto"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Wo liegen die Schlüssel?",
+     "options": {
+      "a": {
+       "img": "img/mt1-hoeren3-12a.png",
+       "alt": "Jacke mit Schlüssel"
+      },
+      "b": {
+       "img": "img/mt1-hoeren3-12b.png",
+       "alt": "Auto mit Schlüssel"
+      },
+      "c": {
+       "img": "img/mt1-hoeren3-12c.png",
+       "alt": "Kaffeemaschine mit Schlüssel"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Wann hat Frau Krüger ihren Termin?",
+     "options": {
+      "a": {
+       "img": "img/mt1-hoeren3-13a.png",
+       "alt": "Uhr: Viertel nach neun"
+      },
+      "b": {
+       "img": "img/mt1-hoeren3-13b.png",
+       "alt": "Uhr: halb zehn"
+      },
+      "c": {
+       "img": "img/mt1-hoeren3-13c.png",
+       "alt": "Uhr: zehn Uhr"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Welche Pflanze kauft der Mann?",
+     "options": {
+      "a": {
+       "img": "img/mt1-hoeren3-14a.png",
+       "alt": "Kaktus"
+      },
+      "b": {
+       "img": "img/mt1-hoeren3-14b.png",
+       "alt": "Grünpflanze"
+      },
+      "c": {
+       "img": "img/mt1-hoeren3-14c.png",
+       "alt": "Orchidee"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Wo treffen sich die beiden morgen?",
+     "options": {
+      "a": {
+       "img": "img/mt1-hoeren3-15a.png",
+       "alt": "Brunnen"
+      },
+      "b": {
+       "img": "img/mt1-hoeren3-15b.png",
+       "alt": "Café"
+      },
+      "c": {
+       "img": "img/mt1-hoeren3-15c.png",
+       "alt": "Museum"
+      }
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Ehrensache“ spricht ein Moderator mit Elif Demir. Sie ist Bäckerin und Mitglied der Freiwilligen Feuerwehr.",
+   "example": {
+    "no": "0",
+    "text": "Elif Demir ist schon seit acht Jahren bei der Feuerwehr.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Elif wollte von Anfang an bei der Feuerwehr mitmachen.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Heute ist Elif nicht mehr die einzige Frau in ihrer Gruppe.",
+     "answer": "Ja"
+    },
+    {
+     "no": "18",
+     "text": "Bei den meisten Einsätzen muss die Feuerwehr ein großes Feuer löschen.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Wenn es einen Einsatz gibt, darf Elif die Bäckerei sofort verlassen.",
+     "answer": "Ja"
+    },
+    {
+     "no": "20",
+     "text": "Elifs Sohn ist schon Mitglied in der Kinderfeuerwehr.",
+     "answer": "Nein"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie waren am Samstag auf der Geburtstagsfeier Ihrer Freundin Carla. Heute finden Sie in Ihrer Tasche einen Schlüssel, der nicht Ihnen gehört. Schreiben Sie Carla eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, was Sie gefunden haben.",
+     "Fragen Sie, ob der Schlüssel Carla gehört oder ob sie weiß, wem er gehört.",
+     "Schlagen Sie vor, wann und wo Sie ihn zurückgeben."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 30 Wörter",
+     "text": "Hallo Carla,\n\nin meiner Tasche war ein fremder Schlüssel.\nIst das deiner, oder weißt du, wem er gehört?\nIch bringe ihn morgen um 18 Uhr zu dir.\n\nLiebe Grüße, Mia"
+    },
+    "typicalErrors": "Nur *Ich habe deinen Schlüssel* – Punkt 2 fehlt, denn man weiß noch nicht, wem er gehört."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Ihre Vermieterin, Frau Albers, hat Ihnen geschrieben: Nächsten Dienstag um 9 Uhr kommt ein Handwerker und repariert das Fenster in Ihrer Küche. Sie sind an diesem Tag nicht zu Hause. Schreiben Sie Frau Albers eine E-Mail."
+    ],
+    "points": [
+     "Bedanken Sie sich für die Information.",
+     "Schreiben Sie, warum Sie am Dienstag nicht zu Hause sind.",
+     "Machen Sie einen Vorschlag, wie der Handwerker in die Wohnung kommt."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an die Vermieterin, 39 Wörter",
+     "text": "Betreff: Handwerker am Dienstag\n\nSehr geehrte Frau Albers,\n\nvielen Dank für Ihre Nachricht.\nLeider bin ich am Dienstag nicht zu Hause, weil ich eine Fortbildung habe.\nMein Nachbar hat einen Schlüssel und kann dem Handwerker die Tür öffnen.\n\nMit freundlichen Grüßen\nMia Kovač"
+    },
+    "typicalErrors": "*Hallo Frau Albers*, kein Grund, kein Vorschlag – nur *Ich bin nicht da*."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; der Vorschlag ist konkret (Uhrzeit, Nachbar)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*fremder Schlüssel, Fortbildung, die Tür öffnen* statt *machen* und *Ding*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Nebensätze mit *weil* und *wem* (indirekte Frage), Präteritum *war*, Dativ *dem Handwerker*."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Hoffest der Nachbarn",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Elif Demir und die Freiwillige Feuerwehr"
+  },
+  "schreiben": [
+   "SMS an Carla: Schlüssel gefunden",
+   "E-Mail an die Vermieterin: Handwerker am Dienstag"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Geschwister",
+    "Arbeitsweg",
+    "Geburtsort",
+    "Haustier",
+    "Lieblingsessen",
+    "Urlaub",
+    "Sprachen",
+    "Fernsehen"
+   ],
+   "teil2": [
+    "Wie wohnen Sie?",
+    "Wofür benutzen Sie Ihr Handy?"
+   ],
+   "teil3": "Daniels Küche streichen (Samstag, zwei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 1 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+}

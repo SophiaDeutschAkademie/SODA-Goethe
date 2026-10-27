@@ -1,0 +1,689 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Der jüngste Ladenbesitzer im Landkreis",
+   "lead": "Leon Brandt ist 19 und führt den einzigen Laden in Hohenfeld. Für das Dorf ist er mehr als ein Verkäufer.",
+   "paragraphs": [
+    "Morgens um sechs schließt Leon Brandt die Tür seines Ladens auf. Die ersten Kunden sind Handwerker, die sich schnell noch ein Frühstück holen. Seit Januar gehört der kleine Supermarkt in Hohenfeld ihm. Die frühere Besitzerin, Frau Mertens, ist mit 68 Jahren in Rente gegangen. Zwei Jahre lang hat sie jemanden gesucht, der den Laden weiterführt. Niemand wollte das – bis Leon kam.",
+    "Nach der Schule hat Leon eine Ausbildung in einem großen Supermarkt in der Stadt gemacht. „Dort war ich nur eine Nummer“, sagt er. In Hohenfeld kennt er jeden Kunden mit Namen. Neben Lebensmitteln gibt es bei ihm auch Briefmarken und Zeitungen – und zwei Tische, an denen man Kaffee trinken kann. Besonders ältere Leute kommen oft nur zum Reden.",
+    "Der Laden ist sechs Tage in der Woche geöffnet, deshalb hat Leon wenig Freizeit. Seine Freunde besuchen ihn meistens im Laden. Trotzdem möchte er mit niemandem tauschen. Im Frühling will er einen Lieferservice anbieten: Dann bringt er Kunden, die nicht mehr gut laufen können, die Einkäufe mit dem Lastenrad nach Hause."
+   ],
+   "quote": "„Hier kenne ich jeden Kunden mit Namen.“",
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Der jüngste Ladenbesitzer im Landkreis“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Leon Brandt …",
+    "options": {
+     "a": "hat in Hohenfeld einen neuen Laden eröffnet.",
+     "b": "hat den Laden von Frau Mertens übernommen.",
+     "c": "arbeitet in einem Supermarkt in der Stadt."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Frau Mertens …",
+     "options": {
+      "a": "hat den Laden sofort an Leon verkauft.",
+      "b": "hilft Leon noch im Laden.",
+      "c": "hat lange niemanden für den Laden gefunden."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "stem": "In der Stadt …",
+     "options": {
+      "a": "hat sich Leon nicht wohlgefühlt.",
+      "b": "kannte Leon alle Kunden mit Namen.",
+      "c": "hatte Leon einen eigenen Laden."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "3",
+     "stem": "Im Laden …",
+     "options": {
+      "a": "gibt es nur Dinge zum Essen und Trinken.",
+      "b": "kann man sich auch hinsetzen.",
+      "c": "ist der Kaffee für ältere Leute kostenlos."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "stem": "Leon …",
+     "options": {
+      "a": "hat viel Freizeit.",
+      "b": "sieht seine Freunde nur selten.",
+      "c": "ist mit seinem Leben zufrieden."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "stem": "Im Frühling …",
+     "options": {
+      "a": "soll der Laden auch sonntags öffnen.",
+      "b": "will Leon Waren liefern.",
+      "c": "bekommen die Kunden Fahrräder zum Ausleihen."
+     },
+     "answer": "b"
+    }
+   ],
+   "image": "img/mt2-lesen-foto.jpg",
+   "imageAlt": "Ein junger Mann in grüner Schürze steht in seinem kleinen Laden. Hinter ihm liegen Brot, Obst und Zeitungen, im Hintergrund steht eine Kundin."
+  },
+  "t2": {
+   "instruction": "Sie sind im Rathaus. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel am Eingang. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Rathaus Neustadt",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "3. Stock",
+      "text": "Bürgermeisterin Dr. Anne Kolb · Büro des Stadtrats · Sitzungssaal · Pressestelle · Stadtarchiv (Besuch nur mit Termin) · Umweltamt (Mülltonnen, Müllabfuhr)"
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Standesamt (Hochzeiten, Geburts- und Sterbeurkunden) · Ausländerbehörde (Aufenthaltstitel, Mo–Do 8–12 Uhr) · Wohngeldstelle · Sozialamt · Beratung für Seniorinnen und Senioren (Di 9–12 Uhr)"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Bürgerbüro (Personalausweis, Reisepass, An-, Ab- und Ummeldung, Führungszeugnis) · Kfz-Zulassung (Fahrzeuge an- und abmelden, Kennzeichen, Mo–Fr 8–13 Uhr) · Führerscheinstelle"
+     },
+     {
+      "floor": "EG",
+      "text": "Information · Stadtkasse (Gebühren und Bußgelder bezahlen) · Tourist-Information (Stadtpläne, Souvenirs, Tickets für Stadtführungen) · Jugendamt (Anmeldung für Kita und Hort) · Café im Foyer (Mo–Fr 8–16 Uhr) · Wartebereich mit Spielecke"
+     },
+     {
+      "floor": "UG",
+      "text": "Tiefgarage (Mo–Fr 7–19 Uhr) · Fahrradparkplatz (überdacht) · Toiletten (barrierefrei) · Kantine (Mo–Fr 11.30– 14 Uhr, auch für Gäste)"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie sind umgezogen und müssen Ihre neue Adresse melden.",
+    "options": {
+     "a": "1. Stock",
+     "b": "2. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie sind zu schnell gefahren und müssen jetzt 30 Euro Strafe bezahlen.",
+     "options": {
+      "a": "EG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Ihre Tochter ist drei Jahre alt und soll ab dem Sommer in den Kindergarten gehen.",
+     "options": {
+      "a": "2. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Sie haben ein gebrauchtes Auto gekauft und brauchen ein Kennzeichen.",
+     "options": {
+      "a": "1. Stock",
+      "b": "UG",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Ihr Cousin aus Kanada ist zu Besuch. Sie möchten ihm die Altstadt zeigen, aber Sie kennen die Geschichte der Stadt nicht gut.",
+     "options": {
+      "a": "3. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Sie und Ihre Freundin möchten im Mai heiraten.",
+     "options": {
+      "a": "1. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Jonas Weber",
+    "to": "Paul Richter",
+    "subject": "Mein neues Hobby – und eine Einladung",
+    "greeting": "Hallo Paul,",
+    "closing": [
+     "Viele Grüße",
+     "Jonas"
+    ],
+    "paragraphs": [
+     "du hast lange nichts von mir gehört – das liegt an meinem neuen Hobby! Seit März habe ich einen Schrebergarten am Stadtrand. Fast zwei Jahre lang stand ich auf der Warteliste. Im Winter hat dann eine ältere Dame ihren Garten aufgegeben, und ich habe ihn bekommen. Zum Garten gehört eine kleine Hütte mit Tisch, Stühlen und einem alten Ofen. Im Sommer übernachte ich manchmal sogar dort.",
+     "Am Anfang habe ich die Arbeit unterschätzt. Das Gras war kniehoch, und die Hütte musste ich neu streichen. Jedes Wochenende war ich von morgens bis abends im Garten. Zum Glück sind meine Gartennachbarn sehr nett. Herr Özdemir zum Beispiel hat mir seine Geräte geliehen und mir erklärt, wann man was pflanzen muss. Er hat mir wirklich sehr geholfen.",
+     "Jetzt wachsen bei mir Tomaten, Gurken, Zucchini und sogar ein kleiner Apfelbaum. Die ersten Tomaten habe ich letzte Woche geerntet – so gut schmecken die aus dem Supermarkt nie! Es gibt aber auch viele Regeln im Verein: Der Rasen muss kurz sein, nach 22 Uhr darf man keine Musik mehr machen, und einmal im Monat muss jeder bei der Gemeinschaftsarbeit mithelfen.",
+     "Am 20. August feiert der Verein sein Sommerfest. Alle Mitglieder kochen etwas, und abends spielt eine Band. Die Kinder aus dem Verein führen ein kleines Theaterstück auf. Hast du Lust zu kommen? Du kannst gern bei mir übernachten, in der Hütte ist Platz für zwei. Bring aber einen warmen Schlafsack mit, nachts wird es dort ziemlich kühl.",
+     "Melde dich bald!"
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Jonas’ E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Jonas …",
+    "options": {
+     "a": "hat seit ein paar Monaten einen eigenen Garten.",
+     "b": "hat eine ältere Dame besucht.",
+     "c": "ist an den Stadtrand gezogen."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Jonas hat den Garten bekommen, …",
+     "options": {
+      "a": "weil eine andere Person ihn abgegeben hat.",
+      "b": "weil er lange im Verein mitgearbeitet hat.",
+      "c": "obwohl er nicht auf der Warteliste stand."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Am Anfang …",
+     "options": {
+      "a": "hat Jonas mit Herrn Özdemir eine neue Hütte gebaut.",
+      "b": "war Jonas nur selten im Garten.",
+      "c": "war mehr Arbeit nötig, als Jonas gedacht hatte."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Herr Özdemir …",
+     "options": {
+      "a": "hat seinen Garten an Jonas verkauft.",
+      "b": "hat Jonas Werkzeug geliehen.",
+      "c": "hat für Jonas den Rasen gemäht."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Im Verein …",
+     "options": {
+      "a": "muss jeder regelmäßig für alle mitarbeiten.",
+      "b": "darf man nur am Wochenende Musik machen.",
+      "c": "müssen alle ihr Gemüse zusammen verkaufen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Paul soll …",
+     "options": {
+      "a": "etwas zu essen für das Fest mitbringen.",
+      "b": "mit seinem Zelt kommen.",
+      "c": "an warme Sachen für die Nacht denken."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen im Internet nach Freizeitangeboten. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Tim möchte ein E-Bike ausprobieren, bevor er sich eines kauft.",
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Familie Sommer hat zwei Kinder, vier und sieben Jahre alt. Die Kinder lieben Tiere.",
+     "answer": "e"
+    },
+    {
+     "no": "17",
+     "text": "Frau Albrecht ist 78 und kann nicht mehr lange laufen. Trotzdem möchte sie am Sonntag etwas von der Stadt sehen.",
+     "answer": "b"
+    },
+    {
+     "no": "18",
+     "text": "Yusuf und Marie wollen am Samstag draußen aktiv sein. Beide haben keine Höhenangst.",
+     "answer": "a"
+    },
+    {
+     "no": "19",
+     "text": "Herr Nowak hat Probleme mit dem Rücken. Sein Arzt sagt, Wärme tut ihm gut.",
+     "answer": "d"
+    },
+    {
+     "no": "20",
+     "text": "Drei Freunde, alle 15 Jahre alt, suchen etwas für den Freitagabend.",
+     "answer": "X"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt2-anzeige-a.png",
+     "alt": "KLETTERWALD HOHE EICHE Hoch hinaus! Zehn Parcours in den Bäumen, bis zu 15 Meter hoch. Keine Erfahrung nötig, unsere Trainer erklären alles. Für Kinder ab 8 Jahren, nur mit Erwachsenen. Täglich 10–18 Uhr · Erwachsene 24 €, Kinder 16 €"
+    },
+    "b": {
+     "img": "img/mt2-anzeige-b.png",
+     "alt": "Weiße Flotte 85 Die Stadt vom Wasser aus Altstadt, Brücken und Schloss in 90 Minuten. Bequeme Sitzplätze innen und auf dem Sonnendeck, Kaffee an Bord. Abfahrt stündlich von 11 bis 17 Uhr. Samstags um 20 Uhr: Abendfahrt mit Live-Musik (ab 18 Jahren)"
+    },
+    "c": {
+     "img": "img/mt2-anzeige-c.png",
+     "alt": "KLEINANZEIGEN · FREIZEIT RADSTATION AM BAHNHOF Fahrräder und E-Bikes zum Leihen – schon ab einer Stunde Ist ein E-Bike etwas für Sie? Testen Sie es einen ganzen Tag! Wenn Sie danach ein E-Bike bei uns kaufen, bezahlen Sie nichts für den Test. Helme kostenlos. Rückgabe bis 19 Uhr · radstation-neustadt.de"
+    },
+    "d": {
+     "img": "img/mt2-anzeige-d.png",
+     "alt": "36° THERME AQUARIA Sieben Becken mit 32 bis 36 Grad warmem Wasser, dazu Ruheräume. Wohltuend bei Rückenschmerzen. Tageskarte 19 €, nach 17 Uhr 12 €. Freitags ab 18 Uhr Saunanacht – dann nur für Erwachsene"
+    },
+    "e": {
+     "img": "img/mt2-anzeige-e.png",
+     "alt": "Ferien auf dem Bauernhof – für einen Tag ERLEBNISHOF LINDENHOF Kühe, Schweine, Hühner und Ponys freuen sich auf Besuch! Kinder dürfen beim Füttern helfen und auf einem Pony reiten. Im Hofcafé gibt es Kuchen. Sa und So 10–17 Uhr · Eintritt 5 €, Kinder bis 3 Jahre frei"
+    },
+    "f": {
+     "img": "img/mt2-anzeige-f.png",
+     "alt": "NACHTWÄCHTER-FÜHRUNG Hört, ihr Leut’, und lasst euch sagen … Der Nachtwächter führt Sie mit Laterne durch die dunkle Altstadt und erzählt Geschichten aus 500 Jahren. Freitags und samstags um 21 Uhr, Treffpunkt am Marktbrunnen. 12 € pro Person · ab 16 Jahren · keine Anmeldung nötig"
+    }
+   },
+   "unused": [
+    "f"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Wohin soll Leas Mutter gehen?",
+     "options": {
+      "a": "Zur Kasse drei.",
+      "b": "In den ersten Stock.",
+      "c": "Zum Eingang."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Welchen neuen Termin bekommt Herr Lorenz?",
+     "options": {
+      "a": "Am Donnerstag um 15 Uhr.",
+      "b": "Am Montag um 15 Uhr.",
+      "c": "Am Montag um 10 Uhr."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Warum gibt es auf der A7 Stau?",
+     "options": {
+      "a": "Weil es einen Unfall gab.",
+      "b": "Weil dort eine Baustelle ist.",
+      "c": "Weil die Straße nass ist."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Was machen die Kinder der Klasse 2b morgen?",
+     "options": {
+      "a": "Sie gehen ins Theater.",
+      "b": "Sie haben frei.",
+      "c": "Sie haben Schule."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "stem": "Was ist heute billiger?",
+     "options": {
+      "a": "Jacken.",
+      "b": "Schuhe.",
+      "c": "Hosen."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Was machen die ehemaligen Mitschülerinnen und Mitschüler heute beruflich? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Sara",
+     "answer": "d"
+    },
+    {
+     "no": "6",
+     "name": "Murat",
+     "answer": "c"
+    },
+    {
+     "no": "7",
+     "name": "Lisa",
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "name": "Tom",
+     "answer": "e"
+    },
+    {
+     "no": "9",
+     "name": "Jule",
+     "answer": "i"
+    },
+    {
+     "no": "10",
+     "name": "David",
+     "answer": "h"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt2-hoeren2-a.png",
+     "alt": "Koch / Köchin"
+    },
+    "b": {
+     "img": "img/mt2-hoeren2-b.png",
+     "alt": "Ärztin / Arzt"
+    },
+    "c": {
+     "img": "img/mt2-hoeren2-c.png",
+     "alt": "Busfahrer / Busfahrerin"
+    },
+    "d": {
+     "img": "img/mt2-hoeren2-d.png",
+     "alt": "Lehrerin / Lehrer"
+    },
+    "e": {
+     "img": "img/mt2-hoeren2-e.png",
+     "alt": "Friseur / Friseurin"
+    },
+    "f": {
+     "img": "img/mt2-hoeren2-f.png",
+     "alt": "Polizistin / Polizist"
+    },
+    "g": {
+     "img": "img/mt2-hoeren2-g.png",
+     "alt": "Kellner / Kellnerin"
+    },
+    "h": {
+     "img": "img/mt2-hoeren2-h.png",
+     "alt": "Mechaniker / Mechanikerin"
+    },
+    "i": {
+     "img": "img/mt2-hoeren2-i.png",
+     "alt": "Tierärztin / Tierarzt"
+    }
+   },
+   "unused": [
+    "b",
+    "f",
+    "g"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Welches Obst kauft die Frau?",
+     "options": {
+      "a": {
+       "img": "img/mt2-hoeren3-11a.png",
+       "alt": "Pfirsiche"
+      },
+      "b": {
+       "img": "img/mt2-hoeren3-11b.png",
+       "alt": "Kirschen"
+      },
+      "c": {
+       "img": "img/mt2-hoeren3-11c.png",
+       "alt": "Birnen"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Was schenken die beiden ihrem Kollegen?",
+     "options": {
+      "a": {
+       "img": "img/mt2-hoeren3-12a.png",
+       "alt": "Buch"
+      },
+      "b": {
+       "img": "img/mt2-hoeren3-12b.png",
+       "alt": "Kopfhörer"
+      },
+      "c": {
+       "img": "img/mt2-hoeren3-12c.png",
+       "alt": "Gutschein für ein Restaurant"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Wo hat der Mann Urlaub gemacht?",
+     "options": {
+      "a": {
+       "img": "img/mt2-hoeren3-13a.png",
+       "alt": "Strand"
+      },
+      "b": {
+       "img": "img/mt2-hoeren3-13b.png",
+       "alt": "Berge"
+      },
+      "c": {
+       "img": "img/mt2-hoeren3-13c.png",
+       "alt": "Stadt"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Welchen Sport macht die Frau jetzt?",
+     "options": {
+      "a": {
+       "img": "img/mt2-hoeren3-14a.png",
+       "alt": "Yoga"
+      },
+      "b": {
+       "img": "img/mt2-hoeren3-14b.png",
+       "alt": "Schwimmen"
+      },
+      "c": {
+       "img": "img/mt2-hoeren3-14c.png",
+       "alt": "Tennis"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Was kauft der Mann?",
+     "options": {
+      "a": {
+       "img": "img/mt2-hoeren3-15a.png",
+       "alt": "Jacke"
+      },
+      "b": {
+       "img": "img/mt2-hoeren3-15b.png",
+       "alt": "Pullover"
+      },
+      "c": {
+       "img": "img/mt2-hoeren3-15c.png",
+       "alt": "Hemd"
+      }
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Mitten im Leben“ spricht eine Moderatorin mit Paula Ortega. Sie ist Medizinstudentin und wohnt bei einer 81-jährigen Frau.",
+   "example": {
+    "no": "0",
+    "text": "Paula studiert in Freiburg Medizin.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Paula hat Frau Reuter über das Internet kennengelernt.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Für ihr Zimmer bezahlt Paula keine Miete.",
+     "answer": "Ja"
+    },
+    {
+     "no": "18",
+     "text": "Paula hilft Frau Reuter jeden Tag mehrere Stunden.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Paula und Frau Reuter kochen am Wochenende zusammen.",
+     "answer": "Ja"
+    },
+    {
+     "no": "20",
+     "text": "Paula möchte nach dem Studium in Deutschland arbeiten.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie sind mit Ihrer Freundin Mia um 19 Uhr vor dem Konzerthaus verabredet. Ihr Zug hat 30 Minuten Verspätung. Schreiben Sie Mia eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie zu spät kommen.",
+     "Schreiben Sie, wann Sie ungefähr ankommen.",
+     "Machen Sie einen Vorschlag, was Mia bis dahin machen kann."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 29 Wörter",
+     "text": "Hallo Mia,\n\nmein Zug hat 30 Minuten Verspätung.\nIch bin erst um halb acht da.\nGeh doch schon ins Café gegenüber und warte dort auf mich.\n\nBis gleich, Tom"
+    },
+    "typicalErrors": "Nur *Ich komme später* – ohne Grund und ohne Uhrzeit fehlen zwei Punkte."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Sie haben für Freitag ein Zimmer im Hotel Seeblick reserviert. Sie kommen aber erst spät am Abend an. Schreiben Sie dem Hotel eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, wann Sie ungefähr ankommen und warum Sie so spät kommen.",
+     "Fragen Sie, bis wann die Rezeption geöffnet ist.",
+     "Fragen Sie, ob Sie so spät noch etwas zu essen bekommen."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an das Hotel, 40 Wörter",
+     "text": "Betreff: Späte Ankunft am Freitag\n\nSehr geehrte Damen und Herren,\n\nich habe für Freitag ein Zimmer reserviert. Ich komme erst gegen 23 Uhr, weil ich arbeiten muss.\nBis wann ist die Rezeption geöffnet?\nGibt es dann noch etwas zu essen?\n\nMit freundlichen Grüßen\nTom Berger"
+    },
+    "typicalErrors": "*Hallo Hotel*, keine Frage nach der Rezeption – die Aufgabe verlangt zwei Fragen."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (halb acht, gegen 23 Uhr)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Damen und Herren* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Verspätung, Rezeption, reserviert* statt allgemeiner Wörter wie *Ding* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Nebensatz mit *weil*, Imperativ (*Geh doch schon …*), Modalverb *müssen*, W-Frage mit *bis wann*."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Berufe nach der Schulzeit",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Paula Ortega und „Wohnen für Hilfe“"
+  },
+  "schreiben": [
+   "SMS an Mia: Zug mit Verspätung",
+   "E-Mail an das Hotel: späte Ankunft"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Beruf",
+    "Hobby",
+    "Familie",
+    "Sport",
+    "Musik",
+    "Schule",
+    "Lesen",
+    "Jahreszeit"
+   ],
+   "teil2": [
+    "Wie feiern Sie Geburtstag?",
+    "Was machen Sie am Wochenende?"
+   ],
+   "teil3": "Gemeinsam lernen (Donnerstag, drei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 2 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+}

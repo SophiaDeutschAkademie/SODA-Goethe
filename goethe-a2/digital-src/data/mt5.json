@@ -1,0 +1,685 @@
+{
+ "id": 5,
+ "roman": "V",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Reparieren statt wegwerfen",
+   "lead": "Im Repair-Café in Wittenberg reparieren Freiwillige kaputte Dinge – kostenlos. Das Team um Horst Krämer hat viel zu tun.",
+   "paragraphs": [
+    "Ein Toaster, der nicht mehr warm wird, ein Radio ohne Ton, eine Jacke mit kaputtem Reißverschluss: Jeden ersten Samstag im Monat bringen die Leute solche Dinge ins Gemeindehaus in Wittenberg. Dort warten Horst Krämer und zehn andere Freiwillige. Der 72-Jährige hat 40 Jahre lang als Elektriker gearbeitet. „Früher hat man Sachen repariert. Heute wirft man sie weg und kauft neue“, sagt er. „Das wollten wir ändern.“",
+    "Das Repair-Café gibt es seit drei Jahren. Die Reparatur kostet nichts, nur neue Teile muss man bezahlen. Krämer ist aber noch etwas anderes wichtig: „Die Leute sollen nicht nur zuschauen, sondern mithelfen. Dann können sie es beim nächsten Mal vielleicht selbst.“ Etwa zwei von drei Geräten funktionieren am Ende wieder.",
+    "Die meisten Besucher sind Rentner, aber es kommen auch immer mehr junge Familien. Für sie gibt es seit diesem Jahr eine eigene Ecke für kaputtes Spielzeug. Am längsten wartet man am Tisch von Renate Voss: Sie repariert Uhren – und sie ist die Einzige hier, die das kann. Deshalb sucht das Team noch einen zweiten Uhrmacher."
+   ],
+   "quote": "„Die Leute sollen nicht nur zuschauen, sondern mithelfen.“",
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Reparieren statt wegwerfen“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Horst Krämer …",
+    "options": {
+     "a": "hat ein Geschäft für Elektrogeräte.",
+     "b": "repariert mit anderen kaputte Dinge.",
+     "c": "verkauft gebrauchte Radios."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Das Repair-Café …",
+     "options": {
+      "a": "findet einmal im Monat statt.",
+      "b": "ist jede Woche geöffnet.",
+      "c": "ist nur für Rentner."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Im Repair-Café …",
+     "options": {
+      "a": "kostet jede Reparatur zehn Euro.",
+      "b": "muss man nichts bezahlen.",
+      "c": "bezahlt man nur für neue Teile."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Horst Krämer möchte, dass die Besucher …",
+     "options": {
+      "a": "beim Reparieren zuschauen.",
+      "b": "selbst mitarbeiten.",
+      "c": "ihre Geräte zu Hause reparieren."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "stem": "Seit diesem Jahr …",
+     "options": {
+      "a": "gibt es ein Angebot für Kinder.",
+      "b": "kommen keine Familien mehr.",
+      "c": "ist das Café in einem neuen Haus."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "Das Team sucht …",
+     "options": {
+      "a": "jemanden, der Spielzeug repariert.",
+      "b": "noch einen Elektriker.",
+      "c": "jemanden für die Uhren."
+     },
+     "answer": "c"
+    }
+   ],
+   "image": "img/mt5-lesen-foto.jpg",
+   "imageAlt": "Ein älterer Mann repariert mit einem Schraubenzieher einen Toaster. Eine Frau und ein Junge helfen ihm. Im Hintergrund arbeiten weitere Menschen an Tischen."
+  },
+  "t2": {
+   "instruction": "Sie sind am Hauptbahnhof. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Hauptbahnhof Westfeld",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "2. Stock",
+      "text": "Bahnhofshotel (Rezeption, 40 Zimmer) · Konferenzräume (Reservierung an der Hotelrezeption) · Verwaltung der Bahn (kein Kundenservice) · Dachterrasse für Hotelgäste"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Restaurant „Gleis 1“ (warme Küche 11–22 Uhr) · Warteraum · Bahnhofsmission (Hilfe für Reisende, Ruheraum) · Friseur · Toiletten · Übergang zum Parkhaus"
+     },
+     {
+      "floor": "EG",
+      "text": "Gleise 1–8 · Reisezentrum (Fahrkarten und Beratung, täglich 6–21 Uhr) · Information · Bäckerei · Zeitungen und Reisebedarf · Blumenladen · Apotheke (Mo–Sa 7–22 Uhr) · Polizei · Taxistand vor dem Haupteingang"
+     },
+     {
+      "floor": "UG",
+      "text": "S-Bahn (Gleise 11–14) · Schließfächer · Gepäckaufbewahrung · Fahrradparkhaus (überwacht) · Supermarkt (täglich bis 23 Uhr) · Toiletten und Duschen · Ausgang zum Busbahnhof"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie möchten eine Fahrkarte nach München kaufen und sich beraten lassen.",
+    "options": {
+     "a": "EG",
+     "b": "UG",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Ihr Zug fährt erst in zwei Stunden. Sie möchten Ihren schweren Koffer so lange nicht mit sich herumtragen.",
+     "options": {
+      "a": "EG",
+      "b": "UG",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Sie haben Kopfschmerzen und brauchen Tabletten.",
+     "options": {
+      "a": "1. Stock",
+      "b": "UG",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Sie kommen mit dem Rad zum Bahnhof und möchten es dort sicher abstellen.",
+     "options": {
+      "a": "UG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Sie wollen vor der Abfahrt noch etwas Warmes essen.",
+     "options": {
+      "a": "EG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Ihre Mutter kommt mit dem Zug und bleibt eine Nacht. Sie sucht ein Hotel direkt am Bahnhof.",
+     "options": {
+      "a": "1. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Hilde Neumann",
+    "to": "Emma Neumann",
+    "subject": "Meine erste E-Mail!",
+    "greeting": "Liebe Emma,",
+    "closing": [
+     "Viele Grüße und einen Kuss",
+     "deine Oma Hilde"
+    ],
+    "paragraphs": [
+     "du liest richtig: Das ist meine erste E-Mail! Seit September gehe ich jeden Dienstag in einen Computerkurs im Seniorentreff. Dein Vater hat laut gelacht, als ich ihm das am Telefon erzählt habe. Aber ich wollte endlich verstehen, was ihr alle den ganzen Tag mit euren Handys und Computern macht.",
+     "Wir sind acht im Kurs, alle über 65. Unser Lehrer Jakob ist Student und erst 22. Er hat viel Geduld, denn ich frage jede Woche dreimal dasselbe. Zuerst habe ich gelernt, wie man E-Mails schreibt und Fotos schickt. Letzte Woche haben wir im Internet Rezepte gesucht und uns ein Kochvideo angesehen. Ich wusste nicht, dass es so viele davon gibt!",
+     "Meine Nachbarin Frau Kurz sagt, das Internet ist gefährlich. Ein bisschen Angst habe ich auch. Jakob sagt, ich darf nie mein Passwort weitergeben und keine E-Mails von Fremden öffnen. Das habe ich mir auf einen Zettel geschrieben. Er hängt jetzt am Kühlschrank, neben deinem Foto.",
+     "Jetzt zu meiner Bitte: Dein Opa und ich möchten euch so gern öfter sehen. Jakob sagt, man kann mit dem Computer auch telefonieren und sich dabei sehen. Kannst du mir das am Sonntag zeigen, wenn ihr zum Kaffee kommt? Dann können wir auch mit Onkel Peter in Kanada sprechen. Er ist im März Opa geworden, und wir haben das Baby bisher nur auf zwei Fotos gesehen.",
+     "Antworte mir bitte – aber nicht zu schnell, ich muss erst lernen, wie ich deine Antwort finde!"
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zur E-Mail von Hilde. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Hilde …",
+    "options": {
+     "a": "schreibt zum ersten Mal eine E-Mail.",
+     "b": "arbeitet im Seniorentreff.",
+     "c": "hat einen Computer gekauft."
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Der Kurs …",
+     "options": {
+      "a": "findet einmal pro Woche statt.",
+      "b": "ist nur für junge Leute.",
+      "c": "dauert bis September."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Jakob …",
+     "options": {
+      "a": "erklärt die Dinge auch mehrmals.",
+      "b": "wird schnell ungeduldig.",
+      "c": "ist der älteste Teilnehmer."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Hilde …",
+     "options": {
+      "a": "hat gar keine Angst vor dem Internet.",
+      "b": "hat sich die Regeln aufgeschrieben.",
+      "c": "hat ihr Passwort an die Nachbarin gegeben."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Am Sonntag soll Emma …",
+     "options": {
+      "a": "Onkel Peter in Kanada besuchen.",
+      "b": "ihrer Oma einen Videoanruf erklären.",
+      "c": "Kuchen für die Großeltern backen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Hilde bittet Emma, …",
+     "options": {
+      "a": "sofort zu antworten.",
+      "b": "nicht per E-Mail zu antworten.",
+      "c": "ihr Zeit für die Antwort zu lassen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen im Internet Hilfe im Alltag. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Herr Bauer zieht nächste Woche um und hat viele Kisten, aber kein Auto.",
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Frau Lindner fliegt für zwei Wochen nach Portugal. Ihr Hund kann nicht mitkommen.",
+     "answer": "b"
+    },
+    {
+     "no": "17",
+     "text": "Frau Jansen ist 85 und kann die Wohnung nur noch selten verlassen. Ihre Haare sind zu lang.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Herr Roth hat einen großen Garten. Seit einer Operation darf er aber nicht schwer arbeiten.",
+     "answer": "d"
+    },
+    {
+     "no": "19",
+     "text": "Familie Demir hat eine neue Wohnung im 4. Stock mit sehr großen Fenstern. Die Fenster von außen zu putzen ist zu gefährlich.",
+     "answer": "f"
+    },
+    {
+     "no": "20",
+     "text": "Bei Herrn Weber tropft der Wasserhahn in der Küche. Er sucht jemanden, der ihn repariert.",
+     "answer": "X"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt5-anzeige-a.png",
+     "alt": "Umzüge Fix und Fertig UMZÜGE · TRANSPORTE Wir packen das! Transporter mit Fahrer ab 35 € pro Stunde, auf Wunsch mit Kartons und zwei starken Helfern. Auch kleine Umzüge in der Stadt – sogar am Wochenende. Tel. 0451 / 77 20 11 · kurzfristige Termine möglich"
+    },
+    "b": {
+     "img": "img/mt5-anzeige-b.png",
+     "alt": "Hundepension Waldrand vor 2 Std. Urlaub für Ihren Hund Ihr Hund fühlt sich bei uns wie zu Hause: große Wiese, drei Spaziergänge am Tag, Schlafplatz im Haus. Ab einer Nacht bis zu vier Wochen, 28 € pro Tag inklusive Futter. Katzen nehmen wir leider nicht. Besuch vorher jederzeit möglich · hundepension-waldrand.de #hund #urlaub #waldrand"
+    },
+    "c": {
+     "img": "img/mt5-anzeige-c.png",
+     "alt": "MOBILE FRISEURIN Haare schneiden zu Hause FRISEURIN MONA KOMMT Sie können nicht in den Salon kommen? Kein Problem – ich komme zu Ihnen: Schneiden, Färben und Waschen in Ihrer Wohnung oder im Seniorenheim. Für Damen und Herren. Mo–Sa, Termine telefonisch: 0170 / 44 51 203 · Haarschnitt ab 25 €"
+    },
+    "d": {
+     "img": "img/mt5-anzeige-d.png",
+     "alt": "Gartenservice Grünfinger PREISLISTE Wir mähen, Sie genießen Rasen mähen, Hecke schneiden, Beete pflegen – einmal oder regelmäßig. Wir bringen alle Geräte mit und entsorgen den Grünschnitt. Auch für kleine Gärten und Balkone. Rasen mähen 30 €/Std. Hecke schneiden 35 €/Std. Kostenloser Besuch vorher · ab 30 € pro Stunde"
+    },
+    "e": {
+     "img": "img/mt5-anzeige-e.png",
+     "alt": "Ausgesperrt? SCHLÜSSELDIENST NORD Tür zu, Schlüssel drinnen? Wir öffnen Ihre Wohnungstür ohne Schaden, Tag und Nacht, auch sonntags. In 30 Minuten sind wir bei Ihnen. Festpreis am Telefon, keine versteckten Kosten. 24 Stunden erreichbar: 0800 / 55 10 10"
+    },
+    "f": {
+     "img": "img/mt5-anzeige-f.png",
+     "alt": "GLASKLAR FENSTERREINIGUNG Wieder klare Sicht Wir putzen Ihre Fenster innen und außen – auch in großer Höhe, mit Leiter oder Hebebühne. Für Wohnungen, Büros und Geschäfte. Ab 4 € pro Fenster. innen und außen · versichert · schnell und sauber Termine Mo–Fr · info@glasklar-fenster.de"
+    }
+   },
+   "unused": [
+    "e"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Wo müssen die Fahrgäste in den Bus umsteigen?",
+     "options": {
+      "a": "Am Hauptbahnhof.",
+      "b": "Am Rathausplatz.",
+      "c": "Am Stadtpark."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Wann beginnt der Kurs?",
+     "options": {
+      "a": "Am Montag um 18 Uhr.",
+      "b": "Am Dienstag um 18 Uhr.",
+      "c": "Am Dienstag um 19 Uhr."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Wo findet der Wochenmarkt ab nächster Woche statt?",
+     "options": {
+      "a": "Auf dem Marktplatz.",
+      "b": "Auf dem Schlossplatz.",
+      "c": "Vor dem Rathaus."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "stem": "Was soll der Besitzer des Autos tun?",
+     "options": {
+      "a": "Zum Ausgang Nord kommen.",
+      "b": "An der Kasse bezahlen.",
+      "c": "Auf Ebene 2 warten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "Was soll der Vater machen?",
+     "options": {
+      "a": "Lea vom Bahnhof abholen.",
+      "b": "Einen Kuchen backen.",
+      "c": "Lea zurückrufen."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Welches Haustier haben die Kinder? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Lina",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "name": "Emir",
+     "answer": "e"
+    },
+    {
+     "no": "7",
+     "name": "Lotte",
+     "answer": "d"
+    },
+    {
+     "no": "8",
+     "name": "Noah",
+     "answer": "h"
+    },
+    {
+     "no": "9",
+     "name": "Mira",
+     "answer": "f"
+    },
+    {
+     "no": "10",
+     "name": "Felix",
+     "answer": "a"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt5-hoeren2-a.png",
+     "alt": "Hund"
+    },
+    "b": {
+     "img": "img/mt5-hoeren2-b.png",
+     "alt": "Katze"
+    },
+    "c": {
+     "img": "img/mt5-hoeren2-c.png",
+     "alt": "Kaninchen"
+    },
+    "d": {
+     "img": "img/mt5-hoeren2-d.png",
+     "alt": "Wellensittich"
+    },
+    "e": {
+     "img": "img/mt5-hoeren2-e.png",
+     "alt": "Schildkröte"
+    },
+    "f": {
+     "img": "img/mt5-hoeren2-f.png",
+     "alt": "Aquarium mit Goldfischen"
+    },
+    "g": {
+     "img": "img/mt5-hoeren2-g.png",
+     "alt": "Hamster"
+    },
+    "h": {
+     "img": "img/mt5-hoeren2-h.png",
+     "alt": "Pferd"
+    },
+    "i": {
+     "img": "img/mt5-hoeren2-i.png",
+     "alt": "Meerschweinchen"
+    }
+   },
+   "unused": [
+    "b",
+    "g",
+    "i"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Was hat der Mann im Zug vergessen?",
+     "options": {
+      "a": {
+       "img": "img/mt5-hoeren3-11a.png",
+       "alt": "Brille"
+      },
+      "b": {
+       "img": "img/mt5-hoeren3-11b.png",
+       "alt": "Handy"
+      },
+      "c": {
+       "img": "img/mt5-hoeren3-11c.png",
+       "alt": "Mütze"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Welchen Kuchen bestellt die Frau?",
+     "options": {
+      "a": {
+       "img": "img/mt5-hoeren3-12a.png",
+       "alt": "Schokoladenkuchen mit Kirschen"
+      },
+      "b": {
+       "img": "img/mt5-hoeren3-12b.png",
+       "alt": "Käsekuchen"
+      },
+      "c": {
+       "img": "img/mt5-hoeren3-12c.png",
+       "alt": "Erdbeertorte"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Wo setzen sich die beiden hin?",
+     "options": {
+      "a": {
+       "img": "img/mt5-hoeren3-13a.png",
+       "alt": "Tisch am Fenster"
+      },
+      "b": {
+       "img": "img/mt5-hoeren3-13b.png",
+       "alt": "Tisch auf der Terrasse"
+      },
+      "c": {
+       "img": "img/mt5-hoeren3-13c.png",
+       "alt": "Tisch hinten in der Ecke"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Was machen die beiden am Sonntag?",
+     "options": {
+      "a": {
+       "img": "img/mt5-hoeren3-14a.png",
+       "alt": "Drachen steigen lassen"
+      },
+      "b": {
+       "img": "img/mt5-hoeren3-14b.png",
+       "alt": "Picknick"
+      },
+      "c": {
+       "img": "img/mt5-hoeren3-14c.png",
+       "alt": "Minigolf"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Was tut dem Mann weh?",
+     "options": {
+      "a": {
+       "img": "img/mt5-hoeren3-15a.png",
+       "alt": "Rücken"
+      },
+      "b": {
+       "img": "img/mt5-hoeren3-15b.png",
+       "alt": "Bauch"
+      },
+      "c": {
+       "img": "img/mt5-hoeren3-15c.png",
+       "alt": "Knie"
+      }
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Landleben“ spricht ein Moderator mit Lena Hofer. Sie ist 28 Jahre alt und arbeitet als Schäferin.",
+   "example": {
+    "no": "0",
+    "text": "Lena Hofer arbeitet mit Schafen.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Lena ist auf einem Bauernhof aufgewachsen.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Lena hat den Beruf durch ein Praktikum kennengelernt.",
+     "answer": "Ja"
+    },
+    {
+     "no": "18",
+     "text": "Im Winter sind die Schafe draußen auf der Wiese.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Lena fühlt sich bei der Arbeit oft allein.",
+     "answer": "Nein"
+    },
+    {
+     "no": "20",
+     "text": "Lena möchte später Käse aus Schafsmilch machen.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie haben zwei Karten für ein Basketballspiel am Freitagabend. Ihr Bruder wollte mitkommen, aber er ist krank geworden. Schreiben Sie Ihrem Freund Timo eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie eine Karte übrig haben.",
+     "Fragen Sie, ob Timo Zeit hat.",
+     "Schlagen Sie vor, wo und wann Sie sich treffen."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 30 Wörter",
+     "text": "Hallo Timo,\n\nich habe eine Karte fürs Basketballspiel am Freitag übrig, mein Bruder ist krank.\nHast du Zeit?\nTreffen wir uns um 19 Uhr vor der Halle?\n\nViele Grüße, Sam"
+    },
+    "typicalErrors": "Nur *Kommst du Freitag Basketball?* – der Grund (Karte übrig, Bruder krank) und der Treffpunkt fehlen."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Sie möchten Ihr Deutsch verbessern und haben eine Anzeige der Sprachschule Lingua gelesen: „Deutschkurs am Abend“. Schreiben Sie der Sprachschule eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie einen Kurs suchen.",
+     "Fragen Sie nach den Kurszeiten und dem Preis.",
+     "Fragen Sie, ob Sie vorher einen Test machen müssen."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an die Sprachschule, 40 Wörter",
+     "text": "Betreff: Deutschkurs am Abend\n\nSehr geehrte Damen und Herren,\n\nich arbeite seit einem Jahr in Deutschland und möchte mein Deutsch für den Beruf verbessern.\nWann findet der Abendkurs statt, und was kostet er?\nMuss ich vorher einen Test machen?\n\nMit freundlichen Grüßen\nSam Costa"
+    },
+    "typicalErrors": "*Hallo, ich will Deutschkurs. Wie viel?* – falsche Anrede, kein Grund, keine Frage nach dem Test."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Basketballspiel, Freitag, 19 Uhr, vor der Halle; seit einem Jahr, für den Beruf)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Damen und Herren* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Karten, Halle, verbessern, Abendkurs, Test* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Zwei W-Fragen in einem Satz (*Wann … und was …?*), Modalverben *möchte*, *muss*, Zeitangabe mit *seit*, Ja/Nein-Frage (*Hast du Zeit?*)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Haustiere der Kinder",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Lena Hofer, Schäferin"
+  },
+  "schreiben": [
+   "SMS an Timo: Karte für das Basketballspiel",
+   "E-Mail an die Sprachschule: Deutschkurs am Abend"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Lieblingsfilm",
+    "Geburtstag",
+    "Frühstück",
+    "Reisen",
+    "Freunde",
+    "Fahrrad",
+    "Kleidung",
+    "Natur"
+   ],
+   "teil2": [
+    "Was machen Sie am Abend?",
+    "Wie kaufen Sie ein?"
+   ],
+   "teil3": "Fahrradtour zum Waldsee (Sonntag, drei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 5 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand. Abweichungen vom PDF: Lesen Teil 3, Aufgabenblatt S. 6: „zu Ninas E-Mail“ -> „zur E-Mail von Hilde“ (die Mail ist von Hilde an Emma); Lesen Teil 1: der Einleitungssatz läuft im PDF über zwei Zeilen und wurde zu einem Satz verbunden."
+}
