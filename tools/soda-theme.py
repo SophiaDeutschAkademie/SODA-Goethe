@@ -4,6 +4,7 @@
 Lehrwerk의 다른 앱과 같은 부품입니다.
   - 오른쪽 위 다크 모드 스위치 (기본 다크, 선택은 localStorage 'soda-theme' 하나를 모든 앱이 함께 씁니다)
   - 목차 페이지(index.html)에는 스위치 왼쪽에 'Lehrwerk 목차로 돌아가기' 버튼
+  - 접속 횟수 집계 태그(GoatCounter, 쿠키 없음)를 head에 넣음
 
 사용법 (저장소 어디서 실행해도 됩니다)
   python3 tools/soda-theme.py zertifikat/goethe-b2/index.html  --kind index
@@ -16,7 +17,7 @@ import argparse
 import re
 import sys
 
-D = 'html[data-theme="dark"]'
+D ='html[data-theme="dark"]'
 
 THEME_JS = r"""<script id="soda-theme-js">
 (function(){
@@ -142,10 +143,16 @@ def build_blocks(kind, toc_href):
     return js
 
 
+# 접속 횟수 집계(GoatCounter 공식 태그, 쿠키 없음). Lehrwerk의 모든 페이지와 같은 사이트 코드를 씁니다
+ANALYTICS_TAG = ('<script id="soda-analytics" data-goatcounter="https://sodadeutsch.goatcounter.com/count" '
+                 'async src="https://gc.zgo.at/count.js"></script>\n')
+
+
 def patch(html, kind, toc_href=LEHRWERK_TOC):
     # 이전 블록 제거
     html = re.sub(r'<script id="soda-theme-js">.*?</script>\s*', "", html, flags=re.S)
     html = re.sub(r'<style id="soda-dark">.*?</style>\s*', "", html, flags=re.S)
+    html = re.sub(r'<script id="soda-analytics"[^>]*></script>\s*', "", html)
 
     js = build_blocks(kind, toc_href)
     if kind == "index":
@@ -164,7 +171,7 @@ def patch(html, kind, toc_href=LEHRWERK_TOC):
     i = html.lower().rfind("</head>")
     if i < 0:
         sys.exit("</head>를 찾지 못했습니다")
-    html = html[:i] + style + html[i:]
+    html = html[:i] + ANALYTICS_TAG + style + html[i:]
     return html
 
 
