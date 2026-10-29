@@ -1,0 +1,1171 @@
+{
+  "title": "말하기 시험 대비 가이드",
+  "eyebrow": "Goethe-Zertifikat B1 · Sprechen",
+  "lead": "Sprechen은 준비 시간 15분 뒤에 파트너와 함께 약 15분 동안 보는 시험입니다. 시험 진행과 채점 방식, Teil 1 대화 10편, Teil 2 발표 10편, Teil 3 문답 10편, 불변화사와 필수 문법을 정리했습니다.",
+  "closing": "Du bist bereit. Sprich klar und selbstbewusst — du packst das!",
+  "sources_title": "공식 근거",
+  "sources": [
+    [
+      "Goethe-Institut, Durchführungsbestimmungen Goethe-Zertifikat B1",
+      "https://www.goethe.de/resources/files/pdf325/durchfuehrungsbestimmungen_b1-1.pdf"
+    ],
+    [
+      "Goethe-Zertifikat B1, Übungssatz Erwachsene (Kandidatenblätter, Prüferblätter, Bewertung)",
+      "https://www.goethe.de/pro/relaunch/prf/materialien/B1/B1_Uebungssatz_Erwachsene.pdf"
+    ]
+  ],
+  "overview": {
+    "id": "uebersicht",
+    "title": "시험 한눈에 보기",
+    "rows": [
+      [
+        "형식",
+        "Paarprüfung입니다. 응시자 2명과 시험관 2명이 함께하고 약 15분이 걸립니다. 1인 시험(약 10분)은 예외적으로만 보고, 온라인 시험은 항상 1인 시험입니다. 사전과 같은 보조 도구는 쓸 수 없습니다."
+      ],
+      [
+        "준비 시간",
+        "시험 전에 15분 동안 혼자 준비합니다. 시험 중에 쓸 수 있는 메모(스탬프가 찍힌 초안 종이)를 이때 만듭니다. 시험에서는 메모를 보며 말해도 되지만, 읽지 말고 자유롭게 말해야 합니다."
+      ],
+      [
+        "Teil 1",
+        "Gemeinsam etwas planen — 파트너와 함께 무언가를 계획합니다. 약 2~3분. Leitpunkt 4개가 주어지고, 넷째는 비어 있어 스스로 정합니다. 제안하고, 파트너 제안에 반응하고, 함께 결정합니다."
+      ],
+      [
+        "Teil 2",
+        "Ein Thema präsentieren — 두 주제 중 하나를 골라 5장 구조로 발표합니다. 1인당 약 3~4분입니다."
+      ],
+      [
+        "Teil 3",
+        "Über ein Thema sprechen — 파트너의 발표에 피드백을 주고 질문합니다. 내 발표에 대한 파트너와 시험관의 질문에 답합니다. 1인당 약 1~2분."
+      ],
+      [
+        "합격",
+        "말하기 100점 만점에 60점 이상이면 통과합니다. 두 시험관의 점수를 평균합니다. 읽기·듣기·쓰기·말하기는 각각 따로 응시하고 다시 볼 수 있습니다."
+      ]
+    ],
+    "diff_title": "A2와 달라지는 점",
+    "diff": "A2는 단순한 문장이면 되지만, B1은 연결된 말하기를 봅니다. Nebensatz(weil · obwohl · dass), Konjunktiv II(würde · könnte), 순서 연결어(zuerst → danach → zum Schluss)를 의도적으로 보여 주세요. Teil 2는 혼자 길게 말하는 유일한 파트이고 5장 구조가 시험지에 인쇄되어 있으므로, 각 장의 여는 문장을 외워 가면 안정적입니다.",
+    "ablauf_title": "진행 순서",
+    "ablauf": [
+      [
+        "준비",
+        "15분",
+        "혼자서 메모를 만듭니다. 발표 키워드와 Teil 1 아이디어를 적습니다.",
+        "채점 안 함"
+      ],
+      [
+        "도입",
+        "약 1분",
+        "시험관이 인사하고 가벼운 질문을 합니다.",
+        "채점 안 함"
+      ],
+      [
+        "Teil 1",
+        "약 2~3분",
+        "함께 계획하기",
+        "채점"
+      ],
+      [
+        "Teil 2",
+        "1인당 약 3~4분",
+        "5장 구조로 발표하기",
+        "채점"
+      ],
+      [
+        "Teil 3",
+        "1인당 약 1~2분",
+        "피드백과 질문, 질문에 답하기",
+        "채점"
+      ]
+    ]
+  },
+  "scoring": {
+    "id": "bewertung",
+    "title": "채점 방식",
+    "intro": "파트마다 정해진 기준으로 채점하고, 발음(Aussprache)은 모든 파트를 합쳐 따로 평가합니다. 두 시험관이 각자 채점한 점수의 평균이 결과입니다.",
+    "head": [
+      "파트",
+      "기준",
+      "보는 것"
+    ],
+    "criteria": [
+      [
+        "Teil 1",
+        "Erfüllung · Interaktion · Wortschatz/Register · Strukturen",
+        "제안과 동의 같은 기능을 하는가. 대화를 시작하고 이어 가고 끝맺는가. 파트너 말에 반응하는가."
+      ],
+      [
+        "Teil 2",
+        "Erfüllung · Kohärenz · Wortschatz/Register · Strukturen",
+        "5장의 내용과 분량. 완결성, 논리의 흐름, 연결어."
+      ],
+      [
+        "Teil 3",
+        "Erfüllung · Interaktion · Wortschatz · Strukturen",
+        "피드백을 주고, 질문하고, 질문에 답하는가."
+      ],
+      [
+        "Aussprache",
+        "Satzmelodie · Wortakzent · einzelne Laute",
+        "억양, 단어 강세, 개별 소리가 이해에 방해되지 않는가."
+      ]
+    ],
+    "levels_title": "Teil 2 발표의 Erfüllung 단계",
+    "levels_head": [
+      "단계",
+      "수행한 장"
+    ],
+    "levels": [
+      [
+        "A",
+        "5장 모두 적절하게 다룸"
+      ],
+      [
+        "B",
+        "3~4장을 다룸"
+      ],
+      [
+        "C",
+        "2장을 다루거나, 5장 모두 너무 짧음"
+      ],
+      [
+        "D",
+        "1장만 다룸"
+      ],
+      [
+        "E",
+        "발표를 평가할 수 없음"
+      ]
+    ],
+    "levels_note": "발표는 5장을 모두, 장마다 충분히 말하는 것이 가장 중요합니다.",
+    "rules_title": "채점 규칙",
+    "rules": [
+      "말하기는 100점 만점입니다. 평가표에는 16 · 12 · 8 · 4점 눈금이 있고, 파트별 합계는 공개 자료로 확정할 수 없습니다. 세 파트를 모두 준비합니다.",
+      "각 기준은 A~E 5단계로 평가하고, 시험관은 정해진 점수만 줄 수 있습니다(중간 점수 없음).",
+      "두 시험관의 점수를 평균한 뒤 정수로 반올림합니다(0.5 이상은 올림).",
+      "Teil 1에서 말한 양을 평가할 수 없을 만큼 거의 말하지 않으면 E 단계입니다. 발음은 발화 대부분을 이해할 수 없으면 E 단계입니다.",
+      "발음은 완벽할 필요가 없습니다. 작은 이탈이 있어도 이해되면 높은 단계입니다."
+    ]
+  },
+  "steps": {
+    "id": "vorbereitung",
+    "title": "준비 6단계",
+    "rows": [
+      [
+        "1",
+        "Teil 2 발표부터 완성 — 혼자 길게 말하고, 통째로 준비할 수 있는 파트입니다. 빈출 주제 3개를 골라 5장 구조로 발표문을 쓰고, 통째로 외운 뒤 녹음합니다."
+      ],
+      [
+        "2",
+        "만능 구조 자동화 — 5장의 여는 문장, Teil 1 제안과 반응 표현, Teil 3 피드백 3문장이 입에 붙을 때까지 소리 내어 반복합니다."
+      ],
+      [
+        "3",
+        "문법을 말로 — weil · obwohl 뒤에서 동사를 끝으로 보내는 훈련을 합니다. 느려도 정확하게 하고, 제안은 늘 Konjunktiv II(könnten · Wie wäre es)로 합니다."
+      ],
+      [
+        "4",
+        "파트너와 연습 — Teil 1은 상호작용을 채점하므로 혼자서는 연습하기 어렵습니다. 파트너와 계획 대화 10주제를 연습하고, 파트너가 없으면 A와 B 역할을 혼자 하며 녹음합니다."
+      ],
+      [
+        "5",
+        "녹음과 쉐도잉 — 내 발표를 녹음해 들으며 실수를 확인하고, 모범 음성을 따라 말하며 억양을 고칩니다."
+      ],
+      [
+        "6",
+        "준비 시간 15분 훈련 — 메모는 키워드만 씁니다. 문장을 쓰면 읽게 됩니다. 15분 안에 발표 키워드와 Teil 1 아이디어를 적는 연습을 합니다."
+      ]
+    ]
+  },
+  "plan": {
+    "id": "plan",
+    "title": "4주 학습 플랜",
+    "intro": "하루 20~30분 기준입니다.",
+    "rows": [
+      [
+        "1주",
+        "발표 주제 3개 + 발표문 쓰기",
+        "5장 구조를 이해하고 문법을 복습합니다."
+      ],
+      [
+        "2주",
+        "발표 통암기 + 녹음 / Teil 1 표현 15개",
+        "메모 없이 3분 분량을 말합니다."
+      ],
+      [
+        "3주",
+        "파트너와 Teil 1 대화 10주제 + Teil 3 문답",
+        "제안 → 반응 → 합의 흐름을 자동화합니다."
+      ],
+      [
+        "4주",
+        "실전 모의 3회 (준비 15분 → 시험 15분) + 발음 교정",
+        "ö · ü · r · ch를 집중해서 교정합니다."
+      ]
+    ]
+  },
+  "topics": {
+    "id": "themen",
+    "title": "빈출 발표 주제",
+    "intro": "주제가 달라도 5장 구조와 여는 문장은 그대로 재사용할 수 있습니다. 이 중 3개는 미리 완성해 가세요.",
+    "head": [
+      "구분",
+      "주제"
+    ],
+    "rows": [
+      [
+        "공식 Übungssatz",
+        "Hochzeit — großes Fest oder private Feier? / Ich brauch kein eigenes Auto!"
+      ],
+      [
+        "연습용 12개",
+        "Fast Food · Online einkaufen · Smartphone im Alltag · Soziale Netzwerke · Fremdsprachen lernen · Sport treiben · Reisen · Auto in der Stadt · Fernsehen · Musik · Stadt oder Land? · Selbst kochen oder Fertigessen?"
+      ]
+    ]
+  },
+  "teil1": {
+    "id": "teil1",
+    "no": "Teil 1",
+    "title": "함께 계획하기",
+    "lead": "파트너와 함께 무언가를 계획합니다(문병, 송별회, 소풍, 여행 등). 제안하고, 파트너 제안에 반응하고, 합의에 이르러야 합니다. 혼자 말하는 것이 아니라 주고받는 것이 핵심이며, 시험관이 \"Haben Sie an alles gedacht?\"라고 물으며 끝냅니다.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      [
+        "제안",
+        "Was hältst du davon",
+        "Freitag?",
+        "Was hältst du davon, wenn wir sie am Freitag besuchen?"
+      ],
+      [
+        "대안 제안",
+        "Wie wäre es",
+        "Oder Samstag?",
+        "Wie wäre es, wenn wir stattdessen am Samstag fahren?"
+      ],
+      [
+        "공식 제안",
+        "vorschlagen",
+        "Machen wir X.",
+        "Ich schlage vor, dass wir zusammen ein Geschenk kaufen."
+      ],
+      [
+        "동의",
+        "적극 반응",
+        "Ja, gut.",
+        "Das ist eine gute Idee! / Da bin ich ganz deiner Meinung."
+      ],
+      [
+        "부분 동의",
+        "recht, aber",
+        "Ja, aber …",
+        "Da hast du recht, aber wir sollten auch an die Kosten denken."
+      ],
+      [
+        "정중한 반대",
+        "ob-Satz",
+        "Nein.",
+        "Ich weiß nicht, ob das eine gute Idee ist, denn sie braucht Ruhe."
+      ],
+      [
+        "조건 제안",
+        "wenn + Konj. II",
+        "Vorher Blumen?",
+        "Wenn du Zeit hast, könnten wir vorher Blumen kaufen."
+      ],
+      [
+        "역할 분담",
+        "Ich könnte",
+        "Ich kaufe das.",
+        "Ich könnte die Karte besorgen, und du kümmerst dich um die Blumen."
+      ],
+      [
+        "의견 묻기",
+        "파트너 참여",
+        "Und du?",
+        "Was meinst du dazu? / Bist du damit einverstanden?"
+      ],
+      [
+        "합의 요약",
+        "마무리 필수",
+        "Okay.",
+        "Also, wir machen es so: Zuerst kaufen wir Blumen, dann fahren wir mit der U-Bahn."
+      ],
+      [
+        "일정 거절",
+        "vorhaben",
+        "Da kann ich nicht.",
+        "Da kann ich leider nicht, da habe ich schon etwas vor."
+      ],
+      [
+        "선호 표현",
+        "fände + Konj. II",
+        "Besser so.",
+        "Ich fände es besser, wenn wir schon am Vormittag fahren würden."
+      ],
+      [
+        "아이디어 묻기",
+        "파트너 참여",
+        "Und?",
+        "Was schlägst du vor? / Hast du eine andere Idee?"
+      ],
+      [
+        "걱정 표현",
+        "ob-Satz",
+        "Vielleicht nicht.",
+        "Ich bin nicht sicher, ob das am Wochenende klappt."
+      ],
+      [
+        "마무리 확인",
+        "계획 점검",
+        "Fertig.",
+        "Haben wir an alles gedacht? Dann bis Freitag!"
+      ]
+    ],
+    "flow_title": "합의까지 가는 순서",
+    "flow_head": [
+      "단계",
+      "하는 일",
+      "표현"
+    ],
+    "flow": [
+      [
+        "① 제안",
+        "첫 제안으로 대화를 시작",
+        "Ich finde, wir sollten … Was meinst du?"
+      ],
+      [
+        "② 반응",
+        "파트너 제안에 동의하거나 이유와 함께 반대",
+        "Gute Idee! / Ich weiß nicht, ob …"
+      ],
+      [
+        "③ 대안·조건",
+        "내 제안을 잇거나 조건을 붙임",
+        "Wie wäre es, wenn …? / Wenn du Zeit hast, könnten wir …"
+      ],
+      [
+        "④ 역할 분담",
+        "누가 무엇을 할지 정함",
+        "Ich könnte …, und du …"
+      ],
+      [
+        "⑤ 합의 요약",
+        "정한 것을 한 문장으로 정리",
+        "Also, wir machen es so: …"
+      ]
+    ],
+    "dialogs_title": "모범 대화 10",
+    "dialogs_note": "Leitpunkt 4개 중 넷째는 시험지에서 비어 있으므로 스스로 정합니다. 아래 대화는 한 사람이 \"A\", 다른 사람이 \"B\"를 맡습니다.",
+    "dialogs": [
+      {
+        "title": "Einen Besuch planen",
+        "aufgabe": "Ihre Kurskollegin Lena hatte einen Unfall und liegt im Krankenhaus. Sie möchten sie zusammen besuchen. Planen Sie den Besuch.",
+        "points": [
+          "Wann besuchen?",
+          "Was mitbringen?",
+          "Wie hinkommen?",
+          "Was noch für sie tun?"
+        ],
+        "lines": [
+          "A: Du hast bestimmt schon gehört, dass Lena einen Unfall hatte und im Krankenhaus liegt. Ich finde, wir sollten sie besuchen. Was meinst du?",
+          "B: Ja, unbedingt! Was hältst du davon, wenn wir morgen nach dem Kurs hinfahren?",
+          "A: Hm, morgen kann ich leider nicht, weil ich arbeiten muss. Wie wäre es mit Freitagnachmittag?",
+          "B: Freitag passt mir gut. Sollen wir ihr etwas mitbringen?",
+          "A: Auf jeden Fall. Ich könnte Blumen kaufen. Oder meinst du, Obst ist besser?",
+          "B: Vielleicht beides? Ich weiß, dass sie Erdbeeren liebt.",
+          "A: Gute Idee! Und wir könnten eine Karte schreiben, die alle aus dem Kurs unterschreiben.",
+          "B: Das ist eine schöne Idee. Ich bringe morgen eine Karte mit und gebe sie im Kurs herum.",
+          "A: Perfekt. Und wie kommen wir zum Krankenhaus?",
+          "B: Wir können die U-Bahn nehmen, Linie 3. Das dauert nur zwanzig Minuten.",
+          "A: Einverstanden. Also, wir machen es so: Wir treffen uns am Freitag um 15 Uhr an der U-Bahn-Station, du bringst die Karte mit und ich kaufe Blumen und Erdbeeren.",
+          "B: Genau. Hoffentlich geht es ihr bald besser!"
+        ]
+      },
+      {
+        "title": "Abschiedsfeier",
+        "aufgabe": "Ihr Kollege Marco verlässt die Firma. Planen Sie eine Abschiedsfeier.",
+        "points": [
+          "Wann?",
+          "Wo feiern?",
+          "Geschenk?",
+          "Essen/Trinken?"
+        ],
+        "lines": [
+          "A: Hast du gehört, dass Marco Ende des Monats geht? Ich finde, wir sollten eine Abschiedsfeier für ihn organisieren.",
+          "B: Ja, unbedingt! Was hältst du davon, wenn wir sie am letzten Freitag machen?",
+          "A: Gute Idee, dann ist er noch da. Und wo sollen wir feiern — im Büro oder in einem Restaurant?",
+          "B: Ich schlage vor, dass wir ein Restaurant reservieren. Im Büro ist es nicht so gemütlich.",
+          "A: Da hast du recht. Und was schenken wir ihm? Ich dachte an einen Gutschein.",
+          "B: Ein Gutschein ist praktisch, aber ich fände es persönlicher, wenn wir ein Fotobuch mit Bildern aus der Firma machen würden.",
+          "A: Das ist eine schöne Idee! Ich könnte die Fotos sammeln. Und du kümmerst dich um das Restaurant?",
+          "B: Einverstanden. Sollen wir auch Kuchen bestellen?",
+          "A: Ja, Marco liebt Schokoladenkuchen. Ich bestelle einen bei der Bäckerei.",
+          "B: Perfekt. Also: Restaurant, Fotobuch und Kuchen. Haben wir an alles gedacht?",
+          "A: Ich glaube ja. Dann bis Freitag!"
+        ]
+      },
+      {
+        "title": "Ausflug organisieren",
+        "aufgabe": "Sie möchten mit Ihrem Deutschkurs einen Ausflug machen. Planen Sie den Ausflug.",
+        "points": [
+          "Wohin?",
+          "Wann?",
+          "Wie hinkommen?",
+          "Was mitnehmen?"
+        ],
+        "lines": [
+          "A: Unser Deutschkurs macht bald einen Ausflug. Hast du eine Idee, wohin wir fahren könnten?",
+          "B: Wie wäre es mit dem Englischen Garten? Da kann man spazieren gehen und ein Picknick machen.",
+          "A: Das klingt gut, aber ich weiß nicht, ob das bei schlechtem Wetter eine gute Idee ist. Vielleicht lieber ein Museum?",
+          "B: Stimmt. Dann schlage ich das Deutsche Museum vor — da gibt es auch bei Regen genug zu sehen.",
+          "A: Einverstanden. Und wann sollen wir fahren — am Samstag oder Sonntag?",
+          "B: Samstag fände ich besser, weil sonntags viele Museen voll sind.",
+          "A: Okay, Samstag um 10 Uhr. Wie kommen wir dorthin?",
+          "B: Wir könnten zusammen die S-Bahn nehmen. Das ist am einfachsten.",
+          "A: Gute Idee. Und sollen wir etwas zu essen mitnehmen?",
+          "B: Ja, jeder bringt etwas mit. Ich könnte Sandwiches machen.",
+          "A: Super, dann bringe ich Getränke und etwas Obst mit.",
+          "B: Und ich sage unserer Lehrerin Bescheid — vielleicht möchte sie ja mitkommen.",
+          "A: Perfekt. Also: Samstag, 10 Uhr, S-Bahn, Deutsches Museum. Ich schreibe eine Nachricht an alle."
+        ]
+      },
+      {
+        "title": "Sprachpartner suchen",
+        "aufgabe": "Sie möchten zusammen einen Sprachtandem-Partner finden. Planen Sie, wie Sie vorgehen.",
+        "points": [
+          "Wo suchen?",
+          "Welche Sprache?",
+          "Wie oft treffen?",
+          "Was beim Treffen machen?"
+        ],
+        "lines": [
+          "A: Ich möchte mein Deutsch verbessern und suche einen Tandempartner. Sollen wir zusammen einen suchen?",
+          "B: Ja, gern! Wo könnten wir suchen? Im Internet gibt es Tandem-Apps.",
+          "A: Stimmt, oder wir fragen am Schwarzen Brett in der Uni. Was meinst du?",
+          "B: Ich fände die App besser, weil man dort mehr Leute findet.",
+          "A: Okay. Und wie oft sollten wir uns mit dem Partner treffen?",
+          "B: Ich schlage vor, dass wir uns einmal pro Woche treffen, zum Beispiel donnerstags.",
+          "A: Einverstanden. Und was machen wir beim Treffen — frei sprechen oder Themen vorbereiten?",
+          "B: Wie wäre es, wenn wir immer ein Thema vorbereiten? Dann hat man etwas zu reden.",
+          "A: Gute Idee. Die erste halbe Stunde Deutsch, die zweite Koreanisch.",
+          "B: Genau, so lernen beide gleich viel. Und wo treffen wir uns am besten?",
+          "A: Wie wäre es mit dem Café in der Bibliothek? Dort ist es ruhig und der Kaffee ist günstig.",
+          "B: Perfekt. Dann melde ich mich bei der App an und suche jemanden."
+        ]
+      },
+      {
+        "title": "Wohnung einrichten",
+        "aufgabe": "Sie ziehen zusammen in eine WG. Planen Sie die Einrichtung.",
+        "points": [
+          "Welche Möbel brauchen wir?",
+          "Wo kaufen?",
+          "Wer bringt was mit?",
+          "Putzen?"
+        ],
+        "lines": [
+          "A: Nächste Woche ziehen wir zusammen ein! Wir müssen noch planen, was wir für die Wohnung brauchen.",
+          "B: Stimmt. Für die Küche brauchen wir auf jeden Fall einen Tisch und Stühle.",
+          "A: Ja, und einen Kühlschrank. Ich habe schon einen — den bringe ich mit.",
+          "B: Super! Und wo kaufen wir den Rest? Bei IKEA oder gebraucht?",
+          "A: Ich fände es besser, wenn wir erst bei Kleinanzeigen schauen. Das ist viel günstiger.",
+          "B: Da hast du recht. Und wer kümmert sich um das Putzen?",
+          "A: Wie wäre es mit einem Putzplan? Jede Woche wechseln wir ab.",
+          "B: Einverstanden. Ich putze gern die Küche, aber das Bad mag ich nicht.",
+          "A: Kein Problem, das Bad übernehme ich. Also: Ich bringe den Kühlschrank, du suchst bei Kleinanzeigen nach einem Tisch.",
+          "B: Einverstanden. Sollen wir auch eine Waschmaschine kaufen? Neue sind ziemlich teuer.",
+          "A: Meine Tante hat noch eine alte, die sie nicht mehr braucht. Ich frage sie mal.",
+          "B: Genau. Und den Putzplan schreiben wir am ersten Tag auf."
+        ]
+      },
+      {
+        "title": "Geburtstagsgeschenk",
+        "aufgabe": "Eine Freundin hat bald Geburtstag. Planen Sie ein Geschenk.",
+        "points": [
+          "Was schenken?",
+          "Wo kaufen?",
+          "Wer bezahlt was?",
+          "Wie überreichen?"
+        ],
+        "lines": [
+          "A: Hast du daran gedacht, dass Lena nächste Woche Geburtstag hat? Wir sollten ihr etwas Schönes schenken.",
+          "B: Ja, stimmt! Was hältst du davon, wenn wir ihr ein Kochbuch kaufen? Sie kocht doch so gern.",
+          "A: Gute Idee, aber sie hat schon so viele. Wie wäre es stattdessen mit einem Gutschein für einen Kochkurs?",
+          "B: Das finde ich toll! Weißt du, wo man so einen Gutschein bekommt?",
+          "A: Ich habe im Internet einen Kurs gesehen, der 40 Euro kostet. Wir könnten uns das teilen.",
+          "B: Einverstanden, jeder zahlt 20 Euro. Und wie geben wir ihr das Geschenk?",
+          "A: Ich schlage vor, dass wir sie am Samstag zum Kaffee einladen und es ihr dort geben.",
+          "B: Perfekt! Ich kümmere mich um den Gutschein und du reservierst einen Tisch im Café.",
+          "A: Abgemacht. Und ich schreibe noch eine schöne Karte dazu.",
+          "B: Sehr gut. Lena wird sich bestimmt freuen!"
+        ]
+      },
+      {
+        "title": "Filmabend organisieren",
+        "aufgabe": "Sie möchten einen Filmabend für den Deutschkurs organisieren.",
+        "points": [
+          "Wann?",
+          "Wo?",
+          "Welcher Film?",
+          "Essen und Trinken?"
+        ],
+        "lines": [
+          "A: Ich finde, wir sollten mal einen Filmabend für unseren Kurs machen. Was meinst du?",
+          "B: Super Idee! Wann sollen wir das machen — am Freitag oder Samstag?",
+          "A: Freitag fände ich besser, weil am Samstag viele arbeiten müssen.",
+          "B: Okay, Freitagabend um 19 Uhr. Und wo? Bei mir zu Hause ist leider zu wenig Platz.",
+          "A: Wie wäre es, wenn wir den Gemeinschaftsraum im Studentenwohnheim benutzen? Da gibt es einen Beamer.",
+          "B: Das ist eine gute Idee! Und welchen Film schauen wir? Ein deutscher Film wäre gut für unser Deutsch.",
+          "A: Ich schlage „Good Bye, Lenin!“ vor — der ist lustig und nicht zu schwer zu verstehen.",
+          "B: Einverstanden. Und wer bringt etwas zu essen mit?",
+          "A: Jeder bringt einen Snack mit. Ich könnte Popcorn machen.",
+          "B: Und ich bringe Getränke. Dann schreibe ich eine Nachricht an alle im Kurs."
+        ]
+      },
+      {
+        "title": "Sportkurs wählen",
+        "aufgabe": "Sie möchten zusammen einen Sportkurs besuchen. Planen Sie den Kurs.",
+        "points": [
+          "Welcher Sport?",
+          "Wann?",
+          "Wo?",
+          "Was braucht man?"
+        ],
+        "lines": [
+          "A: Ich möchte mehr Sport machen und suche einen Kurs. Hast du Lust mitzukommen?",
+          "B: Ja, gern! Was für einen Kurs stellst du dir vor? Yoga oder lieber etwas mit mehr Bewegung?",
+          "A: Ich fände einen Tanzkurs cool, zum Beispiel Salsa. Das macht bestimmt Spaß.",
+          "B: Tanzen? Ich weiß nicht, ob ich das kann. Wie wäre es mit Schwimmen? Das ist gesund und man braucht keine Vorkenntnisse.",
+          "A: Da hast du recht. Schwimmen ist auch gut. Und wann sollen wir gehen?",
+          "B: Ich schlage vor, dass wir zweimal pro Woche gehen, zum Beispiel dienstags und donnerstags abends.",
+          "A: Einverstanden. Und wo? Im Hallenbad in der Gartenstraße gibt es Kurse.",
+          "B: Perfekt. Wir brauchen nur Badekleidung und eine Schwimmbrille. Die habe ich schon.",
+          "A: Ich auch. Dann melden wir uns nächste Woche an. Ich schaue vorher nach den Preisen.",
+          "B: Super, danke! Ich freue mich schon."
+        ]
+      },
+      {
+        "title": "Flohmarkt planen",
+        "aufgabe": "Ihr Deutschkurs möchte einen Flohmarkt organisieren, um Geld für einen Ausflug zu sammeln. Planen Sie den Flohmarkt.",
+        "points": [
+          "Wann und wo?",
+          "Was verkaufen?",
+          "Wer macht was?",
+          "Werbung?"
+        ],
+        "lines": [
+          "A: Unsere Lehrerin hat vorgeschlagen, dass wir einen Flohmarkt machen, um Geld für den Ausflug zu sammeln. Sollen wir das zusammen planen?",
+          "B: Ja, gute Idee! Wann könnten wir das machen?",
+          "A: Wie wäre es am nächsten Samstag? Da haben die meisten Zeit.",
+          "B: Einverstanden. Und wo? Vor der Schule wäre praktisch, weil viele Leute vorbeikommen.",
+          "A: Stimmt. Und was verkaufen wir? Jeder könnte Sachen von zu Hause mitbringen, die er nicht mehr braucht.",
+          "B: Ja, und vielleicht auch Kuchen und Kaffee. Damit verdient man am meisten.",
+          "A: Gute Idee! Ich könnte Kuchen backen. Und wer macht die Werbung?",
+          "B: Ich könnte Plakate in der Schule aufhängen und eine Nachricht in der Kursgruppe schreiben.",
+          "A: Perfekt. Also: Samstag vor der Schule, gebrauchte Sachen plus Kuchen, du machst Werbung und ich backe.",
+          "B: Genau. Hoffentlich kommen viele Leute!"
+        ]
+      },
+      {
+        "title": "Nachbarschaftshilfe",
+        "aufgabe": "Eine ältere Nachbarin braucht Hilfe. Planen Sie, wie Sie ihr helfen.",
+        "points": [
+          "Wie helfen?",
+          "Wann?",
+          "Wer macht was?",
+          "Was noch tun?"
+        ],
+        "lines": [
+          "A: Hast du gehört, dass Frau Meier sich das Bein gebrochen hat? Sie kann vier Wochen nicht rausgehen.",
+          "B: Oh nein! Wir sollten ihr helfen. Was könnten wir für sie tun?",
+          "A: Ich denke, wir könnten für sie einkaufen gehen. Sie braucht bestimmt Lebensmittel.",
+          "B: Das ist eine gute Idee. Und vielleicht auch den Müll runterbringen und die Post holen?",
+          "A: Ja, genau. Wie wäre es, wenn wir uns abwechseln? Ich gehe montags und mittwochs, du dienstags und donnerstags.",
+          "B: Einverstanden. Und am Wochenende könnten wir sie mal besuchen und einen Kaffee trinken.",
+          "A: Das wäre schön. Sie ist bestimmt einsam allein in der Wohnung. Ich könnte ihr auch mein Tablet leihen, damit sie Filme schauen kann.",
+          "B: Gute Idee! Und ich frage die anderen Nachbarn, ob sie auch helfen können.",
+          "A: Also: Wir wechseln uns mit dem Einkaufen ab, besuchen sie am Wochenende, und du fragst die Nachbarn.",
+          "B: Perfekt. Ich schreibe ihr gleich eine Karte, damit sie weiß, dass wir an sie denken."
+        ]
+      }
+    ]
+  },
+  "teil2": {
+    "id": "teil2",
+    "no": "Teil 2",
+    "title": "주제 발표",
+    "lead": "두 주제 중 하나를 골라 슬라이드 5장 구조로 발표합니다. 5장의 구성은 시험지에 인쇄되어 있으므로 각 장을 여는 문장을 외워 가면 됩니다. 3분 안팎을 채우려면 말하는 속도에 따라 다르지만 대략 200~260단어, 한 장에 3~5문장이 필요합니다. 발표는 메모의 키워드만 보며 자유롭게 합니다. 읽지 마세요.",
+    "slides_title": "5장 구조",
+    "slides_head": [
+      "슬라이드",
+      "내용",
+      "여는 문장"
+    ],
+    "slides": [
+      [
+        "① 시작",
+        "주제 소개와 발표 구성 안내",
+        "Ich möchte heute mein Thema präsentieren: „…“."
+      ],
+      [
+        "② 경험",
+        "나의 개인적 경험",
+        "Aus eigener Erfahrung kann ich sagen, dass …"
+      ],
+      [
+        "③ 고향",
+        "내 나라의 상황",
+        "In meinem Heimatland Korea ist es üblich, dass …"
+      ],
+      [
+        "④ 장단점",
+        "장점과 단점, 내 의견",
+        "Ein Vorteil ist, dass … Ein Nachteil ist allerdings, dass …"
+      ],
+      [
+        "⑤ 마무리",
+        "요약과 감사 인사",
+        "Zusammenfassend kann ich sagen: … Vielen Dank für die Aufmerksamkeit!"
+      ]
+    ],
+    "address_note": "청중(파트너와 시험관)을 어떻게 부를지는 공식 문서에 정해져 있지 않습니다. 아래 모범 발표는 직접 부르지 않는 중립 표현(Vielen Dank für die Aufmerksamkeit!)을 씁니다.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      [
+        "구성 안내",
+        "순서 연결어",
+        "(생략 잦음)",
+        "Zuerst spreche ich über meine Erfahrungen, danach über die Situation in Korea, zum Schluss nenne ich Vor- und Nachteile."
+      ],
+      [
+        "경험 + 변화",
+        "Präteritum / Perfekt",
+        "Ich esse oft Fast Food.",
+        "Früher habe ich fast jeden Tag Fast Food gegessen, aber seitdem koche ich öfter selbst."
+      ],
+      [
+        "고향 상황",
+        "Relativsatz",
+        "In Korea auch.",
+        "An jeder Ecke gibt es Imbisse, die rund um die Uhr geöffnet sind."
+      ],
+      [
+        "의견",
+        "überzeugt",
+        "Ich finde das gut.",
+        "Meiner Meinung nach … / Ich bin davon überzeugt, dass …"
+      ],
+      [
+        "조건 의견",
+        "wenn-Satz",
+        "Es ist okay.",
+        "Es ist in Ordnung, wenn man es nur selten macht."
+      ],
+      [
+        "권고",
+        "sollte",
+        "Man muss X.",
+        "Man sollte so oft wie möglich selbst kochen."
+      ],
+      [
+        "질문 초대",
+        "마무리 뒤",
+        "(침묵)",
+        "Gibt es noch Fragen?"
+      ],
+      [
+        "빈도·수치",
+        "구체성 ↑",
+        "oft",
+        "Ich esse ungefähr einmal pro Woche Fast Food."
+      ],
+      [
+        "비교",
+        "Im Vergleich zu",
+        "anders als hier",
+        "Im Vergleich zu Deutschland ist die Situation in Korea ganz anders."
+      ],
+      [
+        "근거 나열",
+        "erstens / zweitens",
+        "viele Gründe",
+        "Dafür gibt es mehrere Gründe: Erstens …, zweitens …"
+      ],
+      [
+        "예시",
+        "설득력 ↑",
+        "z. B.",
+        "Ein gutes Beispiel dafür ist …"
+      ],
+      [
+        "개인 강조",
+        "persönlich",
+        "Ich finde …",
+        "Für mich persönlich ist es wichtig, dass …"
+      ]
+    ],
+    "stuck_title": "발표 중 막힐 때",
+    "stuck_head": [
+      "상황",
+      "표현"
+    ],
+    "stuck": [
+      [
+        "내용이 떠오르지 않을 때",
+        "Ich komme jetzt zum nächsten Punkt: …"
+      ],
+      [
+        "예시가 생각 안 날 때",
+        "Ein Beispiel aus meinem Alltag: … / Ich kenne jemanden, der …"
+      ],
+      [
+        "고향 상황을 모를 때",
+        "Soweit ich weiß, ist es in Korea ähnlich wie hier. / Ich glaube, in Korea …"
+      ],
+      [
+        "장단점이 안 떠오를 때",
+        "Auf der einen Seite ist es praktisch, auf der anderen Seite gibt es auch Probleme."
+      ],
+      [
+        "시간이 남을 때",
+        "Ich möchte noch hinzufügen, dass … / Was ich noch sagen wollte: …"
+      ],
+      [
+        "마무리 문장이 기억 안 날 때",
+        "Das war meine Präsentation. Vielen Dank!"
+      ]
+    ],
+    "answers_title": "모범 발표 10",
+    "answers_note": "각 발표는 5장입니다. 단어 수는 5장 전체 합계입니다.",
+    "words_range": [
+      190,
+      300
+    ],
+    "folien_labels": [
+      "Folie 1 · 시작",
+      "Folie 2 · 나의 경험",
+      "Folie 3 · 고향의 상황",
+      "Folie 4 · 장단점과 의견",
+      "Folie 5 · 마무리"
+    ],
+    "answers": [
+      {
+        "title": "Fast Food",
+        "thema": "Fast Food — schnelles Essen im Alltag",
+        "aufgabe": "Wählen Sie ein Thema. Erstellen Sie eine Präsentation (5 Folien) und sprechen Sie ca. 3 Minuten.",
+        "folien": [
+          "Ich möchte heute mein Thema präsentieren: „Fast Food — schnelles Essen im Alltag“. Zuerst erzähle ich von meinen persönlichen Erfahrungen, danach spreche ich über die Situation in meinem Heimatland, und zum Schluss nenne ich Vor- und Nachteile und sage meine Meinung.",
+          "Ich esse ungefähr einmal pro Woche Fast Food, meistens wenn ich wenig Zeit habe. Früher habe ich fast jeden Tag Hamburger oder Pizza gegessen, aber dann habe ich fünf Kilo zugenommen. Seitdem koche ich öfter selbst. Das dauert zwar länger, aber es schmeckt besser und ist gesünder.",
+          "In Korea ist Fast Food sehr beliebt, besonders bei jungen Leuten. An jeder Ecke gibt es Imbisse, die rund um die Uhr geöffnet sind. Viele Studenten essen dort, weil das Essen billig ist und schnell geht. Auch viele Berufstätige bestellen mittags einfach etwas, weil die Pause kurz ist.",
+          "Fast Food hat Vorteile: Es ist schnell, praktisch und nicht teuer. Aber es gibt auch Nachteile: Es enthält viel Fett und Zucker und ist deshalb ungesund. Meiner Meinung nach ist Fast Food in Ordnung, wenn man es nur selten isst. Man sollte aber so oft wie möglich selbst kochen. Ich koche zum Beispiel am Sonntag oft für die ganze Woche vor — so spare ich Zeit und esse trotzdem gesund.",
+          "Zusammenfassend kann ich sagen: Fast Food gehört zu unserem Alltag, aber die Menge ist entscheidend. Vielen Dank für die Aufmerksamkeit! Gibt es noch Fragen?"
+        ]
+      },
+      {
+        "title": "Online einkaufen",
+        "thema": "Einkaufen im Internet",
+        "aufgabe": "Präsentieren Sie das Thema „Einkaufen im Internet“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Ich möchte heute das Thema „Online einkaufen“ präsentieren. Zuerst spreche ich über meine Erfahrungen, dann über die Situation in Korea, und zum Schluss nenne ich Vor- und Nachteile.",
+          "Ich kaufe ungefähr zweimal im Monat online ein, meistens Bücher und Kleidung. Am liebsten bestelle ich abends auf dem Sofa, weil ich dann Ruhe habe. Früher bin ich immer ins Geschäft gegangen, aber seitdem ich Vollzeit arbeite, habe ich dafür weniger Zeit. Letzten Monat habe ich allerdings eine Hose bestellt, die überhaupt nicht gepasst hat. Seitdem lese ich vor dem Bestellen immer die Bewertungen von anderen Kunden.",
+          "In Korea ist Online-Shopping extrem beliebt. Fast jeder bestellt Lebensmittel, Kleidung und sogar Möbel im Internet. Viele Geschäfte bieten Lieferung am selben Tag an, was sehr praktisch ist.",
+          "Ein Vorteil ist, dass man Zeit spart und Preise leicht vergleichen kann. Außerdem kann man rund um die Uhr einkaufen. Ein Nachteil ist allerdings, dass man die Produkte nicht anfassen kann. Meiner Meinung nach sollte man beides kombinieren — wichtige Dinge im Geschäft kaufen und den Rest online bestellen. Außerdem sollte man kleine Läden unterstützen, damit unsere Innenstädte lebendig bleiben.",
+          "Zusammenfassend kann ich sagen: Online-Shopping ist praktisch, aber man sollte bewusst einkaufen. Vielen Dank für die Aufmerksamkeit! Gibt es noch Fragen?"
+        ]
+      },
+      {
+        "title": "Fremdsprachen lernen",
+        "thema": "Soll jeder eine Fremdsprache lernen?",
+        "aufgabe": "Präsentieren Sie das Thema „Soll jeder eine Fremdsprache lernen?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Mein Thema heute ist „Fremdsprachen lernen“. Ich erzähle zuerst von meinen eigenen Erfahrungen, dann über die Situation in Korea und nenne am Ende Vor- und Nachteile.",
+          "Ich lerne seit einem Jahr Deutsch und es macht mir viel Spaß, obwohl die Grammatik manchmal schwierig ist. Besonders die Artikel finde ich schwer, weil es sie im Koreanischen nicht gibt. In der Schule habe ich zehn Jahre Englisch gelernt, aber erst in Deutschland habe ich verstanden, wie wichtig Sprechen ist — nicht nur Grammatik. Deshalb spreche ich jetzt jede Woche mit einem Tandempartner, und mein Deutsch wird langsam besser.",
+          "In Korea lernt jeder ab der Grundschule Englisch. Viele Eltern schicken ihre Kinder auch zu privaten Sprachschulen. Andere Sprachen wie Deutsch oder Japanisch sind weniger verbreitet, aber an den Universitäten werden sie immer beliebter. Viele junge Koreaner möchten nämlich im Ausland studieren oder arbeiten.",
+          "Ein Vorteil ist, dass man neue Kulturen versteht und bessere Berufschancen hat. Man wird auch offener und selbstbewusster. Ein Nachteil ist, dass Sprachenlernen viel Zeit und Geduld braucht. Ich bin trotzdem überzeugt, dass sich die Mühe lohnt. Eine neue Sprache ist wie ein Fenster: Man sieht die Welt plötzlich ganz anders.",
+          "Zusammenfassend finde ich, dass jeder mindestens eine Fremdsprache lernen sollte. Es öffnet Türen — beruflich und persönlich. Vielen Dank für die Aufmerksamkeit!"
+        ]
+      },
+      {
+        "title": "Sport treiben",
+        "thema": "Ist Sport wichtig?",
+        "aufgabe": "Präsentieren Sie das Thema „Ist Sport wichtig?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Ich spreche heute über das Thema „Sport im Alltag“. Ich beginne mit meinen Erfahrungen, danach erzähle ich von Korea und zum Schluss diskutiere ich Vor- und Nachteile.",
+          "Ich jogge dreimal pro Woche im Park, meistens morgens vor der Arbeit. Am Anfang war das schwer, aber jetzt kann ich mir mein Leben ohne Laufen nicht mehr vorstellen. Früher habe ich keinen Sport gemacht und war oft müde. Seitdem ich regelmäßig laufe, fühle ich mich viel fitter und kann mich besser konzentrieren. Außerdem schlafe ich viel besser als früher.",
+          "In Korea ist Fitness sehr populär. In jeder Straße gibt es ein Fitnessstudio, und viele Leute machen auch zu Hause Sport mit YouTube-Videos. Wandern ist ebenfalls ein beliebtes Hobby — am Wochenende sind die Berge immer voll. Auch viele Firmen bieten ihren Mitarbeitern Sportkurse an, weil gesunde Mitarbeiter seltener krank sind.",
+          "Sport hat viele Vorteile: Man bleibt gesund, fühlt sich besser und lernt neue Leute kennen. Ein Nachteil könnte sein, dass man sich verletzt, wenn man zu viel trainiert. Meiner Meinung nach sollte jeder mindestens dreimal pro Woche 30 Minuten Sport machen. Wichtig ist, dass man eine Sportart findet, die wirklich Spaß macht — sonst hört man schnell wieder auf.",
+          "Zusammenfassend kann ich sagen: Sport ist nicht nur gesund, sondern macht auch glücklich. Vielen Dank fürs Zuhören! Gibt es noch Fragen?"
+        ]
+      },
+      {
+        "title": "Smartphone im Alltag",
+        "thema": "Leben ohne Smartphone — geht das?",
+        "aufgabe": "Präsentieren Sie das Thema „Leben ohne Smartphone — geht das?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Heute präsentiere ich das Thema „Smartphone im Alltag“. Zuerst erzähle ich von meinen persönlichen Erfahrungen, dann spreche ich über Korea, und am Ende nenne ich Vor- und Nachteile.",
+          "Ich benutze mein Smartphone ungefähr vier Stunden am Tag — für Nachrichten, soziale Medien und Musik. Letztes Jahr habe ich versucht, ein Wochenende ohne Handy zu verbringen. Es war am Anfang schwer, aber danach habe ich mich sehr erholt. Ich habe mehr gelesen und bin viel spazieren gegangen.",
+          "In Korea hat fast jeder ein Smartphone, sogar Grundschüler. Man bezahlt damit, kauft Fahrkarten und bestellt Essen. Ohne Smartphone ist der Alltag in Korea tatsächlich sehr schwierig geworden. Zum Beispiel bezahlt man im Café mit dem Handy, und Bustickets kauft man auch in der App.",
+          "Ein großer Vorteil ist, dass man immer erreichbar ist und schnell Informationen findet. Andererseits verbringen besonders junge Leute zu viel Zeit am Bildschirm. Ich denke, man sollte bewusst Pausen einlegen und das Handy beim Essen weglegen. In meiner Familie haben wir eine Regel: Beim Abendessen bleiben alle Handys in der Tasche.",
+          "Zusammenfassend finde ich: Das Smartphone ist aus unserem Leben nicht mehr wegzudenken, aber wir sollten es kontrollieren — und nicht umgekehrt. Vielen Dank für die Aufmerksamkeit!"
+        ]
+      },
+      {
+        "title": "Soziale Netzwerke",
+        "thema": "Soziale Netzwerke — Fluch oder Segen?",
+        "aufgabe": "Präsentieren Sie das Thema „Soziale Netzwerke — Fluch oder Segen?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Ich möchte heute das Thema „Soziale Netzwerke“ präsentieren. Zuerst erzähle ich von meinen persönlichen Erfahrungen, dann spreche ich über die Situation in Korea und zum Schluss nenne ich Vor- und Nachteile.",
+          "Ich benutze Instagram und KakaoTalk jeden Tag, vor allem um mit Freunden in Kontakt zu bleiben. Früher habe ich viel mehr Zeit in sozialen Netzwerken verbracht, aber seitdem ich gemerkt habe, dass ich davon schlechte Laune bekomme, versuche ich es auf eine Stunde pro Tag zu begrenzen.",
+          "In Korea sind soziale Netzwerke extrem beliebt. Fast jeder hat ein Profil bei Instagram oder KakaoStory. Besonders junge Leute teilen fast alles online — vom Essen bis zum Urlaub. Viele Firmen nutzen auch soziale Medien für Werbung, weil sie dort viele Menschen erreichen können.",
+          "Ein großer Vorteil ist, dass man mit Freunden und Familie in Kontakt bleibt, auch wenn sie weit weg wohnen. Außerdem kann man schnell Neuigkeiten erfahren. Andererseits vergleichen sich viele Menschen mit anderen und fühlen sich dann schlecht. Meiner Meinung nach sollte man soziale Netzwerke bewusst nutzen und regelmäßig Pausen machen.",
+          "Zusammenfassend kann ich sagen: Soziale Netzwerke sind nützlich, aber man sollte aufpassen, dass sie das echte Leben nicht ersetzen. Vielen Dank für die Aufmerksamkeit!"
+        ]
+      },
+      {
+        "title": "Reisen",
+        "thema": "Reisen bildet — stimmt das?",
+        "aufgabe": "Präsentieren Sie das Thema „Reisen bildet — stimmt das?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Mein heutiges Thema ist „Reisen bildet — stimmt das?“. Ich beginne mit meinen Erfahrungen, spreche dann über Korea und nenne am Ende Vor- und Nachteile.",
+          "Letztes Jahr war ich zum ersten Mal in Deutschland. Ich habe nicht nur mein Deutsch verbessert, sondern auch gelernt, selbstständiger zu sein. Zum Beispiel musste ich allein eine Wohnung suchen und zum Arzt gehen — auf Deutsch! Das war schwer, aber ich habe sehr viel dabei gelernt.",
+          "In Korea reisen viele junge Leute nach dem Studium ins Ausland, bevor sie anfangen zu arbeiten. Das nennt man „Backpacking“. Beliebte Ziele sind Europa und Südostasien. Viele Koreaner sagen, dass Reisen die beste Schule des Lebens ist. Auch ich habe nach meinem Studium überlegt, ein halbes Jahr durch Europa zu reisen, weil ich viele Länder kennenlernen wollte.",
+          "Ein Vorteil ist, dass man andere Kulturen kennenlernt und offener wird. Man lernt auch, mit Problemen umzugehen, zum Beispiel wenn man den Weg nicht findet. Ein Nachteil ist, dass Reisen teuer sein kann und nicht alle sich das leisten können. Trotzdem bin ich überzeugt, dass sich jede Reise lohnt, auch eine kurze. Außerdem sollte man nicht nur Sehenswürdigkeiten besuchen, sondern auch mit Einheimischen sprechen, damit man das Land wirklich versteht.",
+          "Zusammenfassend finde ich: Reisen bildet tatsächlich — nicht nur im Kopf, sondern auch im Herzen. Vielen Dank fürs Zuhören!"
+        ]
+      },
+      {
+        "title": "Fernsehen",
+        "thema": "Braucht man noch einen Fernseher?",
+        "aufgabe": "Präsentieren Sie das Thema „Braucht man noch einen Fernseher?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Ich spreche heute über die Frage „Braucht man noch einen Fernseher?“. Zuerst erzähle ich von meinen Erfahrungen, dann von der Situation in Korea, und zum Schluss diskutiere ich Vor- und Nachteile.",
+          "Seit zwei Jahren habe ich keinen Fernseher mehr. Ich schaue alles auf meinem Laptop über Streaming-Dienste wie Netflix. Am Anfang war es ungewohnt, aber jetzt finde ich es viel praktischer, weil ich schauen kann, was und wann ich möchte. Nur bei Fußball-Spielen vermisse ich manchmal den großen Bildschirm.",
+          "In Korea hat fast jede Familie einen Fernseher, oft sogar einen sehr großen. Aber immer mehr junge Leute schauen nur noch auf dem Handy oder Tablet. Meine Eltern dagegen schauen jeden Abend die Nachrichten im Fernsehen — das ist für sie wie ein Ritual. Wenn es ein wichtiges Fußballspiel gibt, treffen sich viele Freunde vor dem Fernseher oder in einer Bar.",
+          "Streaming hat viele Vorteile: eine riesige Auswahl, keine Werbung und man kann pausieren. Andererseits schaut man beim Streaming oft allein, während Fernsehen in der Familie ein gemeinsames Erlebnis sein kann. Meiner Meinung nach wird der klassische Fernseher langsam verschwinden, aber das gemeinsame Schauen sollte bleiben.",
+          "Zusammenfassend denke ich: Der Fernseher wird unwichtiger, aber das Bedürfnis nach gemeinsamen Erlebnissen bleibt. Vielen Dank für die Aufmerksamkeit!"
+        ]
+      },
+      {
+        "title": "Haustiere",
+        "thema": "Haustiere — braucht der Mensch Tiere?",
+        "aufgabe": "Präsentieren Sie das Thema „Haustiere — braucht der Mensch Tiere?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Mein Thema heute ist „Haustiere — braucht der Mensch Tiere?“. Zuerst berichte ich von meinen Erfahrungen, dann von der Situation in Korea und nenne anschließend Vor- und Nachteile.",
+          "Ich habe seit drei Jahren eine Katze namens Mimi. Sie war ein Geschenk von meiner Schwester. Am Anfang war ich unsicher, ob ich genug Zeit für ein Tier habe. Aber Mimi gibt mir so viel Freude, dass ich mir ein Leben ohne sie nicht mehr vorstellen kann. Wenn ich gestresst bin, setze ich mich neben sie und fühle mich sofort besser.",
+          "In Korea werden Haustiere immer beliebter, besonders bei allein lebenden Menschen. Viele Cafés haben sogar Katzenzimmer, in denen man mit Katzen spielen kann, während man Kaffee trinkt. Allerdings gibt es leider auch viele Tiere, die ausgesetzt werden, wenn die Besitzer keine Lust mehr haben.",
+          "Ein großer Vorteil ist, dass Haustiere gegen Einsamkeit helfen und gut für die Gesundheit sind. Viele sagen, dass Tierbesitzer weniger Stress haben. Ein Nachteil ist, dass Tiere Zeit und Geld kosten — Tierarzt, Futter und Pflege. Meiner Meinung nach sollte man sich gut überlegen, ob man die Verantwortung tragen kann, bevor man sich ein Tier anschafft.",
+          "Zusammenfassend kann ich sagen: Haustiere bereichern unser Leben, aber man muss bereit sein, Verantwortung zu übernehmen. Vielen Dank!"
+        ]
+      },
+      {
+        "title": "Selbst kochen oder Fertigessen",
+        "thema": "Selbst kochen oder Fertigessen — was ist besser?",
+        "aufgabe": "Präsentieren Sie das Thema „Selbst kochen oder Fertigessen — was ist besser?“ (5 Folien, ca. 3 Minuten).",
+        "folien": [
+          "Heute präsentiere ich das Thema „Selbst kochen oder Fertigessen“. Ich erzähle zuerst von meinen Erfahrungen, dann von Korea und nenne am Ende Vor- und Nachteile.",
+          "Ich koche ungefähr dreimal pro Woche selbst, meistens am Wochenende. Unter der Woche habe ich oft keine Zeit und bestelle dann Essen oder esse Fertiggerichte. Früher habe ich überhaupt nicht gekocht, aber seit ich in Deutschland lebe, habe ich angefangen, weil deutsches Fertigessen mir nicht so gut schmeckt wie koreanisches.",
+          "In Korea ist Essen bestellen sehr einfach und billig. Man kann zu jeder Tageszeit Essen liefern lassen, manchmal in nur 20 Minuten. Trotzdem kochen viele Koreaner am Wochenende traditionelle Gerichte, weil das in der koreanischen Kultur sehr wichtig ist. Meine Mutter zum Beispiel kocht jeden Sonntag Kimchi-Jjigae für die ganze Familie.",
+          "Selbst kochen ist gesünder, billiger und man weiß genau, was im Essen ist. Außerdem macht es Spaß, wenn man mit Freunden zusammen kocht. Fertigessen spart dagegen viel Zeit, was für berufstätige Menschen praktisch ist. Ich denke, eine Mischung ist am besten: unter der Woche mal schnell etwas Fertiges, am Wochenende selbst kochen und genießen.",
+          "Zusammenfassend finde ich: Wer kann, sollte öfter selbst kochen — es ist gesünder, günstiger und macht Spaß. Vielen Dank für die Aufmerksamkeit! Gibt es noch Fragen?"
+        ]
+      }
+    ]
+  },
+  "teil3": {
+    "id": "teil3",
+    "no": "Teil 3",
+    "title": "피드백과 질문",
+    "lead": "파트너의 발표가 끝나면 먼저 피드백을 주고(발표가 어땠는지, 새롭거나 특히 흥미로웠던 점) 질문을 하나 합니다. 그다음 내 발표에 대한 파트너와 시험관의 질문에 답합니다. 파트너에게는 du, 시험관에게는 Sie가 자연스럽지만 공식 규정은 없습니다. 한 시험 안에서 일관되게 쓰세요.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      [
+        "감사 + 피드백",
+        "필수 시작",
+        "Gut gemacht.",
+        "Vielen Dank für deine Präsentation. Sie war wirklich interessant."
+      ],
+      [
+        "구체적 피드백",
+        "fand ich",
+        "Interessant.",
+        "Besonders interessant fand ich, dass es in Korea so viele Imbisse gibt."
+      ],
+      [
+        "질문",
+        "höflich",
+        "Warum?",
+        "Ich hätte noch eine Frage: Was ist dein Lieblings-Fast-Food?"
+      ],
+      [
+        "답변 시작",
+        "시간 벌기",
+        "(침묵)",
+        "Das ist eine gute Frage. Ich denke, dass …"
+      ],
+      [
+        "모를 때",
+        "만회 표현",
+        "Weiß nicht.",
+        "Darüber habe ich noch nicht nachgedacht, aber ich glaube, …"
+      ],
+      [
+        "동의",
+        "피드백 변형",
+        "Ja.",
+        "Ich sehe das genauso wie du."
+      ],
+      [
+        "다른 의견",
+        "정중한 반대",
+        "Nein.",
+        "Da habe ich eine andere Meinung, weil …"
+      ],
+      [
+        "경험 질문",
+        "질문 아이디어",
+        "Und du?",
+        "Hast du selbst schon einmal Fast Food zu Hause gemacht?"
+      ],
+      [
+        "명확화",
+        "되묻기",
+        "Was?",
+        "Wie meinst du das genau? / Könntest du das bitte wiederholen?"
+      ]
+    ],
+    "qa_title": "모범 문답 10",
+    "qa_labels": [
+      "피드백 + 질문 (파트너에게)",
+      "답변 (파트너 질문에)",
+      "시험관 질문",
+      "답변 (시험관 질문에)"
+    ],
+    "qa": [
+      {
+        "title": "Fast Food",
+        "after": "파트너 발표(Fast Food)가 끝난 후",
+        "fb": "Vielen Dank für deine Präsentation, sie war sehr interessant. Besonders interessant fand ich, dass es in Korea so viele Imbisse gibt. Ich hätte noch eine Frage: Was ist dein Lieblings-Fast-Food?",
+        "ans": "Danke für die Frage! Am liebsten esse ich Tteokbokki — das ist ein koreanisches Streetfood aus Reiskuchen mit scharfer Soße. Das solltest du unbedingt mal probieren!",
+        "exq": "Glauben Sie, dass Fast Food in Zukunft noch beliebter wird?",
+        "exa": "Das ist eine gute Frage. Ich denke ja, weil viele Menschen immer weniger Zeit zum Kochen haben. Aber ich hoffe, dass es in Zukunft mehr gesundes Fast Food gibt, zum Beispiel Salate."
+      },
+      {
+        "title": "Online einkaufen",
+        "after": "파트너 발표(Online einkaufen)가 끝난 후",
+        "fb": "Vielen Dank für deine Präsentation! Besonders interessant fand ich, dass in Korea Lieferung am selben Tag möglich ist. Ich hätte noch eine Frage: Hast du schon mal etwas online gekauft und zurückgeschickt?",
+        "ans": "Ja, einmal habe ich Schuhe bestellt, die zu klein waren. Das Zurückschicken war kostenlos, aber es hat eine Woche gedauert. Deshalb probiere ich Schuhe lieber im Geschäft an.",
+        "exq": "Glauben Sie, dass es in Zukunft keine Geschäfte mehr geben wird?",
+        "exa": "Nein, ich glaube nicht. Viele Menschen möchten Produkte anfassen und anprobieren. Aber ich denke, dass kleine Läden es schwerer haben werden."
+      },
+      {
+        "title": "Fremdsprachen",
+        "after": "파트너 발표(Fremdsprachen)가 끝난 후",
+        "fb": "Danke für deine Präsentation, sie war sehr informativ! Ich fand es interessant, dass in Korea alle Kinder schon früh Englisch lernen. Meine Frage ist: Welche Sprache würdest du noch gern lernen?",
+        "ans": "Das ist eine gute Frage! Ich würde gern Spanisch lernen, weil man es in vielen Ländern sprechen kann. Aber zuerst möchte ich mein Deutsch verbessern.",
+        "exq": "Was ist Ihrer Meinung nach die beste Methode, eine Sprache zu lernen?",
+        "exa": "Ich denke, Sprechen ist am wichtigsten. Man kann viel Grammatik lernen, aber wenn man nicht spricht, vergisst man alles. Ein Tandempartner hilft sehr."
+      },
+      {
+        "title": "Sport",
+        "after": "파트너 발표(Sport)가 끝난 후",
+        "fb": "Vielen Dank! Deine Präsentation war wirklich gut. Besonders interessant fand ich, dass du morgens vor der Arbeit joggst. Ich hätte eine Frage: Machst du auch im Winter draußen Sport?",
+        "ans": "Im Winter ist es schwieriger, aber ich versuche es trotzdem. Wenn es zu kalt ist, gehe ich ins Fitnessstudio oder mache zu Hause Übungen mit einer App.",
+        "exq": "Sollte der Staat mehr Sportangebote für Bürger finanzieren?",
+        "exa": "Ja, das fände ich sehr gut. Wenn es mehr kostenlose Sportangebote gäbe, würden bestimmt mehr Menschen Sport machen. Das wäre auch gut für die Gesundheit aller."
+      },
+      {
+        "title": "Smartphone",
+        "after": "파트너 발표(Smartphone)가 끝난 후",
+        "fb": "Danke für die interessante Präsentation! Ich sehe das genauso wie du — wir sollten das Smartphone bewusster nutzen. Meine Frage: Könntest du dir vorstellen, eine Woche komplett ohne Smartphone zu leben?",
+        "ans": "Ehrlich gesagt, nein. Ich brauche es für die Arbeit und für den Kontakt mit meiner Familie in Korea. Aber ein Wochenende ohne Handy würde ich gern noch einmal versuchen.",
+        "exq": "Finden Sie, dass Kinder ein Smartphone haben sollten?",
+        "exa": "Darüber habe ich schon oft nachgedacht. Ich denke, ein Smartphone ist für Kinder ab 12 oder 13 in Ordnung, aber die Eltern sollten die Nutzung kontrollieren."
+      },
+      {
+        "title": "Soziale Netzwerke",
+        "after": "파트너 발표(Soziale Netzwerke)가 끝난 후",
+        "fb": "Vielen Dank für deine Präsentation! Besonders interessant fand ich, dass du deine Nutzung auf eine Stunde begrenzt hast. Meine Frage: Wie hast du das geschafft? Hast du Tipps?",
+        "ans": "Ja, ich habe eine App installiert, die mir nach einer Stunde eine Warnung zeigt. Außerdem habe ich alle Benachrichtigungen ausgeschaltet. Das hat sehr geholfen.",
+        "exq": "Sollten soziale Netzwerke für Kinder unter 14 verboten werden?",
+        "exa": "Das ist eine schwierige Frage. Ich denke, ein komplettes Verbot ist unrealistisch, aber Eltern sollten die Nutzung begleiten und Regeln aufstellen. Vielleicht wäre eine Altersgrenze von 13 Jahren sinnvoll."
+      },
+      {
+        "title": "Reisen",
+        "after": "파트너 발표(Reisen bildet)가 끝난 후",
+        "fb": "Danke für die tolle Präsentation! Ich fand es besonders spannend, dass du in Deutschland allein eine Wohnung gesucht hast. Ich hätte eine Frage: Was war die schwierigste Situation auf deiner Reise?",
+        "ans": "Das Schwierigste war, als ich zum Arzt musste und die medizinischen Begriffe nicht kannte. Aber die Ärztin war sehr geduldig und hat mir alles langsam erklärt.",
+        "exq": "Manche sagen, man kann durch das Internet genauso viel lernen wie durch Reisen. Was denken Sie?",
+        "exa": "Ich glaube nicht. Im Internet kann man zwar viel über andere Kulturen lesen, aber das eigene Erleben ist etwas ganz anderes. Wenn man in einem fremden Land ist, lernt man auch sich selbst besser kennen."
+      },
+      {
+        "title": "Fernsehen",
+        "after": "파트너 발표(Fernsehen)가 끝난 후",
+        "fb": "Vielen Dank für deine Präsentation! Ich sehe das ähnlich wie du — Streaming wird immer wichtiger. Eine Frage: Gibt es etwas, das du am Fernsehen vermisst?",
+        "ans": "Ja, tatsächlich. Ich vermisse das gemeinsame Schauen mit meiner Familie. Früher haben wir jeden Sonntagabend zusammen einen Film geschaut — das war immer sehr schön.",
+        "exq": "Glauben Sie, dass Nachrichten im Fernsehen zuverlässiger sind als im Internet?",
+        "exa": "Ich denke ja, weil Fernsehnachrichten von Journalisten gemacht werden, die die Informationen überprüfen. Im Internet kann dagegen jeder etwas schreiben, ohne dass es kontrolliert wird."
+      },
+      {
+        "title": "Haustiere",
+        "after": "파트너 발표(Haustiere)가 끝난 후",
+        "fb": "Danke für die interessante Präsentation! Besonders berührt hat mich, dass deine Katze dir bei Stress hilft. Ich hätte eine Frage: Würdest du auch einen Hund haben wollen?",
+        "ans": "Ehrlich gesagt, nein. Ein Hund braucht viel mehr Aufmerksamkeit und man muss jeden Tag mehrmals rausgehen. Als Student habe ich dafür leider nicht genug Zeit. Aber vielleicht später einmal.",
+        "exq": "In manchen Städten gibt es ein Verbot für bestimmte Hunderassen. Was halten Sie davon?",
+        "exa": "Ich kann verstehen, warum es solche Regeln gibt — die Sicherheit ist wichtig. Aber ich finde, es kommt mehr auf den Besitzer an als auf die Rasse. Vielleicht wäre ein Hundeführerschein eine bessere Lösung."
+      },
+      {
+        "title": "Selbst kochen",
+        "after": "파트너 발표(Selbst kochen)가 끝난 후",
+        "fb": "Vielen Dank für deine Präsentation! Ich fand es interessant, dass du erst in Deutschland angefangen hast zu kochen. Meine Frage: Was ist dein Lieblingsgericht, das du selbst kochst?",
+        "ans": "Am liebsten koche ich Bibimbap — das ist Reis mit Gemüse und einem Spiegelei. Es ist einfach zu machen und schmeckt jedes Mal anders, je nachdem welches Gemüse man hat.",
+        "exq": "Sollte Kochen ein Schulfach sein?",
+        "exa": "Ja, das fände ich sehr sinnvoll! Viele junge Menschen können nicht kochen und ernähren sich deshalb ungesund. Wenn man in der Schule kochen lernt, hat man sein ganzes Leben etwas davon. In Korea gibt es das leider noch nicht."
+      }
+    ]
+  },
+  "partikeln": {
+    "id": "partikeln",
+    "title": "자연스러운 말하기 — 불변화사",
+    "intro": "doch · mal · denn 같은 불변화사(Modalpartikeln)는 뜻이 거의 없지만 말투를 부드럽고 자연스럽게 만듭니다. 시험에서 2~3개만 자연스럽게 써도 대화가 자연스러워지고, 특히 Teil 1 대화에서 효과적입니다.",
+    "head": [
+      "불변화사",
+      "뉘앙스 · 쓰는 상황",
+      "예문"
+    ],
+    "rows": [
+      [
+        "mal",
+        "부탁·제안을 가볍게 (한번 ~해 보자)",
+        "Sollen wir mal im Internet schauen? / Warte mal kurz!"
+      ],
+      [
+        "doch",
+        "권유 강조, 아는 사실 환기 (그냥 ~해! ~잖아)",
+        "Komm doch einfach mit! / Das ist doch eine super Idee!"
+      ],
+      [
+        "ja",
+        "서로 아는 사실 확인 (알다시피)",
+        "Du weißt ja, dass ich freitags arbeiten muss."
+      ],
+      [
+        "denn",
+        "의문문에 관심과 친근함, 딱딱한 질문을 부드럽게",
+        "Was machst du denn am Samstag? / Wo warst du denn?"
+      ],
+      [
+        "eigentlich",
+        "부드러운 화제 전환 (그런데 말이야)",
+        "Was kostet der Kurs eigentlich?"
+      ],
+      [
+        "eben / halt",
+        "체념, 불가피 (어쩔 수 없지 뭐)",
+        "Dann treffen wir uns eben am Sonntag."
+      ],
+      [
+        "schon",
+        "안심, 낙관 (잘 될 거야)",
+        "Das schaffen wir schon!"
+      ],
+      [
+        "ruhig",
+        "허락, 안심 (편하게 ~해도 돼)",
+        "Du kannst ruhig später kommen."
+      ],
+      [
+        "wohl",
+        "추측 (아마 ~겠지)",
+        "Das wird wohl zu teuer sein."
+      ]
+    ],
+    "rules_title": "사용 규칙 4가지",
+    "rules": [
+      "강세 없이 가볍게 발음합니다. 불변화사를 강조하면 어색해집니다.",
+      "위치는 동사나 대명사 바로 뒤입니다. (Komm doch mit / Was machst du denn)",
+      "한 문장에 1개면 충분합니다. 과용하면 오히려 부자연스럽습니다.",
+      "억지로 조합하지 말고 위 예문을 통째로 외워서 씁니다. 추천: Teil 1 제안에 doch · mal, 되묻기에 denn, 양보에 eben / Teil 3 질문에 denn · eigentlich."
+    ]
+  },
+  "grammar": {
+    "id": "grammatik",
+    "title": "B1 합격 필수 문법 14",
+    "intro": "채점 기준 Strukturen에서 보려는 문법입니다. 발표와 대화에 아래 문법을 최소 3~4개 의도적으로 넣으세요.",
+    "head": [
+      "문법",
+      "핵심",
+      "예문"
+    ],
+    "rows": [
+      [
+        "Konjunktiv II",
+        "würde · hätte · wäre · könnte, 공손·가정",
+        "Wir könnten vorher Blumen kaufen."
+      ],
+      [
+        "Nebensätze",
+        "weil · dass · wenn · obwohl, 동사 맨 끝",
+        "Obwohl es teuer ist, esse ich gern dort."
+      ],
+      [
+        "um … zu / damit",
+        "목적 표현",
+        "Ich lerne Deutsch, um in Berlin zu studieren."
+      ],
+      [
+        "Relativsätze",
+        "der · die · das · denen",
+        "Das ist das Restaurant, das du mir empfohlen hast."
+      ],
+      [
+        "Passiv",
+        "wird + Partizip II",
+        "In Korea wird viel Reis gegessen."
+      ],
+      [
+        "Präteritum",
+        "war · hatte · musste · wollte",
+        "Ich musste umziehen, denn die Wohnung war zu klein."
+      ],
+      [
+        "Perfekt (haben/sein)",
+        "이동·변화는 sein",
+        "Ich bin umgezogen. / Ich habe gekocht."
+      ],
+      [
+        "Genitiv",
+        "wegen · trotz + Genitiv",
+        "Wegen des Wetters bleiben wir zu Hause."
+      ],
+      [
+        "2단 연결어",
+        "einerseits … andererseits 등",
+        "Einerseits ist es praktisch, andererseits ungesund."
+      ],
+      [
+        "Infinitiv mit zu",
+        "Es ist wichtig, … zu",
+        "Ich habe vor, mehr Sport zu machen."
+      ],
+      [
+        "동사 + 전치사",
+        "sich freuen auf / über 등",
+        "Ich freue mich auf deine Antwort."
+      ],
+      [
+        "형용사 어미",
+        "der große Balkon",
+        "Die neue Wohnung hat einen großen Balkon."
+      ],
+      [
+        "Futur I",
+        "werden + Infinitiv",
+        "Viele Geschäfte werden schließen."
+      ],
+      [
+        "재귀동사",
+        "sich treffen · sich kümmern",
+        "Du kümmerst dich um die Blumen."
+      ]
+    ]
+  }
+}

@@ -7,6 +7,9 @@
 | `template.html` | 시험 화면 코드. 모든 Modelltest가 함께 씁니다 |
 | `data/mtN.json` | Modelltest N의 지문, 문항, 정답, 쓰기 과제, 모범 답안. 형식은 `SCHEMA.md` |
 | `build-digital.py` | `data`와 `template.html`을 합쳐 이 앱 폴더의 `digital.html`을 만듭니다. 음원 길이는 이 폴더의 MP3에서 읽습니다 |
+| `guidelib.py` | 두 가이드 페이지가 함께 쓰는 헬퍼(표, 섹션, 페이지 틀)와 기본 CSS |
+| `guide-data.json`, `build-guide.py` | 쓰기 시험 대비 가이드(`../schreiben-guide.html`)의 글과 모범 답안 30편, 이를 HTML로 만드는 스크립트. 모범 답안의 단어 수가 범위 안인지 빌드할 때 검사합니다 |
+| `sprechen-data.json`, `build-sprechen.py` | 말하기 시험 대비 가이드(`../sprechen-guide.html`)의 글, Teil 1 대화 10편, Teil 2 발표 10편, Teil 3 문답 10편, 이를 HTML로 만드는 스크립트. 발표 단어 수를 빌드할 때 검사합니다 |
 | `validate.py` | `data/mtN.json` 형식 검사 |
 | `logo-small.png` | 시험 화면 왼쪽 위 로고 |
 | `fonts/pretendard-soda.woff` | 시험 화면 글꼴 Pretendard 중 화면에 쓰는 글자만 담은 파일(SIL OFL 1.1, `fonts/Pretendard-OFL.txt`) |
@@ -17,6 +20,8 @@
 ```
 python3 digital-src/validate.py digital-src/data/mt*.json
 python3 digital-src/build-digital.py
+python3 digital-src/build-guide.py
+python3 digital-src/build-sprechen.py
 ```
 
 `ffprobe`(ffmpeg)가 필요합니다.
