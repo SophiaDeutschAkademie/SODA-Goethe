@@ -47,6 +47,14 @@ def section(sid, eyebrow, title, inner, lead=""):
 
 
 
+ACC = re.compile(r'<article class="(lt|dg)">(<header class="lt-h">.*?</header>)(.*?)</article>', re.S)
+
+
+def accordion(html_text):
+    """모범 답안·대화 카드를 눌러서 여는 방식(details)으로 바꿉니다."""
+    return ACC.sub(lambda m: f'<details class="{m.group(1)} acc"><summary>{m.group(2)}</summary><div class="acc-b">{m.group(3)}</div></details>', html_text)
+
+
 def page(skill, d, nav, secs, css_extra=""):
     """가이드 한 쪽의 HTML 틀(머리, 로고, 목차 칩, 본문, 출처, 바닥).
 
@@ -78,11 +86,12 @@ def page(skill, d, nav, secs, css_extra=""):
     <p class="lead">{e(d["lead"])}</p>
     <nav class="chips" aria-label="가이드 목차">{chips}</nav>
   </header>
-  {"".join(secs)}
+  {accordion("".join(secs))}
   <p class="closing" lang="de">{e(d["closing"])}</p>
   <aside class="src"><h2>{e(d["sources_title"])}</h2><ul>{src}</ul></aside>
   <footer class="foot"><a href="index.html#mode">{BACK} Goethe B1 모의고사</a><span>© 2026 Sophia Deutsch Akademie</span></footer>
 </main>
+<script>addEventListener("beforeprint",function(){{document.querySelectorAll("details").forEach(function(d){{d.open=true}})}})</script>
 </body>
 </html>
 '''
@@ -103,6 +112,15 @@ a{color:inherit}
 .brand img{width:40px;height:auto;display:block}
 .brand b{font-size:19px;font-weight:700;line-height:1.2}
 @media (max-width:380px){.brand{gap:10px;max-width:calc(100% - 130px)}.brand img{width:34px}.brand b{font-size:15px}}
+details.acc{display:block;padding:0;position:relative}
+details.acc>summary{display:block;padding:16px 20px;cursor:pointer;list-style:none}
+details.acc>summary::-webkit-details-marker{display:none}
+details.acc>summary::after{content:"펼치기";position:absolute;right:20px;top:18px;font-size:12px;color:var(--ink-3)}
+details.acc[open]>summary::after{content:"접기"}
+details.acc .lt-h h3{padding-right:52px}
+.acc-b{padding:0 20px 16px}
+details.acc[open]{grid-column:1/-1}
+.lts,.dgs{align-items:start}
 .eyebrow{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--ochre-ink);font-weight:700}
 .hero{padding:clamp(40px,8vh,72px) 0 8px}
 h1{font-weight:800;font-size:clamp(34px,6.4vw,60px);line-height:1.12;letter-spacing:-.03em;margin:14px 0 0}
