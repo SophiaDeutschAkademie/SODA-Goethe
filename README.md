@@ -6,7 +6,7 @@ Goethe-Zertifikat A2, B1, B2 모의고사(Modelltest)입니다. 페이퍼 시험
 
 | 폴더 | 내용 |
 |---|---|
-| `goethe-a2/` | Goethe-Zertifikat A2, Modelltest 5개 |
+| `goethe-a2/` | Goethe-Zertifikat A2, Modelltest 5개와 쓰기 시험 대비 가이드(`schreiben-guide.html`) |
 | `goethe-b1/` | Goethe-Zertifikat B1, Modelltest 10개 (예전 단일 파일 오프라인 버전 `… offline.html` 포함, 목차에서는 연결하지 않음) |
 | `goethe-b2/` | Goethe-Zertifikat B2, Modelltest 5개 |
 | `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py` |

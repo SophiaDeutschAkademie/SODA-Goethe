@@ -116,6 +116,7 @@ h2{font-family:var(--serif);font-weight:700;font-size:clamp(34px,6vw,56px);line-
 .it .dl{grid-column:2 / 4;justify-self:start;margin-top:6px;font-size:13px;font-weight:600;color:var(--ink-2);text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:3px 10px}
 .it .dl:hover{background:var(--mist);border-color:var(--ink-3)}
 @media (max-width:640px){.modes{grid-template-columns:1fr}}
+.mode.wide{grid-column:1 / -1}
 </style>
 <script id="soda-analytics" data-goatcounter="https://sodadeutsch.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <style id="soda-dark">
@@ -159,6 +160,7 @@ html[data-theme="dark"] .it .p:hover,html[data-theme="dark"] .btn.ghost:hover{bo
     <div class="modes">
       <a class="mode" href="#list"><span class="mk" lang="de">Papier</span><b>페이퍼 시험</b><span class="ds">PDF 문제지와 듣기 음원(MP3)을 열거나 내려받아 종이에 풉니다. 해답·듣기 대본·모범 답안이 PDF에 함께 있습니다.</span><span class="go2">PDF · 음원 받기 <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M5.5 2.5 11 8l-5.5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
       <a class="mode" href="#digital"><span class="mk" lang="de">Digital</span><b>디지털 시험</b><span class="ds">Lesen · Hören · Schreiben을 컴퓨터에서 디지털 시험 화면 그대로 풉니다. 남은 시간 표시, 음원 자동 재생, 단어 수 자동 계산, 제출 후 바로 채점됩니다.</span><span class="go2">컴퓨터에서 풀기 <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M5.5 2.5 11 8l-5.5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
+      <a class="mode wide" href="schreiben-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Schreiben <span lang="ko">시험 가이드</span></b><span class="ds">SMS와 E-Mail의 채점 방식, 실수, 모범 답안</span><span class="go2">가이드 보기 <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M5.5 2.5 11 8l-5.5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
     </div>
     <p class="note">디지털 시험은 PC·노트북 화면에 맞춰져 있습니다. 듣기는 헤드폰을 권합니다. Sprechen은 두 방식 모두 시험관과 대면으로 봅니다.</p>
   </div>

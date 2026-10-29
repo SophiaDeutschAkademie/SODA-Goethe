@@ -1,0 +1,177 @@
+{
+  "title": "쓰기 시험 대비 가이드",
+  "eyebrow": "Goethe-Zertifikat A2 · Schreiben",
+  "lead": "Schreiben은 SMS 1개와 E-Mail 1개를 30분 안에 씁니다. 시험 구조, 채점 기준, 제출 전 체크리스트, 표현 은행, 모범 답안 20편을 정리했습니다.",
+  "overview": {
+    "id": "uebersicht",
+    "title": "시험 한눈에 보기",
+    "rows": [
+      ["시간", "쓰기 모듈은 30분입니다(읽기·듣기·쓰기 필기 시험 90분 중 마지막 모듈로 권장). 과제별 시간은 시험지에 적혀 있지 않습니다. 이 가이드의 권장 배분은 Teil 1 약 10분, Teil 2 약 20분입니다."],
+      ["과제", "2개. 두 과제 모두 Leitpunkt(지시사항) 3개를 빠짐없이 다룹니다."],
+      ["Teil 1", "친구에게 보내는 SMS (비격식, du) — 20~30단어"],
+      ["Teil 2", "상사·기관·집주인 등에게 보내는 E-Mail ((반)격식, Sie) — 30~40단어"],
+      ["답안 작성", "답안지(Antwortbogen)에 연필이 아닌 펜으로 또박또박 씁니다. 사전과 휴대폰은 쓸 수 없습니다. 디지털 시험은 독일어 키보드로 입력하고, 시간이 끝나기 전까지 고칠 수 있습니다."],
+      ["배점", "쓰기 25점(전체 100점 중). 과제당 10점씩 20점을 1.25배 하여 25점이 됩니다."],
+      ["합격", "읽기·듣기·쓰기 합계 75점 중 45점 이상, 말하기 25점 중 15점 이상(전체 60점)"]
+    ]
+  },
+  "scoring": {
+    "id": "bewertung",
+    "title": "채점 기준",
+    "intro": "각 과제를 두 가지 기준으로 채점합니다. 평가자 2명이 따로 점수를 매기고 평균을 냅니다.",
+    "criteria": [
+      ["Aufgabenerfüllung (과제 수행)", "5점", "Sprachfunktion: Leitpunkt 3개를 적절히 수행했는가. Register: du/Sie 등 상대와 상황에 맞는 말투인가. Textumfang: 단어 수가 맞는가."],
+      ["Sprache (언어)", "5점", "Spektrum: 어휘와 문장 구조가 다양한가. Beherrschung: 얼마나 정확한가. 이해에 지장이 없는 작은 오류는 감점이 작습니다."]
+    ],
+    "levels_title": "단계별 점수와 Leitpunkt 수행",
+    "levels": [
+      ["A", "5점", "3개 모두 완전하고 적절하게 수행"],
+      ["B", "3.5점", "2개를 적절하게 수행, 또는 1개 적절 + 2개 부분 적절"],
+      ["C", "2점", "1개 적절 + 1개 부분 적절, 또는 3개 모두 부분 적절"],
+      ["D", "0.5점", "1개만 적절하거나 부분 적절"],
+      ["E", "0점", "부적절"]
+    ],
+    "levels_note": "두 기준 모두 A 5점, B 3.5점, C 2점, D 0.5점, E 0점으로 환산합니다. 위 표는 Aufgabenerfüllung의 Sprachfunktion 기준입니다.",
+    "zero": "Aufgabenerfüllung이 E(0점)이면 그 과제 전체가 0점입니다. E는 주제를 벗어났거나, 단어 수가 요구량의 50% 미만일 때입니다(Teil 1은 10단어 미만, Teil 2는 15단어 미만).",
+    "rules_title": "형식 규칙",
+    "rules": [
+      "Anrede·Gruß: Teil 1은 필수가 아닙니다. 쓴다면 상황에 맞게 씁니다(Hallo … / Liebe Grüße). Teil 2는 필수입니다(Sehr geehrte … / Mit freundlichen Grüßen).",
+      "대소문자: SMS에서도 명사와 문장 첫 글자는 대문자입니다. Teil 2에서는 Sie, Ihnen, Ihr도 대문자로 씁니다.",
+      "Teil 1의 줄임말과 끊어진 문장은 조건부로 허용됩니다.",
+      "Leitpunkt 하나가 두 가지를 요구하면 두 가지 모두 씁니다.",
+      "단어 수를 셀 때 Anrede·Gruß·이름을 포함하는지는 공식 자료에 정해져 있지 않습니다. 이 가이드의 모범 답안은 인사말, 맺음말, 이름까지 모두 세어도 범위 안입니다."
+    ]
+  },
+  "steps": {
+    "id": "schritte",
+    "title": "시험 준비 5단계",
+    "rows": [
+      ["1", "시험 구조 이해 — 과제 수행과 형식(인사·맺음·du/Sie)이 점수의 절반입니다."],
+      ["2", "만능 틀 손 암기 — Hallo … Liebe Grüße / Sehr geehrte … Mit freundlichen Grüßen 틀을 베껴 씁니다."],
+      ["3", "유형별 문장 은행 — 알리기·초대·사과·요청·변경 등 문장을 준비합니다."],
+      ["4", "매일 1편 실전 쓰기 — 단어 수를 세고 체크리스트 6항목을 점검합니다."],
+      ["5", "교정 루프 — weil 어순, 명사 대문자, 쉼표를 확인하고 같은 실수를 반복하지 않습니다."]
+    ]
+  },
+  "dayof": {
+    "id": "pruefungstag",
+    "title": "시험 당일 4가지",
+    "items": [
+      "문제지의 Leitpunkt 3개에 번호를 표시하고, 하나당 1~2문장씩 씁니다.",
+      "시간은 Teil 1 약 10분, Teil 2 약 20분입니다. Teil 2를 17분 안에 마치고 마지막 3분에 두 글을 점검합니다.",
+      "아는 단어로 단순하게 씁니다.",
+      "마지막 3분에 아래 체크리스트로 점검합니다."
+    ]
+  },
+  "checklist": {
+    "id": "checkliste",
+    "title": "제출 전 체크리스트 — 마지막 3분",
+    "items": [
+      "Leitpunkt 3개를 모두 썼는가? (한 점이 두 가지를 요구하면 두 가지 모두)",
+      "Anrede — Teil 2는 필수, Teil 1은 쓰면 상황에 맞게. 쉼표를 찍고 다음 줄은 소문자로 시작",
+      "Gruß + 이름 — 맺음말 뒤에 쉼표 없이, 다음 줄에 이름만",
+      "격식 — Teil 1은 du, Teil 2는 Sie·Ihnen·Ihr (대문자)",
+      "단어 수 — Teil 1은 20~30, Teil 2는 30~40 (Anrede·Gruß·이름을 포함해도 범위 안)",
+      "weil/dass 뒤에서 동사가 맨 끝인가? 명사는 대문자인가?"
+    ]
+  },
+  "mistakes": {
+    "id": "fehler",
+    "title": "자주 하는 실수",
+    "rows": [
+      ["Teil 2에서 du 사용", "끝까지 Sie", "격식을 통일합니다"],
+      ["Teil 2에서 Anrede 생략", "Sehr geehrte Frau Klein, / Sehr geehrte Damen und Herren,", "Teil 2는 인사말이 필수입니다"],
+      ["sie, ihnen을 소문자로", "Sie, Ihnen, Ihr", "높임 대명사는 대문자"],
+      ["weil ich habe …", "weil ich ein Problem habe", "weil 뒤에서 동사는 맨 끝"],
+      ["Senden Sie mir das.", "Könnten Sie mir das bitte senden?", "Könnten Sie …가 정중한 요청"],
+      ["Sehr geehrte Frau Klein Ich …", "Sehr geehrte Frau Klein, ich …", "Anrede 뒤 쉼표, 다음 줄은 소문자"],
+      ["Mit freundlichen Grüßen,", "Mit freundlichen Grüßen", "맺음말 뒤에는 쉼표 없음"],
+      ["Leitpunkt가 두 가지를 요구하는데 하나만 씀", "두 가지 모두 씀", "빠진 부분만큼 Sprachfunktion 점수가 내려갑니다"]
+    ]
+  },
+  "strategies": {
+    "id": "strategie",
+    "title": "고득점을 얻는 방법",
+    "rows": [
+      ["1", "Leitpunkt마다 1~2문장 — 키워드 나열이 아니라 완전한 문장으로 씁니다."],
+      ["2", "연결어(und · aber · weil · deshalb)로 문장을 잇습니다."],
+      ["3", "A2 문법 1~2개를 보여 줍니다 — weil, Könnten Sie, nicht A sondern B"],
+      ["4", "형식은 만점으로 — Anrede 뒤 쉼표와 소문자, Gruß 뒤에는 쉼표 없이 이름"],
+      ["5", "단어 수는 범위 안에서 상한 가까이 — Teil 1은 25~30, Teil 2는 35~40 (Anrede·Gruß·이름 포함). 상한을 넘기면 오류가 늘고 시간이 모자랍니다."],
+      ["6", "아는 문장만 조합합니다 — 오류 없는 단순한 문장이 오류 있는 화려한 문장보다 낫습니다."]
+    ]
+  },
+  "teil1": {
+    "id": "teil1",
+    "no": "TEIL 1",
+    "title": "비격식 SMS (du)",
+    "lead": "친구에게 보내는 짧은 문자입니다. du를 쓰고 20~30단어로 씁니다.",
+    "range": [20, 30],
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      ["용건", "weil", "Ich mache eine Party.", "Ich schreibe dir, weil ich eine Party mache."],
+      ["초대", "zu 부정사", "Kommst du?", "Hast du Lust, am Samstag zu kommen?"],
+      ["부탁", "공손 + 분리동사", "Bring Getränke mit!", "Kannst du bitte Getränke mitbringen?"],
+      ["거절", "weil", "Keine Zeit.", "Ich kann nicht kommen, weil ich arbeiten muss."],
+      ["대안", "Wie wäre es", "Samstag geht nicht.", "Leider kann ich nicht. Wie wäre es mit Sonntag?"],
+      ["조건", "wenn", "Hast du Zeit?", "Wenn du Zeit hast, können wir zusammen kochen."],
+      ["과거", "Perfekt", "Film war toll.", "Ich habe einen tollen Film gesehen."],
+      ["마무리", "freuen auf", "Bis Samstag!", "Ich freue mich auf Samstag! Sag mir Bescheid."]
+    ],
+    "reasons": "만능 이유 3종 — weil ich krank bin · weil ich arbeiten muss · weil ich Besuch habe. 이유가 사실인지는 채점하지 않습니다.",
+    "answers_title": "모범 답안 10",
+    "answers": [
+      {"title": "이사 알리고 초대", "points": "Wo wohnst du? / Was gefällt dir? / Einladung", "anrede": "Hallo Leonhard,", "body": "ich bin letzte Woche in die Goethestraße umgezogen. Die Wohnung hat einen Balkon, der mir sehr gefällt. Hast du am Samstag Zeit, mich zu besuchen?", "gruss": "Liebe Grüße\nMinjun"},
+      {"title": "파티 초대", "points": "Party informieren / Wann? / Mitbringen", "anrede": "Hallo Tom,", "body": "ich mache am Samstag eine Party. Kommst du auch? Die Party fängt um 19 Uhr an. Kannst du bitte Getränke mitbringen?", "gruss": "Viele Grüße\nMinjun"},
+      {"title": "늦는다고 알리기", "points": "Entschuldigung / Warum? / Wann da?", "anrede": "Liebe Sarah,", "body": "es tut mir leid, ich komme heute zu spät. Der Bus hat Verspätung, weil es regnet. Ich bin in 20 Minuten da.", "gruss": "Liebe Grüße\nMinjun"},
+      {"title": "약속 변경", "points": "Termin erinnern / Warum nicht? / Neuer Termin", "anrede": "Hallo Julia,", "body": "wir treffen uns am Freitag, aber leider muss ich dann arbeiten. Können wir uns stattdessen am Samstag um 15 Uhr treffen?", "gruss": "Liebe Grüße\nSujin"},
+      {"title": "선물 감사", "points": "Danke / Warum gefällt? / Treffen vorschlagen", "anrede": "Lieber Max,", "body": "vielen Dank für das Geschenk! Das Buch gefällt mir sehr, weil ich gern Krimis lese. Wollen wir am Wochenende Kaffee trinken?", "gruss": "Viele Grüße\nJiyeon"},
+      {"title": "여행 소식", "points": "Wo? / Was gemacht? / Mitkommen", "anrede": "Hallo Anna,", "body": "ich bin gerade in Berlin und es gefällt mir sehr! Gestern habe ich das Brandenburger Tor besucht. Nächstes Mal musst du unbedingt mitkommen!", "gruss": "Liebe Grüße\nHyeon"},
+      {"title": "영화 추천", "points": "Film erzählen / Was gefallen? / Zusammen sehen?", "anrede": "Hallo David,", "body": "ich habe gestern einen tollen Film gesehen. Er war sehr lustig und die Schauspieler waren super. Hast du Lust, ihn am Samstag mit mir anzusehen?", "gruss": "Liebe Grüße\nEunji"},
+      {"title": "아프다고 알리기", "points": "Krank / Absagen / Nächste Woche", "anrede": "Liebe Lisa,", "body": "leider bin ich krank. Deshalb kann ich heute nicht zum Sport kommen. Es tut mir leid. Können wir nächste Woche zusammen gehen?", "gruss": "Liebe Grüße\nSora"},
+      {"title": "물건 빌리기", "points": "Situation / Laptop leihen / Wann zurück?", "anrede": "Hallo Markus,", "body": "ich brauche am Samstag einen Laptop für meine Präsentation. Kannst du mir deinen leihen? Ich gebe ihn dir am Montag zurück.", "gruss": "Liebe Grüße\nDonghyun"},
+      {"title": "새 수업 알리기", "points": "Kurs erzählen / Wann + wo? / Mitkommen?", "anrede": "Hallo Emma,", "body": "ich habe einen neuen Yogakurs gefunden. Er ist jeden Mittwoch um 18 Uhr in der Sporthalle. Hast du Lust mitzukommen?", "gruss": "Viele Grüße\nYuna"}
+    ]
+  },
+  "teil2": {
+    "id": "teil2",
+    "no": "TEIL 2",
+    "title": "격식 E-Mail (Sie)",
+    "lead": "상사·기관·집주인 등에게 보내는 이메일입니다. Sie를 쓰고 30~40단어로 씁니다.",
+    "range": [30, 40],
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      ["도입", "weil", "Ich habe eine Frage.", "Ich schreibe Ihnen, weil ich eine Frage habe."],
+      ["등록", "sich anmelden", "Ich will den Kurs.", "Ich möchte mich für den Kurs anmelden."],
+      ["부탁", "Konjunktiv II", "Schicken Sie Infos.", "Könnten Sie mir bitte Informationen schicken?"],
+      ["정중한 요청", "Wäre + zu", "Geht das Mittwoch?", "Wäre es möglich, den Termin zu verschieben?"],
+      ["문의", "간접의문문", "Was kostet das?", "Ich möchte gern wissen, was der Kurs kostet."],
+      ["불만", "dass", "Das ist nicht gut.", "Ich finde es nicht gut, dass die Heizung kaputt ist."],
+      ["취소", "weil", "Ich komme nicht.", "Leider muss ich absagen, weil ich krank bin."],
+      ["미리 감사", "im Voraus", "Danke.", "Vielen Dank im Voraus für Ihre Hilfe."],
+      ["답장 요청", "würde", "Antworten Sie.", "Über eine schnelle Antwort würde ich mich freuen."]
+    ],
+    "reasons": "",
+    "answers_title": "모범 답안 10",
+    "answers": [
+      {"title": "호텔 예약 변경", "points": "Warum? / Buchung ändern / Neues Angebot", "anrede": "Sehr geehrte Frau Hoffmann,", "body": "ich schreibe Ihnen wegen meiner Buchung. Leider kann ich nicht am Freitag, sondern erst am Sonntag anreisen. Ich möchte meine Buchung ändern. Könnten Sie mir ein neues Angebot senden?", "gruss": "Mit freundlichen Grüßen\nMinjun Kim"},
+      {"title": "제품 불량", "points": "Problem / Zurückgeben / Geld zurück", "anrede": "Sehr geehrte Damen und Herren,", "body": "ich schreibe Ihnen, weil das Produkt nicht funktioniert. Ich habe es letzte Woche bei Ihnen gekauft. Deshalb möchte ich es zurückgeben. Könnten Sie mir bitte das Geld zurückzahlen?", "gruss": "Mit freundlichen Grüßen\nMinjun Kim"},
+      {"title": "수업 등록 문의", "points": "Anmelden / Kurszeiten / Preisliste", "anrede": "Sehr geehrte Frau Müller,", "body": "ich möchte mich für den Deutschkurs im Januar anmelden. Ich habe eine Frage zu den Kurszeiten: Findet der Kurs am Abend statt? Könnten Sie mir bitte auch die Preisliste senden?", "gruss": "Mit freundlichen Grüßen\nSujin Park"},
+      {"title": "집 수리 요청", "points": "Problem / Situation / Techniker", "anrede": "Sehr geehrter Herr Schmidt,", "body": "die Heizung in meiner Wohnung funktioniert seit zwei Tagen nicht. Es ist sehr kalt und ich kann nicht gut schlafen. Könnten Sie bitte so schnell wie möglich einen Techniker schicken?", "gruss": "Mit freundlichen Grüßen\nJiyeon Lee"},
+      {"title": "행사 취소", "points": "Warum nicht? / Stornieren / Bestätigung", "anrede": "Sehr geehrte Damen und Herren,", "body": "leider kann ich nicht zum Sommerfest kommen, weil ich arbeiten muss. Deshalb möchte ich meine Anmeldung stornieren. Könnten Sie mir bitte eine Bestätigung senden? Vielen Dank im Voraus.", "gruss": "Mit freundlichen Grüßen\nHyeon Choi"},
+      {"title": "정보 요청", "points": "Arbeitszeiten / Deutsch? / Informationen", "anrede": "Sehr geehrte Frau Weber,", "body": "ich interessiere mich für das Praktikum in Ihrer Firma. Ich habe zwei Fragen: Wie sind die Arbeitszeiten, und muss man Deutsch sprechen? Könnten Sie mir bitte weitere Informationen senden?", "gruss": "Mit freundlichen Grüßen\nEunji Kang"},
+      {"title": "병원 예약 변경", "points": "Warum nicht? / Mittwoch / Neuer Termin", "anrede": "Sehr geehrte Frau Dr. Klein,", "body": "leider kann ich am Montag nicht kommen, weil ich arbeiten muss. Ich möchte den Termin auf Mittwoch verschieben. Könnten Sie mir bitte einen neuen Termin geben? Vielen Dank.", "gruss": "Mit freundlichen Grüßen\nDonghyun Park"},
+      {"title": "감사 편지", "points": "Danke / Was geholfen? / Empfehlung", "anrede": "Sehr geehrter Herr Braun,", "body": "ich schreibe Ihnen, weil ich mich bei Ihnen bedanken möchte. Der Deutschkurs war sehr gut. Besonders die Grammatikübungen haben mir geholfen. Ich werde den Kurs meinen Freunden empfehlen. Vielen Dank!", "gruss": "Mit freundlichen Grüßen\nSora Han"},
+      {"title": "불만 제기", "points": "Problem / Situation / Hilfe bitten", "anrede": "Sehr geehrte Damen und Herren,", "body": "meine Nachbarn machen jeden Abend laute Musik. Ich kann nicht schlafen und bin sehr müde. Das finde ich nicht gut. Könnten Sie bitte mit meinen Nachbarn sprechen? Vielen Dank!", "gruss": "Mit freundlichen Grüßen\nYuna Choi"},
+      {"title": "자격증 발급", "points": "Prüfung bestanden / Problem / Per Post", "anrede": "Sehr geehrte Damen und Herren,", "body": "ich habe die Prüfung am 15. Juni bestanden. Leider habe ich das Zertifikat noch nicht bekommen. Könnten Sie es bitte an meine Adresse senden? Vielen Dank im Voraus.", "gruss": "Mit freundlichen Grüßen\nMinjun Kim"}
+    ]
+  },
+  "closing": "Keine Angst vor dem Schreiben! Du hast viel geübt und bist gut vorbereitet. Viel Glück bei der A2-Prüfung!",
+  "sources_title": "공식 근거",
+  "sources": [
+    ["Goethe-Institut, Durchführungsbestimmungen Goethe-Zertifikat A2 (Stand 1. 9. 2023)", "https://www.goethe.de/resources/files/pdf325/durchfuehrungsbestimmungen_a2.pdf"],
+    ["Goethe-Zertifikat A2, Modellsatz Erwachsene (Kandidatenblätter, Prüferblätter)", "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Modellsatz_Erwachsene.pdf"],
+    ["Goethe-Zertifikat A2, Übungssatz 01 Erwachsene", "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Uebungssatz_Erwachsene.pdf"],
+    ["Goethe-Institut, Tipps und Tricks für die einzelnen Prüfungsaufgaben", "https://www.goethe.de/resources/files/pdf136/tipps-und-tricks-fr-die-einzelnen-prfungsaufgaben_neu_4-seiten.pdf"]
+  ]
+}
