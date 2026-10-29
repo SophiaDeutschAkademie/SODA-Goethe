@@ -1,0 +1,470 @@
+{
+  "title": "말하기 시험 대비 가이드",
+  "eyebrow": "Goethe-Zertifikat A2 · Sprechen",
+  "lead": "Sprechen은 파트너와 함께 보는 약 15분짜리 시험입니다. 시험 진행과 채점 방식, 고정 표현, Teil 2 이야기 10편, Teil 3 대화 10편, 발음 교정법을 정리했습니다.",
+  "closing": "Sprich ruhig und deutlich! Du kannst das. Viel Erfolg bei der mündlichen A2-Prüfung!",
+  "sources_title": "공식 근거",
+  "sources": [
+    ["Goethe-Institut, Durchführungsbestimmungen Goethe-Zertifikat A2 (Stand 1. 9. 2023)", "https://www.goethe.de/resources/files/pdf325/durchfuehrungsbestimmungen_a2.pdf"],
+    ["Goethe-Zertifikat A2, Modellsatz Erwachsene (Kandidatenblätter, Prüferblätter)", "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Modellsatz_Erwachsene.pdf"],
+    ["Goethe-Zertifikat A2, Übungssatz 01 Erwachsene", "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Uebungssatz_Erwachsene.pdf"]
+  ],
+
+  "overview": {
+    "id": "uebersicht",
+    "title": "시험 한눈에 보기",
+    "rows": [
+      ["형식", "Paarprüfung입니다. 응시자 2명과 시험관 2명이 함께하고, 약 15분이 걸립니다. 준비 시간은 없습니다. 사전과 휴대폰은 쓸 수 없습니다. 1인 시험(약 10분)은 예외적으로만 보고, 온라인 시험은 항상 1인 시험입니다."],
+      ["카드", "Teil 1·2·3마다 카드를 받습니다. 카드를 받으면 약 20초 동안 훑어볼 수 있습니다."],
+      ["Teil 1", "카드 4장의 단어(예: Wohnort?, Hobby?)로 파트너에게 질문 4개를 하고, 파트너의 질문 4개에 답합니다."],
+      ["Teil 2", "자기 카드(질문 하나와 키워드 3~5개)를 보고 혼자 이야기합니다. 그다음 시험관의 추가 질문 1~2개에 답합니다. 파트너는 질문하지 않습니다."],
+      ["Teil 3", "파트너와 함께 무언가를 계획하고 합의합니다. 일정표로 시간을 정하는 유형과 키워드 카드로 파티 등을 계획하는 유형이 모두 공식 자료에 있습니다."],
+      ["배점·합격", "말하기는 25점 만점이고, 합격하려면 15점 이상이어야 합니다. 15점에 못 미치면 다른 영역이 좋아도 전체가 불합격입니다."]
+    ],
+    "ablauf_title": "진행 순서",
+    "ablauf": [
+      ["도입", "약 1분", "시험관이 인사하고 이름, 출신, 독일어를 배우는 곳을 묻습니다. 가벼운 질문이 한두 개 더 이어질 수 있습니다.", "채점 안 함"],
+      ["Teil 1", "약 3분", "키워드 카드로 서로 질문하고 답하기", "채점"],
+      ["Teil 2", "1인당 약 3분", "자기 카드로 혼자 이야기하기, 시험관 추가 질문에 답하기", "채점"],
+      ["Teil 3", "약 5분", "함께 계획하고 합의하기", "채점"]
+    ]
+  },
+
+  "scoring": {
+    "id": "bewertung",
+    "title": "채점 방식",
+    "intro": "시험관 2명이 각자 채점하고, 두 점수의 평균이 결과가 됩니다. 평가 항목은 아래 세 가지입니다.",
+    "criteria": [
+      ["Aufgabenerfüllung (과제 수행)", "Sprachfunktion · Interaktion · Register", "질문·이야기·제안 같은 과제를 실제로 해냈는가. 파트너 말에 반응하며 대화를 이어 가는가. du/Sie와 말투가 상황에 맞는가."],
+      ["Sprache (언어)", "Spektrum · Beherrschung", "어휘와 문장 구조가 다양한가. 얼마나 정확한가. 이해에 지장 없는 작은 오류는 감점이 작습니다."],
+      ["Aussprache (발음)", "Satzmelodie · Wortakzent · einzelne Laute", "억양, 단어 강세, 개별 소리가 이해에 방해되지 않는가. 작은 이탈이 있어도 이해만 되면 가장 높은 단계(A)입니다."]
+    ],
+    "zero": "과제 수행이 E 단계, 곧 과제와 상황에 전혀 맞지 않는 말이면 문법이 맞아도 그 과제는 0점입니다.",
+    "rules_title": "채점 규칙",
+    "rules": [
+      "각 항목은 A~E 단계로 평가하고, 시험관은 정해진 점수만 줄 수 있습니다(중간 점수 없음).",
+      "두 시험관의 점수를 평균한 뒤 정수로 반올림합니다(0.5 이상은 올림).",
+      "도입 대화는 채점하지 않습니다. Teil 1·2·3만 채점합니다.",
+      "파트별 세부 배점은 시험관용 평가표에만 있어 공개 자료로는 확정할 수 없습니다. 어느 한 파트에 몰리지 않게 세 파트를 모두 준비합니다."
+    ]
+  },
+
+  "steps": {
+    "id": "schritte",
+    "title": "시험 준비 5단계",
+    "rows": [
+      ["1", "시험 구조 이해 — Teil 1·3은 표현이 거의 정해져 있어 암기해서 자동화하고, Teil 2만 '내 이야기'가 필요합니다."],
+      ["2", "고정 표현 자동화 — 하루 10분, 질문을 보면 바로 답이 나올 때까지 소리 내어 반복합니다. 녹음해서 직접 들어 봅니다."],
+      ["3", "Teil 2 이야기 10개 쓰기 — 주제마다 60단어 안팎. 키워드만 보고 말할 수 있을 때까지 연습합니다."],
+      ["4", "파트너와 롤플레이 — Teil 1 질문과 답, Teil 3 협상(거절+이유+대안). 혼자라면 A와 B 역할을 번갈아 합니다."],
+      ["5", "공식 모의고사로 마무리 — Goethe 홈페이지의 Modellsatz로 15분 전체를 연습하고, 녹음을 들으며 발음을 고칩니다."]
+    ]
+  },
+
+  "plan": {
+    "id": "plan",
+    "title": "4주 학습 플랜",
+    "intro": "하루 20~30분, 시험 4주 전부터 시작하는 기준입니다.",
+    "rows": [
+      ["WOCHE 1", "Teil 1 자동화", "키워드 24개로 질문과 답을 만들고, 도입 질문 3개를 외웁니다. 매일 10분 소리 내어 연습합니다."],
+      ["WOCHE 2", "Teil 2 이야기", "주제 10개의 이야기를 직접 쓰고, 녹음하고, 들어 봅니다. Perfekt 동사표를 외웁니다."],
+      ["WOCHE 3", "Teil 3 협상", "시간 표현(halb, Viertel)을 외우고 파트너와 롤플레이합니다. 거절+이유+대안을 꼭 연습하고, 유형 A(일정표)와 유형 B(키워드 계획)를 모두 해 봅니다."],
+      ["WOCHE 4", "실전 리허설", "공식 Modellsatz로 15분 모의시험을 보고, 녹음을 들으며 발음 7가지를 교정합니다. 약한 파트를 반복합니다."]
+    ]
+  },
+
+  "dayof": {
+    "id": "pruefungstag",
+    "title": "시험 당일 4계명",
+    "items": [
+      "완벽한 문법보다 과제 완수가 먼저입니다. 틀려도 이해되면 계속 말합니다.",
+      "침묵하지 않습니다. 못 알아들었으면 Wie bitte? 라고 되묻습니다.",
+      "파트너 말에 반응합니다. Ja, gern! / Gute Idee! 같은 한마디가 Interaktion을 살립니다.",
+      "크게, 천천히, 또박또박 말합니다."
+    ]
+  },
+
+  "mistakes": {
+    "id": "fehler",
+    "title": "한국 학습자가 자주 하는 실수",
+    "rows": [
+      ["Teil 2에서 이야기만 하고 끝냄", "시험관의 추가 질문에 반드시 답하기", "추가 질문 1~2개에 답하는 것까지가 Teil 2입니다."],
+      ["Hast du noch Fragen? (Teil 2 끝에 파트너에게)", "Das war alles. Vielen Dank.", "Teil 2는 혼자 이야기하는 파트입니다. 추가 질문은 파트너가 아니라 시험관이 합니다."],
+      ["Ich habe die Karte „Wohnort“. Meine Frage ist: …", "Wo wohnen Sie?", "Teil 1은 약 3분에 질문 4개와 답 4개가 오갑니다. 카드를 소개하느라 시간을 쓰지 말고 바로 질문합니다."],
+      ["Wo du wohnst?", "Wo wohnst du?", "W-Frage에서 동사는 두 번째 자리입니다."],
+      ["Ich mache letztes Jahr Sport.", "Letztes Jahr habe ich viel Sport gemacht.", "지난 일은 Perfekt로 말합니다. sein과 haben은 war / hatte를 써도 됩니다."],
+      ["연결어 없이 짧은 문장만 나열", "zuerst … dann … danach …", "연결어를 쓰면 자연스럽고 Spektrum 평가가 좋아집니다."],
+      ["Teil 3에서 동의만 함", "거절 + 이유 + 대안", "제안, 거절, 대안, 합의의 협상 과정이 Interaktion에 반영됩니다."],
+      ["Samstag. (딱딱한 직접 제안)", "Wie wäre es am Samstag um 15 Uhr?", "Wie wäre es …? 로 공손하게 제안합니다."]
+    ]
+  },
+
+  "warmup": {
+    "id": "einstieg",
+    "title": "시험 도입부 (워밍업)",
+    "intro": "시험이 시작되면 시험관이 먼저 묻는 질문입니다. 채점하지 않지만, 막힘없이 답하면 긴장이 풀립니다. 이 세 질문은 외워 두세요.",
+    "rows": [
+      ["Wie heißen Sie?", "Ich heiße Minjun Kim."],
+      ["Woher kommen Sie?", "Ich komme aus Korea, aus Seoul."],
+      ["Wo lernen Sie Deutsch?", "Ich lerne Deutsch in einer Sprachschule in Seoul."],
+      ["Wie lange lernen Sie schon Deutsch? (이어지는 가벼운 질문의 예)", "Seit einem Jahr."]
+    ]
+  },
+
+  "teil1": {
+    "id": "teil1",
+    "no": "Teil 1",
+    "title": "질문하고 답하기",
+    "lead": "카드 4장에 적힌 단어로 파트너에게 질문하고, 파트너의 질문에도 답합니다. 시험관이 먼저 예시를 보여 줍니다. 약 3분 동안 질문 4개와 답 4개가 오가므로, 답은 한두 문장이면 충분합니다.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      ["질문 시작", "정중한 말문", "(바로 질문)", "Darf ich Sie etwas fragen? Wo wohnen Sie?"],
+      ["답변", "+정보 한 개", "In Seoul.", "Ich wohne in Seoul, in der Nähe vom Zentrum."],
+      ["취미 답변", "gern + 부사", "Ich lese.", "Ich lese gern Romane, besonders am Wochenende."],
+      ["빈도 답변", "횟수 표현", "Manchmal Sport.", "Ich mache zweimal pro Woche Sport."],
+      ["기간 답변", "seit + 3격", "Ein Jahr.", "Ich lerne seit einem Jahr Deutsch."],
+      ["좋아하는 것", "am liebsten + weil", "Pizza ist gut.", "Am liebsten esse ich Pizza, weil sie lecker ist."],
+      ["질문 되돌리기", "상호작용", "(침묵)", "Und Sie? / Und du?"]
+    ],
+    "note": "호칭 규정은 공식 문서에 없습니다. 시험 지시문이 Sie 형이므로 Teil 1은 Sie가 안전합니다. 파트너와 du로 말해도 되지만, 한 시험 안에서는 하나로 통일합니다.",
+    "flow_title": "대화 흐름",
+    "flow": [
+      ["① 시작", "Hallo! Ich fange an. / Darf ich Sie etwas fragen?"],
+      ["② 질문", "카드의 단어로 바로 묻습니다. 예: Hobby? → Was ist Ihr Hobby?"],
+      ["③ 답변", "Ich wohne in … / Mein Hobby ist … / Ich bin …"],
+      ["④ 전환", "Danke! Jetzt sind Sie dran."]
+    ],
+    "keywords_title": "핵심 키워드",
+    "keywords": [
+      ["기본 12개", "Name · Alter · Wohnort · Herkunft · Beruf · Familie · Sprachen · Hobby · Schule · Freizeit · Essen · Wochenende"],
+      ["공식 자료에 나온 카드", "Geburtstag? · Wohnort? · Beruf? · Hobby? · Ausbildung/Studium? · Eltern? · Musik? · Familienname?"],
+      ["추가 연습용", "Reisen · Sport · Tiere · Wetter · Kleidung · Einkaufen · Medien · Tagesablauf · Wohnung"]
+    ],
+    "qa_title": "예시 문제와 답안 12",
+    "qa_aufgabe": "Aufgabe: Sie bekommen vier Karten. Stellen Sie mit den Wörtern auf den Karten Fragen.",
+    "qa": [
+      ["Wohnort?", "Wo wohnen Sie?", "Ich wohne in Seoul, in der Nähe von Gangnam."],
+      ["Geburtstag?", "Wann haben Sie Geburtstag?", "Ich habe im Mai Geburtstag."],
+      ["Beruf?", "Was sind Sie von Beruf?", "Ich bin Studentin. Ich studiere Germanistik."],
+      ["Hobby?", "Was ist Ihr Hobby?", "Mein Hobby ist Lesen. Ich lese gern Romane."],
+      ["Familienname?", "Wie ist Ihr Familienname?", "Mein Familienname ist Kim, K-I-M."],
+      ["Eltern?", "Was machen Ihre Eltern beruflich?", "Mein Vater ist Ingenieur und meine Mutter ist Lehrerin."],
+      ["Musik?", "Welche Musik hören Sie gern?", "Ich höre gern Popmusik, besonders K-Pop."],
+      ["Herkunft?", "Woher kommen Sie?", "Ich komme aus Korea, aus Busan."],
+      ["Familie?", "Wie viele Personen sind in Ihrer Familie?", "Wir sind vier: meine Eltern, meine Schwester und ich."],
+      ["Sprachen?", "Welche Sprachen sprechen Sie?", "Ich spreche Koreanisch und Englisch, und ich lerne Deutsch."],
+      ["Essen?", "Was essen Sie gern?", "Ich esse gern Pasta und Bibimbap."],
+      ["Freizeit?", "Was machen Sie in Ihrer Freizeit?", "Ich höre Musik oder treffe mich mit Freunden."]
+    ]
+  },
+
+  "teil2": {
+    "id": "teil2",
+    "no": "Teil 2",
+    "title": "자기 이야기하기",
+    "lead": "카드에는 질문 하나(Leitfrage)와 키워드 3~5개가 있습니다. 파트너가 아니라 시험관 앞에서 혼자 이야기하고, 끝나면 시험관이 추가 질문을 1~2개 합니다. 1인당 약 3분입니다. 키워드를 하나씩 문장으로 만들면 충분합니다.",
+    "warn_title": "주의",
+    "warn": "이야기만 하고 끝내지 마세요. 시험관의 추가 질문에 답하는 것까지가 이 과제입니다.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      ["시작", "구조 신호", "(바로 시작)", "Mein Thema ist „Reisen“. / Ich möchte über … erzählen."],
+      ["일상 서술", "빈도부사", "Ich esse Brot.", "Zum Frühstück esse ich meistens Brot mit Käse."],
+      ["순서 서술", "순서 연결어", "Ich dusche. Ich esse.", "Zuerst dusche ich, dann frühstücke ich, danach gehe ich los."],
+      ["의견+이유", "weil 종속절", "Sport ist gut.", "Ich mag Sport, weil ich mich danach besser fühle."],
+      ["생각 말하기", "dass 종속절", "Kochen ist gut.", "Ich finde, dass Kochen Spaß macht."],
+      ["비교하기", "비교급", "Zu Hause ist gut.", "Zu Hause schmeckt das Essen besser als im Restaurant."],
+      ["조건 말하기", "wenn 종속절", "Ich koche manchmal.", "Wenn ich Zeit habe, koche ich selbst."],
+      ["과거 경험", "Perfekt", "Ich war in Jeju.", "Letztes Jahr bin ich nach Jeju gefahren."],
+      ["예시 들기", "zum Beispiel", "Ich koche gern.", "Ich koche gern, zum Beispiel Nudeln."],
+      ["마무리", "종료 신호", "(그냥 멈춤)", "Das war alles. Vielen Dank."],
+      ["질문 대응", "시간 벌기", "(침묵)", "Das ist eine gute Frage. Also, ich denke …"]
+    ],
+    "template_title": "이야기 구조 템플릿",
+    "template": [
+      ["도입", "Mein Thema ist „[주제]“."],
+      ["키워드 1~4", "카드의 키워드를 하나씩 문장으로 만듭니다. Normalerweise … / Zuerst …, dann …, danach …"],
+      ["마무리", "Das war alles. Vielen Dank."],
+      ["시험관 질문", "짧게 먼저 답하고 이유나 예를 한 문장 덧붙입니다. Ja, ich …, weil … / Das ist eine gute Frage. Also, …"]
+    ],
+    "perfekt_title": "Perfekt 동사표 — 과거 경험 이야기용 15개",
+    "perfekt_note": "이동·변화 동사는 sein과 결합합니다. sein과 haben은 보통 Perfekt 대신 war / hatte를 씁니다. 예: Ich war in Jeju. Wir hatten viel Spaß.",
+    "perfekt": [
+      ["machen → hat gemacht", "lernen → hat gelernt", "gehen → ist gegangen"],
+      ["kaufen → hat gekauft", "spielen → hat gespielt", "fahren → ist gefahren"],
+      ["essen → hat gegessen", "besuchen → hat besucht", "fliegen → ist geflogen"],
+      ["trinken → hat getrunken", "treffen → hat getroffen", "reisen → ist gereist"],
+      ["sehen → hat gesehen", "kochen → hat gekocht", "bleiben → ist geblieben"]
+    ],
+    "answers_title": "모범 이야기 10",
+    "answers_note": "각 이야기는 본문 60단어 안팎이고, 천천히 말해도 1분 안에 끝납니다. 이어서 시험관의 추가 질문과 짧은 답이 붙습니다. 키워드가 모두 들어 있는지 확인하며 읽어 보세요.",
+    "words_range": [60, 85],
+    "answers": [
+      {"title": "Wochenende", "leit": "Was machen Sie am Wochenende?", "stich": "aufstehen? · Nachmittag? · Freunde? · Abend?",
+       "body": "Mein Thema ist „Wochenende“. Am Wochenende stehe ich meistens spät auf, so um 10 Uhr. Dann frühstücke ich in Ruhe zu Hause. Am Nachmittag treffe ich oft Freunde, und wir gehen zusammen in ein Café oder ins Kino. Am Abend koche ich gern und sehe einen Film. Am Sonntag räume ich die Wohnung auf und ruhe mich aus. Das war alles. Vielen Dank.",
+       "q": "Was haben Sie letztes Wochenende gemacht?", "a": "Letztes Wochenende habe ich mit Freunden Fußball gespielt. Danach haben wir zusammen gegessen."},
+      {"title": "Essen", "leit": "Was essen Sie gern?", "stich": "Frühstück? · Mittagessen? · Lieblingsessen? · kochen?",
+       "body": "Ich möchte über das Essen erzählen. Zum Frühstück esse ich meistens Brot mit Käse. Mittags esse ich oft in der Mensa, weil das billig ist. Mein Lieblingsessen ist Bibimbap. Am Wochenende koche ich manchmal selbst, zum Beispiel Nudeln. Ich koche nicht gern allein, deshalb koche ich oft mit meiner Schwester. Deutsches Essen mag ich auch, zum Beispiel Brezeln. Das war alles. Vielen Dank.",
+       "q": "Können Sie gut kochen?", "a": "Ja, ich glaube schon. Ich habe das von meiner Mutter gelernt."},
+      {"title": "Reisen", "leit": "Reisen Sie gern?", "stich": "wohin? · mit wem? · Verkehrsmittel? · Aktivitäten?",
+       "body": "Mein Thema ist „Reisen“. Ich reise gern, weil ich neue Orte kennenlernen möchte. Letztes Jahr bin ich mit meiner Freundin nach Jeju gereist. Wir sind mit dem Flugzeug geflogen und drei Tage geblieben. Wir haben das Meer gesehen, viel fotografiert und leckeren Fisch gegessen. Die Reise hat mir sehr gut gefallen. Nächstes Jahr möchte ich nach Deutschland fahren. Das war alles. Vielen Dank.",
+       "q": "Reisen Sie lieber allein oder mit Freunden?", "a": "Lieber mit Freunden, weil wir dann mehr Spaß haben."},
+      {"title": "Sport", "leit": "Machen Sie Sport?", "stich": "was? · wie oft? · wo? · warum?",
+       "body": "Ich möchte über Sport erzählen. Ich mache zweimal pro Woche Sport. Meistens gehe ich ins Fitnessstudio, manchmal jogge ich auch im Park. Ich mag Sport, weil ich mich danach besser fühle. Mein Lieblingssport ist Schwimmen. Im Sommer gehe ich oft ins Schwimmbad. Früher habe ich auch Fußball gespielt, aber jetzt habe ich leider keine Zeit mehr dafür. Das war alles. Vielen Dank.",
+       "q": "Machen Sie lieber allein Sport oder mit anderen?", "a": "Meistens allein. Aber schwimmen gehe ich gern mit meinem Bruder."},
+      {"title": "Tagesablauf", "leit": "Wie ist Ihr Tagesablauf?", "stich": "morgens? · mittags? · nachmittags? · abends?",
+       "body": "Mein Thema ist „Tagesablauf“. Ich stehe normalerweise um 7 Uhr auf. Zuerst dusche ich, dann frühstücke ich. Um halb neun fahre ich zur Arbeit. Mittags esse ich in der Kantine. Am Nachmittag arbeite ich bis 17 Uhr, dann fahre ich nach Hause. Am Abend koche ich etwas und sehe fern. Um 23 Uhr gehe ich ins Bett. Das war alles. Vielen Dank.",
+       "q": "Und was machen Sie am Wochenende?", "a": "Am Wochenende stehe ich spät auf und ruhe mich aus."},
+      {"title": "Hobbys", "leit": "Was sind Ihre Hobbys?", "stich": "was? · seit wann? · wie oft? · wo?",
+       "body": "Ich möchte über meine Hobbys erzählen. Mein liebstes Hobby ist Gitarre spielen, das macht mir viel Spaß. Ich spiele seit drei Jahren Gitarre, fast jeden Tag ein bisschen. Meistens übe ich abends zu Hause. Außerdem lese ich gern Romane. Am Wochenende gehe ich oft in die Buchhandlung und kaufe ein neues Buch. Musik und Bücher machen mich glücklich. Das war alles. Vielen Dank.",
+       "q": "Seit wann lesen Sie gern?", "a": "Seit meiner Schulzeit. Ich habe schon als Kind viel gelesen."},
+      {"title": "Frühstück", "leit": "Was frühstücken Sie?", "stich": "was? · wann? · wo? · allein oder mit der Familie?",
+       "body": "Mein Thema ist „Frühstück“. Ich frühstücke jeden Tag, meistens um halb acht. Unter der Woche esse ich schnell zu Hause, zum Beispiel Brot mit Marmelade, und trinke einen Kaffee. Am Wochenende frühstücke ich mit meiner Familie. Dann essen wir Eier, Obst und Joghurt. Manchmal gehen wir auch in ein Café. Ohne Frühstück kann ich nicht gut arbeiten. Das war alles. Vielen Dank.",
+       "q": "Was trinken Sie zum Frühstück?", "a": "Meistens Kaffee mit Milch. Am Wochenende trinke ich auch Orangensaft."},
+      {"title": "Familie", "leit": "Wie ist Ihre Familie?", "stich": "wie viele Personen? · wer? · Beruf? · was machen Sie zusammen?",
+       "body": "Ich möchte über meine Familie erzählen. Wir sind vier Personen: mein Vater, meine Mutter, mein Bruder und ich. Mein Vater arbeitet als Ingenieur, und meine Mutter ist Lehrerin. Mein Bruder studiert an der Universität. Am Wochenende essen wir oft zusammen, manchmal machen wir auch einen Ausflug. Ich verstehe mich sehr gut mit meinem Bruder, und wir spielen oft zusammen. Das war alles. Vielen Dank.",
+       "q": "Wohnen Sie noch bei Ihren Eltern?", "a": "Ja, ich wohne noch zu Hause, weil meine Arbeit in der Nähe ist."},
+      {"title": "Medien", "leit": "Was machen Sie mit Ihrem Handy?", "stich": "wie oft? · wann? · Internet? · soziale Medien?",
+       "body": "Mein Thema ist „Medien“. Ich benutze jeden Tag mein Handy. Morgens lese ich Nachrichten im Internet. Am Abend sehe ich gern Videos auf YouTube. Ich benutze auch Instagram und schreibe oft Nachrichten an Freunde. Am Wochenende benutze ich mein Handy nicht so viel. Mein Handy ist sehr praktisch, aber im Bett benutze ich es nicht. Das war alles. Vielen Dank.",
+       "q": "Wie viele Stunden benutzen Sie Ihr Handy pro Tag?", "a": "Ungefähr drei Stunden. Das ist vielleicht zu viel!"},
+      {"title": "Schule", "leit": "Wo haben Sie Deutsch gelernt?", "stich": "wo? · wann? · Lehrer/Lehrerin? · Freunde?",
+       "body": "Ich möchte über meine Schule erzählen. Ich habe Deutsch in einer Sprachschule in Seoul gelernt. Der Unterricht war von Montag bis Freitag, jeden Abend von 19 bis 21 Uhr. Mein Lieblingslehrer war Herr Müller. Er war sehr nett. Ich habe auch viele Freunde in der Schule gefunden. Nach dem Unterricht haben wir oft zusammen Kaffee getrunken und Deutsch gesprochen. Das war alles. Vielen Dank.",
+       "q": "Lernen Sie jetzt noch Deutsch?", "a": "Ja, ich lerne für die A2-Prüfung. Danach möchte ich B1 machen."}
+    ]
+  },
+
+  "teil3": {
+    "id": "teil3",
+    "no": "Teil 3",
+    "title": "함께 계획하기",
+    "lead": "파트너와 함께 무언가를 계획하고 합의합니다. 약 5분 동안 제안하고, 거절하고, 대안을 내고, 마지막에 결정을 확인합니다. 공식 자료에는 두 유형이 있습니다. 유형 A는 일정표를 보고 함께 비는 시간을 찾는 과제(Modellsatz)이고, 유형 B는 키워드 카드로 파티 같은 계획을 의논하는 과제(Übungssatz)입니다.",
+    "note": "상대방의 일정표나 카드는 볼 수 없으므로 말로 묻고 알려 주어야 합니다. Modellsatz의 일정표는 하루(7~21시)짜리라서 요일이 아니라 시각을 맞춥니다. 친구와 계획하는 상황이라 du가 자연스럽습니다.",
+    "phrases_title": "고득점 만능 표현",
+    "phrases": [
+      ["대화 시작", "과제 도입", "Wann?", "Wir wollen ja zusammen ins Kino gehen. Wann hast du Zeit?"],
+      ["제안", "Wie wäre es …", "Samstag?", "Wie wäre es am Samstag um 15 Uhr?"],
+      ["제안 다양화", "질문 변형", "Können wir?", "Hast du am Sonntag Zeit? Geht es um 14 Uhr?"],
+      ["거절 3콤보", "거절+이유+대안", "Das geht nicht.", "Da kann ich leider nicht, weil ich arbeite. Geht es um 17 Uhr?"],
+      ["이유 있는 거절", "구체적 이유", "Nein.", "Da habe ich schon einen Termin. / Da muss ich arbeiten."],
+      ["시간 거절", "zu früh / zu spät", "Das geht nicht.", "Das ist mir zu früh. / Das ist mir zu spät."],
+      ["수락", "적극 반응", "Ja.", "Ja, das passt mir gut. / Gute Idee!"],
+      ["선호", "lieber", "Sonntag ist gut.", "Ich möchte lieber am Sonntag gehen."],
+      ["zu 부정사 제안", "Lust + zu", "Schwimmen?", "Hast du Lust, schwimmen zu gehen?"],
+      ["장소 묻기", "과제 완성", "(생략 잦음)", "Und wo treffen wir uns? Vor dem Kino?"],
+      ["역할 분담", "유형 B 필수", "(생략 잦음)", "Ich bringe das Essen mit, und du bringst die Getränke mit."],
+      ["확인 요약", "요약 확인", "Okay.", "Also am Sonntag um 15 Uhr vor dem Kino. Bis dann!"]
+    ],
+    "flow_title": "협상 흐름",
+    "flow": [
+      ["STEP 1 제안하기", "Wie wäre es …?", "Wie wäre es um 15 Uhr?"],
+      ["STEP 2 거절+이유", "Leider kann ich …", "Leider kann ich nicht, weil ich arbeite."],
+      ["STEP 3 대안 제시", "Aber … geht es.", "Aber um 17 Uhr geht es."],
+      ["STEP 4 최종 확인", "Also treffen wir …", "Also treffen wir uns um 17 Uhr vor dem Kino."]
+    ],
+    "dialogs_title": "모범 대화 10",
+    "dialogs_note": "유형 A 6개(일정표에서 겹치는 시간 찾기)와 유형 B 4개(여러 항목 의논)입니다. 유형 A는 두 사람의 일정표를 함께 실었으니, 대화에서 겹치는 시간이 어떻게 나오는지 확인해 보세요.",
+    "dialogs": [
+      {"typ": "A", "title": "ins Kino gehen", "day": "Samstag",
+       "aufgabe": "Sie möchten am Samstag zusammen ins Kino gehen. Sehen Sie sich Ihren Terminkalender an und finden Sie eine Uhrzeit.",
+       "kal_a": [[13, 14, "Mittagessen mit Oma"], [16, 17, "Friseur"]],
+       "kal_b": [[8, 12, "arbeiten"], [14, 15.5, "Deutschkurs"], [17, 18, "einkaufen"]],
+       "slot": [19, 21],
+       "lines": [
+         "A: Wir wollen ja zusammen ins Kino gehen. Hast du am Samstag Zeit?",
+         "B: Ja, aber erst am Nachmittag. Am Vormittag muss ich bis 12 Uhr arbeiten. Wie wäre es um 13 Uhr?",
+         "A: Um 13 Uhr kann ich leider nicht, weil ich mit meiner Oma zu Mittag esse. Geht es um 15 Uhr?",
+         "B: Um 15 Uhr habe ich noch Deutschkurs, der dauert bis halb vier. Hast du am Nachmittag noch etwas vor?",
+         "A: Ja, um 16 Uhr gehe ich zum Friseur. Aber am Abend bin ich frei, ab 17 Uhr.",
+         "B: Von 17 bis 18 Uhr muss ich einkaufen, aber ab 18 Uhr habe ich Zeit. Wie wäre es um 19 Uhr?",
+         "A: Das passt mir gut! Und wo treffen wir uns?",
+         "B: Vor dem Kino?",
+         "A: Einverstanden! Also Samstag, 19 Uhr vor dem Kino. Bis dann!"
+       ]},
+      {"typ": "A", "title": "zusammen kochen", "day": "Sonntag",
+       "aufgabe": "Sie möchten am Sonntag zusammen kochen. Finden Sie eine Uhrzeit.",
+       "kal_a": [[9, 10, "joggen"], [12, 14, "Mittagessen bei den Eltern"], [17, 18, "mit einer Freundin telefonieren"]],
+       "kal_b": [[10, 14, "Oma besuchen"], [19, 21, "Fußball im Fernsehen"]],
+       "slot": [15, 17],
+       "lines": [
+         "A: Wollen wir am Sonntag zusammen kochen? Wann passt es dir?",
+         "B: Am Vormittag leider nicht. Ich besuche von 10 bis 14 Uhr meine Oma. Und du?",
+         "A: Ich gehe um 9 Uhr joggen, und von 12 bis 14 Uhr esse ich bei meinen Eltern.",
+         "B: Dann geht es erst am Nachmittag. Hast du ab 15 Uhr Zeit?",
+         "A: Ja, ab 15 Uhr bin ich frei. Aber von 17 bis 18 Uhr will ich mit einer Freundin telefonieren.",
+         "B: Kein Problem, zwei Stunden reichen. Wie wäre es um 15 Uhr?",
+         "A: Ja, 15 Uhr passt mir gut! Was kochen wir denn?",
+         "B: Wie wäre es mit Pasta? Das ist einfach und lecker. Ich bringe Tomaten und Käse mit.",
+         "A: Super, dann kaufe ich die Nudeln. Also Sonntag, 15 Uhr bei mir!"
+       ]},
+      {"typ": "B", "title": "Geburtstagsfeier",
+       "aufgabe": "Ihr Freund Marco hat Geburtstag. Planen Sie zusammen eine Party.",
+       "points": ["Wo feiern?", "Was essen und trinken?", "Geschenk?", "Wen einladen?"],
+       "lines": [
+         "A: Marco hat nächste Woche Geburtstag. Wollen wir eine Party für ihn organisieren?",
+         "B: Ja, gute Idee! Wo sollen wir denn feiern?",
+         "A: Wie wäre es bei mir zu Hause? Ich habe einen großen Balkon.",
+         "B: Das klingt gut! Und was essen wir?",
+         "A: Ich könnte Pizza machen. Kannst du Getränke mitbringen?",
+         "B: Ja, kein Problem. Ich bringe Cola und Saft mit. Und was schenken wir Marco?",
+         "A: Vielleicht ein Buch? Er liest doch so gern.",
+         "B: Gute Idee! Und wen laden wir ein?",
+         "A: Ich denke, Anna und Tom. Und vielleicht auch Lena.",
+         "B: Einverstanden. Ich schreibe allen eine Nachricht. Also: Party bei dir, Pizza, Buch als Geschenk."
+       ]},
+      {"typ": "A", "title": "schwimmen gehen", "day": "Freitag",
+       "aufgabe": "Sie möchten am Freitag zusammen schwimmen gehen. Finden Sie eine Uhrzeit.",
+       "kal_a": [[9, 13, "Uni"], [14, 16, "Hausaufgaben"], [18, 20, "Deutschkurs"]],
+       "kal_b": [[7, 15, "arbeiten"], [15, 15.75, "zur Post gehen"], [18, 20, "Kino mit Paul"]],
+       "slot": [16, 17.5],
+       "lines": [
+         "A: Ich möchte am Freitag schwimmen gehen. Hast du Lust mitzukommen?",
+         "B: Ja, gern! Aber ich arbeite bis 15 Uhr, und danach muss ich noch zur Post. Wann hast du Zeit?",
+         "A: Von 9 bis 13 Uhr bin ich an der Uni, und von 14 bis 16 Uhr mache ich Hausaufgaben. Geht es um 16 Uhr?",
+         "B: Ja, 16 Uhr passt mir gut! Aber um 18 Uhr gehe ich mit Paul ins Kino.",
+         "A: Kein Problem, bis halb sechs sind wir fertig. Ich habe um 18 Uhr auch Deutschkurs.",
+         "B: Prima! Wo treffen wir uns?",
+         "A: Am Schwimmbad in der Gartenstraße?",
+         "B: Einverstanden! Also Freitag, 16 Uhr am Schwimmbad. Bis dann!"
+       ]},
+      {"typ": "B", "title": "Ausflug",
+       "aufgabe": "Planen Sie zusammen einen Ausflug am Sonntag.",
+       "points": ["Wohin?", "Wie hinkommen?", "Was mitnehmen?", "Wann treffen?"],
+       "lines": [
+         "A: Wollen wir am Sonntag einen Ausflug machen?",
+         "B: Ja, das wäre schön! Wohin sollen wir denn fahren?",
+         "A: Wie wäre es mit einem See? Wir könnten dort spazieren gehen und ein Picknick machen.",
+         "B: Gute Idee! Und wie kommen wir dahin?",
+         "A: Wir können den Bus nehmen. Linie 5 fährt direkt zum See.",
+         "B: Okay. Und was sollen wir mitnehmen?",
+         "A: Ich bringe Sandwiches mit. Kannst du Getränke mitbringen?",
+         "B: Ja, klar. Und ich nehme auch eine Decke mit. Wann treffen wir uns?",
+         "A: Um 10 Uhr an der Bushaltestelle?",
+         "B: Perfekt! Also Sonntag, 10 Uhr, Bushaltestelle. Ich freue mich!"
+       ]},
+      {"typ": "A", "title": "einkaufen gehen", "day": "Samstag",
+       "aufgabe": "Sie möchten am Samstag zusammen einkaufen gehen. Finden Sie eine Uhrzeit.",
+       "kal_a": [[11, 13, "Mittagessen mit der Familie"], [18, 20, "Geburtstag einer Freundin"]],
+       "kal_b": [[9, 12, "Fußballtraining"], [13, 16, "Tante besuchen"], [19, 21, "Kino"]],
+       "slot": [16.5, 18],
+       "lines": [
+         "A: Ich brauche neue Schuhe. Wollen wir am Samstag zusammen einkaufen gehen?",
+         "B: Ja, gern! Am Vormittag habe ich Fußballtraining, und von 13 bis 16 Uhr besuche ich meine Tante.",
+         "A: Dann geht es erst später. Ich esse von 11 bis 13 Uhr mit meiner Familie zu Mittag, aber ab 13 Uhr bin ich frei.",
+         "B: Hmm, bis 16 Uhr bin ich bei meiner Tante. Geht es um halb fünf?",
+         "A: Ja, halb fünf passt mir gut. Um 18 Uhr feiere ich den Geburtstag einer Freundin, aber bis dahin haben wir anderthalb Stunden.",
+         "B: Super! Wo treffen wir uns?",
+         "A: Am Einkaufszentrum in der Hauptstraße?",
+         "B: Einverstanden! Danach können wir noch einen Kaffee trinken, wenn wir Zeit haben.",
+         "A: Gute Idee! Also Samstag, halb fünf am Einkaufszentrum."
+       ]},
+      {"typ": "B", "title": "Sportfest",
+       "aufgabe": "Planen Sie zusammen ein Sportfest für Ihren Deutschkurs.",
+       "points": ["Wann und wo?", "Welche Sportarten?", "Essen und Trinken?", "Wer macht was?"],
+       "lines": [
+         "A: Unsere Lehrerin möchte ein Sportfest für den Kurs. Sollen wir das zusammen planen?",
+         "B: Ja! Wann sollen wir es machen?",
+         "A: Wie wäre es am nächsten Samstag? Da haben die meisten frei.",
+         "B: Guter Vorschlag. Und wo? Im Park neben der Schule?",
+         "A: Ja, der Park ist groß genug. Und welche Sportarten machen wir?",
+         "B: Vielleicht Fußball und Volleyball? Das mögen alle.",
+         "A: Einverstanden. Und was essen wir? Bringt jeder etwas mit?",
+         "B: Ja, ich bringe Kuchen mit. Und du?",
+         "A: Ich mache Sandwiches. Dann organisiere ich die Bälle, und du sagst allen Bescheid.",
+         "B: Abgemacht! Also Samstag im Park, Fußball und Volleyball, jeder bringt Essen mit."
+       ]},
+      {"typ": "A", "title": "für die Prüfung lernen", "day": "Mittwoch",
+       "aufgabe": "Sie möchten am Mittwoch zusammen für die Prüfung lernen. Finden Sie eine Uhrzeit.",
+       "kal_a": [[9, 12, "Uni"], [16, 17, "Sport mit Ben"]],
+       "kal_b": [[9, 13, "Uni"], [13, 14, "Zahnarzt"], [18, 20, "jobben"]],
+       "slot": [14, 16],
+       "lines": [
+         "A: Die Prüfung ist nächste Woche. Sollen wir am Mittwoch zusammen lernen?",
+         "B: Ja, unbedingt! Aber ich habe bis 13 Uhr Uni, und danach muss ich zum Zahnarzt.",
+         "A: Bis wann dauert der Termin?",
+         "B: Bis 14 Uhr. Und du? Hast du am Nachmittag Zeit?",
+         "A: Ja, von 12 bis 16 Uhr bin ich frei. Um 16 Uhr habe ich Sport mit Ben. Wie wäre es um 14 Uhr?",
+         "B: Das passt mir gut! Dann haben wir zwei Stunden. Wo lernen wir?",
+         "A: In der Bibliothek? Dort ist es ruhig.",
+         "B: Gute Idee! Ich bringe meine Notizen mit.",
+         "A: Also Mittwoch, 14 Uhr in der Bibliothek."
+       ]},
+      {"typ": "A", "title": "einen Kaffee trinken", "day": "Dienstag",
+       "aufgabe": "Sie möchten am Dienstag zusammen einen Kaffee trinken gehen. Finden Sie eine Uhrzeit.",
+       "kal_a": [[8, 14, "Uni"], [18, 19, "Yoga"]],
+       "kal_b": [[9, 15, "Unterricht"], [15, 17, "Hausaufgaben"]],
+       "slot": [17, 18],
+       "lines": [
+         "A: Wir haben uns lange nicht gesehen! Wollen wir am Dienstag Kaffee trinken gehen?",
+         "B: Ja, gern! Ich habe aber bis 15 Uhr Unterricht und mache danach Hausaufgaben.",
+         "A: Bis wann machst du Hausaufgaben?",
+         "B: Bis 17 Uhr. Und du? Hast du am Nachmittag Zeit?",
+         "A: Ich bin bis 14 Uhr an der Uni. Um 18 Uhr habe ich Yoga, aber eine Stunde reicht doch. Geht es um 17 Uhr?",
+         "B: 17 Uhr passt! Wo treffen wir uns?",
+         "A: Wie wäre es im Café am Marktplatz?",
+         "B: Ja, das Café ist gemütlich. Also Dienstag, 17 Uhr im Café!"
+       ]},
+      {"typ": "B", "title": "Kochparty",
+       "aufgabe": "Planen Sie zusammen eine Kochparty.",
+       "points": ["Wann und wo?", "Was kochen?", "Wer bringt was mit?", "Wen einladen?"],
+       "lines": [
+         "A: Ich habe eine Idee: Wir machen eine Kochparty! Was meinst du?",
+         "B: Super Idee! Wann sollen wir das machen?",
+         "A: Wie wäre es am Samstagabend? Dann haben alle Zeit.",
+         "B: Einverstanden. Und wo? Bei dir oder bei mir?",
+         "A: Bei mir. Meine Küche ist groß. Was kochen wir?",
+         "B: Jeder kocht ein Gericht aus seinem Land. Ich mache italienische Pasta.",
+         "A: Und ich mache koreanisches Bibimbap! Wer bringt Getränke mit?",
+         "B: Ich kann Saft und Wasser mitbringen. Und wen laden wir ein?",
+         "A: Anna, Tom und Lena. Mehr als sechs Personen passen nicht in die Küche.",
+         "B: Okay! Ich schreibe ihnen eine Nachricht. Also: Samstag bei dir, internationale Küche!"
+       ]}
+    ]
+  },
+
+  "zeit": {
+    "id": "zeit",
+    "title": "시간 표현 마스터",
+    "warn_title": "함정 주의",
+    "warn": "halb acht = 7:30입니다(8:30이 아닙니다). halb는 '다음 시각(8시)까지 30분 남음'이라는 뜻입니다.",
+    "head": ["표현", "시각"],
+    "rows": [
+      ["um 19 Uhr", "19시에"],
+      ["halb acht", "7시 30분"],
+      ["Viertel nach sieben", "7시 15분"],
+      ["Viertel vor acht", "7시 45분"],
+      ["halb fünf", "4시 30분 (16:30)"],
+      ["von 14 bis 16 Uhr", "14시부터 16시까지"],
+      ["ab 17 Uhr", "17시부터"],
+      ["bis 15 Uhr", "15시까지"]
+    ],
+    "note": "일정표에 16:30처럼 적혀 있어도 말할 때는 halb fünf라고 해도 되고, sechzehn Uhr dreißig처럼 숫자대로 읽어도 맞습니다."
+  },
+
+  "aussprache": {
+    "id": "aussprache",
+    "title": "한국인 발음 집중 공략",
+    "intro": "발음은 개별 소리뿐 아니라 단어 강세(Wortakzent)와 억양(Satzmelodie)도 봅니다. 이해에 방해되지 않는 작은 이탈은 괜찮으니, 아래 7가지부터 고치면 이해도가 크게 올라갑니다.",
+    "head": ["소리", "예시", "한국인 맞춤 교정법"],
+    "rows": [
+      ["ö", "möchte, schön", "입술을 '오'로 둥글게 하고 '에' 소리를 냅니다."],
+      ["ü", "Tschüs, früh", "입술은 '우', 혀는 '이' 위치로 동시에 만듭니다."],
+      ["r", "Reise / aber", "목 뒤에서 가글하듯이 냅니다. 어말 -er는 '아'에 가깝습니다."],
+      ["z", "Zeit, zusammen", "'츠(ts)'로 짧고 강하게 냅니다."],
+      ["ch", "ich / auch", "ich형은 '히'로 부드럽게, auch형은 '흐'로 목 뒤에서 냅니다."],
+      ["w", "wohnen, was", "윗니를 아랫입술에 대고 v 소리를 냅니다."],
+      ["ei / ie", "Wein / Wien", "ei는 '아이', ie는 긴 '이ー'입니다. 반대로 읽지 않습니다."]
+    ]
+  },
+
+  "repair": {
+    "id": "wiederholen",
+    "title": "못 알아들었을 때",
+    "intro": "침묵보다 되묻는 쪽이 낫습니다. 되묻기는 대화를 이어 가려는 정상적인 행동입니다.",
+    "head": ["표현", "한국어"],
+    "rows": [
+      ["Wie bitte?", "네? (가벼운 되묻기)"],
+      ["Können Sie das bitte wiederholen?", "다시 말씀해 주시겠어요?"],
+      ["Können Sie bitte langsamer sprechen?", "천천히 말씀해 주시겠어요?"],
+      ["Entschuldigung, ich habe das nicht verstanden.", "죄송합니다, 이해하지 못했어요."]
+    ]
+  }
+}

@@ -253,7 +253,8 @@ def main():
     <div class="modes">
       <a class="mode" href="#list"><span class="mk" lang="de">Papier</span><b>페이퍼 시험</b><span class="ds">PDF 문제지와 듣기 음원(MP3)을 열거나 내려받아 종이에 풉니다. 해답·듣기 대본·모범 답안이 PDF에 함께 있습니다.</span><span class="go2">PDF · 음원 받기 {ARROW}</span></a>
       <a class="mode" href="#digital"><span class="mk" lang="de">Digital</span><b>디지털 시험</b><span class="ds">Lesen · Hören · Schreiben을 컴퓨터에서 디지털 시험 화면 그대로 풉니다. 남은 시간 표시, 음원 자동 재생, 단어 수 자동 계산, 제출 후 바로 채점됩니다.</span><span class="go2">컴퓨터에서 풀기 {ARROW}</span></a>
-      <a class="mode wide" href="schreiben-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Schreiben <span lang="ko">시험 가이드</span></b><span class="ds">SMS와 E-Mail의 채점 방식, 실수, 모범 답안</span><span class="go2">가이드 보기 {ARROW}</span></a>
+      <a class="mode" href="schreiben-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Schreiben <span lang="ko">시험 가이드</span></b><span class="ds">SMS와 E-Mail의 채점 방식, 실수, 모범 답안</span><span class="go2">가이드 보기 {ARROW}</span></a>
+      <a class="mode" href="sprechen-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Sprechen <span lang="ko">시험 가이드</span></b><span class="ds">시험 방식과 채점, 모범 대화</span><span class="go2">가이드 보기 {ARROW}</span></a>
     </div>
     <p class="note">디지털 시험은 PC·노트북 화면에 맞춰져 있습니다. 듣기는 헤드폰을 권합니다. Sprechen은 두 방식 모두 시험관과 대면으로 봅니다.</p>
   </div>

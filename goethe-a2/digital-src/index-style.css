@@ -81,4 +81,3 @@ h2{font-family:var(--serif);font-weight:700;font-size:clamp(34px,6vw,56px);line-
 .it .dl{grid-column:2 / 4;justify-self:start;margin-top:6px;font-size:13px;font-weight:600;color:var(--ink-2);text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:3px 10px}
 .it .dl:hover{background:var(--mist);border-color:var(--ink-3)}
 @media (max-width:640px){.modes{grid-template-columns:1fr}}
-.mode.wide{grid-column:1 / -1}
