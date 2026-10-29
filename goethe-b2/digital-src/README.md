@@ -8,6 +8,9 @@
 | `data/mtN.json` | Modelltest N의 지문, 문항, 정답, 쓰기 과제, 모범 답안, 목록 페이지용 `index` 블록. 형식은 `SCHEMA.md` |
 | `build-digital.py` | `data`와 `template.html`을 합쳐 이 앱 폴더의 `digital.html`을 만듭니다. 음원 길이는 이 폴더의 MP3에서 읽습니다 |
 | `build-index.py` | `data`, PDF, MP3로 이 앱 폴더의 `index.html`(표지·응시 방식·목록·시험별 페이지)을 만듭니다 |
+| `guidelib.py` | 두 가이드 페이지가 함께 쓰는 헬퍼(표, 섹션, 페이지 틀)와 기본 CSS |
+| `guide-data.json`, `build-guide.py` | 쓰기 시험 대비 가이드(`../schreiben-guide.html`)의 글과 모범 답안 20편, 이를 HTML로 만드는 스크립트. 모범 답안의 단어 수가 범위 안인지 빌드할 때 검사합니다 |
+| `sprechen-data.json`, `build-sprechen.py` | 말하기 시험 대비 가이드(`../sprechen-guide.html`)의 글, Teil 1 발표 10편, Teil 2 토론 10편, 이를 HTML로 만드는 스크립트. 발표 단어 수를 빌드할 때 검사합니다 |
 | `index-style.css` | `index.html`의 스타일 |
 | `validate.py` | `data/mtN.json` 형식 검사 |
 | `logo-small.png`, `logo-index.png` | 시험 화면, 목록 페이지의 로고 |
@@ -20,6 +23,8 @@
 python3 digital-src/validate.py digital-src/data/mt*.json
 python3 digital-src/build-digital.py
 python3 digital-src/build-index.py
+python3 digital-src/build-guide.py
+python3 digital-src/build-sprechen.py
 ```
 
 `ffprobe`(ffmpeg)가 필요합니다.

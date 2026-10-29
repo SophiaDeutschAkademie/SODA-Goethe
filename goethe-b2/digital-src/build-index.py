@@ -28,6 +28,18 @@ ARROW_R = ('<svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><
            'stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>')
 
 
+def check_glyphs(font_path, text):
+    """Warnt, wenn Zeichen in fonts/pretendard-index.woff fehlen (sie erscheinen dann in der Systemschrift)."""
+    try:
+        from fontTools.ttLib import TTFont
+    except ImportError:
+        return
+    cmap = TTFont(font_path).getBestCmap()
+    missing = sorted({c for c in text if ord(c) >= 0x20 and ord(c) not in cmap and not c.isspace()})
+    if missing:
+        print("Hinweis: Diese Zeichen fehlen in fonts/pretendard-index.woff und erscheinen in der Systemschrift:", "".join(missing))
+
+
 def e(s):
     return html.escape(str(s), quote=True)
 
@@ -243,6 +255,8 @@ def main():
     <div class="modes">
       <a class="mode" href="#list"><span class="mk" lang="de">Papier</span><b>페이퍼 시험</b><span class="ds">PDF 문제지와 듣기 음원(MP3)을 열거나 내려받아 종이에 풉니다. 해답·듣기 대본·모범 답안이 PDF에 함께 있습니다.</span><span class="go2">PDF · 음원 받기 {ARROW}</span></a>
       <a class="mode" href="#digital"><span class="mk" lang="de">Digital</span><b>디지털 시험</b><span class="ds">Lesen · Hören · Schreiben을 컴퓨터에서 디지털 시험 화면 그대로 풉니다. 남은 시간 표시, 음원 자동 재생, 단어 수 자동 계산, 제출 후 바로 채점됩니다.</span><span class="go2">컴퓨터에서 풀기 {ARROW}</span></a>
+      <a class="mode" href="schreiben-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Schreiben <span lang="ko">시험 가이드</span></b><span class="ds">시험 방식과 채점, 모범 답안</span><span class="go2">가이드 보기 {ARROW}</span></a>
+      <a class="mode" href="sprechen-guide.html"><span class="mk" lang="de">Leitfaden</span><b lang="de">Sprechen <span lang="ko">시험 가이드</span></b><span class="ds">시험 방식과 채점, 모범 대화</span><span class="go2">가이드 보기 {ARROW}</span></a>
     </div>
     <p class="note">디지털 시험은 PC·노트북 화면에 맞춰져 있습니다. 듣기는 헤드폰을 권합니다. Sprechen은 두 방식 모두 시험관과 대면으로 봅니다.</p>
   </div>
@@ -299,6 +313,7 @@ def main():
     doc = (pre + body + pages + script).replace("__LOGO__", logo)
     out = a.out or os.path.join(a.repo, "index.html")
     open(out, "w", encoding="utf-8").write(doc)
+    check_glyphs(os.path.join(HERE, "fonts", "pretendard-index.woff"), re.sub(r"data:[^\"')]+", "", doc))
     # Lehrwerk 공통 다크 모드 스위치(tools/soda-theme.py)를 넣습니다
     theme = os.path.join(HERE, "..", "..", "tools", "soda-theme.py")
     if os.path.exists(theme):
