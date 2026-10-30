@@ -34,6 +34,10 @@ digital-src/     digital.html과 index.html의 원본(데이터, 템플릿, 빌�
 
 앱을 다시 만드는 방법과 새 Modelltest를 추가하는 방법은 각 앱 폴더의 `digital-src/README.md`에 있습니다.
 
+## 말하기 실전 연습 링크
+
+Modelltest 1과 2의 Sprechen 영역(페이퍼 페이지와 디지털 페이지 모두)에 「말하기 실전 연습」 줄이 있습니다. 누르면 SODA-Lehrwerk의 `sprechen/` 페이지가 새 탭으로 열리고, 그 시험이 맨 위에 놓인 로그인 화면이 보입니다. 소피아 독일어학원 재학생이 아이디와 비밀번호로 로그인해야 연습할 수 있습니다. `build-index.py`로 `index.html`을 다시 만든 뒤에는 `python3 tools/add-sprechen-links.py`를 한 번 실행하십시오(이미 들어 있으면 건너뜁니다).
+
 ## 같은 주소를 쓰는 저장 공간
 
 학생의 답과 결과는 학생 브라우저에만 저장되고 앱마다 저장 이름이 다릅니다(`sodaGZA2.v1.`, `sodaGZB1.v1.`, `sodaGZB2.v1.`). 다크 모드 선택(`soda-theme`)은 Lehrwerk의 모든 앱이 함께 씁니다. Lehrwerk와 이 저장소는 같은 `sophiadeutschakademie.github.io` 주소 아래에 있어서 저장된 답과 다크 모드 선택이 그대로 이어집니다. 사용자 지정 도메인으로 바꾸면 이 연결이 끊어질 수 있어요.
