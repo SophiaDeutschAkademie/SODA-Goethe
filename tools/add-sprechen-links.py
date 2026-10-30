@@ -17,7 +17,7 @@ for folder, base_id in APPS.items():
     s = open(p, encoding='utf-8').read()
     for n in (1, 2):
         exam = base_id if n == 1 else base_id + '-2'
-        row = ('<div class="it %s"><span class="t">Üben</span><span class="d">말하기 실전 연습<span>시험관·파트너와 Teil별로 연습 · 소피아 독일어학원 재학생 전용 · 아이디와 비밀번호 필요</span></span>'
+        row = ('<div class="it %s"><span class="t">Üben</span><span class="d">말하기 실전 연습<span>시험관·파트너와 Teil별로 연습 · 소피아 독일어학원 수강생 전용 · 아이디와 비밀번호 필요</span></span>'
                '<a class="go" href="%s#%s" target="_blank" rel="noopener">연습</a></div>\n') % (MARK, BASE, exam)
         for prefix in ('m', 'd'):
             sid = '%s%d' % (prefix, n)

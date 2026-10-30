@@ -36,7 +36,7 @@ digital-src/     digital.html과 index.html의 원본(데이터, 템플릿, 빌�
 
 ## 말하기 실전 연습 링크
 
-Modelltest 1과 2의 Sprechen 영역(페이퍼 페이지와 디지털 페이지 모두)에 「말하기 실전 연습」 줄이 있습니다. 누르면 SODA-Lehrwerk의 `sprechen/` 페이지가 새 탭으로 열리고, 그 시험이 맨 위에 놓인 로그인 화면이 보입니다. 소피아 독일어학원 재학생이 아이디와 비밀번호로 로그인해야 연습할 수 있습니다. `build-index.py`로 `index.html`을 다시 만든 뒤에는 `python3 tools/add-sprechen-links.py`를 한 번 실행하십시오(이미 들어 있으면 건너뜁니다).
+Modelltest 1과 2의 Sprechen 영역(페이퍼 페이지와 디지털 페이지 모두)에 「말하기 실전 연습」 줄이 있습니다. 누르면 SODA-Lehrwerk의 `sprechen/` 페이지가 새 탭으로 열리고, 그 시험이 맨 위에 놓인 로그인 화면이 보입니다. 소피아 독일어학원 수강생이 아이디와 비밀번호로 로그인해야 연습할 수 있습니다. `build-index.py`로 `index.html`을 다시 만든 뒤에는 `python3 tools/add-sprechen-links.py`를 한 번 실행하십시오(이미 들어 있으면 건너뜁니다).
 
 ## 같은 주소를 쓰는 저장 공간
 
