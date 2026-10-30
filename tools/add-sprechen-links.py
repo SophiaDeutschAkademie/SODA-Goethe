@@ -16,7 +16,7 @@ for folder, base_id in APPS.items():
     p = folder + '/index.html'
     s = open(p, encoding='utf-8').read()
     for n in (1, 2, 3, 4, 5):
-        if folder == 'goethe-b1' and n > 2:   # 말하기 연습 툴에 Goethe B1은 Modelltest 1·2만 있습니다.
+        if folder == 'goethe-b1' and n > 5:
             continue
         exam = base_id if n == 1 else '%s-%d' % (base_id, n)
         row = ('<div class="it %s"><span class="t">Üben</span><span class="d">말하기 실전 연습<span>시험관·파트너와 Teil별로 연습 · 소피아 독일어학원 수강생 전용 · 아이디와 비밀번호 필요</span></span>'
