@@ -39,9 +39,9 @@ def check_glyphs(font_path, text):
 
 
 def strip_notes(obj, top=True):
-    """Entfernt Felder, die nur für die Übersichtsseite oder die Pflege gedacht sind (notes, index)."""
+    """Entfernt Felder, die nur für die Übersichtsseite oder die Pflege gedacht sind (notes, index, kommentar)."""
     if isinstance(obj, dict):
-        return {k: strip_notes(v, False) for k, v in obj.items() if k != "notes" and not (top and k == "index")}
+        return {k: strip_notes(v, False) for k, v in obj.items() if k != "notes" and not (top and k in ("index", "kommentar"))}
     if isinstance(obj, list):
         return [strip_notes(v, False) for v in obj]
     return obj

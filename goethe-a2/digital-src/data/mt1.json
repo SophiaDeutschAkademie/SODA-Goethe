@@ -7,10 +7,10 @@
    "title": "Die Bücher kommen zu den Leuten",
    "lead": "Marion Kessler fährt mit einem Bücherbus über die Dörfer – und ist für viele Menschen mehr als eine Bibliothekarin.",
    "paragraphs": [
-    "Dienstags um halb neun steht Marion Kessler mit ihrem gelben Bus vor der Grundschule in Lindhorst. Im Bus gibt es fast 4000 Bücher, aber auch Hörbücher, Spiele und Filme. „Viele Dörfer hier haben keine eigene Bibliothek mehr. Deshalb kommen wir zu ihnen“, erzählt sie.",
-    "Eigentlich wollte Kessler Lehrerin werden. Nach zwei Semestern hat sie das Studium aber abgebrochen und eine Ausbildung in einer Stadtbibliothek gemacht. Für den Bus musste sie mit 41 Jahren erst einen Lkw-Führerschein machen. „Das war schwerer als jede Prüfung an der Uni“, sagt sie und lacht.",
-    "Das Ausleihen kostet nichts, nur für Filme bezahlt man einen Euro. Besonders die älteren Leute kommen nicht nur wegen der Bücher. „Manche erzählen mir von ihren Enkeln oder von ihrem Garten. Für sie bin ich oft der einzige Besuch in der Woche.“",
-    "Im nächsten Jahr bekommt die Bibliothek einen neuen Bus. Er ist kleiner als der alte, fährt elektrisch und hat Platz für Rollstühle."
+    "Dienstags um halb neun steht Marion Kessler mit ihrem gelben Bus vor der Grundschule in Lindhorst. Im Bus gibt es fast 4000 Bücher, aber auch Hörbücher, Spiele und Filme für alle Altersgruppen. „Viele Dörfer hier haben keine eigene Bibliothek mehr, weil die Gemeinden sparen müssen. Deshalb kommen wir zu den Leuten“, erzählt sie.",
+    "Eigentlich wollte Kessler Lehrerin werden. Nach zwei Semestern hat sie das Studium aber abgebrochen und eine Ausbildung in einer Stadtbibliothek gemacht. Als der Landkreis den Bücherbus gekauft hat, musste sie mit 41 Jahren erst einen Lkw-Führerschein machen. „Das war schwerer als jede Prüfung an der Universität“, sagt sie und lacht.",
+    "Das Ausleihen kostet nichts, nur für Filme bezahlt man einen Euro. Besonders die älteren Menschen kommen nicht nur wegen der Bücher, sondern auch wegen der Gespräche. „Manche erzählen mir von ihren Enkeln oder von ihrem Garten. Für sie bin ich oft der einzige Besuch in der Woche.“",
+    "Im nächsten Jahr bekommt die Bibliothek einen neuen Bus, den die Stadt schon bestellt hat. Er ist kleiner als der alte, fährt elektrisch und hat Platz für Rollstühle, damit auch Besucher mit Behinderung problemlos einsteigen können."
    ],
    "quote": "„Für viele bin ich oft der einzige Besuch in der Woche.“",
    "source": "aus einer deutschen Tageszeitung",
@@ -30,9 +30,9 @@
      "no": "1",
      "stem": "Im Bücherbus kann man …",
      "options": {
-      "a": "nur Bücher für Kinder finden.",
-      "b": "mehr als nur Bücher ausleihen.",
-      "c": "alles kostenlos mitnehmen."
+      "a": "nur Bücher für Kinder und Jugendliche finden.",
+      "b": "auch andere Medien ausleihen.",
+      "c": "alles ohne Geld mitnehmen."
      },
      "answer": "b"
     },
@@ -40,9 +40,9 @@
      "no": "2",
      "stem": "Marion Kessler …",
      "options": {
-      "a": "hat ihr Studium nicht zu Ende gemacht.",
-      "b": "hat einige Jahre als Lehrerin gearbeitet.",
-      "c": "hat erst nach ihrer Ausbildung studiert."
+      "a": "hat das Studium nicht beendet.",
+      "b": "hat nach dem Studium einige Jahre als Lehrerin gearbeitet.",
+      "c": "hat erst nach ihrer Ausbildung in der Bibliothek studiert."
      },
      "answer": "a"
     },
@@ -50,7 +50,7 @@
      "no": "3",
      "stem": "Für die Arbeit im Bücherbus …",
      "options": {
-      "a": "musste sie noch etwas Neues lernen.",
+      "a": "musste sie noch etwas ganz Neues lernen.",
       "b": "braucht man keinen besonderen Führerschein.",
       "c": "hat sie an der Universität eine Prüfung gemacht."
      },
@@ -61,8 +61,8 @@
      "stem": "Viele ältere Menschen …",
      "options": {
       "a": "leihen vor allem Filme aus.",
-      "b": "freuen sich, dass sie mit jemandem sprechen können.",
-      "c": "suchen im Bus Bücher für ihre Enkel."
+      "b": "kommen auch, um mit jemandem zu reden.",
+      "c": "suchen im Bus vor allem Bücher für ihre Enkel."
      },
      "answer": "b"
     },
@@ -72,7 +72,7 @@
      "options": {
       "a": "hat mehr Platz für Bücher.",
       "b": "fährt schon in diesem Jahr.",
-      "c": "ist auch für Menschen geeignet, die nicht gehen können."
+      "c": "ist auch für Besucher im Rollstuhl geeignet."
      },
      "answer": "c"
     }
@@ -88,33 +88,33 @@
     "rows": [
      {
       "floor": "4. Stock",
-      "text": "Dr. med. Petra Lang – Kinder- und Jugendärztin · Hebammenpraxis Storchennest · Logopädie (Sprachtherapie für Kinder und Erwachsene) · Ernährungsberatung (nur nach Terminvereinbarung) · Kursraum (Yoga, Rückenschule, Babymassage)"
+      "text": "Dr. med. Petra Lang – Kinder- und Jugendärztin (Mo–Fr 8–12 Uhr) · Hebammenpraxis Storchennest (Geburtsvorbereitung, Beratung nach der Geburt) · Logopädie (Sprachtherapie für Kinder und Erwachsene) · Ernährungsberatung (nur nach Terminvereinbarung) · Kursraum (Yoga, Rückenschule, Babymassage)"
      },
      {
       "floor": "3. Stock",
-      "text": "Dr. med. Ahmet Yıldız – Zahnarzt (Notdienst am Wochenende) · Kieferorthopädie (Zahnspangen für Kinder und Erwachsene) · Zahnlabor · Hörgeräte Klangwerk (Hörtest, Reparatur)"
+      "text": "Dr. med. Ahmet Yıldız – Zahnarzt (Notdienst am Wochenende, Termine auch am Abend) · Kieferorthopädie (Zahnspangen für Kinder und Erwachsene) · Zahnlabor · Hörgeräte Klangwerk (kostenloser Hörtest, Reparatur, Batterien)"
      },
      {
       "floor": "2. Stock",
-      "text": "Dr. med. Sven Bauer – Augenarzt · Optik Weitblick (Brillen, Kontaktlinsen, kostenloser Sehtest) · Dr. med. Hanna Roth – Hautärztin (auch Allergietests)"
+      "text": "Dr. med. Sven Bauer – Augenarzt (Sprechstunde nur mit Termin) · Optik Weitblick (Brillen, Kontaktlinsen, kostenloser Sehtest) · Dr. med. Hanna Roth – Hautärztin (auch Allergietests, Sprechstunde Mo–Do)"
      },
      {
       "floor": "1. Stock",
-      "text": "Gemeinschaftspraxis Dr. Klein und Dr. Wolf – Allgemeinmedizin, Hausbesuche, Impfungen · Labor (Blutabnahme Mo–Fr 7–9 Uhr) · Physiotherapie Aktiv (Massage, Krankengymnastik)"
+      "text": "Gemeinschaftspraxis Dr. Klein und Dr. Wolf – Allgemeinmedizin, Hausbesuche, Impfungen (ohne Termin Mo und Do 8–10 Uhr) · Labor (Blutabnahme Mo–Fr 7–9 Uhr) · Physiotherapie Aktiv (Massage, Krankengymnastik, Termine auch samstags)"
      },
      {
       "floor": "EG",
-      "text": "Information · Apotheke am Lindenplatz (Mo–Sa 8–20 Uhr) · Sanitätshaus (Rollstühle, Gehhilfen, Bandagen) · Café „Pause“ · Abstellplatz für Kinderwagen"
+      "text": "Information (Mo–Fr 7–19 Uhr) · Apotheke am Lindenplatz (Mo–Sa 8–20 Uhr, Lieferservice für ältere Menschen) · Sanitätshaus (Rollstühle, Gehhilfen, Bandagen – auch zum Ausleihen) · Café „Pause“ (Frühstück und Mittagstisch) · Abstellplatz für Kinderwagen"
      },
      {
       "floor": "UG",
-      "text": "Tiefgarage (erste Stunde kostenlos) · Fahrradkeller · Fundbüro · Toiletten · Schließfächer"
+      "text": "Tiefgarage (erste Stunde kostenlos, danach 1,50 € pro Stunde) · Fahrradkeller · Fundbüro (Mo–Fr 9–15 Uhr) · Toiletten · Schließfächer"
      }
     ]
    },
    "example": {
     "no": "0",
-    "stem": "Ihr Sohn ist sechs Jahre alt und hat seit gestern Fieber.",
+    "stem": "Ihr Sohn ist sechs Jahre alt und hat seit gestern Fieber. Sie möchten, dass ihn eine Ärztin untersucht.",
     "options": {
      "a": "4. Stock",
      "b": "1. Stock",
@@ -125,7 +125,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie brauchen eine neue Brille. Sie wissen aber nicht, ob Ihre Augen schlechter geworden sind.",
+     "stem": "Sie lesen schon lange nur noch mit Mühe die Zeitung. Sie möchten wissen, ob Sie eine stärkere Brille brauchen.",
      "options": {
       "a": "3. Stock",
       "b": "2. Stock",
@@ -135,7 +135,7 @@
     },
     {
      "no": "7",
-     "stem": "Ihre Großmutter versteht am Telefon fast nichts mehr, weil sie schlecht hört.",
+     "stem": "Ihre Großmutter versteht am Telefon fast nichts mehr. Sie soll ihre Ohren testen lassen und vielleicht ein Gerät bekommen.",
      "options": {
       "a": "3. Stock",
       "b": "4. Stock",
@@ -145,7 +145,7 @@
     },
     {
      "no": "8",
-     "stem": "Ihr Arzt sagt, Sie sollen weniger Zucker essen. Sie möchten lernen, wie Sie gesünder kochen können.",
+     "stem": "Ihr Arzt sagt, Sie sollen weniger Zucker essen. Sie möchten lernen, wie Sie gesünder kochen können, und dazu einen Termin vereinbaren.",
      "options": {
       "a": "EG",
       "b": "1. Stock",
@@ -155,7 +155,7 @@
     },
     {
      "no": "9",
-     "stem": "Sie haben sich beim Joggen am Fuß verletzt und brauchen für ein paar Wochen Krücken.",
+     "stem": "Sie haben sich beim Joggen am Fuß verletzt. Der Arzt sagt, dass Sie ein paar Wochen nicht richtig gehen dürfen und Krücken brauchen.",
      "options": {
       "a": "1. Stock",
       "b": "EG",
@@ -165,7 +165,7 @@
     },
     {
      "no": "10",
-     "stem": "Sie haben gestern im Wartezimmer Ihren Schal liegen lassen.",
+     "stem": "Sie haben gestern im Wartezimmer Ihren Schal vergessen. Sie hoffen, dass ihn jemand gefunden und abgegeben hat.",
      "options": {
       "a": "UG",
       "b": "EG",
@@ -187,11 +187,11 @@
      "Jana"
     ],
     "paragraphs": [
-     "endlich habe ich Zeit, dir zu schreiben! Seit drei Wochen wohne ich nicht mehr allein: Ich habe einen Hund aus dem Tierheim geholt. Er heißt Bruno, ist vier Jahre alt und ziemlich groß. Im Tierheim hat er fast ein Jahr auf eine Familie gewartet. Eigentlich wollte ich einen kleinen Hund, aber dann habe ich Bruno gesehen und mich sofort in ihn verliebt.",
-     "Die ersten Tage waren nicht leicht. Bruno hatte Angst vor dem Aufzug und vor lauten Autos. Deshalb sind wir am Anfang nur im Park hinter dem Haus spazieren gegangen. Inzwischen fährt er sogar mit mir Straßenbahn – natürlich mit Maulkorb, das ist hier Pflicht.",
-     "Mein Leben hat sich ganz schön verändert. Ich stehe jetzt jeden Morgen um sechs auf, auch am Wochenende. Früher bin ich nie vor neun aus dem Bett gekommen, das weißt du ja! Ins Büro darf ich Bruno leider nicht mitnehmen. Aber meine Nachbarin, Frau Petrović, ist schon in Rente und passt gern auf ihn auf. Dafür kaufe ich manchmal für sie ein, denn das Tragen fällt ihr schwer.",
-     "Und noch etwas: Durch Bruno habe ich viele Leute kennengelernt. Im Park sprechen mich ständig andere Hundebesitzer an. Mit zwei von ihnen gehe ich jetzt jeden Sonntag im Wald wandern. Danach trinken wir oft noch zusammen Kaffee – so etwas habe ich früher nie gemacht.",
-     "Hast du Lust, mich im Mai zu besuchen? Du hast ja keine Angst vor Hunden, oder? Bruno ist sehr lieb, aber er springt gern an Leuten hoch. Zieh also lieber keine helle Hose an. :-)",
+     "endlich habe ich Zeit, dir zu schreiben! Seit drei Wochen wohne ich nicht mehr allein, denn ich habe einen Hund aus dem Tierheim geholt. Er heißt Bruno, ist vier Jahre alt und ziemlich kräftig. Die Mitarbeiterin hat mir erklärt, dass große Hunde im Tierheim meistens länger auf eine neue Familie warten müssen. Eigentlich wollte ich einen kleinen Hund, weil meine Wohnung nicht besonders groß ist, aber dann habe ich Bruno gesehen und mich sofort in ihn verliebt.",
+     "Die ersten Tage waren ziemlich anstrengend, weil Bruno Angst vor dem Fahrstuhl und vor lauten Lastwagen hatte. Deshalb sind wir am Anfang nur im Park hinter dem Wohnhaus spazieren gegangen. Inzwischen fährt er sogar mit mir Straßenbahn, natürlich mit Maulkorb, denn das ist hier Pflicht. Das konnte ich mir vor einem Monat noch gar nicht vorstellen.",
+     "Mein Tagesablauf hat sich ganz schön verändert. Ich stehe jetzt jeden Morgen um sechs Uhr auf, auch am Wochenende, weil Bruno dann Hunger hat und dringend hinaus muss. Früher bin ich nie vor neun aus dem Bett gekommen, das weißt du ja! Ins Büro darf ich Bruno leider nicht mitnehmen, aber meine Nachbarin, Frau Petrović, die schon Rentnerin ist, passt gern auf ihn auf. Dafür erledige ich manchmal ihre Einkäufe, denn das Tragen fällt ihr schwer.",
+     "Außerdem habe ich durch Bruno viele freundliche Menschen kennengelernt. Im Hundepark sprechen mich ständig andere Hundebesitzer an, und mit zwei von ihnen mache ich jetzt jeden Sonntag einen langen Spaziergang im Stadtwald. Danach trinken wir oft noch zusammen Kaffee, was ich früher nie gemacht habe.",
+     "Hast du Lust, mich im Mai zu besuchen? Du hast ja hoffentlich keine Angst vor Hunden, oder? Bruno ist sehr freundlich, aber er springt gern an Besuchern hoch, wenn er sich freut. Zieh also lieber keine helle Kleidung an. :-)",
      "Ich freue mich auf deine Antwort!"
     ]
    },
@@ -211,8 +211,8 @@
      "no": "11",
      "stem": "Bruno …",
      "options": {
-      "a": "ist kleiner, als Jana gedacht hatte.",
-      "b": "ist nicht der Hund, den Jana zuerst wollte.",
+      "a": "ist kleiner, als Jana erwartet hat.",
+      "b": "ist nicht der Hund, den Jana sich zuerst vorgestellt hat.",
       "c": "ist noch sehr jung."
      },
      "answer": "b"
@@ -279,18 +279,18 @@
     },
     {
      "no": "18",
+     "text": "Sandra möchte zusammen mit ihrer besten Freundin am Wochenende tanzen lernen.",
+     "answer": "X"
+    },
+    {
+     "no": "19",
      "text": "Lina sucht ein Geburtstagsgeschenk für ihre zehnjährige Tochter. Das Mädchen steht gern in der Küche.",
      "answer": "b"
     },
     {
-     "no": "19",
+     "no": "20",
      "text": "Kemal wird im Sommer Vater. Er möchte wissen, was er tun muss, wenn sich sein Kind verletzt.",
      "answer": "f"
-    },
-    {
-     "no": "20",
-     "text": "Sandra möchte zusammen mit ihrer besten Freundin am Wochenende tanzen lernen.",
-     "answer": "X"
     }
    ],
    "ads": {
@@ -691,5 +691,266 @@
    "teil3": "Daniels Küche streichen (Samstag, zwei Stunden)"
   }
  },
- "notes": "Aus dem PDF Goethe A2 Modelltest 1 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+ "notes": "Aus dem PDF Goethe A2 Modelltest 1 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Hörbücher, Spiele und Filme“ = auch andere Medien; c: Filme kosten einen Euro."
+    },
+    {
+     "no": "2",
+     "ans": "a",
+     "typ": "P",
+     "note": "„das Studium abgebrochen“ = nicht beendet; b: Sie wollte Lehrerin werden."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "I",
+     "note": "Lkw-Führerschein mit 41; c: Wortfalle – „Prüfung an der Universität“ ist nur ein Vergleich."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "P",
+     "note": "„nicht nur wegen der Bücher, sondern auch wegen der Gespräche“; c: Die Enkel werden nur erwähnt."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "P",
+     "note": "„Platz für Rollstühle“ = Besucher im Rollstuhl; a ist das Gegenteil (kleiner als der alte)."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "b",
+     "typ": "P",
+     "note": "Ob die Augen schlechter sind → kostenloser Sehtest bei Optik Weitblick."
+    },
+    {
+     "no": "7",
+     "ans": "a",
+     "typ": "P",
+     "note": "Hörtest und Gerät → Hörgeräte Klangwerk; b: Logopädie ist Sprachtherapie."
+    },
+    {
+     "no": "8",
+     "ans": "c",
+     "typ": "W",
+     "note": "Ernährungsberatung im 4. Stock; a: Café („Mittagstisch“) als Falle."
+    },
+    {
+     "no": "9",
+     "ans": "b",
+     "typ": "P",
+     "note": "Krücken = Gehhilfen im Sanitätshaus; a: Physiotherapie kommt erst später."
+    },
+    {
+     "no": "10",
+     "ans": "a",
+     "typ": "P",
+     "note": "Schal vergessen, abgegeben → Fundbüro; b: Information als Falle."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "A",
+     "note": "„Eigentlich wollte ich einen kleinen Hund“; a: Bruno ist „ziemlich kräftig“."
+    },
+    {
+     "no": "12",
+     "ans": "a",
+     "typ": "P",
+     "note": "„nur im Park hinter dem Wohnhaus“; b: Straßenbahn erst „inzwischen“."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "A",
+     "note": "jetzt um sechs Uhr, früher nie vor neun; b: „auch am Wochenende“."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "I",
+     "note": "„Dafür erledige ich manchmal ihre Einkäufe“; a: Wald mit anderen Hundebesitzern (S)."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "I",
+     "note": "„keine helle Kleidung“; b: Wortfalle „Angst“ – Jana fragt nur danach."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "d",
+     "typ": "P",
+     "note": "Hose kürzer machen, keine Maschine → „Nähmaschinen stehen für Sie bereit“."
+    },
+    {
+     "no": "17",
+     "ans": "e",
+     "typ": "I",
+     "note": "arbeitet nachts → „spät in der Nacht“, Termine frei buchen."
+    },
+    {
+     "no": "18",
+     "ans": "X",
+     "typ": "N",
+     "note": "c: „nur für Brautpaare“ und dienstags – Sandra will mit einer Freundin am Wochenende tanzen lernen."
+    },
+    {
+     "no": "19",
+     "ans": "b",
+     "typ": "P",
+     "note": "Tochter zehn, „steht gern in der Küche“ → Kochclub 8–12 Jahre, Gutschein."
+    },
+    {
+     "no": "20",
+     "ans": "f",
+     "typ": "P",
+     "note": "Kind verletzt sich → Sturz, Verbrennung; Kurs für Eltern."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "a",
+     "typ": "N",
+     "note": "„nicht von Gleis 7, sondern von Gleis 4“; c gilt für einen anderen Zug."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "N",
+     "note": "„nicht heute, sondern morgen ab 16 Uhr“; c: am Freitag geschlossen."
+    },
+    {
+     "no": "3",
+     "ans": "c",
+     "typ": "A",
+     "note": "„Neu ist in diesem Jahr der Stadtlauf“; a und b gibt es „wie jedes Jahr“."
+    },
+    {
+     "no": "4",
+     "ans": "a",
+     "typ": "P",
+     "note": "Affenhaus „wegen Bauarbeiten geschlossen“; b und c finden statt."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "S",
+     "note": "Kühltasche; Westen leiht man vor Ort (a), Essen bringt Mira (b)."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "d",
+     "typ": "A",
+     "note": "Jonas wollte grillen, Grill kaputt → Gitarre (b ist die Falle)."
+    },
+    {
+     "no": "7",
+     "ans": "f",
+     "typ": "N",
+     "note": "„diesmal nicht“ Salat, sondern Getränke."
+    },
+    {
+     "no": "8",
+     "ans": "b",
+     "typ": "S",
+     "note": "„Den Grill bringt Herr Lindqvist mit“."
+    },
+    {
+     "no": "9",
+     "ans": "c",
+     "typ": "W",
+     "note": "„Die kocht doch nie!“ – trotzdem macht Paula den Kartoffelsalat."
+    },
+    {
+     "no": "10",
+     "ans": "i",
+     "typ": "S",
+     "note": "Tische vom Hausmeister (g); Frau Novak bringt Spiele."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "A",
+     "note": "Bus war geplant, nach dem Test mit dem Rad: „Das mache ich jetzt jeden Tag“."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "N",
+     "note": "nicht in der Jacke, nicht im Auto → „neben der Kaffeemaschine“."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "A",
+     "note": "zehn → früher; halb zehn besetzt → Viertel nach neun."
+    },
+    {
+     "no": "14",
+     "ans": "b",
+     "typ": "I",
+     "note": "Büro mit wenig Licht; Orchidee und Kaktus brauchen viel Licht."
+    },
+    {
+     "no": "15",
+     "ans": "a",
+     "typ": "A",
+     "note": "Museum zu voll, Café noch geschlossen → Brunnen."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Nein",
+     "typ": "A",
+     "note": "„Ich wollte eigentlich nur zuschauen“."
+    },
+    {
+     "no": "17",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Heute sind wir vier Frauen.“"
+    },
+    {
+     "no": "18",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„meistens keine großen Brände, sondern …“"
+    },
+    {
+     "no": "19",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„darf ich sofort los“."
+    },
+    {
+     "no": "20",
+     "ans": "Nein",
+     "typ": "I",
+     "note": "„Nächstes Jahr darf er in die Kinderfeuerwehr.“"
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 4 von 15 Fällen die längste Option, in 5 die mittlere, in 6 die kürzeste."
+ }
 }

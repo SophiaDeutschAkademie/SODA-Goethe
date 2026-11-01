@@ -7,9 +7,9 @@
    "title": "Schwimmen lernen mit 63",
    "lead": "Jeden Montagabend gehört das Hallenbad in Hagenow den Anfängern. Die meisten von ihnen sind über 50.",
    "paragraphs": [
-    "Gerd Paulsen steht am Beckenrand und zögert. Dann geht er langsam die Treppe hinunter ins Wasser. Der 63-Jährige hatte sein ganzes Leben lang Angst vor dem Wasser. „Als Kind bin ich einmal fast ertrunken. Danach wollte ich nie wieder ins Wasser“, erzählt er. Jetzt lernt er schwimmen – gemeinsam mit elf anderen Erwachsenen.",
-    "Der Kurs war die Idee von Ayşe Kaya. Die 34-Jährige arbeitet als Bademeisterin im Hallenbad. Immer wieder hat sie gesehen, dass Erwachsene am Beckenrand sitzen und nur ihren Enkeln zuschauen. „Viele schämen sich. Deshalb gibt es bei uns keine Kinder und keine Zuschauer“, sagt sie. In zehn Kursstunden lernen die Teilnehmer, sich im Wasser sicher zu bewegen. Richtig schwimmen können danach aber noch nicht alle.",
-    "Gerd Paulsen hat sich angemeldet, weil seine Enkelin im Sommer mit ihm an den See fahren möchte. „Ich will nicht wieder nur am Ufer sitzen.“ Nach der vierten Stunde schwimmt er schon fünf Meter ohne Hilfe. Der nächste Kurs beginnt im Oktober. Es gibt schon eine Warteliste."
+    "Gerd Paulsen steht am Beckenrand und zögert, weil er sich nicht traut, ins Wasser zu gehen. Dann steigt er langsam die Schwimmbadtreppe hinunter. Der 63-Jährige hatte sein ganzes Leben lang Angst vor dem Wasser. „Als Kind bin ich einmal fast ertrunken. Danach wollte ich nie wieder ins Wasser“, erzählt er. Jetzt lernt er schwimmen – gemeinsam mit elf anderen Erwachsenen, die ähnliche Erfahrungen gemacht haben.",
+    "Der Anfängerkurs war die Idee von Ayşe Kaya, die als Bademeisterin im Hallenbad arbeitet. Seit Jahren beobachtet die 34-Jährige, dass viele Erwachsene am Beckenrand sitzen und nur ihren Enkelkindern zuschauen, obwohl sie eigentlich selbst gern schwimmen würden. „Viele schämen sich. Deshalb gibt es bei uns keine Kinder und keine Zuschauer“, sagt sie. In zehn Kursstunden lernen die Teilnehmer, sich im Wasser sicher zu bewegen. Richtig schwimmen können danach aber noch nicht alle Teilnehmer, weil man dafür oft mehr Training braucht.",
+    "Gerd Paulsen hat sich angemeldet, weil seine Enkelin im Sommer mit ihm an den See fahren möchte. „Ich will nicht wieder nur am Ufer sitzen.“ Nach der vierten Unterrichtsstunde schwimmt er schon fünf Meter ohne fremde Hilfe. Obwohl der nächste Schwimmkurs erst im Oktober beginnt, gibt es schon eine lange Warteliste."
    ],
    "quote": "„Viele schämen sich. Deshalb gibt es bei uns keine Kinder und keine Zuschauer.“",
    "source": "aus einer deutschen Tageszeitung",
@@ -30,7 +30,7 @@
      "stem": "Gerd Paulsen hatte Angst vor dem Wasser, weil …",
      "options": {
       "a": "er nie Zeit für einen Kurs hatte.",
-      "b": "er lange nicht im Wasser war.",
+      "b": "er schon lange nicht mehr im Wasser war.",
       "c": "ihm als Kind etwas Schlimmes passiert ist."
      },
      "answer": "c"
@@ -40,8 +40,8 @@
      "stem": "Im Kurs …",
      "options": {
       "a": "dürfen keine Kinder mitmachen.",
-      "b": "schauen die Enkel zu.",
-      "c": "sind alle Teilnehmer über 50."
+      "b": "schauen die Enkel der Teilnehmer zu.",
+      "c": "sind alle Teilnehmer über 50 Jahre alt."
      },
      "answer": "a"
     },
@@ -49,8 +49,8 @@
      "no": "3",
      "stem": "Nach dem Kurs …",
      "options": {
-      "a": "können alle Teilnehmer schwimmen.",
-      "b": "machen die Teilnehmer eine Prüfung.",
+      "a": "können alle Teilnehmer richtig schwimmen.",
+      "b": "machen die Teilnehmer eine Prüfung im Hallenbad.",
       "c": "fühlen sich die Teilnehmer im Wasser sicherer."
      },
      "answer": "c"
@@ -69,8 +69,8 @@
      "no": "5",
      "stem": "Der nächste Kurs …",
      "options": {
-      "a": "beginnt im Sommer.",
-      "b": "ist schon ausgebucht.",
+      "a": "beginnt schon im Sommer.",
+      "b": "ist schon voll.",
       "c": "hat noch freie Plätze."
      },
      "answer": "b"
@@ -87,15 +87,15 @@
     "rows": [
      {
       "floor": "Ebene 3",
-      "text": "Besucherterrasse (Blick auf die Startbahn) · Restaurant „Wolke 7“ · Konferenzräume · Kapelle"
+      "text": "Besucherterrasse (Blick auf die Startbahn, täglich 8–20 Uhr) · Restaurant „Wolke 7“ (ab 11 Uhr) · Konferenzräume (nur mit Anmeldung) · Kapelle"
      },
      {
       "floor": "Ebene 2",
-      "text": "Abflug · Check-in-Schalter 1–60 · Sicherheitskontrolle · Geschäfte (Mode, Bücher, Elektronik) · Drogerie · Ruhezone mit Liegen · Kinderwagenverleih"
+      "text": "Abflug · Check-in-Schalter 1–60 · Sicherheitskontrolle · Geschäfte (Mode, Bücher, Elektronik) · Drogerie · Ruhezone mit Liegen (nur mit Bordkarte) · Kinderwagenverleih"
      },
      {
       "floor": "Ebene 1",
-      "text": "Ankunft · Gepäckausgabe · Gepäckermittlung (vermisste Koffer) · Zoll · Information · Mietwagen · Wechselstube · Spielecke für Kinder · Café"
+      "text": "Ankunft · Gepäckausgabe · Gepäckermittlung (vermisste Koffer) · Zoll · Information · Mietwagen · Wechselstube (täglich 7–21 Uhr) · Spielecke für Kinder · Café"
      },
      {
       "floor": "Ebene 0",
@@ -103,7 +103,7 @@
      },
      {
       "floor": "Ebene –1",
-      "text": "Parkhaus P1 (Kurzzeitparken) · Gepäckaufbewahrung (Schließfächer, bis 72 Stunden) · Fundbüro · Toiletten · Duschen · Fahrradparkplatz"
+      "text": "Parkhaus P1 (Kurzzeitparken) · Gepäckaufbewahrung (Schließfächer, bis 72 Stunden) · Fundbüro · Toiletten · Duschen (gegen Gebühr) · Fahrradparkplatz"
      }
     ]
    },
@@ -120,7 +120,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie sind gerade gelandet, aber Ihr Koffer ist nicht da.",
+     "stem": "Sie sind gerade gelandet und warten am Band, aber Ihr Koffer kommt nicht. Sie möchten das melden.",
      "options": {
       "a": "Ebene –1",
       "b": "Ebene 1",
@@ -130,7 +130,7 @@
     },
     {
      "no": "7",
-     "stem": "Sie haben vier Stunden Zeit bis zum nächsten Flug. Sie sind müde und möchten ein bisschen schlafen.",
+     "stem": "Sie haben vier Stunden Zeit bis zum nächsten Flug. Sie sind müde und möchten sich ein bisschen hinlegen.",
      "options": {
       "a": "Ebene 1",
       "b": "Ebene 3",
@@ -140,7 +140,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie haben noch Zeit und möchten den Flugzeugen beim Start zusehen.",
+     "stem": "Sie haben noch zwei Stunden Zeit, und Ihr Sohn möchte sehen, wie die Flugzeuge starten.",
      "options": {
       "a": "Ebene 3",
       "b": "Ebene 2",
@@ -150,7 +150,7 @@
     },
     {
      "no": "9",
-     "stem": "Sie fliegen nach London und müssen noch Euro in Pfund tauschen.",
+     "stem": "Sie fliegen nach London und haben nur Euro dabei. Sie brauchen noch Pfund.",
      "options": {
       "a": "Ebene 1",
       "b": "Ebene 0",
@@ -160,7 +160,7 @@
     },
     {
      "no": "10",
-     "stem": "Sie haben sechs Stunden Aufenthalt und möchten ohne Ihren Koffer in die Stadt fahren.",
+     "stem": "Sie haben sechs Stunden Aufenthalt und möchten die Stadt ansehen, aber Ihren schweren Koffer nicht mitnehmen.",
      "options": {
       "a": "Ebene 1",
       "b": "Ebene –1",
@@ -182,11 +182,11 @@
      "Clara"
     ],
     "paragraphs": [
-     "jetzt bin ich schon sechs Wochen in Leipzig, und endlich habe ich Zeit, dir zu schreiben. Das Studium hat gut angefangen, aber die ersten Tage waren nicht leicht. Alles war neu: die Stadt, die Uni, die Leute. Ich kannte niemanden, und abends habe ich oft mit Mama telefoniert. Das ist jetzt zum Glück vorbei.",
-     "Ich wohne in einer WG mit zwei anderen Studierenden: Mert studiert Informatik, Sofia kommt aus Portugal und lernt noch Deutsch. Mein Zimmer ist klein, hat aber einen Balkon. Die Wohnung liegt im vierten Stock ohne Aufzug – so bleibe ich wenigstens fit. Die Küche teilen wir uns, und jeden Sonntag kocht einer von uns für alle. Letzte Woche war ich dran – es gab deine Kartoffelsuppe, und alle wollten das Rezept!",
-     "An der Uni gefällt es mir sehr gut. Die Vorlesungen sind interessant, nur die Bibliothek ist immer voll. Deshalb lerne ich meistens zu Hause. Zweimal in der Woche singe ich im Uni-Chor. Dort habe ich die meisten meiner Freunde kennengelernt. Nächsten Monat haben wir unser erstes Konzert.",
-     "Das Geld ist leider knapp. Seit Oktober arbeite ich deshalb an zwei Abenden in der Woche im Kino an der Kasse. Die Arbeit ist nicht schwer, und ich kann alle Filme kostenlos sehen. Nur den Heimweg um Mitternacht mag ich nicht so gern – mit dem Fahrrad bin ich zwanzig Minuten durch die dunkle Stadt unterwegs.",
-     "Kommst du mich im Dezember besuchen? Der Weihnachtsmarkt hier soll wunderschön sein. Du kannst in meinem Zimmer schlafen, ich nehme das Sofa im Wohnzimmer. Sag mir einfach, welches Wochenende dir passt."
+     "jetzt bin ich schon sechs Wochen in Leipzig, und endlich habe ich Zeit, dir zu schreiben. Das Studium hat gut angefangen, aber die ersten Tage waren nicht leicht für mich. Alles war neu: die Stadt, die Uni, die Leute. Ich kannte niemanden in der Stadt, und abends habe ich oft lange mit Mama telefoniert. Das ist zum Glück vorbei.",
+     "Ich wohne in einer WG mit zwei anderen Studierenden: Mert studiert Informatik, und Sofia, unsere Mitbewohnerin aus Portugal, lernt noch Deutsch. Mein Zimmer ist das kleinste, hat aber als einziges einen Balkon. Die Wohnung liegt im vierten Stock ohne Aufzug – so bleibe ich wenigstens fit. Die Küche benutzen wir gemeinsam, und jeden Sonntag kocht einer von uns für alle. Letzte Woche war ich dran – es gab deine Kartoffelsuppe, und alle wollten das Rezept!",
+     "An der Uni gefällt es mir sehr gut. Die Vorlesungen sind sehr interessant, aber die Bibliothek ist immer so voll, dass ich dort keinen Arbeitsplatz finde. Deshalb lerne ich meistens zu Hause. Zweimal in der Woche singe ich im Uni-Chor, wo ich die meisten meiner Freunde kennengelernt habe. Nächsten Monat haben wir unser erstes Konzert.",
+     "Das Geld ist leider knapp, weil die Miete für ein Zimmer in Leipzig ziemlich hoch ist. Deshalb arbeite ich seit Oktober an zwei Abenden in der Woche an der Kinokasse. Die Arbeit ist nicht schwer, und ich darf alle Filme kostenlos ansehen. Nur den Heimweg um Mitternacht mag ich nicht, denn mit dem Fahrrad bin ich zwanzig Minuten durch die dunkle Stadt unterwegs.",
+     "Kommst du mich im Dezember besuchen? Der Weihnachtsmarkt soll wunderschön sein, und ich würde ihn gern gemeinsam mit dir besuchen. Du kannst in meinem Zimmer schlafen, ich nehme dann das Sofa im Wohnzimmer. Sag mir einfach, welches Wochenende dir passt."
     ]
    },
    "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Claras E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -227,7 +227,7 @@
      "options": {
       "a": "die Vorlesungen langweilig sind.",
       "b": "sie gern mit Mert und Sofia zusammen lernt.",
-      "c": "es in der Bibliothek zu wenig Platz gibt."
+      "c": "sie in der Bibliothek oft keinen Platz bekommt."
      },
      "answer": "c"
     },
@@ -246,7 +246,7 @@
      "stem": "Tante Rosa soll …",
      "options": {
       "a": "im Wohnzimmer auf dem Sofa schlafen.",
-      "b": "Clara sagen, wann sie Zeit hat.",
+      "b": "Clara sagen, wann sie kommen kann.",
       "c": "ein Zimmer im Hotel nehmen."
      },
      "answer": "b"
@@ -278,13 +278,13 @@
     },
     {
      "no": "19",
-     "text": "Frau Yilmaz liebt Kinder. Sie hat am Wochenende Zeit, aber abends möchte sie nicht arbeiten.",
-     "answer": "e"
+     "text": "Jonas ist 15 und sucht einen Job für den Samstagvormittag.",
+     "answer": "X"
     },
     {
      "no": "20",
-     "text": "Jonas ist 15 und sucht einen Job für den Samstagvormittag.",
-     "answer": "X"
+     "text": "Frau Yilmaz liebt Kinder. Sie hat am Wochenende Zeit, aber abends möchte sie nicht arbeiten.",
+     "answer": "e"
     }
    ],
    "ads": {
@@ -685,5 +685,266 @@
    "teil3": "Den Kursraum schmücken (Freitag, zwei Stunden)"
   }
  },
- "notes": "Aus dem PDF Goethe A2 Modelltest 3 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+ "notes": "Aus dem PDF Goethe A2 Modelltest 3 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "c",
+     "typ": "P",
+     "note": "„fast ertrunken“ = etwas Schlimmes passiert; a, b: nicht im Text."
+    },
+    {
+     "no": "2",
+     "ans": "a",
+     "typ": "P",
+     "note": "„keine Kinder und keine Zuschauer“; c: „die meisten“ über 50, nicht alle."
+    },
+    {
+     "no": "3",
+     "ans": "c",
+     "typ": "P",
+     "note": "„sich im Wasser sicher bewegen“; a: Gegenteil – „noch nicht alle“."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "I",
+     "note": "Enkelin will mit ihm an den See, er will nicht „nur am Ufer sitzen“; a, c: nicht im Text."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "I",
+     "note": "„schon eine lange Warteliste“ → der Kurs ist voll; a: Er beginnt im Oktober."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "b",
+     "typ": "P",
+     "note": "Koffer kommt nicht → Gepäckermittlung (vermisste Koffer), Ebene 1; a: Gepäckaufbewahrung als Falle."
+    },
+    {
+     "no": "7",
+     "ans": "c",
+     "typ": "P",
+     "note": "hinlegen → Ruhezone mit Liegen, Ebene 2; b: Restaurant als Falle."
+    },
+    {
+     "no": "8",
+     "ans": "a",
+     "typ": "P",
+     "note": "Flugzeugen beim Start zusehen → Besucherterrasse mit Blick auf die Startbahn, Ebene 3."
+    },
+    {
+     "no": "9",
+     "ans": "a",
+     "typ": "I",
+     "note": "nur Euro, Pfund nötig → Wechselstube, Ebene 1; b: Fahrkartenautomaten als Falle."
+    },
+    {
+     "no": "10",
+     "ans": "b",
+     "typ": "P",
+     "note": "Stadt ansehen ohne schweren Koffer → Gepäckaufbewahrung, Ebene –1; a: Gepäckausgabe als Wortfalle."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "I",
+     "note": "„kannte niemanden“, abends lange telefoniert → einsam; c: Das Studium hat „gut angefangen“."
+    },
+    {
+     "no": "12",
+     "ans": "b",
+     "typ": "P",
+     "note": "„jeden Sonntag kocht einer von uns für alle“; a: Nur Claras Zimmer hat einen Balkon."
+    },
+    {
+     "no": "13",
+     "ans": "c",
+     "typ": "P",
+     "note": "Bibliothek „immer so voll“, kein Arbeitsplatz; a: Gegenteil – „sehr interessant“; b: nicht im Text."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "I",
+     "note": "„alle Filme kostenlos ansehen“ = Vorteil; a: nur „an zwei Abenden in der Woche“."
+    },
+    {
+     "no": "15",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Sag mir einfach, welches Wochenende dir passt“; a: Clara nimmt das Sofa (S)."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "b",
+     "typ": "P",
+     "note": "Mathematiklehrer, junge Leute → Nachhilfe Mathe, „auch Rentnerinnen und Rentner sind willkommen“."
+    },
+    {
+     "no": "17",
+     "ans": "f",
+     "typ": "P",
+     "note": "Mo–Do abends, Führerschein, Auto → Pizzafahrer; d: nur Fr/Sa."
+    },
+    {
+     "no": "18",
+     "ans": "c",
+     "typ": "P",
+     "note": "17, Sommerferien, „an der frischen Luft“ → Juni/Juli, „im Freien“, ab 16."
+    },
+    {
+     "no": "19",
+     "ans": "X",
+     "typ": "N",
+     "note": "15 Jahre: a, e: ab 18 Jahren; c: ab 16 und nur im Sommer; b: nachmittags; f: Führerschein; d: abends."
+    },
+    {
+     "no": "20",
+     "ans": "e",
+     "typ": "N",
+     "note": "Kinder, Wochenende, nicht abends → Spielecke samstags 10–18 Uhr; d: abends."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "a",
+     "typ": "N",
+     "note": "„nicht am Eingang, sondern im Museumscafé“; c: Die Ausstellung ist im zweiten Stock."
+    },
+    {
+     "no": "2",
+     "ans": "c",
+     "typ": "A",
+     "note": "Mittwoch 17 Uhr fällt aus → Freitag 17 Uhr; b: 18 Uhr wird nicht genannt."
+    },
+    {
+     "no": "3",
+     "ans": "b",
+     "typ": "N",
+     "note": "„in der Stadthalle – nicht wie im letzten Jahr in der Kirche“; a: nur bei gutem Wetter."
+    },
+    {
+     "no": "4",
+     "ans": "a",
+     "typ": "P",
+     "note": "„bitte klopfen Sie laut – meine Klingel ist kaputt“; c: Morgen ist sie nicht da."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "N",
+     "note": "„nicht in Saal 1, sondern in Saal 3“; c: dort läuft „Nachtzug“."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "d",
+     "typ": "A",
+     "note": "Gitarre wollte er lernen, dann „das Schlagzeug entdeckt“ (f ist die Falle)."
+    },
+    {
+     "no": "7",
+     "ans": "b",
+     "typ": "S",
+     "note": "Trompete spielt die Schwester; Zoe „spielt Geige“ (c ist die Falle)."
+    },
+    {
+     "no": "8",
+     "ans": "h",
+     "typ": "A",
+     "note": "zuerst Klavier, jetzt Saxofon (a ist die Falle)."
+    },
+    {
+     "no": "9",
+     "ans": "e",
+     "typ": "A",
+     "note": "Cello aufgehört → Flöte (g ist die Falle)."
+    },
+    {
+     "no": "10",
+     "ans": "i",
+     "typ": "P",
+     "note": "„Akkordeon … hat früher seinem Opa gehört“."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "N",
+     "note": "Pizza gestern, Salat „gibt es nicht mehr“ → Tomatensuppe."
+    },
+    {
+     "no": "12",
+     "ans": "b",
+     "typ": "N",
+     "note": "Schirm: Regen erst nachts; Sonnenbrille bleibt zu Hause → Schal."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "N",
+     "note": "Sofa zu lang, Schreibtisch nicht nötig → Regal."
+    },
+    {
+     "no": "14",
+     "ans": "b",
+     "typ": "A",
+     "note": "60 Euro normal, „im Angebot für 40“; c: alter Preis."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "N",
+     "note": "Montag Besprechung, Mittwoch Besuch → Freitag."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "Großvater hatte Bienen, „nicht interessiert“ → Kurs an der Volkshochschule."
+    },
+    {
+     "no": "17",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„auf dem Dach eines Hotels“, nicht ihr Wohnhaus."
+    },
+    {
+     "no": "18",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„zwei- oder dreimal im Jahr“ = selten."
+    },
+    {
+     "no": "19",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„Verkaufen darf ich ihn nicht“ → Hotel und Geschenke."
+    },
+    {
+     "no": "20",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Im Winter … nur einmal im Monat“."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 2 von 15 Fällen die längste Option, in 10 die mittlere, in 3 die kürzeste."
+ }
 }

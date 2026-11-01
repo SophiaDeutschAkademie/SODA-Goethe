@@ -7,9 +7,9 @@
    "title": "Der jüngste Ladenbesitzer im Landkreis",
    "lead": "Leon Brandt ist 19 und führt den einzigen Laden in Hohenfeld. Für das Dorf ist er mehr als ein Verkäufer.",
    "paragraphs": [
-    "Morgens um sechs schließt Leon Brandt die Tür seines Ladens auf. Die ersten Kunden sind Handwerker, die sich schnell noch ein Frühstück holen. Seit Januar gehört der kleine Supermarkt in Hohenfeld ihm. Die frühere Besitzerin, Frau Mertens, ist mit 68 Jahren in Rente gegangen. Zwei Jahre lang hat sie jemanden gesucht, der den Laden weiterführt. Niemand wollte das – bis Leon kam.",
-    "Nach der Schule hat Leon eine Ausbildung in einem großen Supermarkt in der Stadt gemacht. „Dort war ich nur eine Nummer“, sagt er. In Hohenfeld kennt er jeden Kunden mit Namen. Neben Lebensmitteln gibt es bei ihm auch Briefmarken und Zeitungen – und zwei Tische, an denen man Kaffee trinken kann. Besonders ältere Leute kommen oft nur zum Reden.",
-    "Der Laden ist sechs Tage in der Woche geöffnet, deshalb hat Leon wenig Freizeit. Seine Freunde besuchen ihn meistens im Laden. Trotzdem möchte er mit niemandem tauschen. Im Frühling will er einen Lieferservice anbieten: Dann bringt er Kunden, die nicht mehr gut laufen können, die Einkäufe mit dem Lastenrad nach Hause."
+    "Morgens um sechs schließt Leon Brandt die Ladentür auf. Die ersten Kunden sind Handwerker, die sich auf dem Weg zur Baustelle noch schnell ein Frühstück holen. Seit Januar gehört der kleine Supermarkt in Hohenfeld ihm. Die frühere Besitzerin, Frau Mertens, ist mit 68 Jahren in Rente gegangen, weil ihr die Arbeit zu anstrengend wurde. Zwei Jahre lang hat sie einen Nachfolger gesucht, der den Laden weiterführt. Niemand war dazu bereit – bis Leon kam.",
+    "Nach dem Schulabschluss hat Leon eine Ausbildung in einem großen Supermarkt in der Stadt gemacht. „Dort war ich nur eine Nummer“, erzählt er, „und niemand hatte Zeit für ein Gespräch.“ In Hohenfeld dagegen kennt er jeden Kunden mit Namen. Neben Lebensmitteln gibt es bei ihm auch Briefmarken und Zeitungen – und zwei Tische, an denen man Kaffee trinken kann. Besonders ältere Kunden kommen oft nur zum Plaudern, weil sie zu Hause allein wohnen.",
+    "Der Laden ist an sechs Wochentagen geöffnet, deshalb hat Leon wenig Freizeit. Seine Freunde besuchen ihn meistens im Laden, weil er abends oft erst spät zu Hause ist. Trotzdem möchte er mit niemandem tauschen. Im Frühling will er einen Lieferservice anbieten: Dann bringt er Kunden, die nicht mehr gut laufen können, die Einkäufe mit dem Lastenrad bis zur Haustür."
    ],
    "quote": "„Hier kenne ich jeden Kunden mit Namen.“",
    "source": "aus einer deutschen Tageszeitung",
@@ -20,7 +20,7 @@
     "options": {
      "a": "hat in Hohenfeld einen neuen Laden eröffnet.",
      "b": "hat den Laden von Frau Mertens übernommen.",
-     "c": "arbeitet in einem Supermarkt in der Stadt."
+     "c": "arbeitet noch in einem Supermarkt in der Stadt."
     },
     "answer": "b"
    },
@@ -30,8 +30,8 @@
      "stem": "Frau Mertens …",
      "options": {
       "a": "hat den Laden sofort an Leon verkauft.",
-      "b": "hilft Leon noch im Laden.",
-      "c": "hat lange niemanden für den Laden gefunden."
+      "b": "hilft Leon noch jeden Tag im Laden.",
+      "c": "hat lange niemanden gefunden, der den Laden übernimmt."
      },
      "answer": "c"
     },
@@ -41,7 +41,7 @@
      "options": {
       "a": "hat sich Leon nicht wohlgefühlt.",
       "b": "kannte Leon alle Kunden mit Namen.",
-      "c": "hatte Leon einen eigenen Laden."
+      "c": "hatte Leon schon einen eigenen Laden."
      },
      "answer": "a"
     },
@@ -59,9 +59,9 @@
      "no": "4",
      "stem": "Leon …",
      "options": {
-      "a": "hat viel Freizeit.",
-      "b": "sieht seine Freunde nur selten.",
-      "c": "ist mit seinem Leben zufrieden."
+      "a": "hat Leon viel Freizeit.",
+      "b": "sieht Leon seine Freunde nur selten.",
+      "c": "ist Leon mit seinem Leben zufrieden."
      },
      "answer": "c"
     },
@@ -70,7 +70,7 @@
      "stem": "Im Frühling …",
      "options": {
       "a": "soll der Laden auch sonntags öffnen.",
-      "b": "will Leon Waren liefern.",
+      "b": "will Leon Waren zu den Kunden bringen.",
       "c": "bekommen die Kunden Fahrräder zum Ausleihen."
      },
      "answer": "b"
@@ -87,29 +87,29 @@
     "rows": [
      {
       "floor": "3. Stock",
-      "text": "Bürgermeisterin Dr. Anne Kolb · Büro des Stadtrats · Sitzungssaal · Pressestelle · Stadtarchiv (Besuch nur mit Termin) · Umweltamt (Mülltonnen, Müllabfuhr)"
+      "text": "Bürgermeisterin Dr. Anne Kolb (Sprechstunde jeden ersten Mittwoch im Monat, 16–18 Uhr) · Büro des Stadtrats · Sitzungssaal (Sitzungen sind öffentlich) · Pressestelle · Stadtarchiv (Besuch nur mit Termin, Lesesaal Di und Do) · Umweltamt (Mülltonnen, Müllabfuhr, Beratung zum Energiesparen)"
      },
      {
       "floor": "2. Stock",
-      "text": "Standesamt (Hochzeiten, Geburts- und Sterbeurkunden) · Ausländerbehörde (Aufenthaltstitel, Mo–Do 8–12 Uhr) · Wohngeldstelle · Sozialamt · Beratung für Seniorinnen und Senioren (Di 9–12 Uhr)"
+      "text": "Standesamt (Hochzeiten, Geburts- und Sterbeurkunden, Termine nur nach Anmeldung) · Ausländerbehörde (Aufenthaltstitel, Mo–Do 8–12 Uhr) · Wohngeldstelle · Sozialamt · Beratung für Seniorinnen und Senioren (Di 9–12 Uhr, auch Hilfe beim Ausfüllen von Formularen)"
      },
      {
       "floor": "1. Stock",
-      "text": "Bürgerbüro (Personalausweis, Reisepass, An-, Ab- und Ummeldung, Führungszeugnis) · Kfz-Zulassung (Fahrzeuge an- und abmelden, Kennzeichen, Mo–Fr 8–13 Uhr) · Führerscheinstelle"
+      "text": "Bürgerbüro (Personalausweis, Reisepass, An-, Ab- und Ummeldung, Führungszeugnis; ohne Termin nur bis 12 Uhr) · Kfz-Zulassung (Fahrzeuge an- und abmelden, Kennzeichen, Mo–Fr 8–13 Uhr) · Führerscheinstelle (nur mit Termin)"
      },
      {
       "floor": "EG",
-      "text": "Information · Stadtkasse (Gebühren und Bußgelder bezahlen) · Tourist-Information (Stadtpläne, Souvenirs, Tickets für Stadtführungen) · Jugendamt (Anmeldung für Kita und Hort) · Café im Foyer (Mo–Fr 8–16 Uhr) · Wartebereich mit Spielecke"
+      "text": "Information · Stadtkasse (Gebühren und Bußgelder bezahlen) · Tourist-Information (Stadtpläne, Souvenirs, Tickets für Stadtführungen, Fahrradverleih) · Jugendamt (Anmeldung für Kita und Hort, Beratung für Eltern) · Café im Foyer (Mo–Fr 8–16 Uhr) · Wartebereich mit Spielecke"
      },
      {
       "floor": "UG",
-      "text": "Tiefgarage (Mo–Fr 7–19 Uhr) · Fahrradparkplatz (überdacht) · Toiletten (barrierefrei) · Kantine (Mo–Fr 11.30– 14 Uhr, auch für Gäste)"
+      "text": "Tiefgarage (Mo–Fr 7–19 Uhr, die erste Stunde ist kostenlos) · Fahrradparkplatz (überdacht) · Toiletten (barrierefrei) · Kantine (Mo–Fr 11.30– 14 Uhr, auch für Gäste)"
      }
     ]
    },
    "example": {
     "no": "0",
-    "stem": "Sie sind umgezogen und müssen Ihre neue Adresse melden.",
+    "stem": "Sie sind letzte Woche umgezogen und müssen Ihre neue Adresse melden.",
     "options": {
      "a": "1. Stock",
      "b": "2. Stock",
@@ -120,7 +120,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie sind zu schnell gefahren und müssen jetzt 30 Euro Strafe bezahlen.",
+     "stem": "Sie sind zu schnell gefahren und haben einen Brief bekommen: Sie müssen jetzt 30 Euro Strafe bezahlen.",
      "options": {
       "a": "EG",
       "b": "1. Stock",
@@ -130,7 +130,7 @@
     },
     {
      "no": "7",
-     "stem": "Ihre Tochter ist drei Jahre alt und soll ab dem Sommer in den Kindergarten gehen.",
+     "stem": "Ihre Tochter ist drei Jahre alt und soll nach den Sommerferien in den Kindergarten gehen. Sie brauchen dafür einen Platz.",
      "options": {
       "a": "2. Stock",
       "b": "3. Stock",
@@ -140,7 +140,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie haben ein gebrauchtes Auto gekauft und brauchen ein Kennzeichen.",
+     "stem": "Sie haben ein gebrauchtes Auto gekauft und möchten es auf sich anmelden. Dafür brauchen Sie auch neue Kennzeichen.",
      "options": {
       "a": "1. Stock",
       "b": "UG",
@@ -150,7 +150,7 @@
     },
     {
      "no": "9",
-     "stem": "Ihr Cousin aus Kanada ist zu Besuch. Sie möchten ihm die Altstadt zeigen, aber Sie kennen die Geschichte der Stadt nicht gut.",
+     "stem": "Ihr Cousin aus Kanada ist zu Besuch. Sie möchten ihm die Altstadt zeigen, aber Sie kennen die Geschichte der Stadt nicht gut und suchen jemanden, der alles erklärt.",
      "options": {
       "a": "3. Stock",
       "b": "EG",
@@ -160,7 +160,7 @@
     },
     {
      "no": "10",
-     "stem": "Sie und Ihre Freundin möchten im Mai heiraten.",
+     "stem": "Sie und Ihre Freundin möchten im Mai heiraten und brauchen dafür einen Termin.",
      "options": {
       "a": "1. Stock",
       "b": "3. Stock",
@@ -182,11 +182,11 @@
      "Jonas"
     ],
     "paragraphs": [
-     "du hast lange nichts von mir gehört – das liegt an meinem neuen Hobby! Seit März habe ich einen Schrebergarten am Stadtrand. Fast zwei Jahre lang stand ich auf der Warteliste. Im Winter hat dann eine ältere Dame ihren Garten aufgegeben, und ich habe ihn bekommen. Zum Garten gehört eine kleine Hütte mit Tisch, Stühlen und einem alten Ofen. Im Sommer übernachte ich manchmal sogar dort.",
-     "Am Anfang habe ich die Arbeit unterschätzt. Das Gras war kniehoch, und die Hütte musste ich neu streichen. Jedes Wochenende war ich von morgens bis abends im Garten. Zum Glück sind meine Gartennachbarn sehr nett. Herr Özdemir zum Beispiel hat mir seine Geräte geliehen und mir erklärt, wann man was pflanzen muss. Er hat mir wirklich sehr geholfen.",
-     "Jetzt wachsen bei mir Tomaten, Gurken, Zucchini und sogar ein kleiner Apfelbaum. Die ersten Tomaten habe ich letzte Woche geerntet – so gut schmecken die aus dem Supermarkt nie! Es gibt aber auch viele Regeln im Verein: Der Rasen muss kurz sein, nach 22 Uhr darf man keine Musik mehr machen, und einmal im Monat muss jeder bei der Gemeinschaftsarbeit mithelfen.",
-     "Am 20. August feiert der Verein sein Sommerfest. Alle Mitglieder kochen etwas, und abends spielt eine Band. Die Kinder aus dem Verein führen ein kleines Theaterstück auf. Hast du Lust zu kommen? Du kannst gern bei mir übernachten, in der Hütte ist Platz für zwei. Bring aber einen warmen Schlafsack mit, nachts wird es dort ziemlich kühl.",
-     "Melde dich bald!"
+     "du hast lange nichts von mir gehört – das liegt an meinem neuen Hobby! Seit März habe ich einen Schrebergarten am Stadtrand. Fast zwei Jahre lang stand ich auf der Warteliste, und ich wollte schon aufgeben. Im vergangenen Winter hat dann eine ältere Dame ihren Garten abgegeben, weil ihr die Gartenarbeit zu anstrengend wurde, und ich habe ihn bekommen. Zum Garten gehört eine kleine Gartenhütte mit Tisch, Stühlen und einem alten Kachelofen. Im Sommer übernachte ich manchmal sogar in der Gartenhütte.",
+     "Am Anfang habe ich die Gartenarbeit unterschätzt. Das Gras war kniehoch, und die Gartenhütte musste ich neu streichen, bevor ich sie benutzen konnte. Jedes Wochenende war ich von morgens bis abends im Garten und hatte kaum Zeit für meine Freunde. Zum Glück sind meine Gartennachbarn sehr freundlich. Herr Özdemir zum Beispiel hat mir seine Werkzeuge geliehen und mir erklärt, wann man welches Gemüse pflanzen muss. Seine Unterstützung war wirklich wichtig.",
+     "Jetzt wachsen in meinem Garten Tomaten, Gurken, Zucchini und sogar ein kleiner Apfelbaum. Die ersten Tomaten habe ich vorige Woche geerntet – so gut schmecken sie im Supermarkt nie! Es gibt aber auch viele Vorschriften im Verein: Der Rasen muss immer kurz sein, nach 22 Uhr darf man keine Musik mehr machen, und einmal im Monat muss jeder bei der Gemeinschaftsarbeit mithelfen, damit die Gehwege und der Spielplatz sauber bleiben.",
+     "Am 20. August feiert der Verein sein Sommerfest. Alle Mitglieder bereiten etwas zu essen vor, und abends spielt eine Band. Die Kinder aus dem Verein führen ein kleines Theaterstück auf, das sie seit mehreren Wochen proben. Hast du Lust, uns zu besuchen? Du kannst gerne bei mir übernachten, denn in der Gartenhütte ist Platz für zwei. Bring aber einen warmen Schlafsack mit, weil es nachts in der Gartenhütte ziemlich kalt wird.",
+     "Melde dich bitte bald!"
     ]
    },
    "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Jonas’ E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -215,7 +215,7 @@
      "no": "12",
      "stem": "Am Anfang …",
      "options": {
-      "a": "hat Jonas mit Herrn Özdemir eine neue Hütte gebaut.",
+      "a": "hat Jonas mit Herrn Özdemir eine neue Gartenhütte gebaut.",
       "b": "war Jonas nur selten im Garten.",
       "c": "war mehr Arbeit nötig, als Jonas gedacht hatte."
      },
@@ -263,28 +263,28 @@
    "items": [
     {
      "no": "16",
+     "text": "Drei Freunde, alle 15 Jahre alt, suchen etwas für den Freitagabend.",
+     "answer": "X"
+    },
+    {
+     "no": "17",
      "text": "Familie Sommer hat zwei Kinder, vier und sieben Jahre alt. Die Kinder lieben Tiere.",
      "answer": "e"
     },
     {
-     "no": "17",
+     "no": "18",
      "text": "Frau Albrecht ist 78 und kann nicht mehr lange laufen. Trotzdem möchte sie am Sonntag etwas von der Stadt sehen.",
      "answer": "b"
     },
     {
-     "no": "18",
+     "no": "19",
      "text": "Yusuf und Marie wollen am Samstag draußen aktiv sein. Beide haben keine Höhenangst.",
      "answer": "a"
     },
     {
-     "no": "19",
+     "no": "20",
      "text": "Herr Nowak hat Probleme mit dem Rücken. Sein Arzt sagt, Wärme tut ihm gut.",
      "answer": "d"
-    },
-    {
-     "no": "20",
-     "text": "Drei Freunde, alle 15 Jahre alt, suchen etwas für den Freitagabend.",
-     "answer": "X"
     }
    ],
    "ads": {
@@ -563,8 +563,8 @@
    "items": [
     {
      "no": "16",
-     "text": "Paula hat Frau Reuter über das Internet kennengelernt.",
-     "answer": "Nein"
+     "text": "Paula hat Frau Reuter über das Studentenwerk kennengelernt.",
+     "answer": "Ja"
     },
     {
      "no": "17",
@@ -583,8 +583,8 @@
     },
     {
      "no": "20",
-     "text": "Paula möchte nach dem Studium in Deutschland arbeiten.",
-     "answer": "Ja"
+     "text": "Paula möchte nach dem Studium nach Spanien zurückgehen.",
+     "answer": "Nein"
     }
    ]
   }
@@ -685,5 +685,266 @@
    "teil3": "Gemeinsam lernen (Donnerstag, drei Stunden)"
   }
  },
- "notes": "Aus dem PDF Goethe A2 Modelltest 2 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand."
+ "notes": "Aus dem PDF Goethe A2 Modelltest 2 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "c",
+     "typ": "P",
+     "note": "„einen Nachfolger gesucht … niemand war dazu bereit“ = lange niemanden gefunden; a: Gegenteil; b: Sie ist in Rente."
+    },
+    {
+     "no": "2",
+     "ans": "a",
+     "typ": "I",
+     "note": "„nur eine Nummer“ → nicht wohlgefühlt; b: Wortfalle – gilt für Hohenfeld, nicht für die Stadt."
+    },
+    {
+     "no": "3",
+     "ans": "b",
+     "typ": "I",
+     "note": "„zwei Tische“ → man kann sich hinsetzen; a: Briefmarken, Zeitungen; c: nicht im Text."
+    },
+    {
+     "no": "4",
+     "ans": "c",
+     "typ": "P",
+     "note": "„möchte mit niemandem tauschen“ = zufrieden; a: Gegenteil – „wenig Freizeit“; b: Die Freunde besuchen ihn im Laden."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "P",
+     "note": "„bringt er … die Einkäufe … bis zur Haustür“ = Lieferservice; c: Wortfalle „Lastenrad“."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "a",
+     "typ": "P",
+     "note": "zu schnell gefahren, Strafe → Bußgelder, Stadtkasse im EG; Kfz-Zulassung ist die Falle."
+    },
+    {
+     "no": "7",
+     "ans": "c",
+     "typ": "P",
+     "note": "Kindergarten → Kita, Anmeldung beim Jugendamt im EG."
+    },
+    {
+     "no": "8",
+     "ans": "a",
+     "typ": "P",
+     "note": "Auto anmelden, Kennzeichen → Kfz-Zulassung im 1. Stock; b: Tiefgarage als Falle."
+    },
+    {
+     "no": "9",
+     "ans": "b",
+     "typ": "I",
+     "note": "Geschichte der Altstadt, jemand erklärt → Stadtführung bei der Tourist-Information; Stadtarchiv ist keine Führung."
+    },
+    {
+     "no": "10",
+     "ans": "c",
+     "typ": "P",
+     "note": "heiraten → Hochzeiten, Standesamt im 2. Stock."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "P",
+     "note": "„ihren Garten abgegeben“; c: Gegenteil – fast zwei Jahre Warteliste."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "P",
+     "note": "„die Gartenarbeit unterschätzt“; b: Gegenteil – „jedes Wochenende … im Garten“."
+    },
+    {
+     "no": "13",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Werkzeuge geliehen und erklärt“; c: Er hat nur erklärt, nicht gemäht."
+    },
+    {
+     "no": "14",
+     "ans": "a",
+     "typ": "P",
+     "note": "„einmal im Monat … Gemeinschaftsarbeit“; b: Musik ist nur nach 22 Uhr verboten."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "P",
+     "note": "„warmen Schlafsack“ → warme Sachen; a: Wortfalle – die Mitglieder kochen, Paul muss nichts mitbringen."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "X",
+     "typ": "N",
+     "note": "f: ab 16 Jahren; d: freitags nur Erwachsene; a: nur bis 18 Uhr; b: letzte Fahrt um 17 Uhr, Abendfahrt nur samstags und ab 18."
+    },
+    {
+     "no": "17",
+     "ans": "e",
+     "typ": "P",
+     "note": "Tiere → Kühe, Ponys; Kinder vier und sieben passen zum Hof."
+    },
+    {
+     "no": "18",
+     "ans": "b",
+     "typ": "I",
+     "note": "nicht lange laufen → Schiff mit Sitzplätzen; f: zu Fuß und nur freitags und samstags."
+    },
+    {
+     "no": "19",
+     "ans": "a",
+     "typ": "P",
+     "note": "draußen aktiv, keine Höhenangst → 15 Meter, Parcours in den Bäumen."
+    },
+    {
+     "no": "20",
+     "ans": "d",
+     "typ": "P",
+     "note": "Rücken, Wärme → 36 Grad, Rückenschmerzen."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "W",
+     "note": "„am Eingang verloren“ ist nicht der Treffpunkt; Information im ersten Stock; a: Kasse geschlossen."
+    },
+    {
+     "no": "2",
+     "ans": "c",
+     "typ": "A",
+     "note": "Donnerstag 15 Uhr abgesagt → Montag 10 Uhr; b mischt Tag und Uhrzeit."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "N",
+     "note": "„Straßen trocken“ → c falsch; Bauarbeiten „seit gestern fertig“ → b falsch."
+    },
+    {
+     "no": "4",
+     "ans": "c",
+     "typ": "N",
+     "note": "„Ausflug fällt aus“ → normaler Unterricht; b: ausfallen ≠ frei haben."
+    },
+    {
+     "no": "5",
+     "ans": "a",
+     "typ": "N",
+     "note": "„Für Schuhe und Hosen gilt das Angebot nicht.“"
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "c",
+     "typ": "A",
+     "note": "Koch angefangen, „jetzt fährt er den Bus der Linie 12“ (a ist die Falle)."
+    },
+    {
+     "no": "7",
+     "ans": "a",
+     "typ": "N",
+     "note": "„nicht als Krankenschwester“, sondern sie kocht in der Krankenhausküche (b ist die Falle)."
+    },
+    {
+     "no": "8",
+     "ans": "e",
+     "typ": "P",
+     "note": "„Friseursalon seiner Mutter übernommen“."
+    },
+    {
+     "no": "9",
+     "ans": "i",
+     "typ": "A",
+     "note": "Medizin studiert, dann gewechselt → „behandelt Tiere“, Wartezimmer voller Hunde und Katzen."
+    },
+    {
+     "no": "10",
+     "ans": "h",
+     "typ": "N",
+     "note": "Prüfung bei der Polizei nicht geschafft (f ist die Falle) → eigene Werkstatt."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "N",
+     "note": "Kirschen hat sie schon, Birnen mag der Mann nicht → Pfirsiche."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "N",
+     "note": "Buch: „liest nie“; Kopfhörer: „selbst gekauft“ → Gutschein."
+    },
+    {
+     "no": "13",
+     "ans": "b",
+     "typ": "A",
+     "note": "eigentlich Barcelona, dann Alpen; a: Wortfalle „Strand“ im Vergleich."
+    },
+    {
+     "no": "14",
+     "ans": "a",
+     "typ": "A",
+     "note": "Tennis nicht mehr, Schwimmen nur probiert → Yoga."
+    },
+    {
+     "no": "15",
+     "ans": "b",
+     "typ": "N",
+     "note": "Jacke nur in S, Hemd hat er schon → Pullover."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„vom Programm … beim Studentenwerk gehört … Frau Reuter vorgestellt“ – das Studentenwerk, nicht das Internet."
+    },
+    {
+     "no": "17",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„keine Miete, nur ein bisschen für Strom und Wasser“."
+    },
+    {
+     "no": "18",
+     "ans": "Nein",
+     "typ": "P",
+     "note": "„fünf Stunden pro Woche, nicht mehr“."
+    },
+    {
+     "no": "19",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„sonntags kochen wir zusammen“."
+    },
+    {
+     "no": "20",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„in Deutschland bleiben und als Ärztin arbeiten“ – nicht zurück nach Spanien."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 3 von 15 Fällen die längste Option, in 4 die mittlere, in 3 die kürzeste. In 5 Fällen sind die Lösung und eine andere Option gleich lang."
+ }
 }

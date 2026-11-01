@@ -27,7 +27,7 @@ Run `python3 digital-src/validate.py digital-src/data/mtN.json` until it prints 
 }
 ```
 
-`build-digital.py` removes `index` and `notes` from `digital.html`; `build-index.py` reads `index`.
+`build-digital.py` removes `index`, `notes` and `kommentar` from `digital.html`; `build-index.py` reads `index`. `kommentar` (`rows` L1–L4, H1–H4 with `no`, `ans`, `typ`, `note`; `optionen`) only feeds the PDF pages 20–21 and is not shown in the exam screen.
 
 ## Lesen (30 min, 20 items, 1,25 points each)
 
