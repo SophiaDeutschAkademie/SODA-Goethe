@@ -61,6 +61,8 @@ def main():
             continue
         p = os.path.join(HERE, "data", f"mt{n}.json")
         d = strip_notes(json.load(open(p, encoding="utf-8")))
+        for k in ("hoertexte", "kommentar"):  # nur für die PDF-Seiten; nicht in die Digital-Prüfung einbetten
+            d.pop(k, None)
         audio = []
         for k in range(1, 5):
             fn = f"Goethe B1 Modelltest {n}.{k}.mp3"

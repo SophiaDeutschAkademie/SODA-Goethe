@@ -254,3 +254,19 @@ Exactly 5 texts. Example answers: if the boxes are not marked on the task page, 
 - `points` without the leading dash. `situation` = all sentences between the task heading and the bullet points / Gästebuch box / instruction.
 - `model.text`: keep the line structure of the Musterlösung: `\n` for a line break (e.g. after the greeting, before the name), `\n\n` between paragraphs. Leave out the grey margin digits 1/2/3 that mark the Leitpunkte. The Musterlösungen page has several columns – make sure each model text is complete and not mixed with the neighbouring column or the "Bewertung" table.
 - `typicalErrors`: the line(s) for this Aufgabe in the "Typische Fehler" list (without the leading digit). `""` if there is none.
+
+## Zusätzliche Schlüssel (nur für das PDF, nicht in `digital.html`)
+`build-digital.py` entfernt sie beim Bauen.
+```jsonc
+"hoertexte": {
+  "t1": { "instruction": "…", "example": { "scene": "…", "text": "…" }, "texts": [ { "scene": "…", "text": "…" } ] },  // 5 Texte
+  "t2": { "instruction": "…", "scene": "…", "text": "…" },                  // Monolog, Absätze mit \n\n
+  "t3": { "instruction": "…", "scene": "…", "turns": [ { "who": "…", "text": "…" } ] },
+  "t4": { "instruction": "…", "scene": "…", "turns": [ { "who": "…", "text": "…" } ] }
+},
+"kommentar": {
+  "intro": "…", "schreibenSprechen": "…",
+  "lesen":  { "1": { "type": "P", "note": "…" }, … "30": … },
+  "hoeren": { "1": { "type": "W", "note": "…" }, … "30": … }
+}
+```
