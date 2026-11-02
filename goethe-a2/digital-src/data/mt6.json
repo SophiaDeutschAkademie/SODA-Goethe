@@ -1,0 +1,946 @@
+{
+ "id": 6,
+ "roman": "VI",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Honig vom Kaufhausdach",
+   "lead": "Auf dem Dach eines Kaufhauses in Hannover stehen sechs Bienenkästen. Petra Lindner kümmert sich um die Tiere.",
+   "paragraphs": [
+    "Petra Lindner, 58, ist eigentlich Verkäuferin und betreut seit über 30 Jahren im Kaufhaus Brenner die Abteilung für Haushaltswaren. Vor vier Jahren hatte ihr Chef die Idee, auf dem Kaufhausdach Bienen zu halten. „Ich habe sofort Ja gesagt“, erzählt Lindner. „Mein Vater war früher Hobbyimker, und als Kind habe ich ihm oft geholfen.“ Obwohl sie die Tiere schon kannte, hat sie zuerst einen Imkerkurs besucht.",
+    "Heute geht sie regelmäßig zweimal pro Woche vor der Arbeit aufs Dach. Im Sommer ist sie schon um sechs Uhr morgens oben, denn mittags wird es dort so heiß, dass man kaum noch arbeiten kann. Viele Menschen glauben, dass Bienen in der Stadt zu wenig Nahrung finden, weil es dort überall nur Beton gibt. „Das Gegenteil ist richtig“, sagt Lindner. „In Parks, Gärten und auf Balkonen blüht vom Frühling bis zum Herbst immer etwas.“",
+    "Im letzten Jahr haben ihre Bienen 180 Kilo Honig gesammelt. Er wird im Erdgeschoss des Kaufhauses verkauft und ist meistens nach wenigen Wochen weg. Das Geld bekommt ein Kindergarten in der Nachbarschaft. Einmal im Monat dürfen interessierte Besucher mit aufs Dach kommen. Die Führung ist kostenlos, aber wer teilnehmen möchte, muss sich vorher an der Information anmelden. Einen Schutzanzug bekommt jeder Besucher von Frau Lindner, damit sich niemand vor den Bienen fürchten muss."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Honig vom Kaufhausdach“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Petra Lindner …",
+    "options": {
+     "a": "arbeitet seit vier Jahren im Kaufhaus.",
+     "b": "verkauft im Kaufhaus Dinge für den Haushalt.",
+     "c": "ist die Chefin des Kaufhauses."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Bevor Petra Lindner mit den Bienen angefangen hat, …",
+     "options": {
+      "a": "hat sie noch einmal gelernt, wie man mit Bienen arbeitet.",
+      "b": "musste ihr Chef sie lange überzeugen.",
+      "c": "hatte sie noch nie Bienen gesehen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Im Sommer ist Frau Lindner schon früh auf dem Dach, …",
+     "options": {
+      "a": "weil das Kaufhaus um sechs Uhr öffnet.",
+      "b": "weil es später zu heiß ist.",
+      "c": "weil dann noch keine Kunden da sind."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Für Bienen in der Stadt …",
+     "options": {
+      "a": "ist es schwer, genug Futter zu finden.",
+      "b": "gibt es nur im Sommer Blumen.",
+      "c": "blüht viele Monate lang etwas."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "stem": "Der Honig vom Kaufhausdach …",
+     "options": {
+      "a": "ist schnell ausverkauft.",
+      "b": "geht an einen Kindergarten.",
+      "c": "wird auf dem Dach verkauft."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "Wer bei einer Führung mitkommen möchte, …",
+     "options": {
+      "a": "muss einen Schutzanzug mitbringen.",
+      "b": "muss vorher Bescheid sagen.",
+      "c": "muss etwas bezahlen."
+     },
+     "answer": "b"
+    }
+   ],
+   "image": "img/mt6-lesen-foto.jpg",
+   "imageAlt": "Eine Frau in Schutzkleidung steht zwischen Bienenkästen auf einem Dach.",
+   "quote": "„In Parks, Gärten und auf Balkonen blüht vom Frühling bis zum Herbst immer etwas.“"
+  },
+  "t2": {
+   "instruction": "Sie sind im Ärztehaus am Markt. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Ärztehaus am Markt",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "3. Stock",
+      "text": "Praxis für Physiotherapie (Massagen, Krankengymnastik, nur mit Rezept) · Trainingsraum für Patienten (Mo, Mi, Fr 14–17 Uhr) · Verwaltung des Ärztehauses (Hausmeister, Fundsachen, Mo–Fr 9–12 Uhr)"
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Dr. med. Anna Weiß, Augenärztin (nur mit Termin) · Optiker Klarblick (Brillen und Kontaktlinsen) · Hörgeräte Bauer (Hörtest nur mit Termin) · Dr. med. Peter Lang, Hals-Nasen-Ohren-Arzt"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Dr. med. Jens Albers, Hausarzt (Impfungen, Reiseberatung, vormittags auch ohne Termin) · Dr. Sophie Kern, Zahnärztin · Labor (Blutabnahme Mo–Fr 7–10 Uhr, ohne Termin)"
+     },
+     {
+      "floor": "EG",
+      "text": "Apotheke am Markt (Mo–Sa 8–20 Uhr, Lieferdienst für Medikamente) · Sanitätshaus (Rollstühle, Gehhilfen, auch zum Leihen) · Café Pause · Information (Auskunft zu Ärzten und Wegen) · Toiletten · Aufzug zu allen Etagen"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie brauchen ein Medikament, das Ihr Arzt Ihnen heute Morgen aufgeschrieben hat.",
+    "options": {
+     "a": "EG",
+     "b": "1. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie haben im Urlaub Ihre Brille verloren und brauchen so schnell wie möglich eine neue.",
+     "options": {
+      "a": "2. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Ihr Vater hat sich das Bein gebrochen und kann nicht laufen. Er möchte für einige Wochen einen Rollstuhl haben, kaufen will er keinen.",
+     "options": {
+      "a": "3. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "8",
+     "stem": "Sie reisen im Sommer nach Thailand und möchten sich vorher von einem Arzt beraten lassen, ob Sie Impfungen brauchen.",
+     "options": {
+      "a": "2. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Sie waren gestern bei einem Arzt und haben dort Ihren Schal im Wartezimmer vergessen. Sie möchten fragen, ob ihn jemand gefunden hat.",
+     "options": {
+      "a": "EG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "Seit einer Woche hören Sie auf dem linken Ohr schlechter als sonst und haben manchmal Schmerzen.",
+     "options": {
+      "a": "1. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Katrin Brauer",
+    "to": "Lena Hartwig",
+    "subject": "Unser erstes Straßenfest!",
+    "greeting": "Liebe Lena,",
+    "closing": [
+     "Liebe Grüße",
+     "deine Katrin"
+    ],
+    "paragraphs": [
+     "stell dir vor: Ich organisiere zum ersten Mal ein Straßenfest! Ich wohne jetzt seit drei Jahren in der Lindenstraße, aber ich kenne nur meine direkten Nachbarn. Die meisten anderen arbeiten ganztags und kommen abends erst spät nach Hause. Wenn ich ihnen im Treppenhaus oder beim Bäcker begegne, sagen wir „Guten Tag“, mehr nicht. Viele Familien wohnen hier schon seit Jahrzehnten, aber man kennt sich kaum. Das möchte ich ändern, und zum Glück finden die meisten Bewohner die Idee fantastisch.",
+     "Das Fest ist am Samstag, dem 12. September, von 14 bis 22 Uhr. Die Stadt hat erlaubt, dass wir die Straße während dieser Zeit für den Autoverkehr sperren, deshalb können die Kinder sogar mitten auf der Fahrbahn spielen. In die Mitte stellen wir lange Biertische, und jeder Nachbar bringt etwas Selbstgemachtes zum Essen mit. Die Getränke werden gemeinsam eingekauft, und das Geld dafür sammelt Herr Özdemir aus Nummer 8. Für die Musik sorgt Herr Lehmann aus dem Erdgeschoss, weil er eine große Musikanlage besitzt, die man sogar auf der Straße hören kann.",
+     "Die größten Sorgen macht mir das Wetter. Wenn es regnet, dürfen wir in die Turnhalle der Grundschule an der Ecke. Weil sie aber ziemlich klein ist, hoffe ich natürlich auf Sonnenschein und warme Temperaturen.",
+     "Und jetzt zu meiner Bitte: Du fotografierst doch so gern, und deine Fotografien gefallen allen, die sie sehen. Hast du Lust, am Samstag zu kommen und Fotos zu machen? Nach dem Fest möchte ich eine kleine Nachbarschaftszeitung herstellen, in der viele Bilder zu sehen sind. Du musst natürlich nicht den ganzen Tag arbeiten, denn du sollst auch essen, tanzen und interessante Leute kennenlernen!",
+     "Übernachten kannst du natürlich bei mir, weil mein Gästezimmer frei ist. Sag mir bitte spätestens bis Ende August Bescheid, damit ich die Vorbereitungen besser planen kann."
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Katrins E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Katrin …",
+    "options": {
+     "a": "wohnt schon sehr lange in der Lindenstraße.",
+     "b": "organisiert zum ersten Mal ein Fest für ihre Straße.",
+     "c": "hat schon oft Straßenfeste gemacht."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Mit den meisten Nachbarn …",
+     "options": {
+      "a": "hat Katrin bisher kaum gesprochen.",
+      "b": "feiert Katrin oft zusammen.",
+      "c": "geht Katrin beim Bäcker einkaufen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Am Tag des Festes …",
+     "options": {
+      "a": "kauft Herr Özdemir das Essen für alle.",
+      "b": "beginnt das Fest schon am Vormittag.",
+      "c": "dürfen keine Autos durch die Straße fahren."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Bei Regen …",
+     "options": {
+      "a": "fällt das Fest aus.",
+      "b": "feiern die Nachbarn in einem Raum der Schule.",
+      "c": "feiern alle bei Katrin in der Wohnung."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Lena soll …",
+     "options": {
+      "a": "eine Zeitung über das Fest schreiben.",
+      "b": "beim Fest Bilder machen.",
+      "c": "den ganzen Tag beim Fest helfen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Katrin möchte, dass Lena …",
+     "options": {
+      "a": "ein Hotel in der Nähe sucht.",
+      "b": "im September noch einmal anruft.",
+      "c": "bis Ende August antwortet."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen in der Zeitung und im Internet einen Nebenjob. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Jonas studiert. Er möchte abends etwas Geld verdienen und geht sehr gern ins Kino.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Frau Weber ist seit Kurzem in Rente. Sie möchte sich ein paar Stunden pro Woche um andere Menschen kümmern.",
+     "answer": "c"
+    },
+    {
+     "no": "17",
+     "text": "Tarek macht eine Ausbildung und hat unter der Woche keine Zeit. Früh aufstehen ist für ihn kein Problem.",
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "text": "Herr Kaya möchte nicht im Büro sitzen, sondern draußen arbeiten. Ein Fahrrad hat er nicht.",
+     "answer": "X"
+    },
+    {
+     "no": "19",
+     "text": "Svenja hat im Herbst eine Woche Urlaub. In dieser Zeit möchte sie tagsüber arbeiten und ihre Sprachkenntnisse nutzen.",
+     "answer": "f"
+    },
+    {
+     "no": "20",
+     "text": "Leonie studiert und hat tagsüber Vorlesungen. Sie bleibt gern lange wach und spricht fließend Englisch.",
+     "answer": "e"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt6-anzeige-a.png",
+     "alt": "Bäckerei Sonnenkorn Bäckerei · Konditorei Frühaufsteher gesucht! Für den Verkauf in unserer Filiale am Marktplatz suchen wir Aushilfen für Samstag und Sonntag, jeweils von 6 bis 12 Uhr. Erfahrung ist nicht nötig – wir zeigen Ihnen alles. Einfach in der Filiale vorbeikommen · Tel. 0761 / 34 88 20"
+    },
+    "b": {
+     "img": "img/mt6-anzeige-b.png",
+     "alt": "Kino Capitol Film ab – mit Ihnen! Für Kasse und Getränkeverkauf suchen wir freundliche Studierende. Arbeitszeit: abends ab 18 Uhr, zwei- bis dreimal pro Woche. Dazu: freier Eintritt in alle Filme. Kurze Bewerbung an jobs@capitol-kino.de"
+    },
+    "c": {
+     "img": "img/mt6-anzeige-c.png",
+     "alt": "Schenken Sie uns Zeit Seniorenresidenz Abendrot Wer liest unseren Bewohnerinnen und Bewohnern vor oder spielt mit ihnen Brettspiele? Zwei Stunden pro Woche am Nachmittag, wir zahlen 12 € pro Stunde. Frau Holm freut sich auf Ihren Anruf: 0761 / 55 01 40"
+    },
+    "d": {
+     "img": "img/mt6-anzeige-d.png",
+     "alt": "Fahrradkurier Blitz Kurierdienst Schnell, schneller, Blitz Sie fahren gern Rad und kennen sich in der Stadt aus? Wir bringen Briefe und eilige Unterlagen zu unseren Kunden. Freie Zeiteinteilung Mo–Fr, eigenes Fahrrad nötig, den Helm bekommen Sie von uns. Infos und Anmeldung: www.blitz-kurier.de"
+    },
+    "e": {
+     "img": "img/mt6-anzeige-e.png",
+     "alt": "Nachtdienst an der Rezeption Hotel am Stadtgarten Sie sprechen gut Englisch und haben Freude am Kontakt mit Gästen? Wir suchen Unterstützung von Freitag bis Sonntag, jeweils 22 bis 6 Uhr. Hotelerfahrung ist schön, aber kein Muss. Bewerbungen per E-Mail an rezeption@hotel-stadtgarten.de"
+    },
+    "f": {
+     "img": "img/mt6-anzeige-f.png",
+     "alt": "Messe Freiburg Ihr Lächeln für unsere Gäste Vom 3. bis 7. Oktober suchen wir Helferinnen und Helfer am Eingang: Sie begrüßen Besucher, verteilen Prospekte und beantworten Fragen auf Deutsch und Englisch. Arbeitszeit täglich 9 bis 18 Uhr. Online bewerben bis 15. September: messe-freiburg.de/jobs"
+    }
+   },
+   "unused": [
+    "d"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Wo bekommen die Fahrgäste heute ein Mittagessen?",
+     "options": {
+      "a": "Im Restaurant auf Deck 2.",
+      "b": "Im Bistro auf Deck 3.",
+      "c": "Am Kiosk neben dem Ausgang."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Wann ist die nächste Tanzstunde von Frau Simon?",
+     "options": {
+      "a": "Am Freitag um 19 Uhr.",
+      "b": "Am Samstag um 18 Uhr.",
+      "c": "Am Sonntag um 18 Uhr."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Wie kommen Autofahrer zurzeit am besten in die Innenstadt?",
+     "options": {
+      "a": "Über den Ring.",
+      "b": "Über die Hafenbrücke.",
+      "c": "Über die Bahnhofstraße."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Was ist heute billiger?",
+     "options": {
+      "a": "Gartenmöbel.",
+      "b": "Pflanzen.",
+      "c": "Alles zum Streichen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "stem": "Wo kann Mira das Zelt abholen?",
+     "options": {
+      "a": "Bei Kerstins Eltern.",
+      "b": "In Kerstins Wohnung.",
+      "c": "Bei Lars im Büro."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Was hat Julia aus Wien für wen mitgebracht? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Mutter",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "name": "Vater",
+     "answer": "h"
+    },
+    {
+     "no": "7",
+     "name": "Oma",
+     "answer": "b"
+    },
+    {
+     "no": "8",
+     "name": "Bruder Tim",
+     "answer": "e"
+    },
+    {
+     "no": "9",
+     "name": "Frau Roth",
+     "answer": "g"
+    },
+    {
+     "no": "10",
+     "name": "Sandra",
+     "answer": "f"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt6-hoeren2-a.webp",
+     "alt": "Sachertorte"
+    },
+    "b": {
+     "img": "img/mt6-hoeren2-b.webp",
+     "alt": "Schneekugel mit Riesenrad"
+    },
+    "c": {
+     "img": "img/mt6-hoeren2-c.webp",
+     "alt": "Tasse mit Tee"
+    },
+    "d": {
+     "img": "img/mt6-hoeren2-d.webp",
+     "alt": "Regenschirm"
+    },
+    "e": {
+     "img": "img/mt6-hoeren2-e.webp",
+     "alt": "T-Shirt"
+    },
+    "f": {
+     "img": "img/mt6-hoeren2-f.webp",
+     "alt": "Kochbuch"
+    },
+    "g": {
+     "img": "img/mt6-hoeren2-g.webp",
+     "alt": "Schachtel Mozartkugeln"
+    },
+    "h": {
+     "img": "img/mt6-hoeren2-h.webp",
+     "alt": "Tüte Kaffee"
+    },
+    "i": {
+     "img": "img/mt6-hoeren2-i.webp",
+     "alt": "Kalender"
+    }
+   },
+   "unused": [
+    "a",
+    "d",
+    "i"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Was muss die Frau zum Termin mitbringen?",
+     "options": {
+      "a": {
+       "img": "img/mt6-hoeren3-11a.webp",
+       "alt": "Formular"
+      },
+      "b": {
+       "img": "img/mt6-hoeren3-11b.webp",
+       "alt": "Passfotos"
+      },
+      "c": {
+       "img": "img/mt6-hoeren3-11c.webp",
+       "alt": "Reisepass"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Welche Tasche kauft die Frau?",
+     "options": {
+      "a": {
+       "img": "img/mt6-hoeren3-12a.webp",
+       "alt": "Koffer"
+      },
+      "b": {
+       "img": "img/mt6-hoeren3-12b.webp",
+       "alt": "Handtasche"
+      },
+      "c": {
+       "img": "img/mt6-hoeren3-12c.webp",
+       "alt": "Rucksack"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Was spielen die beiden heute Abend?",
+     "options": {
+      "a": {
+       "img": "img/mt6-hoeren3-13a.webp",
+       "alt": "Schach"
+      },
+      "b": {
+       "img": "img/mt6-hoeren3-13b.webp",
+       "alt": "Karten"
+      },
+      "c": {
+       "img": "img/mt6-hoeren3-13c.webp",
+       "alt": "Spielkonsole"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Was leiht der Mann seiner Nachbarin?",
+     "options": {
+      "a": {
+       "img": "img/mt6-hoeren3-14a.webp",
+       "alt": "Bohrmaschine"
+      },
+      "b": {
+       "img": "img/mt6-hoeren3-14b.webp",
+       "alt": "Hammer"
+      },
+      "c": {
+       "img": "img/mt6-hoeren3-14c.webp",
+       "alt": "Schraubenzieher"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "stem": "Was schickt die Frau ihrer Schwester?",
+     "options": {
+      "a": {
+       "img": "img/mt6-hoeren3-15a.webp",
+       "alt": "Paket"
+      },
+      "b": {
+       "img": "img/mt6-hoeren3-15b.webp",
+       "alt": "Brief"
+      },
+      "c": {
+       "img": "img/mt6-hoeren3-15c.webp",
+       "alt": "Postkarte mit Dom"
+      }
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Mein Arbeitsplatz“ spricht eine Moderatorin mit Mia Kowalski. Sie ist 27 Jahre alt und arbeitet als Artistin in einem Zirkus.",
+   "example": {
+    "no": "0",
+    "text": "Mia Kowalskis Eltern arbeiten nicht im Zirkus.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Mia hat mit sechzehn eine Artistenschule besucht.",
+     "answer": "Ja"
+    },
+    {
+     "no": "17",
+     "text": "Mia reitet in der Show auf einem Pferd.",
+     "answer": "Nein"
+    },
+    {
+     "no": "18",
+     "text": "Wenn abends eine Vorstellung ist, trainiert Mia nicht.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Mia ist im Jahr in rund dreißig Orten.",
+     "answer": "Ja"
+    },
+    {
+     "no": "20",
+     "text": "Mia möchte ihr Können später an andere weitergeben.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie wollen am Sonntag mit Ihrem Freund Ben wandern. Der Wetterbericht sagt für Sonntag aber Gewitter voraus. Schreiben Sie Ben eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie nicht wandern wollen.",
+     "Machen Sie einen anderen Vorschlag für Sonntag.",
+     "Fragen Sie, wann Ben Zeit hat."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 35 Wörter",
+     "text": "Hallo Ben,\n\nam Sonntag soll es Gewitter geben. Das ist mir in den Bergen zu gefährlich.\nWollen wir stattdessen zusammen kochen? Ich lade dich ein.\nWann hast du Zeit – mittags oder abends?\n\nViele Grüße, Alex"
+    },
+    "typicalErrors": "*Sonntag Regen, nicht wandern.* – kein ganzer Satz, kein neuer Vorschlag, keine Frage nach der Zeit."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Ihr Sportverein TSV Blau-Weiß lädt alle Mitglieder am Donnerstag um 19 Uhr zur Jahresversammlung ein. Schreiben Sie dem Vorsitzenden, Herrn Krause, eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie nicht kommen können.",
+     "Fragen Sie, wie Sie die Informationen von der Versammlung bekommen.",
+     "Machen Sie einen Vorschlag für das Sommerfest des Vereins."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an den Vorsitzenden, 50 Wörter",
+     "text": "Betreff: Jahresversammlung am Donnerstag\n\nSehr geehrter Herr Krause,\n\nleider kann ich am Donnerstag nicht zur Versammlung kommen, weil ich an diesem Abend Spätdienst habe.\nKönnen Sie mir bitte das Protokoll per E-Mail schicken?\nFür das Sommerfest habe ich eine Idee: Wir könnten ein kleines Turnier für alle Mitglieder organisieren.\n\nMit freundlichen Grüßen\nAlex Novak"
+    },
+    "typicalErrors": "*Hallo Herr Krause, ich komme nicht.* – falsche Anrede, kein Grund, keine Frage, kein Vorschlag."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Gewitter, kochen; Spätdienst, Protokoll)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrter Herr Krause* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Gewitter, Spätdienst, Protokoll* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Nebensatz mit *weil*, Vorschlag mit *Wollen wir …?*, höfliche Bitte (*Können Sie mir bitte …?*)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Mitbringsel aus Wien",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Mia Kowalski, Artistin im Zirkus"
+  },
+  "schreiben": [
+   "SMS an Ben: Wandern bei Gewitter",
+   "E-Mail an den Vorsitzenden: Jahresversammlung"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Lieblingsfarbe",
+    "Tanzen",
+    "Restaurant",
+    "Garten",
+    "Zeitung",
+    "Computer",
+    "Sonntag",
+    "Markt"
+   ],
+   "teil2": [
+    "Wie halten Sie Kontakt mit Freunden und Familie?",
+    "Was machen Sie gern draußen?"
+   ],
+   "teil3": "Daniels Kleiderschrank aufbauen (Samstag, drei Stunden)"
+  }
+ },
+ "notes": "Aus dem HTML Goethe A2 Modelltest 6 (DOM) übernommen; Lesen Teil 4: X auf Aufgabe 18, Hören Teil 4 Aufgabe 16 = Ja.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "a",
+     "typ": "P",
+     "note": "„Obwohl sie die Tiere schon kannte, hat sie zuerst einen Imkerkurs besucht“ = noch einmal gelernt; b: Sie hat „sofort Ja gesagt“."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "P",
+     "note": "„mittags wird es dort so heiß“, dass man kaum arbeiten kann = später zu heiß; a und c stehen nicht im Text."
+    },
+    {
+     "no": "3",
+     "ans": "c",
+     "typ": "P",
+     "note": "„vom Frühling bis zum Herbst blüht immer etwas“; a ist die Meinung vieler Menschen („Das Gegenteil ist richtig“), b: nicht nur im Sommer."
+    },
+    {
+     "no": "4",
+     "ans": "a",
+     "typ": "P",
+     "note": "„nach wenigen Wochen weg“ = schnell ausverkauft; b: Der Kindergarten bekommt das Geld, nicht den Honig."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "P",
+     "note": "„sich vorher an der Information anmelden“ = vorher Bescheid sagen; a: Den Anzug bekommt man; c: Die Führung ist kostenlos."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "a",
+     "typ": "P",
+     "note": "Brille verloren, neue nötig → Optiker Klarblick im 2. Stock."
+    },
+    {
+     "no": "7",
+     "ans": "b",
+     "typ": "I",
+     "note": "Rollstuhl nur für einige Wochen → Sanitätshaus „auch zum Leihen“ im EG; a: Physiotherapie verleiht nichts."
+    },
+    {
+     "no": "8",
+     "ans": "c",
+     "typ": "P",
+     "note": "Beratung zu Impfungen → Hausarzt (Impfungen, Reiseberatung) im 1. Stock = anderer Stock."
+    },
+    {
+     "no": "9",
+     "ans": "c",
+     "typ": "I",
+     "note": "Schal vergessen → Fundsachen bei der Verwaltung im 3. Stock; die Information im EG ist die Falle."
+    },
+    {
+     "no": "10",
+     "ans": "b",
+     "typ": "P",
+     "note": "„auf dem linken Ohr schlechter hören“ → Hals-Nasen-Ohren-Arzt im 2. Stock."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "P",
+     "note": "„sagen wir ‚Guten Tag‘, mehr nicht“ = kaum gesprochen; c greift „beim Bäcker“ auf."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "P",
+     "note": "Straße „für den Autoverkehr sperren“ = keine Autos; a: Herr Özdemir sammelt nur das Geld für Getränke; b: Beginn 14 Uhr."
+    },
+    {
+     "no": "13",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Turnhalle der Grundschule“ = Raum der Schule; a: Das Fest fällt nicht aus."
+    },
+    {
+     "no": "14",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Fotos machen“ = Bilder machen; a: Die Zeitung macht Katrin selbst; c: „nicht den ganzen Tag arbeiten“."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "P",
+     "note": "„spätestens bis Ende August Bescheid sagen“ = bis Ende August antworten; a: Lena kann bei Katrin übernachten."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "c",
+     "typ": "P",
+     "note": "„sich um andere Menschen kümmern“, wenige Stunden → zwei Stunden pro Woche in der Seniorenresidenz."
+    },
+    {
+     "no": "17",
+     "ans": "a",
+     "typ": "I",
+     "note": "früh aufstehen, unter der Woche keine Zeit → Wochenende ab 6 Uhr."
+    },
+    {
+     "no": "18",
+     "ans": "X",
+     "typ": "N",
+     "note": "Draußen arbeitet nur der Kurier, aber dort ist ein „eigenes Fahrrad nötig“."
+    },
+    {
+     "no": "19",
+     "ans": "f",
+     "typ": "I",
+     "note": "Urlaub im Herbst, tagsüber, Sprachen → Messe im Oktober, 9–18 Uhr, Deutsch und Englisch; e ist nachts."
+    },
+    {
+     "no": "20",
+     "ans": "e",
+     "typ": "I",
+     "note": "„bleibt gern lange wach“, fließend Englisch → Nachtdienst an der Rezeption."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "N",
+     "note": "Restaurant auf Deck 2 „bleibt heute geschlossen“ → warme Speisen im Bistro auf Deck 3; c: Am Kiosk gibt es nur Süßigkeiten."
+    },
+    {
+     "no": "2",
+     "ans": "c",
+     "typ": "N",
+     "note": "Freitag fällt aus, „am Samstag geht es nicht“ → Sonntag 18 Uhr."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "N",
+     "note": "Brücke gesperrt, Bahnhofstraße „nicht“ → „Nehmen Sie besser den Ring.“"
+    },
+    {
+     "no": "4",
+     "ans": "c",
+     "typ": "P",
+     "note": "„Farben, Pinsel und Rollen“ = alles zum Streichen; a gilt nicht mehr, b erst ab Montag."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "I",
+     "note": "Kerstin ist in Kiel, Lars ist „zu Hause“ → „bei uns vorbei“ = in Kerstins Wohnung; c: Vor 18 Uhr ist Lars bei der Arbeit."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "h",
+     "typ": "N",
+     "note": "„keine Mozartkugeln …, sondern Kaffee“ (g ist die Falle)."
+    },
+    {
+     "no": "7",
+     "ans": "b",
+     "typ": "A",
+     "note": "Kochbuch „wollte ich zuerst“ → Schneekugel (f ist die Falle)."
+    },
+    {
+     "no": "8",
+     "ans": "e",
+     "typ": "N",
+     "note": "Kalender „nicht mal aufgehängt“ → T-Shirt (i ist die Falle)."
+    },
+    {
+     "no": "9",
+     "ans": "g",
+     "typ": "A",
+     "note": "Die Torte „war eigentlich für sie“, ist aber gegessen → Mozartkugeln (a ist die Falle)."
+    },
+    {
+     "no": "10",
+     "ans": "f",
+     "typ": "S",
+     "note": "Das Kochbuch wurde zuerst für die Oma genannt, jetzt ist es für Sandra; den Regenschirm (d) behält Julia selbst."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "I",
+     "note": "„Gehen Sie nur vorher noch zum Fotografen“ → neues Foto; Formular „füllen wir hier aus“, Reisepass „brauchen wir nicht“."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "I",
+     "note": "„beide Hände frei“, „zwei breite Träger für den Rücken“ → Rucksack; Koffer und Handtasche passen nicht."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "I",
+     "note": "„dann stelle ich schon mal die Figuren auf“ → Schach; Karten und Konsole lehnen beide ab."
+    },
+    {
+     "no": "14",
+     "ans": "b",
+     "typ": "N",
+     "note": "Bohrmaschine kaputt, Schraubenzieher geht nicht → Hammer."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "N",
+     "note": "Päckchen dauert zu lange, Brief nur gefragt → „nur schnell eine Karte“."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Mit sechzehn“ ging sie auf die Artistenschule in Berlin; mit zehn war sie zum ersten Mal im Zirkus."
+    },
+    {
+     "no": "17",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„Früher bin ich auch auf einem Pferd geritten, aber das macht jetzt eine Kollegin.“"
+    },
+    {
+     "no": "18",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„auch wenn wir am Abend eine Vorstellung haben“."
+    },
+    {
+     "no": "19",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„ungefähr dreißig Orte im Jahr“."
+    },
+    {
+     "no": "20",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„an einer Artistenschule unterrichten“ = ihr Können weitergeben."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 5 von 15 Fällen die längste Option, in 3 die mittlere, in 7 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+ }
+}
