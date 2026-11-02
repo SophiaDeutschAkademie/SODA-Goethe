@@ -529,6 +529,17 @@ textarea.ed:focus{outline:none;border-color:var(--acc);box-shadow:0 0 0 3px var(
 .namef label{font-size:13px;font-weight:700;color:var(--ink-2)}
 .namef input{height:40px;border:1.5px solid var(--line);border-radius:6px;padding:0 12px}
 .namef input:focus{outline:none;border-color:var(--acc)}
+.sub{margin:22px 0 0;padding:16px 18px;border:1px solid var(--line);border-radius:8px}
+.sub h3{margin:0 0 4px;font-size:16px}
+.sub h3 em{font-style:normal;font-size:12.5px;font-weight:700;color:var(--muted);margin-left:8px}
+.sub p{margin:6px 0 0;font-size:13.5px;line-height:1.6;color:var(--muted)}
+.sub p.mem{color:inherit;font-weight:700}
+.sub .nm{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:12px 0 4px;font-size:14px;font-weight:700}
+.sub .nm input{height:38px;min-width:200px;padding:0 12px;border:1px solid var(--line);border-radius:6px;background:transparent;color:inherit;font:inherit;font-weight:500}
+.sub .st{font-size:13.5px;font-weight:700}
+.sub .st.ok{color:#1f7a4d}
+.sub .st.no{color:#b3261e}
+.sub a{color:inherit;text-decoration:underline}
 .acts{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .note{margin-top:16px;font-size:13px;color:var(--muted)}
 .back{display:inline-block;margin-top:22px;font-size:13.5px;font-weight:700;color:var(--ink-2);text-decoration:none}
@@ -673,8 +684,11 @@ html[data-theme="dark"] .hole{outline-color:#ECEAE4}
 (function () {
   'use strict';
 
-  /* 선생님 이메일 주소를 넣으면 '메일로 보내기'의 받는 사람에 자동으로 들어갑니다. 예: var LEHRER_MAIL = 'name@example.com'; */
-  var LEHRER_MAIL = '';
+  /* SODA-SUBMIT: 제출 주소(Google Apps Script 웹 앱). tools/제출 받기/ 설정 안내.md 참고. */
+  var SUBMIT_URL = '';
+  var EXAM_LABEL = 'Goethe B1';
+  var SPRECHEN_ID = 'goethe-b1';
+  var SPRECHEN = 'https://sophiadeutschakademie.github.io/SODA-Lehrwerk/sprechen/';
 
   var D = JSON.parse(document.getElementById('exam-data').textContent);
   var LOGO = 'data:image/png;base64,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';
@@ -1690,7 +1704,7 @@ html[data-theme="dark"] .hole{outline-color:#ECEAE4}
       '<p class="ey">Modelltest ' + esc(T.roman) + ' · Modul ' + MOD[R.mod].name + '</p>' +
       '<h1>' + (res.byTime ? 'Die Prüfungszeit ist abgelaufen.' : 'Das Modul ' + MOD[R.mod].name + ' ist beendet.') + '</h1>' +
       '<p class="sl">' + esc(ans) + '. Ihre Antworten wurden gespeichert.</p>' +
-      '<p class="sl" style="margin-top:4px">' + (res.byTime ? '시험 시간이 끝나 자동으로 제출되었습니다.' : '제출이 완료되었습니다.') + ' 결과 화면에서 ' + (M.writing ? '답안을 확인하고 선생님께 보낼 수 있습니다.' : '점수와 정답을 확인하세요.') + '</p>' +
+      '<p class="sl" style="margin-top:4px">' + (res.byTime ? '시험 시간이 끝나 자동으로 제출되었습니다.' : '제출이 완료되었습니다.') + ' 결과 화면에서 ' + (M.writing ? '답안을 확인하고 선생님께 제출할 수 있습니다.' : '점수와 정답을 확인하세요.') + '</p>' +
       '<div class="acts" style="margin-top:22px"><button class="btn pri" id="toRes" type="button">' + (M.writing ? 'Meine Texte ansehen · 답안 보기' : 'Ergebnis ansehen · 결과 보기') + '</button>' +
       '<a class="btn" href="' + BACK + '">Zur Modulübersicht</a></div></section></main></div>';
     $('#toRes').addEventListener('click', function () { showResult(res); });
@@ -1752,6 +1766,61 @@ html[data-theme="dark"] .hole{outline-color:#ECEAE4}
     } catch (e) { toast('파일을 저장하지 못했습니다.', true); }
   }
 
+  /* ---------- SODA-SUBMIT: 선생님께 제출하기 (소피아 독일어학원 수강생 전용) ---------- */
+  function speakingRec() {
+    if (!SPRECHEN_ID) return null;
+    var id = String(R.mt) === '1' ? SPRECHEN_ID : SPRECHEN_ID + '-' + R.mt;
+    try {
+      var v = window.localStorage.getItem('soda-sprechen:mdt:' + id);
+      var o = v ? JSON.parse(v) : null;
+      return o && o.text ? o : null;
+    } catch (e) { return null; }
+  }
+  function submitBox(res) {
+    var sp = speakingRec(), sent = lsGet(RESULT_KEY + '.sent');
+    var done = sent && sent.finished === res.finished;
+    var h = '<div class="sub" id="subbox"><h3>선생님께 제출하기<em>소피아 독일어학원 수강생 전용</em></h3>' +
+      '<p>이 제출하기는 <b>소피아 독일어학원 수강생 전용</b>입니다. 수강생이 아니라면 제출하지 말고 위의 복사·txt 저장으로 결과를 보관하십시오.</p>' +
+      '<p>제출하면 ' + (M.writing ? '작성한 글' : '점수와 답안') + '이 선생님 메일로 전송됩니다. 제출 전에 이름을 확인하십시오.</p>';
+    if (SPRECHEN_ID) {
+      h += '<p class="mem">' + (sp ? '말하기 기록 포함: Teil ' + sp.teile.join(', ') + ' (' + esc(sp.user || '') + ' · ' + esc(String(sp.updated || '').slice(0, 10)) + ')' : '말하기 기록: 이 브라우저에는 이 Modelltest의 말하기 연습 기록이 없습니다.') + '</p>' +
+        '<p>말하기는 <a href="' + SPRECHEN + '#' + (String(R.mt) === '1' ? SPRECHEN_ID : SPRECHEN_ID + '-' + R.mt) + '" target="_blank" rel="noopener">말하기 실전 연습</a>(수강생 로그인)에서 연습합니다. 같은 브라우저에서 연습한 기록은 제출할 때 자동으로 함께 전송됩니다.</p>';
+    }
+    h += '<label class="nm">이름 <input id="subName" type="text" maxlength="60" autocomplete="name" value="' + esc(res.name || '') + '"></label>' +
+      '<div class="acts" style="margin-top:8px"><button class="btn pri" id="sb" type="button">' + (done ? '다시 제출하기' : '선생님께 제출하기') + '</button>' +
+      '<span class="st' + (done ? ' ok' : '') + '" id="subSt" role="status">' + (done ? esc(sent.at) + ' 제출했습니다.' : '') + '</span></div></div>';
+    return h;
+  }
+  function bindSubmit(res, txt) {
+    var btn = $('#sb'), st = $('#subSt'), name = $('#subName');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var nm = (name.value || '').replace(/\s+/g, ' ').trim();
+      if (!nm) { toast('이름을 입력하십시오.', true); name.focus(); return; }
+      if (!SUBMIT_URL) { st.className = 'st no'; st.textContent = '제출 주소가 아직 설정되지 않았습니다. 선생님께 문의하십시오.'; return; }
+      var sp = speakingRec();
+      var body = txt.replace(/^Name: .*$/m, 'Name: ' + nm);
+      var payload = {
+        v: 1, kind: 'modelltest', exam: EXAM_LABEL, mt: String(R.mt), module: MOD[R.mod].name, name: nm, finished: res.finished,
+        used: fmt(res.used), byTime: !!res.byTime, body: body,
+        speaking: sp ? { label: sp.label || '', teile: sp.teile || [], user: sp.user || '', updated: sp.updated || '', text: sp.text } : null,
+        page: location.href.split('#')[0]
+      };
+      btn.disabled = true; st.className = 'st'; st.textContent = '제출하고 있습니다…';
+      var done = false;
+      var timer = setTimeout(function () { if (!done) fail('응답이 없습니다. 인터넷 연결을 확인하고 다시 눌러 주십시오.'); }, 60000);
+      function fail(msg) { if (done) return; done = true; clearTimeout(timer); btn.disabled = false; st.className = 'st no'; st.textContent = msg; }
+      fetch(SUBMIT_URL, { method: 'POST', body: JSON.stringify(payload) }).then(function (r) { return r.json(); }).then(function (j) {
+        if (done) return;
+        if (!j || !j.ok) { fail((j && j.message) || '제출하지 못했습니다. 잠시 뒤 다시 눌러 주십시오.'); return; }
+        done = true; clearTimeout(timer); btn.disabled = false; btn.textContent = '다시 제출하기';
+        var at = nowStr();
+        lsSet('name', nm); lsSet(RESULT_KEY + '.sent', { finished: res.finished, at: at });
+        st.className = 'st ok'; st.textContent = at + ' 제출했습니다.' + (sp ? ' 말하기 기록도 함께 제출되었습니다.' : '');
+      }, function () { fail('서버에 연결하지 못했습니다. 인터넷 연결을 확인하고 다시 눌러 주십시오. 계속 안 되면 위의 txt 저장으로 파일을 받아 선생님께 보내 주십시오.'); });
+    });
+  }
+
   function showResult(res) {
     stopAll();
     var h = '<div class="page">' + topHTML(false).replace(/<div class="timer"[\s\S]*?<\/div><\/div>/, '') + '<main class="pgm"><section class="sheet" style="max-width:880px">' +
@@ -1789,11 +1858,12 @@ html[data-theme="dark"] .hole{outline-color:#ECEAE4}
         }
         h += '</div>';
       });
-      h += '<p class="note">Schreiben wird von Prüfenden bewertet (Aufgabe 1 = 40, Aufgabe 2 = 40, Aufgabe 3 = 20 Punkte). Schicken Sie Ihre Texte zur Korrektur an Ihre Lehrkraft. · 쓰기는 자동 채점되지 않습니다. 아래 버튼으로 선생님께 답안을 보내 첨삭을 받으세요.</p>';
+      h += '<p class="note">Schreiben wird von Prüfenden bewertet (Aufgabe 1 = 40, Aufgabe 2 = 40, Aufgabe 3 = 20 Punkte). Schicken Sie Ihre Texte zur Korrektur an Ihre Lehrkraft. · 쓰기는 자동 채점되지 않습니다. 수강생은 아래 「선생님께 제출하기」로 답안을 보내 첨삭을 받으세요.</p>';
       h += '<div class="links">' + (pg.muster ? '<a class="btn sm" href="' + pdf + '#page=' + pg.muster + '" target="_blank" rel="noopener">Musterlösungen (PDF S. ' + pg.muster + ')</a>' : '') + '</div>';
     }
+    h += submitBox(res);
     h += '<div class="acts" style="margin-top:22px"><button class="btn pri" id="cp" type="button">' + (M.writing ? '답안 복사' : '결과 복사') + '</button>' +
-      '<button class="btn" id="dl" type="button">txt로 저장</button><button class="btn" id="ml" type="button">메일로 보내기</button>' +
+      '<button class="btn" id="dl" type="button">txt로 저장</button>' +
       '<button class="btn" id="again" type="button">다시 풀기</button><a class="btn" href="' + BACK + '">모듈 선택</a></div>' +
       '<a class="back" href="index.html#digital">← 디지털 시험 목록</a></section></main></div>';
     app.innerHTML = h;
@@ -1801,10 +1871,7 @@ html[data-theme="dark"] .hole{outline-color:#ECEAE4}
     var fname = 'Goethe B1 Modelltest ' + T.roman + ' ' + MOD[R.mod].name + (res.name ? ' ' + res.name : '') + '.txt';
     $('#cp').addEventListener('click', function () { copyText(txt); });
     $('#dl').addEventListener('click', function () { downloadText(txt, fname.replace(/[\\/:*?"<>|_]+/g, ' ')); });
-    $('#ml').addEventListener('click', function () {
-      var subj = 'Goethe B1 Modelltest ' + T.roman + ' · ' + MOD[R.mod].name + (res.name ? ' · ' + res.name : '');
-      location.href = 'mailto:' + encodeURIComponent(LEHRER_MAIL) + '?subject=' + encodeURIComponent(subj) + '&body=' + encodeURIComponent(txt);
-    });
+    bindSubmit(res, txt);
     $('#again').addEventListener('click', function () {
       modal('Noch einmal?', ['Das Modul beginnt von vorn. Das letzte Ergebnis bleibt gespeichert, bis Sie das Modul erneut abgeben.', '처음부터 다시 풉니다. 다시 제출하기 전까지 지난 결과는 남아 있습니다.'], [
         { label: 'Abbrechen' }, { label: 'Neu beginnen', pri: true, fn: function () { lsDel(STATE_KEY); showStart(); } }

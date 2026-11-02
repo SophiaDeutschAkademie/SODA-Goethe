@@ -9,7 +9,7 @@ Goethe-Zertifikat A2, B1, B2 모의고사(Modelltest)입니다. 페이퍼 시험
 | `goethe-a2/` | Goethe-Zertifikat A2, Modelltest 5개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
 | `goethe-b1/` | Goethe-Zertifikat B1, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) (예전 단일 파일 오프라인 버전 `… offline.html` 포함, 목차에서는 연결하지 않음) |
 | `goethe-b2/` | Goethe-Zertifikat B2, Modelltest 5개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
-| `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py` |
+| `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py`, 제출하기를 넣는 `add-submit.py`·`set-submit-url.py`, 제출을 메일로 받는 `제출 받기/` |
 | `assets/` | 시작 페이지의 로고와 글꼴 |
 | `index.html` | 이 저장소의 시작 페이지 (세 앱 목록, Lehrwerk 목차로 가는 링크) |
 
@@ -49,3 +49,12 @@ Modelltest 1과 2의 Sprechen 영역(페이퍼 페이지와 디지털 페이지 
 ```
 python3 tools/soda-theme.py goethe-b1/index.html --kind index
 ```
+
+## 선생님께 제출하기
+
+디지털 시험 결과 화면의 「선생님께 제출하기」는 소피아 독일어학원 수강생 전용입니다. 누르면 필기 결과(점수·답안·작성한 글)와, 같은 브라우저에서 한 말하기 실전 연습 기록이 한 통으로 Google Apps Script 웹 앱에 전달되고, 웹 앱이 선생님 메일로 보냅니다. 말하기 기록은 SODA-Lehrwerk의 `sprechen/` 앱이 시험 id별로 같은 주소(github.io)의 localStorage(`soda-sprechen:mdt:<시험 id>`)에 저장해 두며, 시험 화면이 제출할 때 읽어 갑니다.
+
+- 스크립트와 설정 방법: `tools/제출 받기/Code.gs`, `tools/제출 받기/설정 안내.md`
+- 시험 화면에 제출 주소 넣기: `python3 tools/set-submit-url.py "<웹 앱 URL>"`
+- 새 앱 폴더에 기능 넣기(옛 template.html에 처음 한 번): `python3 tools/add-submit.py <폴더>`. 지금 template.html에는 이미 들어 있어 `build-digital.py`로 다시 만들어도 유지됩니다.
+- telc 저장소(SODA-TELC)의 시험 화면도 같은 웹 앱 주소 하나를 씁니다.
