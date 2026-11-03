@@ -8,7 +8,7 @@ HOEREN1 = {
   "items": [
     {"no": "1", "ans": "b",
      "stko": "Lea의 어머니는 어디로 가야 합니까?",
-     "basis": [["Sie hat ihre Mama am Eingang verloren und wartet jetzt an der Information im ersten Stock. Wir bitten Leas Mutter, sie dort abzuholen.", "Lea는 입구에서 엄마를 잃어버렸고, 지금 2층(erster Stock) 안내 데스크에서 기다리고 있습니다. Lea의 어머니께서는 그곳으로 데리러 와 주십시오."]],
+     "basis": [["Sie hat ihre Mama am Eingang verloren und wartet jetzt an der Information im ersten Stock. Wir bitten Leas Mutter, sie dort abzuholen.", "Lea는 입구에서 엄마를 잃어버렸고, 지금 erster Stock(한국식 2층)의 안내 데스크에서 기다리고 있습니다. Lea의 어머니께서는 그곳으로 데리러 와 주십시오."]],
      "why": "Lea는 지금 an der Information im ersten Stock(1. Stock의 안내 데스크)에 있습니다. sie dort abzuholen(그곳으로 데리러 오다)의 dort가 바로 이 장소입니다.",
      "wrong": {"a": "„Kasse drei ist heute leider geschlossen“ 3번 계산대는 오늘 닫았다는 다른 안내입니다.",
                "c": "입구(Eingang)는 Lea가 엄마를 잃어버린 곳입니다. 지금 기다리는 곳이 아닙니다."}},
@@ -156,8 +156,8 @@ SCHREIBEN = {
        "제안은 Mia에게 하는 말이므로 du의 명령형(Geh …, Warte …)이나 „Du kannst …“로 씁니다. Sie를 쓰면 안 됩니다.",
        "weil을 쓰면 동사가 맨 끝에 옵니다: Ich komme zu spät, weil mein Zug Verspätung hat."],
      "model_ko": [
-       "안녕, Mia,",
-       "내 기차가 30분 늦어요.\n7시 반에야 도착해요.\n먼저 맞은편 카페에 가서 거기서 기다려요.",
+       "안녕하세요, Mia,",
+       "제 기차가 30분 늦어요.\n7시 반에야 도착해요.\n먼저 맞은편 카페에 가서 거기서 저를 기다려요.",
        "곧 봐요, Tom"],
      "redemittel": [
        ["Mein Zug / Mein Bus hat Verspätung.", "기차/버스가 늦어요."],
@@ -171,7 +171,7 @@ SCHREIBEN = {
      "points": [
        ["Schreiben Sie, wann Sie ungefähr ankommen und warum Sie so spät kommen.", "대략 언제 도착하는지, 왜 그렇게 늦게 오는지 쓰십시오.", "Ich komme erst gegen 23 Uhr, weil ich arbeiten muss."],
        ["Fragen Sie, bis wann die Rezeption geöffnet ist.", "프런트가 몇 시까지 여는지 물으십시오.", "Bis wann ist die Rezeption geöffnet?"],
-       ["Fragen Sie, ob Sie so spät noch etwas zu essen bekommen.", "그렇게 늦게도 먹을 것을 받을 수 있는지 물으십시오.", "Kann ich so spät noch etwas essen?"]],
+       ["Fragen Sie, ob Sie so spät noch etwas zu essen bekommen.", "그렇게 늦게도 먹을 것을 받을 수 있는지 물으십시오.", "Bekomme ich so spät noch etwas zu essen?"]],
      "traps": [
        "첫 번째 내용은 두 가지(언제 + 왜)를 요구합니다. 도착 시간만 쓰고 이유를 빠뜨리면 점수가 내려갑니다.",
        "두 번째와 세 번째 내용은 질문입니다. 물음표가 있는 질문 두 개를 꼭 씁니다. 프런트 질문을 빠뜨리는 실수가 많습니다.",
