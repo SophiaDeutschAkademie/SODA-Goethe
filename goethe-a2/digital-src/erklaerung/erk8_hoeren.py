@@ -148,11 +148,11 @@ HOEREN4 = {
     {"no": "19", "ans": "Ja",
      "stko": "많은 사람이 Tobias를 만나면 기뻐합니다.",
      "basis": [["Fast jeden Tag möchte jemand einen Knopf an meiner Jacke anfassen oder ein Foto mit mir machen. Die meisten lächeln, wenn sie mich sehen.", "거의 매일 누군가 제 재킷 단추를 만지고 싶어 하거나 저와 사진을 찍고 싶어 합니다. 대부분의 사람이 저를 보면 웃습니다."]],
-     "why": "die meisten(대부분의 사람)이 문장의 viele Menschen(많은 사람)이고, lächeln(미소 짓다)이 sich freuen(기뻐하다)을 보여 줍니다. 독일에서는 굴뚝 청소부가 행운을 가져온다고 믿기 때문입니다."},
+     "why": "die meisten(대부분의 사람)이 문장의 viele Menschen(많은 사람)이고, lächeln(미소 짓다)이 sich freuen(기뻐하다)을 보여 줍니다. 많은 사람이 굴뚝 청소부가 행운을 가져온다고 믿기 때문입니다(Das glauben jedenfalls viele Leute!)."},
     {"no": "20", "ans": "Nein",
      "stko": "Tobias는 나중에 다른 도시에서 일하고 싶어 합니다.",
      "basis": [["Danach möchte ich einen eigenen Betrieb gründen, natürlich hier in Rostock. Hier wohnt meine Familie", "그다음에는 제 회사를 세우고 싶습니다. 당연히 여기 로스토크에서요. 여기에 제 가족이 살고 있습니다"]],
-     "why": "자기 회사를 natürlich hier in Rostock(당연히 여기 로스토크에서) 세우고 싶다고 합니다. 다른 도시(eine andere Stadt)가 아닙니다. 계획(Meisterprüfung, eigener Betrieb)이 바뀐다는 말과 도시를 바꾼다는 말을 구별하십시오."},
+     "why": "자기 회사를 natürlich hier in Rostock(당연히 여기 로스토크에서) 세우고 싶다고 합니다. 다른 도시(eine andere Stadt)가 아닙니다. 마이스터 시험(Meisterprüfung)과 자기 회사(eigener Betrieb)는 새 계획이지만, 일하는 도시는 그대로 로스토크입니다."},
   ]}
 
 SCHREIBEN = {
@@ -258,7 +258,7 @@ SPRECHEN = {
       ["Gestern habe ich … gegessen.", "어제는 …를 먹었습니다."]]},
   "t3": {
     "task": "두 사람은 일요일(7월 5일)에 자전거를 타고 호수(Badesee)에 가려고 합니다. 가고 오고 수영하는 데 약 세 시간이 걸립니다. 각자 일정표를 보고 시간을 제안하고, 안 되면 이유를 말하고, 마지막에 출발 시각을 정합니다(약 5분). 친구끼리 하는 계획이므로 du로 말합니다.",
-    "a": "7시 30분 조깅(Joggen), 10시–12시 Inge 이모 댁 브런치, 18시 30분 이웃집 바비큐(Grillen bei den Nachbarn)",
+    "a": "7시 30분–9시 조깅(Joggen), 10시–12시 Inge 이모 댁 브런치, 18시 30분 이웃집 바비큐(Grillen bei den Nachbarn)",
     "b": "8시–12시 30분 카페 근무(Arbeit im Café), 13시–15시 부모님 댁 점심, 19시 30분 공원 콘서트(Konzert im Park)",
     "a_label": "A의 일정", "b_label": "B의 일정",
     "points": [
