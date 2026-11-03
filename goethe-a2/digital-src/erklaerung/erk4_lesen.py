@@ -161,5 +161,5 @@ LESEN4 = {
      "basis": [["Altbauwohnung im Zentrum 2 Zimmer, Küche, Bad, 58 m²", "시내의 옛 건물 집, 방 2개, 부엌, 욕실, 58㎡"], ["620 € plus Nebenkosten.", "620유로 + 관리비"],
                ["Bus und Straßenbahn direkt vor der Tür, aber kein Parkplatz.", "버스와 전차가 바로 문 앞에 있지만 주차장은 없습니다."]],
      "why": "시내(Zentrum)에 있고 버스와 전차가 문 앞에 있어서 차 없이 출근할 수 있습니다. 방이 2개이고 620유로이므로 두 사람에게 알맞습니다. 주차장이 없어도 차가 없는 두 사람에게는 문제가 되지 않습니다.",
-     "trap": "c는 방이 많지만 1.150유로로 비싸고 시 외곽(Stadtrand)에 있습니다. a는 WG의 방 하나뿐이고, e는 32㎡ 원룸으로 한 사람이 잠깐 사는 집(Marco)에 맞습니다."},
+     "trap": "c는 방이 많지만 1.150유로로 비싸고 시 외곽(Stadtrand)에 있습니다. a는 WG의 방 하나뿐입니다. e는 1–6개월만 빌리는 32㎡ 아파트로 Marco(19번)에게 맞습니다."},
   ]}
