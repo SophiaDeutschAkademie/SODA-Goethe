@@ -229,12 +229,14 @@ def main():
     font = base64.b64encode(open(os.path.join(HERE, "fonts", "pretendard-index.woff"), "rb").read()).decode()
     logo = "data:image/png;base64," + base64.b64encode(open(os.path.join(HERE, "logo-index.png"), "rb").read()).decode()
     lo, hi = nums[0], nums[-1]
+    # 두 자리 번호(10 이상)도 맞도록: [1-9] 또는 (10|11…)
+    nre = f"[{lo}-{hi}]" if hi <= 9 else f"([{lo}-9]|" + "|".join(str(i) for i in range(10, hi + 1)) + ")"
     rng = f"{lo}–{hi}"
     pre = ('<!DOCTYPE html>\n<html lang="ko">\n<head>\n<meta charset="UTF-8">\n'
            '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
            '<meta name="color-scheme" content="light">\n<meta name="robots" content="noindex,nofollow">\n'
            "<script>(function(){var h=location.hash.replace('#','');var p='cover';if(h==='mode'||h==='list'||h==='digital')p=h;"
-           f"else if(/^[{lo}-{hi}]$/.test(h))p='m'+h;else if(/^d[{lo}-{hi}]$/.test(h))p=h;"
+           f"else if(/^{nre}$/.test(h))p='m'+h;else if(/^d{nre}$/.test(h))p=h;"
            "document.documentElement.setAttribute('data-page',p);})();</script>\n"
            f'<title>Goethe {LEVEL} Modelltest — Sophia Deutsch Akademie</title>\n'
            '<style>/* Pretendard (SIL Open Font License 1.1, digital-src/fonts/Pretendard-OFL.txt), Teilmenge mit den hier verwendeten Zeichen */'
@@ -309,7 +311,7 @@ def main():
       els[i].textContent=t;
     }}
   }}
-  function route(){{var h=location.hash.replace('#','');var p='cover';if(h==='mode'||h==='list'||h==='digital')p=h;else if(/^[{lo}-{hi}]$/.test(h))p='m'+h;else if(/^d[{lo}-{hi}]$/.test(h))p=h;root.setAttribute('data-page',p);window.scrollTo(0,0);if(p.charAt(0)==='d'&&p!=='digital')status(p.slice(1));}}
+  function route(){{var h=location.hash.replace('#','');var p='cover';if(h==='mode'||h==='list'||h==='digital')p=h;else if(/^{nre}$/.test(h))p='m'+h;else if(/^d{nre}$/.test(h))p=h;root.setAttribute('data-page',p);window.scrollTo(0,0);if(p.charAt(0)==='d'&&p!=='digital')status(p.slice(1));}}
   window.addEventListener('hashchange',route);
   route();
 }})();

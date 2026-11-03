@@ -101,7 +101,7 @@ HOEREN3 = {
     {"no": "15", "ans": "c",
      "stko": "어머니는 Emma에게 무엇을 사 줍니까?",
      "basis": [["Wir basteln morgen, und meine Schere ist kaputt.", "내일 만들기를 하는데, 제 가위가 고장 났어요."],
-               ["Dann nehmen wir diese hier. Die ist nicht so spitz.", "그럼 여기 이걸로 사자. 이건 그렇게 뾰족하지 않아."]],
+               ["Dann nehmen wir diese hier. Die ist nicht so spitz.", "그럼 여기 이걸로 사요. 이건 그렇게 뾰족하지 않아요."]],
      "why": "가위(Schere)가 고장 나서 어머니가 덜 뾰족한(nicht so spitz) 가위를 고릅니다.",
      "wrong": {"a": "Füller(만년필): 지난주에 이미 받았습니다(letzte Woche bekommen).",
                "b": "Lineal(자): „das Lineal habe ich auch schon“ 자도 이미 있습니다."}},
