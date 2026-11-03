@@ -1,0 +1,171 @@
+# Goethe-Zertifikat A2 Modelltest II — 해설 데이터 (Lesen)
+# 근거 문장은 mt2.json 본문을 그대로 옮긴 것입니다.
+
+LESEN1 = {
+  "intro": "19살 Leon Brandt가 Hohenfeld 마을의 하나뿐인 가게를 이어받아 운영하는 이야기입니다.",
+  "tip": "문항 순서와 본문 순서가 대체로 같습니다. 보기의 단어가 본문에 그대로 나와도 정답이 아닐 수 있습니다. 누구에 관한 말인지, 어디(도시 또는 마을)에 관한 말인지 확인하십시오.",
+  "items": [
+    {"no": "1", "ans": "c",
+     "basis": [
+       ["Zwei Jahre lang hat sie einen Nachfolger gesucht, der den Laden weiterführt.", "2년 동안 그녀는 가게를 이어서 운영할 사람을 찾았습니다."],
+       ["Niemand war dazu bereit – bis Leon kam.", "Leon이 올 때까지 아무도 그렇게 하려고 하지 않았습니다."]],
+     "why": "2년 동안 찾았지만 아무도 없었습니다. 보기 c의 lange niemanden gefunden(오랫동안 아무도 찾지 못했다)과 같은 뜻입니다.",
+     "wrong": {"a": "sofort(바로)가 틀립니다. 2년 동안 사람을 찾았으므로 본문과 반대입니다.",
+               "b": "Frau Mertens는 68세에 은퇴했습니다(in Rente gegangen). 일이 너무 힘들었기 때문입니다. 지금 가게에서 매일 돕는다는 말은 본문에 없습니다."},
+     "vocab": [["in Rente gehen", "은퇴하다"], ["der Nachfolger, -", "뒤를 잇는 사람, 후계자"], ["weiterführen", "계속 운영하다"], ["bereit sein zu + Dat.", "~할 마음이 있다"]]},
+    {"no": "2", "ans": "a",
+     "basis": [
+       ["„Dort war ich nur eine Nummer“, erzählt er, „und niemand hatte Zeit für ein Gespräch.“", "„거기서 저는 그냥 번호 하나였어요. 그리고 아무도 이야기할 시간이 없었어요.“라고 그는 말합니다."]],
+     "why": "nur eine Nummer(번호 하나일 뿐)는 ‘한 사람으로 대해 주지 않았다’는 뜻입니다. 아무도 이야기할 시간이 없었습니다. 그래서 Leon은 도시의 큰 슈퍼마켓에서 편하지 않았습니다(nicht wohlgefühlt).",
+     "wrong": {"b": "손님 이름을 모두 아는 곳은 Hohenfeld입니다: „In Hohenfeld dagegen kennt er jeden Kunden mit Namen.“ dagegen(그와 반대로)이 도시와 마을을 비교합니다.",
+               "c": "도시에서는 큰 슈퍼마켓에서 직업 교육(Ausbildung)을 받았습니다. 자기 가게를 가진 것은 Hohenfeld가 처음입니다."},
+     "vocab": [["die Ausbildung, -en", "직업 교육"], ["dagegen", "그와 반대로"], ["sich wohlfühlen", "편안하다"]]},
+    {"no": "3", "ans": "b",
+     "basis": [
+       ["und zwei Tische, an denen man Kaffee trinken kann", "그리고 커피를 마실 수 있는 탁자 두 개"]],
+     "why": "가게에 탁자가 두 개 있어서 앉아서 커피를 마실 수 있습니다. 보기 b의 sich hinsetzen은 ‘앉다’라는 뜻입니다.",
+     "wrong": {"a": "식료품 말고도 우표와 신문을 팝니다: „Neben Lebensmitteln gibt es bei ihm auch Briefmarken und Zeitungen“. nur(~만)가 틀립니다.",
+               "c": "나이 든 손님들이 이야기하러 자주 온다는 말은 있습니다. 그러나 커피가 무료라는 말은 본문에 없습니다."},
+     "vocab": [["die Briefmarke, -n", "우표"], ["plaudern", "수다를 떨다"], ["sich hinsetzen", "앉다"]]},
+    {"no": "4", "ans": "c",
+     "basis": [
+       ["Trotzdem möchte er mit niemandem tauschen.", "그래도 그는 누구와도 바꾸고 싶지 않습니다."]],
+     "why": "mit niemandem tauschen(누구와도 바꾸지 않다)은 ‘지금 생활이 좋다’는 뜻입니다. 쉬는 시간이 적어도(trotzdem) 만족합니다. 그래서 c의 zufrieden(만족한)이 정답입니다. 이 문항은 보기에 Leon이 한 번 더 들어가 있습니다(Leon … hat Leon). 시험지의 실수이므로 ‘Leon은 …’으로 읽으면 됩니다.",
+     "wrong": {"a": "„deshalb hat Leon wenig Freizeit“ 쉬는 시간이 적습니다. 본문과 반대입니다.",
+               "b": "„Seine Freunde besuchen ihn meistens im Laden“ 친구들이 가게로 찾아오므로 친구를 만납니다. 친구를 드물게 본다는 말은 없습니다."},
+     "vocab": [["die Freizeit", "여가 시간"], ["tauschen mit + Dat.", "~와 바꾸다"], ["zufrieden mit + Dat.", "~에 만족한"]]},
+    {"no": "5", "ans": "b",
+     "basis": [
+       ["Im Frühling will er einen Lieferservice anbieten: Dann bringt er Kunden, die nicht mehr gut laufen können, die Einkäufe mit dem Lastenrad bis zur Haustür.", "봄에 그는 배달 서비스를 하려고 합니다. 잘 걷지 못하는 손님들에게 짐 자전거로 장 본 물건을 현관까지 가져다줍니다."]],
+     "why": "Lieferservice(배달 서비스)와 bringt … die Einkäufe bis zur Haustür(장 본 물건을 현관까지 가져다준다)가 보기 b의 Waren zu den Kunden bringen(물건을 손님에게 가져다주다)과 같습니다.",
+     "wrong": {"a": "가게는 일주일에 6일 엽니다(an sechs Wochentagen). 일요일에도 열겠다는 계획은 본문에 없습니다.",
+               "c": "Lastenrad(짐 자전거)는 Leon이 배달할 때 타는 자전거입니다. 손님에게 빌려주는 자전거가 아닙니다."},
+     "vocab": [["der Lieferservice", "배달 서비스"], ["das Lastenrad, ¨-er", "짐 싣는 자전거"], ["die Einkäufe (Pl.)", "장 본 물건"], ["die Ware, -n", "상품, 물건"]]},
+  ]}
+
+LESEN2 = {
+  "intro": "Neustadt 시청 입구의 층별 안내판(Wegweiser)입니다. 3. Stock부터 UG(지하)까지 층마다 어떤 부서가 있는지 적혀 있습니다.",
+  "tip": "상황 문장의 핵심 단어를 안내판의 부서 이름으로 바꿔 보십시오(Strafe → Bußgelder, Kindergarten → Kita, heiraten → Hochzeiten). 보기에 그 층이 없으면 c ‘anderer Stock(다른 층)’을 고릅니다. EG는 지상층(한국식 1층), 1. Stock은 한국식 2층, UG는 지하층입니다.",
+  "items": [
+    {"no": "6", "ans": "a",
+     "stko": "과속을 해서 편지를 받았습니다. 이제 벌금 30유로를 내야 합니다.",
+     "basis": [["Stadtkasse (Gebühren und Bußgelder bezahlen)", "시 수납처(수수료와 벌금 납부)"]],
+     "why": "Strafe(벌금)는 안내판의 Bußgelder와 같은 뜻입니다. 벌금은 EG의 Stadtkasse에서 냅니다.",
+     "wrong": {"b": "1. Stock의 Kfz-Zulassung은 자동차를 등록하는 곳입니다. 과속도 자동차와 관계있어서 고르기 쉽지만, 벌금을 내는 곳은 아닙니다.",
+               "c": "벌금을 내는 곳은 EG에 있으므로 다른 층이 아닙니다."}},
+    {"no": "7", "ans": "c",
+     "stko": "딸이 세 살이고 여름 방학이 끝나면 유치원에 다녀야 합니다. 그래서 유치원 자리가 필요합니다.",
+     "basis": [["Jugendamt (Anmeldung für Kita und Hort, Beratung für Eltern)", "청소년청(어린이집·방과후 돌봄 신청, 부모 상담)"]],
+     "why": "Kindergarten(유치원)은 안내판의 Kita와 같은 곳입니다. Kita 신청은 EG의 Jugendamt에서 합니다. 보기에 EG가 없으므로 c입니다.",
+     "wrong": {"a": "2. Stock의 Sozialamt(사회복지과)와 Beratung für Seniorinnen und Senioren(노인 상담)은 어린이 자리와 관계없습니다.",
+               "b": "3. Stock에는 어린이와 관련된 부서가 없습니다."}},
+    {"no": "8", "ans": "a",
+     "stko": "중고차를 사서 자기 이름으로 등록하려고 합니다. 그래서 새 번호판도 필요합니다.",
+     "basis": [["Kfz-Zulassung (Fahrzeuge an- und abmelden, Kennzeichen, Mo–Fr 8–13 Uhr)", "자동차 등록(차량 등록과 말소, 번호판, 월–금 8–13시)"]],
+     "why": "Auto anmelden(차를 등록하다)과 Kennzeichen(번호판)이 1. Stock의 Kfz-Zulassung에 그대로 나옵니다. Kfz는 Kraftfahrzeug(자동차)의 줄임말입니다.",
+     "wrong": {"b": "UG에는 Tiefgarage(지하 주차장)가 있습니다. 차를 세우는 곳이지 차를 등록하는 곳이 아닙니다.",
+               "c": "자동차 등록은 1. Stock에서 하므로 다른 층이 아닙니다."}},
+    {"no": "9", "ans": "b",
+     "stko": "캐나다에서 온 사촌이 놀러 왔습니다. 구시가지를 보여 주고 싶지만 도시의 역사를 잘 몰라서, 모든 것을 설명해 줄 사람을 찾습니다.",
+     "basis": [["Tourist-Information (Stadtpläne, Souvenirs, Tickets für Stadtführungen, Fahrradverleih)", "관광 안내소(시내 지도, 기념품, 시내 관광 안내 투어 표, 자전거 대여)"]],
+     "why": "jemand, der alles erklärt(모든 것을 설명해 주는 사람)는 안내하는 사람이 함께 걷는 Stadtführung(시내 관광 투어)입니다. 그 표는 EG의 Tourist-Information에서 삽니다.",
+     "wrong": {"a": "3. Stock의 Stadtarchiv(시 기록 보관소)에는 도시의 옛 자료가 있습니다. 그러나 자료를 직접 읽는 곳(Lesesaal)이고, 시내를 안내해 주지 않습니다. 방문도 예약해야 합니다.",
+               "c": "Tourist-Information은 EG에 있으므로 다른 층이 아닙니다."}},
+    {"no": "10", "ans": "c",
+     "stko": "당신과 여자 친구는 5월에 결혼하려고 합니다. 그래서 날짜 예약이 필요합니다.",
+     "basis": [["Standesamt (Hochzeiten, Geburts- und Sterbeurkunden, Termine nur nach Anmeldung)", "호적 사무소(결혼, 출생·사망 증명서, 예약해야만 방문 가능)"]],
+     "why": "heiraten(결혼하다)은 안내판의 Hochzeiten(결혼)과 같습니다. 결혼은 2. Stock의 Standesamt에서 신청하고, 예약이 필요합니다(Termine nur nach Anmeldung). 보기에 2. Stock이 없으므로 c입니다.",
+     "wrong": {"a": "1. Stock의 Bürgerbüro는 신분증, 여권, 전입 신고를 하는 곳입니다. 결혼 신청을 하는 곳이 아닙니다.",
+               "b": "3. Stock에는 시장(Bürgermeisterin)의 상담 시간이 있지만 결혼 신청과는 관계없습니다."}},
+  ]}
+
+LESEN3 = {
+  "intro": "Jonas가 친구 Paul에게 쓴 이메일입니다. 새로 얻은 주말 정원(Schrebergarten) 이야기를 하고, 8월 20일 여름 축제에 Paul을 초대합니다.",
+  "tip": "문항 순서와 이메일 문단 순서가 같습니다. 보기에는 이메일의 단어(Warteliste, Gartenhütte, Musik)가 그대로 나오지만 내용이 다른 경우가 많습니다. 누가 무엇을 했는지, nur 같은 말이 본문과 맞는지 확인하십시오.",
+  "items": [
+    {"no": "11", "ans": "a",
+     "basis": [
+       ["Im vergangenen Winter hat dann eine ältere Dame ihren Garten abgegeben, weil ihr die Gartenarbeit zu anstrengend wurde, und ich habe ihn bekommen.", "지난겨울에 나이 든 부인이 정원 일이 너무 힘들어져서 정원을 내놓았고, 제가 그 정원을 받았어요."]],
+     "why": "eine ältere Dame(나이 든 부인)이 보기 a의 eine andere Person(다른 사람)이고, abgegeben(내놓았다)이 그대로 나옵니다.",
+     "wrong": {"b": "Jonas가 협회(Verein)에서 오래 일했다는 말은 본문에 없습니다. 그는 3월부터 정원을 가졌습니다.",
+               "c": "„Fast zwei Jahre lang stand ich auf der Warteliste“ 거의 2년 동안 대기자 명단에 있었습니다. 본문과 반대입니다."},
+     "vocab": [["die Warteliste, -n", "대기자 명단"], ["abgeben", "내놓다, 넘겨주다"], ["aufgeben", "포기하다"]]},
+    {"no": "12", "ans": "c",
+     "basis": [
+       ["Am Anfang habe ich die Gartenarbeit unterschätzt.", "처음에는 정원 일을 너무 쉽게 생각했어요."],
+       ["Das Gras war kniehoch, und die Gartenhütte musste ich neu streichen, bevor ich sie benutzen konnte.", "풀이 무릎까지 자라 있었고, 정원 오두막은 쓰기 전에 새로 칠해야 했어요."]],
+     "why": "unterschätzen은 ‘실제보다 작게 생각하다’라는 뜻입니다. 일이 생각보다 많았으므로 보기 c의 mehr Arbeit nötig, als Jonas gedacht hatte(Jonas가 생각한 것보다 일이 더 많이 필요했다)와 같습니다.",
+     "wrong": {"a": "오두막은 처음부터 있었고 Jonas는 새로 칠했을 뿐입니다(neu streichen). 새로 짓지(bauen) 않았습니다. Herr Özdemir는 도구를 빌려주었습니다.",
+               "b": "„Jedes Wochenende war ich von morgens bis abends im Garten“ 주말마다 아침부터 저녁까지 정원에 있었습니다. 본문과 반대입니다."},
+     "vocab": [["unterschätzen", "과소평가하다"], ["streichen", "(페인트를) 칠하다"], ["die Gartenhütte, -n", "정원 오두막"], ["kniehoch", "무릎 높이의"]]},
+    {"no": "13", "ans": "b",
+     "basis": [
+       ["Herr Özdemir zum Beispiel hat mir seine Werkzeuge geliehen und mir erklärt, wann man welches Gemüse pflanzen muss.", "예를 들어 Özdemir 씨는 저에게 도구를 빌려주고, 어떤 채소를 언제 심어야 하는지 설명해 줬어요."]],
+     "why": "Werkzeuge geliehen(도구를 빌려주었다)이 보기 b에 그대로 나옵니다.",
+     "wrong": {"a": "Jonas는 정원을 나이 든 부인에게서 받았습니다. Herr Özdemir는 옆 정원의 이웃(Gartennachbar)입니다.",
+               "c": "잔디를 늘 짧게 깎아야 한다는 것은 협회 규칙입니다. Herr Özdemir가 Jonas 대신 잔디를 깎았다는 말은 없습니다."},
+     "vocab": [["das Werkzeug, -e", "도구, 공구"], ["leihen", "빌려주다"], ["pflanzen", "심다"], ["die Unterstützung", "도움"]]},
+    {"no": "14", "ans": "a",
+     "basis": [
+       ["und einmal im Monat muss jeder bei der Gemeinschaftsarbeit mithelfen, damit die Gehwege und der Spielplatz sauber bleiben.", "그리고 한 달에 한 번은 모두 공동 작업을 도와야 해요. 길과 놀이터를 깨끗하게 하기 위해서요."]],
+     "why": "einmal im Monat(한 달에 한 번)가 보기 a의 regelmäßig(규칙적으로)이고, Gemeinschaftsarbeit(공동 작업)가 für alle mitarbeiten(모두를 위해 함께 일하다)입니다.",
+     "wrong": {"b": "„nach 22 Uhr darf man keine Musik mehr machen“ 밤 10시 이후에만 음악이 금지됩니다. 주말에만 음악을 할 수 있다는 말이 아닙니다.",
+               "c": "채소를 함께 팔아야 한다는 규칙은 없습니다. Jonas는 직접 기른 토마토를 먹었습니다."},
+     "vocab": [["die Vorschrift, -en", "규칙"], ["der Rasen", "잔디"], ["die Gemeinschaftsarbeit", "공동 작업"], ["regelmäßig", "규칙적으로"]]},
+    {"no": "15", "ans": "c",
+     "basis": [
+       ["Bring aber einen warmen Schlafsack mit, weil es nachts in der Gartenhütte ziemlich kalt wird.", "그런데 따뜻한 침낭을 가져와요. 밤에는 오두막이 꽤 추워지거든요."]],
+     "why": "einen warmen Schlafsack(따뜻한 침낭)가 보기 c의 warme Sachen für die Nacht(밤에 쓸 따뜻한 물건)입니다. an … denken은 ‘~을 잊지 않고 챙기다’라는 뜻입니다.",
+     "wrong": {"a": "„Alle Mitglieder bereiten etwas zu essen vor“ 음식은 협회 회원들이 준비합니다. Paul은 손님이므로 음식을 가져올 필요가 없습니다.",
+               "b": "„in der Gartenhütte ist Platz für zwei“ Paul은 Jonas의 오두막에서 잘 수 있습니다. 텐트(Zelt)는 본문에 나오지 않습니다."},
+     "vocab": [["der Schlafsack, ¨-e", "침낭"], ["übernachten", "밤을 보내다, 묵다"], ["denken an + Akk.", "~을 잊지 않다"], ["das Zelt, -e", "텐트"]]},
+  ]}
+
+LESEN4 = {
+  "intro": "",
+  "tip": "먼저 사람마다 조건(나이, 요일, 시간, 원하는 것)에 표시하십시오. 광고가 조건 하나라도 어기면 정답이 아닙니다. 예시(Tim)에서 쓴 광고 c는 다시 고를 수 없습니다. 맞는 광고가 없는 문항이 하나 있습니다(X).",
+  "unused": "광고 f(밤 경비원 투어)는 아무도 고르지 않습니다. 금요일 저녁에 하므로 16번의 15살 친구들에게 맞아 보이지만, 16세부터(ab 16 Jahren) 참가할 수 있습니다. 그래서 16번은 맞는 광고가 없어서 X입니다.",
+  "items": [
+    {"no": "16", "ans": "X",
+     "stko": "15살 친구 세 명이 금요일 저녁에 할 것을 찾습니다.",
+     "cond": "15살 + 금요일 저녁",
+     "basis": [
+       ["Freitags und samstags um 21 Uhr", "금요일과 토요일 21시"],
+       ["ab 16 Jahren", "16세부터"],
+       ["Freitags ab 18 Uhr Saunanacht – dann nur für Erwachsene", "금요일 18시부터 사우나의 밤 – 이때는 성인만"]],
+     "why": "금요일 저녁에 하는 광고는 f와 d입니다. f는 16세부터이고, d는 금요일 18시부터 성인만 들어갈 수 있습니다. a는 18시까지만 열고, b의 저녁 운항은 토요일에만 있고 18세부터입니다. 맞는 광고가 없으므로 X입니다.",
+     "trap": "f의 „Freitags und samstags um 21 Uhr“만 보고 고르기 쉽습니다. 나이 조건 ab 16 Jahren까지 읽으십시오. 15살은 참가할 수 없습니다."},
+    {"no": "17", "ans": "e",
+     "stko": "Sommer 가족에게는 네 살, 일곱 살 아이가 둘 있습니다. 아이들은 동물을 아주 좋아합니다.",
+     "cond": "4살·7살 아이 + 동물",
+     "basis": [
+       ["Kühe, Schweine, Hühner und Ponys freuen sich auf Besuch!", "소, 돼지, 닭, 조랑말이 손님을 기다립니다!"],
+       ["Kinder dürfen beim Füttern helfen und auf einem Pony reiten.", "아이들은 먹이 주기를 돕고 조랑말을 탈 수 있습니다."]],
+     "why": "체험 농장에는 동물이 많고, 아이들이 직접 먹이를 주고 조랑말을 탈 수 있습니다. 나이 제한도 없습니다.",
+     "trap": "a 나무 위 체험장(Kletterwald)도 가족이 갈 수 있는 곳이지만 8세부터(ab 8 Jahren)입니다. 4살, 7살 아이는 할 수 없고, 동물도 없습니다."},
+    {"no": "18", "ans": "b",
+     "stko": "Albrecht 부인은 78세이고 이제 오래 걷지 못합니다. 그래도 일요일에 도시를 구경하고 싶어 합니다.",
+     "cond": "오래 걷지 못함 + 일요일 + 도시 구경",
+     "basis": [
+       ["Die Stadt vom Wasser aus", "물 위에서 보는 도시"],
+       ["Bequeme Sitzplätze innen und auf dem Sonnendeck", "실내와 선상 갑판의 편한 좌석"],
+       ["Abfahrt stündlich von 11 bis 17 Uhr.", "11시부터 17시까지 매시 출발합니다."]],
+     "why": "배를 타면 앉아서 구시가지, 다리, 성을 볼 수 있습니다. 요일 제한이 없으므로 일요일에도 탈 수 있습니다.",
+     "trap": "f 밤 경비원 투어도 구시가지를 보여 주지만 걸어서 다니는 투어(führt Sie … durch die dunkle Altstadt)이고, 금요일과 토요일에만 있습니다."},
+    {"no": "19", "ans": "a",
+     "stko": "Yusuf와 Marie는 토요일에 밖에서 몸을 움직이고 싶어 합니다. 두 사람 모두 높은 곳을 무서워하지 않습니다.",
+     "cond": "토요일 + 야외 활동 + 높은 곳 괜찮음",
+     "basis": [
+       ["Zehn Parcours in den Bäumen, bis zu 15 Meter hoch.", "나무 위 코스 10개, 높이는 최고 15미터입니다."],
+       ["Täglich 10–18 Uhr", "매일 10–18시"]],
+     "why": "나무 위에서 하는 활동이므로 밖에서 몸을 움직이는 일이고, 높은 곳을 무서워하지 않아야(keine Höhenangst) 할 수 있습니다. 매일 열므로 토요일에도 갈 수 있습니다.",
+     "trap": "c 자전거 대여도 밖에서 하는 활동이지만 예시(Tim)에서 이미 썼으므로 고를 수 없습니다. 높은 곳과 관계있는 광고는 a뿐입니다."},
+    {"no": "20", "ans": "d",
+     "stko": "Nowak 씨는 허리가 아픕니다. 의사는 따뜻하게 하는 것이 좋다고 말합니다.",
+     "cond": "허리 통증 + 따뜻함",
+     "basis": [
+       ["Sieben Becken mit 32 bis 36 Grad warmem Wasser, dazu Ruheräume.", "32도에서 36도의 따뜻한 물이 있는 탕 일곱 개와 휴게실이 있습니다."],
+       ["Wohltuend bei Rückenschmerzen.", "허리 통증에 좋습니다."]],
+     "why": "warmes Wasser(따뜻한 물)가 상황의 Wärme(따뜻함)와 맞고, Rückenschmerzen(허리 통증)이 Probleme mit dem Rücken(허리 문제)과 같습니다.",
+     "trap": ""},
+  ]}
