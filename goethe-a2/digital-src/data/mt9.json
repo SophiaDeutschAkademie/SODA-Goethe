@@ -1,0 +1,946 @@
+{
+ "id": 9,
+ "roman": "IX",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Leihen statt kaufen",
+   "lead": "Im Leihladen in Kassel kann man Bohrmaschinen, Zelte und Spiele ausleihen, die andere Menschen kaum noch benutzen. Gegründet hat ihn eine Lehrerin im Ruhestand.",
+   "paragraphs": [
+    "Renate Vogt, 66, war fast 40 Jahre lang Lehrerin für Mathematik. Als sie in Rente gegangen ist, hat sie eines Tages ihren Keller aufgeräumt. „Da standen eine Bohrmaschine, ein Zelt und ein Waffeleisen. Ich habe alles in zehn Jahren vielleicht dreimal benutzt“, erzählt sie. Weil sie viele Gegenstände selten benutzt hat, ist ihr die Idee für einen Laden gekommen, in dem man Dinge ausleihen kann, statt sie zu kaufen.",
+    "Heute gibt es im Leihladen in der Goethestraße mehr als 600 Gegenstände: Werkzeug, Campingartikel, Spiele und Küchengeräte. Fast alles haben Nachbarn geschenkt, weil sie es zu Hause nicht mehr brauchen. Wer etwas ausleihen möchte, muss zuerst Mitglied werden. Der Mitgliedsbeitrag beträgt fünf Euro im Monat. Danach darf man bis zu drei Gegenstände für eine Woche mitnehmen. Wer mehr Zeit braucht, kann die Leihfrist um eine Woche verlängern.",
+    "Geöffnet ist der Laden dienstags und donnerstags von 16 bis 19 Uhr und samstags vormittags. Hinter der Ladentheke stehen zwölf Freiwillige, die keinen Lohn bekommen. Einige von ihnen sind Rentner, andere sind noch Schüler. Am beliebtesten ist übrigens nicht die Bohrmaschine, sondern der Rasenmäher. „Im Sommer müssen sich die Leute dafür sogar auf eine Warteliste setzen lassen, weil ihn so viele Nachbarn brauchen“, sagt Vogt und lacht."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Leihen statt kaufen“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Renate Vogt …",
+    "options": {
+     "a": "verkauft gebrauchtes Werkzeug.",
+     "b": "hat einen Laden zum Ausleihen gegründet.",
+     "c": "arbeitet als Lehrerin in Kassel."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Auf die Idee für den Leihladen ist Renate Vogt gekommen, als sie …",
+     "options": {
+      "a": "in ihrem Keller Ordnung gemacht hat.",
+      "b": "neues Werkzeug für ihren Keller gebraucht hat.",
+      "c": "mit ihren Nachbarn ein Fest gefeiert hat."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Die meisten Sachen im Laden …",
+     "options": {
+      "a": "hat Frau Vogt selbst im Geschäft gekauft.",
+      "b": "kommen aus der Nachbarschaft.",
+      "c": "sind schon ziemlich alt und oft kaputt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Wer etwas ausleihen will, …",
+     "options": {
+      "a": "zahlt für jede Sache fünf Euro.",
+      "b": "darf bis zu drei Sachen einen Monat behalten.",
+      "c": "bezahlt jeden Monat einen festen Beitrag."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "stem": "Die Menschen hinter der Theke …",
+     "options": {
+      "a": "arbeiten ohne Lohn.",
+      "b": "waren früher alle Lehrer.",
+      "c": "stehen dort jeden Tag."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "stem": "Im Sommer …",
+     "options": {
+      "a": "ist der Laden geschlossen.",
+      "b": "leihen die meisten Leute die Bohrmaschine aus.",
+      "c": "wollen viele Leute den Rasenmäher ausleihen."
+     },
+     "answer": "c"
+    }
+   ],
+   "image": "img/mt9-lesen-foto.jpg",
+   "imageAlt": "Ein kleiner Laden mit Regalen voller Dinge: Bohrmaschine, Zelt, Nähmaschine und Kisten, davor eine Ladentheke aus Holz.",
+   "quote": "„Da standen eine Bohrmaschine, ein Zelt und ein Waffeleisen.“"
+  },
+  "t2": {
+   "instruction": "Sie sind in der Volkshochschule. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Volkshochschule – Haus am Markt",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "3. Stock",
+      "text": "Sprachkurse (Englisch, Spanisch, Deutsch als Fremdsprache) · Einstufungstests für Deutschkurse (ohne Termin, Mo und Mi 14–16 Uhr) · Selbstlernzentrum mit Computern und Kopierern · Leseecke mit Zeitungen aus aller Welt"
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Computerkurse (Anfänger und Fortgeschrittene) · Fotokurse (auch mit dem Smartphone) · Musikraum (Gitarre, Klavier) · Büro der Kursleitung (Beratung und Kurswechsel, Mo–Do 10–12 Uhr) · Raum für Vorträge (bis 80 Personen)"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Lehrküche (Kochkurse, meist abends) · Gesundheitskurse (Yoga, Rückengymnastik) · Malatelier · Tanzsaal · Umkleideräume und Duschen"
+     },
+     {
+      "floor": "EG",
+      "text": "Anmeldung und Kasse · Information und Programmhefte · Erste Hilfe · Café „Kreidestaub“ (bis 18 Uhr) · Garderobe und Schließfächer · Toiletten · Aufzug zu allen Etagen · Fahrradständer im Hof · Öffnungszeiten: Montag bis Freitag 8–21 Uhr, Samstag 9–14 Uhr"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie möchten sich für einen Kochkurs anmelden und die Gebühr gleich bezahlen.",
+    "options": {
+     "a": "EG",
+     "b": "1. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie sind neu in der Stadt und möchten wissen, welcher Deutschkurs zu Ihrem Niveau passt. Sie haben nur am Montagnachmittag Zeit.",
+     "options": {
+      "a": "2. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Sie haben ein neues Smartphone und möchten lernen, wie man damit schöne Fotos von der Familie macht.",
+     "options": {
+      "a": "1. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Sie arbeiten tagsüber und möchten abends lernen, wie man Pasta selbst macht.",
+     "options": {
+      "a": "1. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Ihr Kurs ist Ihnen zu schwer, und Sie möchten mit der Kursleitung über einen Wechsel sprechen. Sie haben nur am Dienstagvormittag Zeit.",
+     "options": {
+      "a": "3. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Sie haben sich im Kochkurs in den Finger geschnitten. Die Wunde blutet ein bisschen, und Sie brauchen ein Pflaster.",
+     "options": {
+      "a": "1. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Johanna Krämer",
+    "to": "Nele Busch",
+    "subject": "Unser kleiner Emil ist da!",
+    "greeting": "Liebe Nele,",
+    "closing": [
+     "Viele liebe Grüße",
+     "deine Johanna"
+    ],
+    "paragraphs": [
+     "endlich habe ich ein bisschen Zeit zum Schreiben! Unser Sohn Emil ist am 3. März auf die Welt gekommen, zwei Wochen vor dem Termin. Er wiegt 3.200 Gramm, hat dunkelbraune Haare und schreit vor allem abends ziemlich laut. Wir mussten vier Tage im Krankenhaus bleiben, weil die Kinderärztin sichergehen wollte, dass er gesund ist. Inzwischen sind wir wieder zu Hause, und es geht uns allen gut, nur ordentlich schlafen können wir leider nicht.",
+     "Die erste Woche war ziemlich anstrengend, weil wir noch keinen festen Tagesablauf hatten. Mein Mann Lukas hat sich einen Monat freigenommen und kocht jeden Tag das Abendessen für uns, obwohl er sonst selten in der Küche steht. Meine Mutter kommt jeden Nachmittag und geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann, und das hilft mir wirklich sehr. Zum Glück schläft Emil nachts schon vier Stunden hintereinander.",
+     "Eigentlich wollten wir schon im Februar in eine größere Wohnung umziehen. Das hat leider nicht geklappt, weil der Vermieter die Wohnung noch renovieren muss. Deshalb können wir erst im Juni umziehen. Die neue Wohnung hat vier Zimmer und einen Balkon, auf dem Emil später ungestört spielen kann. Bis dahin schläft er noch in unserem Schlafzimmer, und das funktioniert bisher ganz gut.",
+     "Und jetzt habe ich eine Frage. Hast du den Kinderwagen von deiner Tochter noch? Unser Kinderwagen ist zwar ganz neu, aber er ist so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann. Wir wohnen ja im dritten Stock, und es gibt keinen Fahrstuhl. Wenn du ihn noch hast, würden wir ihn gern für mehrere Monate ausleihen oder dir abkaufen.",
+     "Komm uns doch bald besuchen! Am besten noch nächste Woche, solange Lukas zu Hause ist und uns etwas Schönes kocht. Emil freut sich bestimmt auf dich – und ich mich sowieso."
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Johannas E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Johanna …",
+    "options": {
+     "a": "erwartet bald ein Baby.",
+     "b": "hat vor Kurzem ein Kind bekommen.",
+     "c": "arbeitet in einer Kinderklinik."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Emil …",
+     "options": {
+      "a": "kam früher als erwartet zur Welt.",
+      "b": "schreit nur selten und schläft sehr viel.",
+      "c": "hat helle Haare."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "stem": "Am Nachmittag …",
+     "options": {
+      "a": "geht Lukas mit Emil spazieren.",
+      "b": "kann Johanna sich ausruhen.",
+      "c": "fährt Johanna zu ihrer Mutter."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "stem": "Die Familie ist noch nicht umgezogen, weil …",
+     "options": {
+      "a": "sie bis jetzt keine größere Wohnung gefunden hat.",
+      "b": "in der Wohnung noch gearbeitet wird.",
+      "c": "Emil zu früh gekommen ist."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Johanna braucht einen anderen Kinderwagen, weil …",
+     "options": {
+      "a": "ihr Wagen schon nach wenigen Wochen kaputt ist.",
+      "b": "ihr Wagen nicht in den Fahrstuhl passt.",
+      "c": "sie ihren Wagen kaum nach oben tragen kann."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Nele soll …",
+     "options": {
+      "a": "die Familie bald besuchen.",
+      "b": "Johanna bei der Arbeit helfen.",
+      "c": "Emil am Nachmittag abholen."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen brauchen Hilfe im Alltag. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Frau Kaya möchte, dass ihr Sohn in Mathematik besser wird. Er ist zwölf und soll nach der Schule zusammen mit anderen Kindern lernen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Herr Lindt ist 78 und hat einen neuen Laptop. Er weiß nicht, wie man das Internet einrichtet, und kann nicht mehr gut aus dem Haus gehen.",
+     "answer": "a"
+    },
+    {
+     "no": "17",
+     "text": "Familie Schmidt möchte am Samstagabend ins Theater gehen. Ihre Tochter ist zwei Jahre alt.",
+     "answer": "d"
+    },
+    {
+     "no": "18",
+     "text": "Tarek ist beim Joggen hingefallen. Jetzt hat sein Handy einen Riss, und er braucht es morgen früh für die Arbeit.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Jan hat ein Sofa und einen großen Schrank gekauft und möchte beides selbst abholen. Er hat aber kein Auto.",
+     "answer": "c"
+    },
+    {
+     "no": "20",
+     "text": "Frau Böhm möchte ihre alte Nähmaschine reparieren lassen.",
+     "answer": "X"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt9-anzeige-a.png",
+     "alt": "PC-Doktor Krüger Computer, Drucker oder Internet machen Probleme? Ich komme zu Ihnen nach Hause, richte alles ein und erkläre es geduldig. Auch abends und am Wochenende. 35 € pro Stunde · Anfahrt kostenlos Tel. 0561 / 47 11 08"
+    },
+    "b": {
+     "img": "img/mt9-anzeige-b.png",
+     "alt": "Lernstudio Plus Mathe, Englisch und Deutsch für Schülerinnen und Schüler der Klassen 5 bis 10 – in kleinen Gruppen mit höchstens vier Kindern. Hilfe bei Hausaufgaben und vor Klassenarbeiten. Mo–Fr, 14–18 Uhr · Kirchweg 3 Die erste Stunde ist gratis!"
+    },
+    "c": {
+     "img": "img/mt9-anzeige-c.png",
+     "alt": "FIX & FERTIG Umzüge Transporter mit Fahrer und zwei kräftigen Helfern – auch für kleine Umzüge in der Stadt. Wir tragen alles, auch Schränke und Waschmaschinen. Kartons leihen wir Ihnen kostenlos. Preis nach Absprache · Tel. 0561 / 90 90 30"
+    },
+    "d": {
+     "img": "img/mt9-anzeige-d.png",
+     "alt": "Kleine Sterne Babysitter-Service · App Geprüfte Babysitter für Kinder ab 1 Jahr – auch abends und am Wochenende. Alle haben einen Erste-Hilfe-Kurs für Kinder gemacht. Einfach in der App den Tag wählen und buchen. ab 14 € pro Stunde · ★ 4,8"
+    },
+    "e": {
+     "img": "img/mt9-anzeige-e.png",
+     "alt": "BLITZBLANK Reinigung Wir putzen Ihre Wohnung oder Ihr Büro – einmal oder jede Woche. Putzmittel bringen wir mit. Wohnung (bis 60 m²) ab 59 € · Fenster putzen 4 € pro Fenster"
+    },
+    "f": {
+     "img": "img/mt9-anzeige-f.png",
+     "alt": "Handy-Klinik In 1 Stunde Display kaputt oder Akku schwach? Wir reparieren Ihr Handy in einer Stunde, während Sie warten. Nur Handys und Tablets. Ohne Termin · Bahnhofstraße 12"
+    }
+   },
+   "unused": [
+    "e"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Was sollen Reisende nach Bremen wissen?",
+     "options": {
+      "a": "Der Zug kommt auf Gleis 8 an.",
+      "b": "Sie haben genug Zeit zum Umsteigen.",
+      "c": "Sie können im Bistro noch etwas kaufen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Warum ruft der Friseursalon an?",
+     "options": {
+      "a": "Frau Brückner soll früher kommen.",
+      "b": "Ein Termin kann nicht stattfinden.",
+      "c": "Eine neue Friseurin stellt sich vor."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Wofür muss man sein Kind anmelden?",
+     "options": {
+      "a": "Für den Kurs am Mittwoch.",
+      "b": "Für das Vorlesen am Morgen.",
+      "c": "Für alle Angebote der Bibliothek."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Wo kann man heute leere Flaschen abgeben?",
+     "options": {
+      "a": "Im Getränkemarkt.",
+      "b": "An Kasse 5.",
+      "c": "Am Eingang auf der Nordseite."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "stem": "Was soll Herr Petrović tun?",
+     "options": {
+      "a": "Den Handwerker am Mittwoch anrufen.",
+      "b": "Heute Wasser für morgen vorbereiten.",
+      "c": "Morgen bis zwölf Uhr zu Hause bleiben."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Pia erzählt ihrer Freundin Clara, welchen Sport ihre Familie macht. Welchen Sport macht wer? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Mutter",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "name": "Vater",
+     "answer": "h"
+    },
+    {
+     "no": "7",
+     "name": "Bruder Felix",
+     "answer": "f"
+    },
+    {
+     "no": "8",
+     "name": "Oma",
+     "answer": "d"
+    },
+    {
+     "no": "9",
+     "name": "Opa",
+     "answer": "i"
+    },
+    {
+     "no": "10",
+     "name": "Schwester Ella",
+     "answer": "b"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt9-hoeren2-a.webp",
+     "alt": "Fußball"
+    },
+    "b": {
+     "img": "img/mt9-hoeren2-b.webp",
+     "alt": "Laufschuhe"
+    },
+    "c": {
+     "img": "img/mt9-hoeren2-c.webp",
+     "alt": "Yogamatte"
+    },
+    "d": {
+     "img": "img/mt9-hoeren2-d.webp",
+     "alt": "Schwimmbrille"
+    },
+    "e": {
+     "img": "img/mt9-hoeren2-e.webp",
+     "alt": "Ski mit Skistöcken"
+    },
+    "f": {
+     "img": "img/mt9-hoeren2-f.webp",
+     "alt": "Boxhandschuhe"
+    },
+    "g": {
+     "img": "img/mt9-hoeren2-g.webp",
+     "alt": "Golfschläger mit Ball"
+    },
+    "h": {
+     "img": "img/mt9-hoeren2-h.webp",
+     "alt": "Fahrradhelm"
+    },
+    "i": {
+     "img": "img/mt9-hoeren2-i.webp",
+     "alt": "Tischtennisschläger mit Ball"
+    }
+   },
+   "unused": [
+    "a",
+    "e",
+    "g"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Welche Lampe kaufen die beiden?",
+     "options": {
+      "a": {
+       "img": "img/mt9-hoeren3-11a.webp",
+       "alt": "Hängelampe"
+      },
+      "b": {
+       "img": "img/mt9-hoeren3-11b.webp",
+       "alt": "Stehlampe"
+      },
+      "c": {
+       "img": "img/mt9-hoeren3-11c.webp",
+       "alt": "Schreibtischlampe"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Was kauft der Mann?",
+     "options": {
+      "a": {
+       "img": "img/mt9-hoeren3-12a.webp",
+       "alt": "Strohhut"
+      },
+      "b": {
+       "img": "img/mt9-hoeren3-12b.webp",
+       "alt": "Wollmütze"
+      },
+      "c": {
+       "img": "img/mt9-hoeren3-12c.webp",
+       "alt": "Kappe"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Was trinkt die Frau?",
+     "options": {
+      "a": {
+       "img": "img/mt9-hoeren3-13a.webp",
+       "alt": "Tasse Tee"
+      },
+      "b": {
+       "img": "img/mt9-hoeren3-13b.webp",
+       "alt": "Glas Orangensaft"
+      },
+      "c": {
+       "img": "img/mt9-hoeren3-13c.webp",
+       "alt": "Kakao mit Sahne"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Was liest der Mann im Zug?",
+     "options": {
+      "a": {
+       "img": "img/mt9-hoeren3-14a.webp",
+       "alt": "Zeitung"
+      },
+      "b": {
+       "img": "img/mt9-hoeren3-14b.webp",
+       "alt": "Comicheft"
+      },
+      "c": {
+       "img": "img/mt9-hoeren3-14c.webp",
+       "alt": "Buch"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Was schenkt die Frau ihrem Enkel?",
+     "options": {
+      "a": {
+       "img": "img/mt9-hoeren3-15a.webp",
+       "alt": "Eisenbahn aus Holz"
+      },
+      "b": {
+       "img": "img/mt9-hoeren3-15b.webp",
+       "alt": "Teddybär"
+      },
+      "c": {
+       "img": "img/mt9-hoeren3-15c.webp",
+       "alt": "Puzzle"
+      }
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Menschen und Berufe“ spricht eine Moderatorin mit Nora Albrecht. Frau Albrecht ist 36 Jahre alt und arbeitet als Gärtnerin im Botanischen Garten in Hamburg.",
+   "example": {
+    "no": "0",
+    "text": "Nora Albrecht arbeitet im Botanischen Garten.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Frau Albrecht hat ihren Beruf direkt nach der Schule gelernt.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Frau Albrecht kümmert sich vor allem um Pflanzen aus warmen Ländern.",
+     "answer": "Ja"
+    },
+    {
+     "no": "18",
+     "text": "Im Winter hat Frau Albrecht weniger zu tun.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Frau Albrecht zeigt manchmal Schulklassen den Garten.",
+     "answer": "Ja"
+    },
+    {
+     "no": "20",
+     "text": "Frau Albrecht hat zu Hause einen großen Garten.",
+     "answer": "Nein"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Sie haben zwei Karten für ein Konzert am Samstag gewonnen. Ihre Freundin Jule hört diese Band sehr gern. Schreiben Sie Jule eine SMS:"
+    ],
+    "points": [
+     "Laden Sie Jule ein.",
+     "Schreiben Sie, wann das Konzert beginnt.",
+     "Machen Sie einen Vorschlag, wo Sie sich treffen."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 29 Wörter",
+     "text": "Hallo Jule,\n\nich habe zwei Konzertkarten gewonnen. Kommst du mit?\nDas Konzert beginnt am Samstag um 20 Uhr.\nTreffen wir uns um 19 Uhr am Bahnhof?\n\nLiebe Grüße, Alex"
+    },
+    "typicalErrors": "*Konzert Samstag, kommst du?* – kein ganzer Satz, keine Uhrzeit, kein Treffpunkt."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Ihre Tochter Sofia kann ein paar Tage nicht zur Schule gehen. Schreiben Sie ihrer Klassenlehrerin, Frau Seidel, eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, warum Sofia nicht kommt.",
+     "Schreiben Sie, wie lange sie fehlt.",
+     "Fragen Sie nach den Hausaufgaben."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an die Lehrerin, 38 Wörter",
+     "text": "Betreff: Sofia ist krank\n\nSehr geehrte Frau Seidel,\n\nmeine Tochter Sofia ist erkältet und hat hohes Fieber.\nDer Arzt sagt, dass sie bis Freitag zu Hause bleiben soll.\nKönnen Sie mir bitte die Hausaufgaben per E-Mail schicken?\n\nMit freundlichen Grüßen\nAlex Hartung"
+    },
+    "typicalErrors": "*Hallo Frau Seidel, Sofia krank.* – zu informelle Anrede, kein ganzer Satz, keine Dauer, keine Frage nach den Hausaufgaben."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Konzert, 20 Uhr, Bahnhof; Fieber, bis Freitag, Hausaufgaben)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Frau Seidel* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Konzertkarten, gewonnen, erkältet, Fieber, Hausaufgaben* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Nebensatz mit *dass*, Vorschlag mit *Treffen wir uns …?*, höfliche Bitte (*Können Sie mir bitte …?*)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Sport in Pias Familie",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Nora Albrecht, Gärtnerin im Botanischen Garten"
+  },
+  "schreiben": [
+   "SMS an Jule: Konzertkarten gewonnen",
+   "E-Mail an die Lehrerin: Sofia ist krank"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Geburtstag",
+    "Kino",
+    "Reisen",
+    "Kochen",
+    "Schule",
+    "Kleidung",
+    "Haustier",
+    "Morgen"
+   ],
+   "teil2": [
+    "Wie lernen Sie Deutsch?",
+    "Wo und wie kaufen Sie ein?"
+   ],
+   "teil3": "Plätzchen für den Weihnachtsmarkt backen (Freitag, zwei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 9 übernommen; Lesen Teil 4: X auf Aufgabe 20, Hören Teil 4 Aufgabe 16 = Nein.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "a",
+     "typ": "P",
+     "note": "„hat sie eines Tages ihren Keller aufgeräumt“ = im Keller Ordnung gemacht; b: „Werkzeug“ ist nur eine Wortfalle; c steht nicht im Text."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Fast alles haben Nachbarn geschenkt“ = kommen aus der Nachbarschaft; a: Fast alles ist geschenkt, nicht gekauft; c steht nicht im Text."
+    },
+    {
+     "no": "3",
+     "ans": "c",
+     "typ": "W",
+     "note": "„Mitgliedsbeitrag … fünf Euro im Monat“ = fester Monatsbeitrag; a: Die fünf Euro gelten nicht pro Sache (Wortfalle); b: nur „für eine Woche“."
+    },
+    {
+     "no": "4",
+     "ans": "a",
+     "typ": "P",
+     "note": "„die keinen Lohn bekommen“ = ohne Lohn; b: Einige sind „Rentner“, andere „Schüler“; c: Der Laden ist nur an drei Tagen geöffnet."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "N",
+     "note": "„sondern der Rasenmäher“, „Warteliste“ = viele wollen ihn; b: „nicht die Bohrmaschine“; a steht nicht im Text."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "b",
+     "typ": "I",
+     "note": "Niveau für den Deutschkurs → „Einstufungstests“ im 3. Stock; „Mo und Mi 14–16 Uhr“ passt zu Montagnachmittag; im 2. Stock gibt es keine Tests."
+    },
+    {
+     "no": "7",
+     "ans": "c",
+     "typ": "I",
+     "note": "Fotos mit dem Smartphone → „Fotokurse (auch mit dem Smartphone)“ im 2. Stock = anderer Stock; das Malatelier im 1. Stock ist die Falle."
+    },
+    {
+     "no": "8",
+     "ans": "a",
+     "typ": "P",
+     "note": "Pasta selbst machen, abends → „Lehrküche (Kochkurse, meist abends)“ im 1. Stock; im 3. Stock gibt es keine Lehrküche."
+    },
+    {
+     "no": "9",
+     "ans": "b",
+     "typ": "W",
+     "note": "Kurswechsel → „Büro der Kursleitung (Beratung und Kurswechsel, Mo–Do 10–12 Uhr)“ im 2. Stock; das Wort „Kurs“ führt zu den Sprachkursen im 3. Stock."
+    },
+    {
+     "no": "10",
+     "ans": "c",
+     "typ": "I",
+     "note": "Pflaster → „Erste Hilfe“ im EG = anderer Stock; der Kochkurs im 1. Stock ist die Falle, denn dort gibt es keine Erste Hilfe."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "a",
+     "typ": "P",
+     "note": "„zwei Wochen vor dem Termin“ = früher als erwartet; b: Emil „schreit vor allem abends ziemlich laut“; c: Er hat „dunkelbraune Haare“."
+    },
+    {
+     "no": "12",
+     "ans": "b",
+     "typ": "S",
+     "note": "„geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann“ = ausruhen; a: Nicht Lukas, sondern die Mutter geht mit; c: Mutter kommt zu ihr."
+    },
+    {
+     "no": "13",
+     "ans": "b",
+     "typ": "A",
+     "note": "„die Wohnung noch renovieren muss“ = es wird noch gearbeitet; a: Die neue Wohnung haben sie schon; c: Der Umzug war schon vor der Geburt geplant."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "P",
+     "note": "„so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann“ = kaum nach oben tragen; a: Der Wagen ist „ganz neu“; b: „keinen Fahrstuhl“."
+    },
+    {
+     "no": "15",
+     "ans": "a",
+     "typ": "P",
+     "note": "„Komm uns doch bald besuchen!“ = die Familie besuchen; b und c stehen nicht im Text."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "a",
+     "typ": "I",
+     "note": "neuer Laptop, Internet einrichten, kann nicht gut aus dem Haus → PC-Doktor: „Ich komme zu Ihnen nach Hause“."
+    },
+    {
+     "no": "17",
+     "ans": "d",
+     "typ": "I",
+     "note": "Samstagabend, Tochter zwei Jahre → Babysitter „für Kinder ab 1 Jahr – auch abends“."
+    },
+    {
+     "no": "18",
+     "ans": "f",
+     "typ": "P",
+     "note": "Riss im Handy, braucht es morgen → Handy-Klinik „in einer Stunde“."
+    },
+    {
+     "no": "19",
+     "ans": "c",
+     "typ": "I",
+     "note": "Sofa und Schrank abholen, kein Auto → Transporter mit Fahrer; „Wir tragen alles, auch Schränke“."
+    },
+    {
+     "no": "20",
+     "ans": "X",
+     "typ": "N",
+     "note": "Nähmaschine reparieren → keine Anzeige passt; die Handy-Klinik (f) repariert „Nur Handys und Tablets“."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "P",
+     "note": "„müssen sich nicht beeilen, denn ihr Anschlusszug wartet“ = genug Zeit zum Umsteigen; a: „nicht auf Gleis 8“; c: Bistro „leider geschlossen“."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Ihr Termin am Donnerstag um 16 Uhr muss leider ausfallen“ = ein Termin kann nicht stattfinden; a und c sind nicht der Grund für den Anruf."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "N",
+     "note": "„Dafür müssen Sie Ihr Kind vorher anmelden“ gilt für Mittwoch; „Für das Vorlesen brauchen Sie keine Anmeldung“."
+    },
+    {
+     "no": "4",
+     "ans": "c",
+     "typ": "N",
+     "note": "„nur am Eingang Nord“ = Eingang auf der Nordseite; „der Automat im Getränkemarkt ist kaputt“; Kasse 5 ist eine andere Information."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "A",
+     "note": "„Füllen Sie sich am besten heute Abend ein paar Flaschen Wasser ab“; a: Mittwoch war nur der alte Plan; c steht nicht im Text."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "h",
+     "typ": "A",
+     "note": "Golf: „die Kurse waren ihm zu teuer“ (g ist die Falle) → „fährt er jeden Tag mit dem Fahrrad“ = Fahrradhelm."
+    },
+    {
+     "no": "7",
+     "ans": "f",
+     "typ": "A",
+     "note": "Fußball: „damit hat er im Frühling aufgehört“ (a ist die Falle) → Boxen."
+    },
+    {
+     "no": "8",
+     "ans": "d",
+     "typ": "P",
+     "note": "„geht jeden Dienstag mit ihrer Nachbarin ins Hallenbad und schwimmt“ = Schwimmbrille."
+    },
+    {
+     "no": "9",
+     "ans": "i",
+     "typ": "N",
+     "note": "„der mag kein Wasser“ → „Er spielt lieber Tischtennis“."
+    },
+    {
+     "no": "10",
+     "ans": "b",
+     "typ": "A",
+     "note": "Ski: „jetzt im Sommer geht das ja nicht“ (e ist die Falle) → „läuft sie jeden Abend im Park“ = Laufschuhe."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "N",
+     "note": "„keine Lampe für den Esstisch“, die kleine ist „zu klein“ → „eine große, die auf dem Boden steht“ = Stehlampe."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "N",
+     "note": "Strohhut: „fliegt beim Radfahren sofort weg“; Wollmützen gibt es erst „im Herbst“ → „die dunkelblaue Kappe“."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "N",
+     "note": "Kakao: „schon zwei Stück Kuchen gegessen“; Orangensaft: „Der ist leider schon aus“ → „einen Pfefferminztee“."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "N",
+     "note": "Zeitung: Nachrichten „schon im Radio gehört“; Comic: „Nein“ → „in meinem Roman“ = Buch."
+    },
+    {
+     "no": "15",
+     "ans": "a",
+     "typ": "I",
+     "note": "Teddy: „schon langweilig“; Puzzles „hat er schon viele“; „Er liebt Züge“ → Eisenbahn aus Holz: „die nehme ich“."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Nein",
+     "typ": "P",
+     "note": "„Nach dem Abitur habe ich zuerst Biologie studiert.“"
+    },
+    {
+     "no": "17",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„vor allem im Tropenhaus“, „Pflanzen aus Südamerika und Afrika“ = aus warmen Ländern."
+    },
+    {
+     "no": "18",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„Doch, sogar mehr!“"
+    },
+    {
+     "no": "19",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Einmal im Monat führe ich Schulklassen durch das Tropenhaus.“"
+    },
+    {
+     "no": "20",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„nur einen kleinen Balkon“."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 1 von 15 Fällen die längste Option, in 7 die mittlere, in 7 die kürzeste (gezählt nach Wörtern, Ziffern eingeschlossen, bei Gleichstand nach Zeichen)."
+ }
+}

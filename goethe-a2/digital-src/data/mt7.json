@@ -1,0 +1,946 @@
+{
+ "id": 7,
+ "roman": "VII",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Bücher auf Rädern",
+   "lead": "Im Landkreis Celle fährt ein Bücherbus von Dorf zu Dorf. Am Steuer sitzt der erfahrene Busfahrer Klaus Reimann.",
+   "paragraphs": [
+    "Klaus Reimann, 61, ist eigentlich Busfahrer. Mehr als 30 Jahre lang hat er Fahrgäste durch Celle gefahren. Dann hat der Landkreis vor drei Jahren einen zuverlässigen Fahrer für den neuen Bücherbus gesucht. „Ich lese selbst sehr gern, deshalb habe ich mich gleich gemeldet“, erzählt Reimann. Weil er vorher nie in einer Bücherei gearbeitet hat, hat er zuerst einen Kurs besucht, in dem er die wichtigsten Dinge gelernt hat.",
+    "Von Dienstag bis Freitag hält der Bus in zwölf Dörfern, in denen es keine eigene Bücherei gibt. Im Bus stehen ungefähr 4.000 Bücher, Zeitschriften, Hörbücher und Spiele. Wenn jemand ein bestimmtes Buch sucht, das gerade nicht da ist, bestellt Reimann es und bringt es beim nächsten Besuch mit. Das gefällt vor allem älteren Menschen, die keinen Führerschein haben und nicht mehr so weit gehen können.",
+    "Die Ausleihe kostet überhaupt nichts. Man braucht nur einen Leseausweis, den Reimann direkt im Bus ausstellt. Am ersten Samstag im Monat bleibt der Bus am Marktplatz in Celle stehen, während er sonst nur auf den Dörfern unterwegs ist. Dann kann jeder vorbeikommen und bei einem Kaffee mit dem Fahrer sprechen. Der Bücherbus ist ein riesiger Erfolg: Im letzten Jahr haben die Leser fast 25.000 Bücher ausgeliehen, obwohl viele Dörfer nur wenige Einwohner haben."
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Bücher auf Rädern“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Klaus Reimann …",
+    "options": {
+     "a": "ist seit drei Jahren Bibliothekar in Celle.",
+     "b": "arbeitet mit einem Bus, in dem es Bücher gibt.",
+     "c": "liest jeden Tag in der Grundschule vor."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Bevor Klaus Reimann den Bücherbus gefahren hat, …",
+     "options": {
+      "a": "hat er in einer großen Bücherei gearbeitet.",
+      "b": "war er jahrelang als Fahrer in der Stadt unterwegs.",
+      "c": "war er lange Zeit ohne feste Arbeit."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Der Bücherbus …",
+     "options": {
+      "a": "fährt an allen Tagen der Woche.",
+      "b": "bleibt immer vor einer Schule am Ortsrand stehen.",
+      "c": "hält in Orten ohne Bücherei."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "stem": "Wenn jemand ein Buch sucht, das nicht im Bus ist, …",
+     "options": {
+      "a": "kann Herr Reimann es besorgen.",
+      "b": "muss er es selbst bestellen.",
+      "c": "muss er bis zum nächsten Jahr warten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Wer im Bus Bücher ausleihen möchte, …",
+     "options": {
+      "a": "muss jeden Monat einen festen Betrag zahlen.",
+      "b": "braucht einen Ausweis, den es im Bus gibt.",
+      "c": "muss sich vorher in Celle anmelden."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Am ersten Samstag im Monat …",
+     "options": {
+      "a": "fährt der Bus in alle zwölf Dörfer.",
+      "b": "kommt ein Autor zum Vorlesen in den Bus.",
+      "c": "kann man den Fahrer in der Stadt treffen."
+     },
+     "answer": "c"
+    }
+   ],
+   "image": "img/mt7-lesen-foto.jpg",
+   "imageAlt": "Ein Bücherbus mit offener Seitentür und Bücherregalen steht vor Fachwerkhäusern; zwei Menschen tragen Bücher.",
+   "quote": "„Ich lese selbst sehr gern, deshalb habe ich mich gleich gemeldet“"
+  },
+  "t2": {
+   "instruction": "Sie sind im Sportzentrum Seepark. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Sportzentrum Seepark",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "3. Stock",
+      "text": "Wellnessbereich (Sauna, Dampfbad, Ruheraum) · Massagen nach Termin, auch als Geschenkgutschein · Terrasse mit Blick auf den See. Zutritt ab 16 Jahren. Bitte leise sprechen. Die Sauna ist täglich von 12 bis 21 Uhr geöffnet."
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Fitnessstudio (Geräte, Gewichte, persönliche Beratung) · Kursräume (Yoga, Rückenfit, Tanzen) · Kletterhalle für Kinder und Erwachsene · Getränkeautomat. Kinder unter 12 Jahren nur mit Begleitung. Alle Kurse beginnen zur vollen Stunde."
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Schwimmhalle (Sportbecken, Kinderbecken, Sprungturm) · Schwimmschule (Kurse für Kinder ab 5 Jahren und für Erwachsene, auch für Anfänger) · Umkleiden und Duschen · Föhne und Wickelraum"
+     },
+     {
+      "floor": "EG",
+      "text": "Kasse und Information · Sportshop (Badebekleidung, Schwimmbrillen, Sportschuhe) · Handtuchverleih gegen 2 € Pfand · Café am See (Frühstück, Kuchen, warme Gerichte) · Schließfächer · Fundbüro · Aufzug zu allen Stockwerken. Wir sind täglich von 7 bis 22 Uhr geöffnet. Eingang an der Seestraße."
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie möchten einen Kaffee trinken und etwas essen.",
+    "options": {
+     "a": "EG",
+     "b": "1. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie haben im Fitnessstudio trainiert und möchten sich jetzt noch in der Sauna entspannen.",
+     "options": {
+      "a": "2. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Ihre achtjährige Tochter kann noch nicht schwimmen und soll es endlich richtig lernen. Sie suchen einen Kurs.",
+     "options": {
+      "a": "1. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Sie haben Ihre Schwimmbrille zu Hause vergessen und brauchen schnell eine neue.",
+     "options": {
+      "a": "1. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Sie haben seit Wochen Rückenschmerzen, und Ihr Arzt hat Ihnen geraten, einen Kurs dagegen zu besuchen.",
+     "options": {
+      "a": "3. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Sie waren gestern im Sportzentrum schwimmen und vermissen jetzt Ihre Jacke. Sie möchten fragen, ob jemand sie abgegeben hat.",
+     "options": {
+      "a": "EG",
+      "b": "1. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Marta Fischer",
+    "to": "Jana Berger",
+    "subject": "Ich habe einen Hund!",
+    "greeting": "Liebe Jana,",
+    "closing": [
+     "Liebe Grüße",
+     "deine Marta"
+    ],
+    "paragraphs": [
+     "stell dir vor: Seit drei Wochen habe ich einen Hund! Er heißt Bruno, ist zwei Jahre alt und kommt aus dem Tierheim. Ich wollte schon immer einen Hund haben, aber in meiner früheren Wohnung war dafür nie genug Platz. Seit dem Umzug im Frühling habe ich endlich einen Garten, in dem Bruno spielen kann. Beim ersten Besuch im Tierheim habe ich Bruno gleich mitgenommen, weil er mich so freundlich angesehen hat.",
+     "Anfangs war es ziemlich schwierig. Wenn ich zur Arbeit gegangen bin, hat Bruno stundenlang gebellt, und die Nachbarn waren gar nicht begeistert. Eine Nachbarin hat sich sogar beim Vermieter beschwert, obwohl ich mich sofort entschuldigt habe. Jetzt kommt meine Kollegin Sabine, die zum Glück in der Nachbarschaft wohnt, täglich in der Mittagspause und geht eine halbe Stunde mit ihm spazieren. Seitdem ist es wirklich viel besser.",
+     "Morgens und abends gehe ich selbst mit ihm im Stadtpark spazieren. Dort habe ich schon viele interessante Hundebesitzer kennengelernt, mit denen ich mich gern unterhalte. Der Spaziergang tut mir richtig gut, und Bruno ist danach auch viel ruhiger, weil er sich dort austoben kann.",
+     "Und jetzt zu meiner Bitte: Meine Schwester feiert ihre Hochzeit am 17. Oktober in Dresden, und ich fahre schon am Freitag hin, damit ich ihr bei den Vorbereitungen helfen kann. Bruno kann ich leider nicht mitnehmen, denn in dem Hotel, in dem die Gäste übernachten, sind keine Hunde erlaubt. Hättest du Lust, ihn von Freitag bis Sonntag zu dir zu nehmen? Hundefutter, Leine und seine Lieblingsdecke bringe ich natürlich mit.",
+     "Sag mir bitte bis zum Wochenende Bescheid. Wenn es bei dir nicht möglich ist, suche ich eine andere Lösung. Bruno ist übrigens sehr lieb und schläft nachts meistens ruhig, wenn man abends noch einmal mit ihm spazieren geht. Ich würde mich freuen, wenn ihr beide euch gut versteht."
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Martas E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Marta …",
+    "options": {
+     "a": "hat schon seit Jahren einen Hund.",
+     "b": "hat vor Kurzem einen Hund aus dem Tierheim geholt.",
+     "c": "arbeitet bei einem Tierarzt."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Marta hat lange keinen Hund gehabt, …",
+     "options": {
+      "a": "weil sie keine Zeit für Tiere hatte.",
+      "b": "weil ihr Vermieter keine Tiere erlaubt hat.",
+      "c": "weil die Wohnung früher zu klein war."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "stem": "Als Marta am Anfang zur Arbeit gegangen ist, …",
+     "options": {
+      "a": "hat Bruno oft lange gebellt.",
+      "b": "hat Marta Bruno mit zur Arbeit genommen.",
+      "c": "hat Bruno den ganzen Tag geschlafen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Sabine …",
+     "options": {
+      "a": "wohnt bei Marta.",
+      "b": "kümmert sich mittags um den Hund.",
+      "c": "ist die beste Freundin von Marta und Jana."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "stem": "Marta kann Bruno nicht nach Dresden mitnehmen, …",
+     "options": {
+      "a": "weil er im Zug Angst hat.",
+      "b": "weil er bei der Hochzeit stören würde.",
+      "c": "weil Hunde im Hotel verboten sind."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Marta möchte wissen, …",
+     "options": {
+      "a": "ob Jana auf Bruno aufpassen kann.",
+      "b": "wann die Hochzeit ihrer Schwester stattfindet.",
+      "c": "welches Futter Bruno am liebsten frisst."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen eine Freizeitaktivität für das Wochenende oder den Abend. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Jonas arbeitet unter der Woche und hat nur am Wochenende Zeit. Er möchte am Samstagabend Musik hören, aber keinen Eintritt bezahlen müssen.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Svenja möchte schon lange tanzen lernen. Sie sucht einen Kurs am Abend mit einer Lehrerin.",
+     "answer": "X"
+    },
+    {
+     "no": "17",
+     "text": "Frau Novak räumt gerade ihren Keller auf. Sie möchte Dinge, die sie nicht mehr braucht, an einem Sonntag verkaufen.",
+     "answer": "e"
+    },
+    {
+     "no": "18",
+     "text": "Elena ist vor einem Monat aus Spanien nach Deutschland gekommen. Sie arbeitet tagsüber und möchte abends Deutsch üben und neue Leute treffen.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Familie Aydin hat zwei Kinder, acht und zehn Jahre alt. Am Wochenende möchte die Familie einen Tag draußen verbringen, an dem alle etwas erleben.",
+     "answer": "c"
+    },
+    {
+     "no": "20",
+     "text": "Herr Wagner arbeitet bis zum späten Nachmittag. Er möchte abends etwas Neues lernen und dabei auch etwas essen.",
+     "answer": "a"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt7-anzeige-a.png",
+     "alt": "Kochschule Löffelei Italienisch kochen – ganz einfach! Sechs Abende, jeweils mittwochs von 18.30 bis 21.30 Uhr: Pasta, Pizza und Tiramisu. Wir kochen zusammen und essen danach alles auf. Alle Zutaten sind im Preis von 120 € enthalten. Anmeldung unter Tel. 0511 / 62 40 18"
+    },
+    "b": {
+     "img": "img/mt7-anzeige-b.png",
+     "alt": "Jazzkeller Blaue Stunde vor 3 Std. Samstag live: Trio Nordlicht Ab 20 Uhr gibt es bei uns Jazz zum Mitwippen. Der Eintritt ist frei – am Ende geht ein Hut herum, und jeder gibt so viel, wie er möchte. ♥ 128 · 14 Kommentare"
+    },
+    "c": {
+     "img": "img/mt7-anzeige-c.png",
+     "alt": "Angebot Kletterwald Waldblick Ein Tag hoch oben in den Bäumen! Acht Parcours für Kinder ab 6 Jahren und für Erwachsene. Täglich geöffnet von 10 bis 18 Uhr. Erwachsene zahlen 22 €, Kinder bis 12 Jahre nur 12 €. www.kletterwald-waldblick.de"
+    },
+    "d": {
+     "img": "img/mt7-anzeige-d.png",
+     "alt": "Fahrradwerkstatt Kettenglück Kursplan Reparieren Sie Ihr Rad selbst! Wir zeigen Ihnen, wie man Reifen, Bremsen und Kette repariert. Werkzeug ist vorhanden, Ihr Fahrrad bringen Sie mit. Termin jeden 2. Samstag, 10–13 Uhr Preis 15 € pro Person Anmeldung per E-Mail: werkstatt@kettenglueck.de"
+    },
+    "e": {
+     "img": "img/mt7-anzeige-e.png",
+     "alt": "Jeden ersten Sonntag im Monat · 8–16 Uhr Flohmarkt am Hafen Verkaufen Sie, was Sie nicht mehr brauchen! Ein Standplatz kostet 10 €, einen Tisch bringen Sie selbst mit. Anmelden müssen Sie sich nicht – kommen Sie einfach früh genug. Infos: Tel. 0511 / 33 71 09"
+    },
+    "f": {
+     "img": "img/mt7-anzeige-f.png",
+     "alt": "Treffpunkt · Sprachen Sprachcafé International Jeden Dienstag, 19–21 Uhr · Stadtbibliothek, 2. Stock Hier üben Menschen aus aller Welt Deutsch und Englisch – ohne Lehrer, bei Tee und Gebäck. ✔ Eintritt frei ✔ ohne Anmeldung ✔ für alle Niveaus www.sprachcafe-international.de"
+    }
+   },
+   "unused": [
+    "d"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Auf welchem Gleis fährt der Zug nach Leipzig ab?",
+     "options": {
+      "a": "Gleis 4.",
+      "b": "Gleis 7.",
+      "c": "Gleis 12."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "stem": "Wann ist der neue Termin von Herrn Yilmaz?",
+     "options": {
+      "a": "Am Donnerstag um 8 Uhr.",
+      "b": "Am Dienstag um 14 Uhr.",
+      "c": "Am Montag um 9.30 Uhr."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "3",
+     "stem": "Was kann man am Sonntag im Stadtpark kostenlos machen?",
+     "options": {
+      "a": "Einen Film sehen.",
+      "b": "Einen Kurs besuchen.",
+      "c": "Musik hören."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "4",
+     "stem": "Was bekommen Kunden, die heute viel einkaufen?",
+     "options": {
+      "a": "Ein Eis.",
+      "b": "Einen Kaffee im Restaurant.",
+      "c": "Einen Gutschein."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Wo treffen sich Jan und Nina?",
+     "options": {
+      "a": "Vor dem Kino.",
+      "b": "Im Büro.",
+      "c": "Im Café im Kino."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Anna ist gestern umgezogen. Ihr Freund Paul hilft ihr beim Auspacken. Was kommt in welches Zimmer? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Wohnzimmer",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "name": "Küche",
+     "answer": "i"
+    },
+    {
+     "no": "7",
+     "name": "Schlafzimmer",
+     "answer": "h"
+    },
+    {
+     "no": "8",
+     "name": "Flur",
+     "answer": "e"
+    },
+    {
+     "no": "9",
+     "name": "Bad",
+     "answer": "f"
+    },
+    {
+     "no": "10",
+     "name": "Balkon",
+     "answer": "g"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt7-hoeren2-a.webp",
+     "alt": "Sofa"
+    },
+    "b": {
+     "img": "img/mt7-hoeren2-b.webp",
+     "alt": "Stehlampe"
+    },
+    "c": {
+     "img": "img/mt7-hoeren2-c.webp",
+     "alt": "Bücherregal"
+    },
+    "d": {
+     "img": "img/mt7-hoeren2-d.webp",
+     "alt": "Teppich"
+    },
+    "e": {
+     "img": "img/mt7-hoeren2-e.webp",
+     "alt": "Großer Spiegel"
+    },
+    "f": {
+     "img": "img/mt7-hoeren2-f.webp",
+     "alt": "Pflanze im Topf"
+    },
+    "g": {
+     "img": "img/mt7-hoeren2-g.webp",
+     "alt": "Fahrrad mit Korb"
+    },
+    "h": {
+     "img": "img/mt7-hoeren2-h.webp",
+     "alt": "Kleiderschrank"
+    },
+    "i": {
+     "img": "img/mt7-hoeren2-i.webp",
+     "alt": "Runder Tisch mit zwei Stühlen"
+    }
+   },
+   "unused": [
+    "a",
+    "b",
+    "d"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Was bestellt der Mann?",
+     "options": {
+      "a": {
+       "img": "img/mt7-hoeren3-11a.webp",
+       "alt": "Schüssel Suppe"
+      },
+      "b": {
+       "img": "img/mt7-hoeren3-11b.webp",
+       "alt": "Gemischter Salat"
+      },
+      "c": {
+       "img": "img/mt7-hoeren3-11c.webp",
+       "alt": "Nudeln mit Tomatensauce"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Was kauft der Mann für seine Kollegin?",
+     "options": {
+      "a": {
+       "img": "img/mt7-hoeren3-12a.webp",
+       "alt": "Blumenstrauß"
+      },
+      "b": {
+       "img": "img/mt7-hoeren3-12b.webp",
+       "alt": "Pralinenschachtel mit Schleife"
+      },
+      "c": {
+       "img": "img/mt7-hoeren3-12c.webp",
+       "alt": "Buch"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Wie kommt die Frau morgen zur Arbeit?",
+     "options": {
+      "a": {
+       "img": "img/mt7-hoeren3-13a.webp",
+       "alt": "Bus"
+      },
+      "b": {
+       "img": "img/mt7-hoeren3-13b.webp",
+       "alt": "Fahrrad"
+      },
+      "c": {
+       "img": "img/mt7-hoeren3-13c.webp",
+       "alt": "Auto"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Was hat die Frau im Zug vergessen?",
+     "options": {
+      "a": {
+       "img": "img/mt7-hoeren3-14a.webp",
+       "alt": "Regenschirm"
+      },
+      "b": {
+       "img": "img/mt7-hoeren3-14b.webp",
+       "alt": "Brille"
+      },
+      "c": {
+       "img": "img/mt7-hoeren3-14c.webp",
+       "alt": "Handschuhe"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Wie wird das Wetter am Sonntag?",
+     "options": {
+      "a": {
+       "img": "img/mt7-hoeren3-15a.webp",
+       "alt": "Sonne"
+      },
+      "b": {
+       "img": "img/mt7-hoeren3-15b.webp",
+       "alt": "Regen"
+      },
+      "c": {
+       "img": "img/mt7-hoeren3-15c.webp",
+       "alt": "Schnee"
+      }
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Mein Arbeitsplatz“ spricht eine Moderatorin mit Lena Brandt. Frau Brandt ist 34 Jahre alt und arbeitet als Bäckerin in einer kleinen Backstube.",
+   "example": {
+    "no": "0",
+    "text": "Lena Brandt arbeitet in einer kleinen Backstube.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Lena wollte schon als Kind Bäckerin werden.",
+     "answer": "Nein"
+    },
+    {
+     "no": "17",
+     "text": "Lena fängt mit der Arbeit mitten in der Nacht an.",
+     "answer": "Ja"
+    },
+    {
+     "no": "18",
+     "text": "Lena arbeitet in der Backstube allein.",
+     "answer": "Nein"
+    },
+    {
+     "no": "19",
+     "text": "Lena geht abends früh ins Bett.",
+     "answer": "Ja"
+    },
+    {
+     "no": "20",
+     "text": "Lena möchte später anderen Menschen zeigen, wie man backt.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Ihre Freundin Mia hat Sie für Freitagabend zum Essen eingeladen. Sie müssen aber leider arbeiten. Schreiben Sie Mia eine SMS:"
+    ],
+    "points": [
+     "Schreiben Sie, warum Sie nicht kommen können.",
+     "Machen Sie einen Vorschlag für einen anderen Termin.",
+     "Fragen Sie, ob Sie etwas mitbringen sollen."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 29 Wörter",
+     "text": "Hallo Mia,\n\nam Freitag muss ich leider bis 21 Uhr arbeiten.\nKönnen wir das Essen auf Samstag verschieben, wenn du Zeit hast?\nSoll ich etwas mitbringen?\n\nLiebe Grüße, Alex"
+    },
+    "typicalErrors": "*Freitag Arbeit, nicht kommen.* – kein ganzer Satz, kein neuer Termin, keine Frage."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "In Ihrer Wohnung funktioniert seit zwei Tagen die Heizung nicht mehr. Schreiben Sie an Ihren Vermieter, Herrn Lorenz, eine E-Mail."
+    ],
+    "points": [
+     "Schreiben Sie, was kaputt ist und seit wann.",
+     "Fragen Sie, wann ein Handwerker kommen kann.",
+     "Sagen Sie, an welchen Tagen Sie zu Hause sind."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an den Vermieter, 38 Wörter",
+     "text": "Betreff: Heizung kaputt\n\nSehr geehrter Herr Lorenz,\n\nseit Montag funktioniert die Heizung in meiner Wohnung nicht mehr, und es wird sehr kalt.\nWann kann ein Handwerker kommen?\nIch bin am Donnerstag und Freitag nachmittags zu Hause.\n\nMit freundlichen Grüßen\nAlex Weber"
+    },
+    "typicalErrors": "*Hallo Herr Lorenz, Heizung kaputt.* – falsche Anrede, kein ganzer Satz, keine Frage, keine Angabe, wann Sie zu Hause sind."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Arbeit bis 21 Uhr, Samstag; Heizung, Donnerstag und Freitag)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrter Herr Lorenz* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*Heizung, Handwerker, verschieben* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Nebensatz mit *wenn*, Vorschlag mit *Können wir …?*, Frage (*Wann kann ein Handwerker kommen?*)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Auspacken nach dem Umzug",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Lena Brandt, Bäckerin in einer Backstube"
+  },
+  "schreiben": [
+   "SMS an Mia: Essen am Freitag",
+   "E-Mail an den Vermieter: Heizung kaputt"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Urlaub",
+    "Frühstück",
+    "Geschwister",
+    "Handy",
+    "Sport",
+    "Wohnung",
+    "Fernsehen",
+    "Kaffee"
+   ],
+   "teil2": [
+    "Was machen Sie in Ihrer Mittagspause?",
+    "Wie kommen Sie zur Arbeit oder zur Schule?"
+   ],
+   "teil3": "Ein Geschenk für Sara kaufen (Samstag, zwei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 7 übernommen (pdftotext, pdfplumber, Seitenbilder); Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Kommentar aus S. 20–21, Bildbeschreibungen (alt) von Hand. Lesen Teil 4: X auf Aufgabe 16, d bleibt übrig; Hören Teil 2: a, b, d bleiben übrig; Hören Teil 4 Aufgabe 16 = Nein. In den Alt-Texten der Anzeigen sind Versal-Zeilen (KURSPLAN, ANGEBOT, FLOHMARKT AM HAFEN usw.) wie in mt6 in normaler Schreibung wiedergegeben.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Mehr als 30 Jahre lang hat er Fahrgäste durch Celle gefahren“ = jahrelang Fahrer in der Stadt; a: Er hat „vorher nie in einer Bücherei gearbeitet“."
+    },
+    {
+     "no": "2",
+     "ans": "c",
+     "typ": "P",
+     "note": "„in zwölf Dörfern, in denen es keine eigene Bücherei gibt“ = Orte ohne Bücherei; a: nur „von Dienstag bis Freitag“; b steht nicht im Text."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "P",
+     "note": "„bestellt Reimann es und bringt es … mit“ = Herr Reimann besorgt es; b greift „bestellt“ auf (Wortfalle: Reimann bestellt); c fehlt im Text."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "W",
+     "note": "„einen Leseausweis, den Reimann direkt im Bus ausstellt“; a widerspricht „kostet überhaupt nichts“; c: Celle steht im Text (Wortfalle)."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "P",
+     "note": "„bleibt der Bus am Marktplatz in Celle stehen … mit dem Fahrer sprechen“ = den Fahrer mitten in der Stadt treffen; a: Der Bus bleibt in Celle."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "b",
+     "typ": "I",
+     "note": "Sauna → Wellnessbereich im 3. Stock; das Fitnessstudio im 2. Stock (Training) ist die Falle, dort gibt es keine Sauna."
+    },
+    {
+     "no": "7",
+     "ans": "a",
+     "typ": "I",
+     "note": "Kind soll schwimmen lernen, Kurs → Schwimmschule im 1. Stock (Kinder ab 5 Jahren); im EG gibt es Kasse, Shop und Café."
+    },
+    {
+     "no": "8",
+     "ans": "c",
+     "typ": "I",
+     "note": "Schwimmbrille → Sportshop im EG = anderer Stock; die Schwimmhalle im 1. Stock ist die Falle."
+    },
+    {
+     "no": "9",
+     "ans": "b",
+     "typ": "W",
+     "note": "Rückenschmerzen + Kurs → Rückenfit im 2. Stock; die Massagen im 3. Stock sind die Falle, denn dort besucht man keinen Kurs."
+    },
+    {
+     "no": "10",
+     "ans": "a",
+     "typ": "I",
+     "note": "Jacke vermisst, abgegeben? → Fundbüro im EG; die Umkleiden im 1. Stock sind die Falle (Fundsachen gibt man im EG ab)."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "c",
+     "typ": "P",
+     "note": "„in meiner früheren Wohnung war dafür nie genug Platz“ = früher zu wenig Platz; b greift „Vermieter“ auf (Wortfalle), a fehlt im Text."
+    },
+    {
+     "no": "12",
+     "ans": "a",
+     "typ": "P",
+     "note": "„hat Bruno stundenlang gebellt“ = oft lange gebellt; b und c stehen nicht im Text."
+    },
+    {
+     "no": "13",
+     "ans": "b",
+     "typ": "P",
+     "note": "„Kollegin Sabine … täglich in der Mittagspause … geht … mit ihm spazieren“ = kümmert sich mittags um den Hund; a und c stehen nicht im Text."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "P",
+     "note": "„in dem Hotel … sind keine Hunde erlaubt“ = Hunde sind im Hotel verboten; a und b stehen nicht im Text."
+    },
+    {
+     "no": "15",
+     "ans": "a",
+     "typ": "P",
+     "note": "„Hättest du Lust, ihn … zu dir zu nehmen?“ = auf Bruno aufpassen; b: Das Datum steht schon fest; c: Das Hundefutter bringt Marta mit."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "X",
+     "typ": "N",
+     "note": "Tanzen lernen, Kurs am Abend → keine Anzeige passt; Fahrradkurs (d) und Kochkurs (a) sind keine Alternative."
+    },
+    {
+     "no": "17",
+     "ans": "e",
+     "typ": "P",
+     "note": "Sachen aus dem Keller verkaufen, Sonntag → Flohmarkt am ersten Sonntag im Monat."
+    },
+    {
+     "no": "18",
+     "ans": "f",
+     "typ": "I",
+     "note": "neu in Deutschland, tagsüber Arbeit, abends Deutsch üben → Sprachcafé dienstags 19–21 Uhr."
+    },
+    {
+     "no": "19",
+     "ans": "c",
+     "typ": "I",
+     "note": "zwei Kinder, Tag draußen → Kletterwald; Kinder zahlen nur 12 €."
+    },
+    {
+     "no": "20",
+     "ans": "a",
+     "typ": "I",
+     "note": "bis zum späten Nachmittag Arbeit, abends lernen und essen → Kochkurs mittwochs ab 18.30 Uhr mit gemeinsamem Essen."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "b",
+     "typ": "N",
+     "note": "Der Zug fährt „nicht von Gleis 4, sondern von Gleis 7 ab“; Gleis 12 gilt nur für Reisende nach Magdeburg."
+    },
+    {
+     "no": "2",
+     "ans": "a",
+     "typ": "N",
+     "note": "Der Montagstermin „muss leider ausfallen“; Dienstag um 14 Uhr ist „leider schon vergeben“ (b); angeboten wird „am Donnerstag um 8 Uhr“."
+    },
+    {
+     "no": "3",
+     "ans": "c",
+     "typ": "P",
+     "note": "„ein Konzert der Stadtkapelle. Der Eintritt ist frei“ = Musik hören; der Film am Samstag kostet acht Euro."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "S",
+     "note": "„Wer heute mehr als hundert Euro ausgibt, bekommt außerdem einen Kaffee“; das Eis bekommen nur die Kinder."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "N",
+     "note": "„Treffen wir uns lieber gleich im Café im Kino?“ statt vor dem Kino; Nina kommt „erst um halb sechs aus dem Büro“."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "i",
+     "typ": "A",
+     "note": "„Eigentlich wollte ich ihn auch ins Wohnzimmer stellen. Aber da ist kein Platz mehr, deshalb kommt er in die Küche“ (Wohnzimmer ist die Falle)."
+    },
+    {
+     "no": "7",
+     "ans": "h",
+     "typ": "N",
+     "note": "„im Schlafzimmer brauche ich keinen Teppich“ (d ist die Falle), dafür „einen großen Kleiderschrank“."
+    },
+    {
+     "no": "8",
+     "ans": "e",
+     "typ": "I",
+     "note": "„dann kann ich vor dem Weggehen noch einmal sehen, ob alles gut aussieht“ = Spiegel im Flur."
+    },
+    {
+     "no": "9",
+     "ans": "f",
+     "typ": "I",
+     "note": "„schön hell, und sie mag die feuchte Luft“ = Pflanze im Bad."
+    },
+    {
+     "no": "10",
+     "ans": "g",
+     "typ": "N",
+     "note": "„im Keller wird es doch geklaut“ → Fahrrad auf den Balkon; die Stehlampe (b) „gehört meiner Schwester“."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "A",
+     "note": "„Die ist leider schon aus“ → Nudeln, aber „zu schwer“ → gemischter Salat."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "N",
+     "note": "Blumen („bestimmt schon von den anderen Kollegen“) und Süßes („macht gerade eine Diät“) lehnt er ab → Roman."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "N",
+     "note": "Fahrrad („den ganzen Tag regnen“) und Auto („in der Werkstatt“) fallen weg → Bus."
+    },
+    {
+     "no": "14",
+     "ans": "a",
+     "typ": "I",
+     "note": "Brille: „die habe ich auf der Nase“; „groß und dunkelblau, und man braucht es bei Regen“ = Regenschirm."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "A",
+     "note": "Die Sonne am Sonntag war „der alte Bericht“; Regen gilt für Samstag → am Sonntag „es schneit“."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„Als Kind wollte ich Tierärztin werden.“"
+    },
+    {
+     "no": "17",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Um zwei Uhr nachts“ = mitten in der Nacht."
+    },
+    {
+     "no": "18",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„Nein, wir sind zu dritt.“"
+    },
+    {
+     "no": "19",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Ich gehe schon gegen acht Uhr abends ins Bett.“ = früh."
+    },
+    {
+     "no": "20",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Backkurse für Kinder geben“ = Kindern zeigen, wie man backt."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 6 von 15 Fällen die längste Option, in 5 die mittlere, in 4 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+ }
+}
