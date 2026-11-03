@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Modelltest 1~5(Goethe A2는 1~6) 페이지의 Sprechen(Mündlicher Ausdruck) 영역에 「말하기 실전 연습」 줄을 넣습니다.
+"""Modelltest 1~5(Goethe A2는 1~10) 페이지의 Sprechen(Mündlicher Ausdruck) 영역에 「말하기 실전 연습」 줄을 넣습니다.
 저장소 루트에서 실행합니다. 이미 들어 있으면 건너뛰므로 몇 번을 실행해도 결과가 같습니다.
 build-index.py 로 index.html 을 다시 만든 뒤에는 이 스크립트를 한 번 더 실행하십시오.
 """
@@ -15,7 +15,7 @@ total = 0
 for folder, base_id in APPS.items():
     p = folder + '/index.html'
     s = open(p, encoding='utf-8').read()
-    for n in (range(1, 7) if folder == 'goethe-a2' else range(1, 6)):
+    for n in (range(1, 11) if folder == 'goethe-a2' else range(1, 6)):
         exam = base_id if n == 1 else '%s-%d' % (base_id, n)
         row = ('<div class="it %s"><span class="t">Üben</span><span class="d">말하기 실전 연습<span>시험관·파트너와 Teil별로 연습 · 소피아 독일어학원 수강생 전용 · 아이디와 비밀번호 필요</span></span>'
                '<a class="go" href="%s#%s" target="_blank" rel="noopener">연습</a></div>\n') % (MARK, BASE, exam)
