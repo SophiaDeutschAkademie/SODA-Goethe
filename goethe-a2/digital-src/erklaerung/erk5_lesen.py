@@ -107,7 +107,7 @@ LESEN3 = {
      "why": "nicht zu schnell(너무 빨리는 말고)은 천천히 답장해도 된다는 뜻입니다. c ihr Zeit für die Antwort zu lassen(답장할 시간을 넉넉히 주다)과 같습니다.",
      "wrong": {"a": "sofort(곧바로)는 nicht zu schnell과 반대입니다.",
                "b": "Schreib mir bitte라고 했으므로 이메일 답장을 원합니다. 다만 천천히 써 달라는 것입니다."},
-     "vocab": [["Schreib mir!", "나에게 편지해 줘(du 명령형)"], ["sofort", "곧바로"], ["die Antwort, -en", "답장, 대답"], ["jemandem Zeit lassen", "~에게 시간을 주다"]]},
+     "vocab": [["Schreib mir!", "답장을 써 달라는 부탁(du 명령형)"], ["sofort", "곧바로"], ["die Antwort, -en", "답장, 대답"], ["jemandem Zeit lassen", "~에게 시간을 주다"]]},
   ]}
 
 LESEN4 = {
