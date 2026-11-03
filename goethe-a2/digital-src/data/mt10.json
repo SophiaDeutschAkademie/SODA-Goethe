@@ -1,0 +1,946 @@
+{
+ "id": 10,
+ "roman": "X",
+ "lesen": {
+  "t1": {
+   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "title": "Mit der Rikscha durch die Stadt",
+   "lead": "In Göttingen fahren Freiwillige ältere Menschen mit einer Fahrradrikscha durch die Innenstadt. Die Idee dafür kommt aus Dänemark.",
+   "paragraphs": [
+    "Thomas Brandes, 58, arbeitet als Krankenpfleger. Vor zwei Jahren hat er im Urlaub in Kopenhagen eine Rikscha gesehen, in der zwei alte Damen saßen und lachten. „Da wusste ich sofort: So etwas brauchen wir auch“, erzählt er. Zurück in Göttingen hat er einen Verein gegründet und monatelang Spenden für die erste Rikscha gesammelt, und heute fährt er selbst regelmäßig zweimal pro Woche.",
+    "Inzwischen gehören drei Rikschas und 25 Fahrerinnen und Fahrer zum Verein. Alle arbeiten in ihrer Freizeit für den Verein und bekommen dafür kein Geld. Die Fahrten sind für die Gäste kostenlos, weil mehrere Firmen den Verein finanziell unterstützen. Wer mitfahren möchte, ruft einfach im Seniorenheim „Am Wall“ an. Dort stehen die Rikschas, und dort kann man auch einen Termin vereinbaren.",
+    "Die meisten Gäste wünschen sich eine Fahrt zum Fluss oder durch die Altstadt, aber manche möchten unbedingt noch einmal das Haus sehen, in dem sie früher gewohnt haben. Bei Regen und im Winter fahren die Rikschas leider nicht, denn dann werden die Gäste nass, oder es wird ihnen zu kalt. Für den nächsten Sommer sucht Brandes noch weitere Freiwillige, weil immer mehr Senioren mitfahren möchten. „Man muss nicht sportlich sein“, sagt er, „die Rikschas haben einen Elektromotor.“"
+   ],
+   "source": "aus einer deutschen Tageszeitung",
+   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Mit der Rikscha durch die Stadt“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Thomas Brandes …",
+    "options": {
+     "a": "verkauft Fahrräder.",
+     "b": "fährt ältere Menschen mit einer Rikscha.",
+     "c": "leitet ein Seniorenheim."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "1",
+     "stem": "Die Idee für die Rikschas hatte Brandes, als er …",
+     "options": {
+      "a": "im Ausland Urlaub gemacht hat.",
+      "b": "als Krankenpfleger bei der Arbeit war.",
+      "c": "in einem Seniorenheim zu Besuch war."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "stem": "Die Fahrerinnen und Fahrer …",
+     "options": {
+      "a": "bekommen für jede Fahrt etwas Geld.",
+      "b": "tun das ohne Bezahlung.",
+      "c": "arbeiten alle im Seniorenheim."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Wer eine Fahrt machen möchte, …",
+     "options": {
+      "a": "muss dort anrufen, wo die Rikschas stehen.",
+      "b": "muss Mitglied im Verein sein.",
+      "c": "muss die Fahrt vorher bezahlen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Manche Gäste möchten …",
+     "options": {
+      "a": "eine Fahrt bis nach Kopenhagen in Dänemark machen.",
+      "b": "den Ort sehen, an dem sie früher gelebt haben.",
+      "c": "selbst einmal eine Rikscha durch die Stadt fahren."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Neue Fahrerinnen und Fahrer …",
+     "options": {
+      "a": "müssen dafür sehr sportlich sein.",
+      "b": "fahren nur im Winter.",
+      "c": "brauchen keine große Kraft."
+     },
+     "answer": "c"
+    }
+   ],
+   "image": "img/mt10-lesen-foto.jpg",
+   "imageAlt": "Eine Fahrradrikscha steht vor Bäumen und Häusern in der Stadt.",
+   "quote": "„Man muss nicht sportlich sein“"
+  },
+  "t2": {
+   "instruction": "Sie wohnen im Hotel am Stadtpark. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+   "board": {
+    "title": "Hotel am Stadtpark",
+    "label": "WEGWEISER",
+    "rows": [
+     {
+      "floor": "3. Stock",
+      "text": "Wellnessbereich (Sauna und Massage, täglich 14–21 Uhr) · Fitnessraum · Dachterrasse mit Bar und Blick über die Stadt (ab 17 Uhr geöffnet) · Liegestühle · Zimmer 301–330"
+     },
+     {
+      "floor": "2. Stock",
+      "text": "Konferenzräume „Linde“ und „Ahorn“ · Businesscenter mit Computern, Druckern und Kopierern (rund um die Uhr, für Hotelgäste kostenlos) · Saal für Feiern bis 60 Personen · Zimmer 201–240"
+     },
+     {
+      "floor": "1. Stock",
+      "text": "Restaurant „Parkblick“ (Frühstück 6.30–10.30 Uhr, Abendessen 18–22 Uhr) · Mittagstisch auch für Gäste von außen (12–14 Uhr) · Spielzimmer für Kinder von 3 bis 10 Jahren (täglich 9–18 Uhr) · Zimmer 101–130"
+     },
+     {
+      "floor": "EG",
+      "text": "Rezeption (24 Stunden geöffnet) · Gepäckraum · Hotelbar (ab 11 Uhr) · Kiosk mit Zeitungen und Snacks · Fahrradverleih (täglich 9–18 Uhr, nur für Hotelgäste) · Geldautomat · Ausgang zur Tiefgarage (Parken 15 € pro Tag) · Aufzüge zu allen Etagen"
+     }
+    ]
+   },
+   "example": {
+    "no": "0",
+    "stem": "Sie kommen im Hotel an und möchten Ihren Zimmerschlüssel abholen.",
+    "options": {
+     "a": "EG",
+     "b": "1. Stock",
+     "c": "anderer Stock"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "6",
+     "stem": "Sie haben eine Rechnung für Ihre Firma nur auf dem Laptop und müssen sie noch ausdrucken.",
+     "options": {
+      "a": "1. Stock",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Sie müssen morgen schon um halb acht abfahren und möchten vorher frühstücken.",
+     "options": {
+      "a": "1. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Sie möchten nach dem Abendessen noch draußen sitzen, etwas trinken und die Stadt von oben sehen.",
+     "options": {
+      "a": "EG",
+      "b": "2. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Sie müssen Ihr Zimmer schon um zehn Uhr verlassen, fliegen aber erst am Abend und möchten Ihre Koffer nicht den ganzen Tag mit in die Stadt nehmen.",
+     "options": {
+      "a": "3. Stock",
+      "b": "EG",
+      "c": "anderer Stock"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Es regnet, und Ihre beiden Kinder, vier und sieben Jahre alt, möchten im Hotel spielen.",
+     "options": {
+      "a": "2. Stock",
+      "b": "3. Stock",
+      "c": "anderer Stock"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "mail": {
+    "from": "Martina Hahn",
+    "to": "Claudia Neumann",
+    "subject": "Ich habe einen Gips!",
+    "greeting": "Liebe Claudia,",
+    "closing": [
+     "Liebe Grüße",
+     "deine Martina"
+    ],
+    "paragraphs": [
+     "ich muss dir unbedingt erzählen, was letzte Woche Schlimmes passiert ist. Am Mittwochmorgen bin ich wie immer mit dem Fahrrad zur Arbeit gefahren. Es hatte geregnet, und die Straße war sehr nass. In einer Kurve bin ich gerutscht und hingefallen, obwohl ich langsam gefahren bin. Ein Autofahrer, der hinter mir war, hat sofort angehalten und den Krankenwagen gerufen.",
+     "Im Krankenhaus haben sie meinen Arm geröntgt, und der Arzt hat mir erklärt, dass er gebrochen ist und ich sechs Wochen lang einen Gips brauche. Auch das Fahrrad ist kaputt, denn das Vorderrad ist total verbogen.",
+     "Arbeiten kann ich momentan nicht, weil ich am Computer nicht richtig schreiben kann. Diese E-Mail tippe ich mit der linken Hand, deshalb dauert es deutlich länger als sonst. Mein Chef war aber sehr verständnisvoll und hat gesagt, dass ich mich zuerst ausruhen soll. Am Anfang war mir zu Hause langweilig, aber jetzt höre ich viele Hörbücher, und meine Nachbarin bringt mir täglich die Zeitung.",
+     "Außerdem habe ich eine Bitte: Ab nächster Woche muss ich zweimal wöchentlich zur Physiotherapie, immer dienstags und freitags um neun Uhr. Die Praxis liegt am anderen Ende der Stadt, und mit dem Bus brauche ich über eine Stunde, weil ich zweimal umsteigen muss. Mein Mann hat leider keine Zeit, weil er morgens arbeiten muss, und mit dem Gips darf ich nicht selbst Auto fahren. Könntest du mich dienstags mit dem Auto hinbringen? Zurück nehme ich ein Taxi, das ist bequemer.",
+     "Freitags kann mich mein Bruder fahren, aber dienstags arbeitet er in einer anderen Stadt. Sag mir bitte rechtzeitig Bescheid, ob es dir passt. Als Dankeschön lade ich dich am Wochenende zu Kaffee und Kuchen ein, wenn du Zeit hast. Ich freue mich auf dich!"
+    ]
+   },
+   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Martinas E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "example": {
+    "no": "0",
+    "stem": "Martina …",
+    "options": {
+     "a": "hatte einen Unfall mit dem Auto.",
+     "b": "ist mit dem Fahrrad gestürzt.",
+     "c": "arbeitet in einem Krankenhaus."
+    },
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "11",
+     "stem": "Der Unfall ist passiert, weil …",
+     "options": {
+      "a": "ein Auto viel zu schnell um die Kurve gefahren ist.",
+      "b": "die Straße nach dem Regen glatt war.",
+      "c": "Martinas Fahrrad kaputt war."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Martina …",
+     "options": {
+      "a": "hat sich das Bein gebrochen.",
+      "b": "muss noch im Krankenhaus bleiben.",
+      "c": "muss mehrere Wochen einen Gips tragen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "13",
+     "stem": "Martina arbeitet zurzeit nicht, weil …",
+     "options": {
+      "a": "sie mit dem Arm nicht richtig tippen kann.",
+      "b": "ihr Chef es ihr verboten hat.",
+      "c": "sie zu Hause lieber in Ruhe viele Bücher lesen möchte."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "stem": "Claudia soll Martina …",
+     "options": {
+      "a": "jeden Freitag zur Therapie bringen.",
+      "b": "jeden Dienstag von der Praxis abholen.",
+      "c": "jeden Dienstag zur Therapie fahren."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "15",
+     "stem": "Am Freitag …",
+     "options": {
+      "a": "fährt Martinas Bruder sie zur Praxis.",
+      "b": "hat Martina keinen Termin.",
+      "c": "kommt Claudia zu Besuch."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sechs Personen suchen in Kleinanzeigen etwas Gebrauchtes. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+   "example": {
+    "no": "0",
+    "text": "Herr Weber hat früher Klavier gespielt und möchte wieder anfangen. Er hat wenig Geld, aber ein großes Auto und zwei starke Söhne.",
+    "answer": "b"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Familie Kessler hat einen siebenjährigen Sohn. Er schläft bald in seinem eigenen Zimmer und braucht dafür ein Bett.",
+     "answer": "a"
+    },
+    {
+     "no": "17",
+     "text": "Lara hat eine neue Wohnung, aber keine Waschmaschine. Sie hat kein Auto und möchte nicht viel Geld ausgeben.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Herr und Frau Olsen haben einen großen Balkon. Im Sommer möchten sie dort gern frühstücken.",
+     "answer": "e"
+    },
+    {
+     "no": "19",
+     "text": "Herr Lange sucht einen gebrauchten Fernseher für sein Schlafzimmer.",
+     "answer": "X"
+    },
+    {
+     "no": "20",
+     "text": "Sina beginnt im Herbst ihr Studium und braucht für ihr Zimmer im Wohnheim noch einen Platz zum Lernen.",
+     "answer": "d"
+    }
+   ],
+   "ads": {
+    "a": {
+     "img": "img/mt10-anzeige-a.png",
+     "alt": "Hochbett mit Leiter Weiß, 90 × 200 cm, mit Matratze, für Kinder ab 6 Jahren. Kaum benutzt – unsere Tochter möchte jetzt ein normales Bett! Abbau selbst. 60 € 0551 / 52 17 34"
+    },
+    "b": {
+     "img": "img/mt10-anzeige-b.png",
+     "alt": "Zu verschenken Altes Klavier Schöner Klang, gut gestimmt. Es ist über 50 Jahre alt und muss bis Ende des Monats raus. Bitte selbst abholen – 2. Stock, kein Aufzug! Kontakt: klavier.weg@post.de"
+    },
+    "c": {
+     "img": "img/mt10-anzeige-c.png",
+     "alt": "Waschmaschine, 3 Jahre alt 7 kg, sehr leise, funktioniert ohne Probleme. Wir ziehen ins Ausland und verkaufen sie deshalb. Abholung bis zum 30. April. Preis 150 € Lieferung möglich, 20 €"
+    },
+    "d": {
+     "img": "img/mt10-anzeige-d.png",
+     "alt": "Schreibtisch + Bürostuhl 45 € Heller Schreibtisch (120 × 60 cm) mit passendem Stuhl. Ideal für Schüler oder Studenten. Der Stuhl lässt sich höher und tiefer stellen. Ich verkaufe Tisch und Stuhl nur zusammen. Göttingen-Weststadt · vor 2 Tagen"
+    },
+    "e": {
+     "img": "img/mt10-anzeige-e.png",
+     "alt": "Für Balkon und Garten Holztisch mit 4 Stühlen Wetterfestes Holz, im Winter immer im Keller. Der Tisch ist 90 cm lang. Perfekt zum Frühstücken in der Sonne. 80 € · Tel. 0551 / 33 08 12 (abends)"
+    },
+    "f": {
+     "img": "img/mt10-anzeige-f.png",
+     "alt": "Wohnzimmer Fernsehschrank aus Holz Für Fernseher bis 55 Zoll, mit zwei Schubladen. Den Fernseher behalten wir! 35 € · Abholung in Kassel"
+    }
+   },
+   "unused": [
+    "f"
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "1",
+     "stem": "Welcher Ausgang ist heute nicht geöffnet?",
+     "options": {
+      "a": "Der Ausgang Nord.",
+      "b": "Der Ausgang Süd.",
+      "c": "Der Ausgang Ost."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "stem": "Wann kann Frau Lehmann ihre Katze abholen?",
+     "options": {
+      "a": "Ab 15 Uhr.",
+      "b": "Ab 17 Uhr.",
+      "c": "Morgen früh."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "stem": "Was sollen die Besucher mitbringen?",
+     "options": {
+      "a": "Etwas, in das sie die Erdbeeren legen können.",
+      "b": "Bargeld für den Eintritt.",
+      "c": "Gummistiefel."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "stem": "Was sollen die Passagiere nach Madrid tun?",
+     "options": {
+      "a": "Am Gate B 14 warten.",
+      "b": "Gleich zu einem anderen Gate gehen.",
+      "c": "In zwanzig Minuten zur Information kommen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "stem": "Wo soll die Mutter Niklas abholen?",
+     "options": {
+      "a": "An der Bushaltestelle.",
+      "b": "Bei seinem Freund.",
+      "c": "An der Sporthalle."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Maria ist am Sonntag zum ersten Mal bei Davids Familie zum Essen eingeladen. David erzählt ihr, was seine Familie gern isst. Was isst wer am liebsten? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+   "persons": [
+    {
+     "no": "0",
+     "name": "Mutter",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "name": "Vater",
+     "answer": "d"
+    },
+    {
+     "no": "7",
+     "name": "Bruder Leon",
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "name": "Tante Rita",
+     "answer": "h"
+    },
+    {
+     "no": "9",
+     "name": "Onkel Jörg",
+     "answer": "i"
+    },
+    {
+     "no": "10",
+     "name": "Schwester Lotte",
+     "answer": "g"
+    }
+   ],
+   "pictures": {
+    "a": {
+     "img": "img/mt10-hoeren2-a.webp",
+     "alt": "Pizza"
+    },
+    "b": {
+     "img": "img/mt10-hoeren2-b.webp",
+     "alt": "Suppe"
+    },
+    "c": {
+     "img": "img/mt10-hoeren2-c.webp",
+     "alt": "Spaghetti mit Tomatensoße"
+    },
+    "d": {
+     "img": "img/mt10-hoeren2-d.webp",
+     "alt": "Fisch mit Kartoffeln"
+    },
+    "e": {
+     "img": "img/mt10-hoeren2-e.webp",
+     "alt": "Pfannkuchen"
+    },
+    "f": {
+     "img": "img/mt10-hoeren2-f.webp",
+     "alt": "Bratwürste mit Senf"
+    },
+    "g": {
+     "img": "img/mt10-hoeren2-g.webp",
+     "alt": "Salat mit Tomaten"
+    },
+    "h": {
+     "img": "img/mt10-hoeren2-h.webp",
+     "alt": "Apfelkuchen"
+    },
+    "i": {
+     "img": "img/mt10-hoeren2-i.webp",
+     "alt": "Reis mit Hähnchen"
+    }
+   },
+   "unused": [
+    "b",
+    "e",
+    "f"
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+   "items": [
+    {
+     "no": "11",
+     "stem": "Was kauft das Paar?",
+     "options": {
+      "a": {
+       "img": "img/mt10-hoeren3-11a.webp",
+       "alt": "Teller"
+      },
+      "b": {
+       "img": "img/mt10-hoeren3-11b.webp",
+       "alt": "Tassen"
+      },
+      "c": {
+       "img": "img/mt10-hoeren3-11c.webp",
+       "alt": "Gläser"
+      }
+     },
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "Was bekommt Tom zum Geburtstag?",
+     "options": {
+      "a": {
+       "img": "img/mt10-hoeren3-12a.webp",
+       "alt": "Roller"
+      },
+      "b": {
+       "img": "img/mt10-hoeren3-12b.webp",
+       "alt": "Skateboard"
+      },
+      "c": {
+       "img": "img/mt10-hoeren3-12c.webp",
+       "alt": "Inlineskates"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "stem": "Was soll die Frau kaufen?",
+     "options": {
+      "a": {
+       "img": "img/mt10-hoeren3-13a.webp",
+       "alt": "Karotten"
+      },
+      "b": {
+       "img": "img/mt10-hoeren3-13b.webp",
+       "alt": "Kartoffeln"
+      },
+      "c": {
+       "img": "img/mt10-hoeren3-13c.webp",
+       "alt": "Zwiebeln"
+      }
+     },
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "stem": "Was leiht sich der Nachbar?",
+     "options": {
+      "a": {
+       "img": "img/mt10-hoeren3-14a.webp",
+       "alt": "Staubsauger"
+      },
+      "b": {
+       "img": "img/mt10-hoeren3-14b.webp",
+       "alt": "Bügeleisen"
+      },
+      "c": {
+       "img": "img/mt10-hoeren3-14c.webp",
+       "alt": "Föhn"
+      }
+     },
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "stem": "Was kauft die Mutter für Emma?",
+     "options": {
+      "a": {
+       "img": "img/mt10-hoeren3-15a.webp",
+       "alt": "Füller"
+      },
+      "b": {
+       "img": "img/mt10-hoeren3-15b.webp",
+       "alt": "Lineal"
+      },
+      "c": {
+       "img": "img/mt10-hoeren3-15c.webp",
+       "alt": "Schere"
+      }
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t4": {
+   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+   "context": "In der Sendung „Leute von heute“ spricht eine Moderatorin mit Luca Bianchi. Herr Bianchi ist 41 Jahre alt und hat ein Eiscafé in Würzburg.",
+   "example": {
+    "no": "0",
+    "text": "Luca Bianchi verkauft in Würzburg Eis.",
+    "answer": "Ja"
+   },
+   "items": [
+    {
+     "no": "16",
+     "text": "Herr Bianchi hat das Eiscafé von seiner Familie übernommen.",
+     "answer": "Ja"
+    },
+    {
+     "no": "17",
+     "text": "Das Eiscafé ist den ganzen Winter geschlossen.",
+     "answer": "Nein"
+    },
+    {
+     "no": "18",
+     "text": "Herr Bianchi macht alle Eissorten selbst.",
+     "answer": "Ja"
+    },
+    {
+     "no": "19",
+     "text": "Die Lieblingssorte der Kunden ist Schokolade.",
+     "answer": "Nein"
+    },
+    {
+     "no": "20",
+     "text": "Herr Bianchi möchte ein zweites Eiscafé eröffnen.",
+     "answer": "Ja"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+  "tasks": [
+   {
+    "no": 1,
+    "minutes": 10,
+    "words": [
+     20,
+     30
+    ],
+    "situation": [
+     "Ihre Kollegin Anja hat Ihnen ein Buch geliehen. Gestern haben Sie Kaffee über das Buch geschüttet. Schreiben Sie Anja eine SMS:"
+    ],
+    "points": [
+     "Entschuldigen Sie sich.",
+     "Schreiben Sie, was passiert ist.",
+     "Machen Sie einen Vorschlag."
+    ],
+    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+    "model": {
+     "label": "SMS, 30 Wörter",
+     "text": "Hallo Anja,\n\nes tut mir leid!\nGestern habe ich Kaffee über dein Buch geschüttet. Viele Seiten sind jetzt braun.\nIch kaufe dir am Wochenende ein neues, okay?\n\nLiebe Grüße, Alex"
+    },
+    "typicalErrors": "*Sorry, Kaffee, Buch kaputt.* – kein ganzer Satz, keine richtige Entschuldigung, kein Vorschlag."
+   },
+   {
+    "no": 2,
+    "minutes": 20,
+    "words": [
+     30,
+     40
+    ],
+    "situation": [
+     "Ihr Nachbar in der Wohnung über Ihnen hört jede Nacht sehr laut Musik. Schreiben Sie an die Hausverwaltung, Frau Wolff, eine E-Mail."
+    ],
+    "points": [
+     "Beschreiben Sie das Problem.",
+     "Schreiben Sie, seit wann es das Problem gibt.",
+     "Bitten Sie um Hilfe."
+    ],
+    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+    "model": {
+     "label": "E-Mail an die Hausverwaltung, 37 Wörter",
+     "text": "Betreff: Lärm in der Wohnung über mir\n\nSehr geehrte Frau Wolff,\n\nmein Nachbar in der Wohnung über mir hört jede Nacht bis zwei Uhr laute Musik.\nDas geht schon seit drei Wochen so.\nKönnten Sie bitte mit ihm sprechen?\n\nMit freundlichen Grüßen\nAlex Winter"
+    },
+    "typicalErrors": "*Hallo, der Nachbar ist zu laut!!!* – zu informelle Anrede, keine Zeitangabe, keine Bitte."
+   }
+  ],
+  "good": [
+   {
+    "label": "Erfüllung",
+    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Kaffee, braune Seiten, neues Buch; Musik bis zwei Uhr, seit drei Wochen, Gespräch)."
+   },
+   {
+    "label": "Register",
+    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Frau Wolff* und *Mit freundlichen Grüßen*."
+   },
+   {
+    "label": "Wortschatz",
+    "text": "*leidtun, Seiten, laute Musik, seit drei Wochen* statt allgemeiner Wörter wie *Sache* oder *machen*."
+   },
+   {
+    "label": "Strukturen",
+    "text": "Entschuldigung mit *es tut mir leid*, Vorschlag mit *Ich kaufe dir …, okay?*, höfliche Bitte (*Könnten Sie bitte …?*)."
+   }
+  ]
+ },
+ "index": {
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch: Lieblingsessen in Davids Familie",
+   "t3": "Fünf kurze Gespräche",
+   "t4": "Interview: Luca Bianchi, Eismacher in Würzburg"
+  },
+  "schreiben": [
+   "SMS an Anja: Kaffee auf dem geliehenen Buch",
+   "E-Mail an die Hausverwaltung: Laute Musik in der Nacht"
+  ],
+  "sprechen": {
+   "teil1": [
+    "Arbeit",
+    "Kochen",
+    "Fotos",
+    "Spiele",
+    "Freunde",
+    "Wetter",
+    "Stadt",
+    "Briefe"
+   ],
+   "teil2": [
+    "Was machen Sie in Ihrer Freizeit?",
+    "Wie war Ihr letzter Urlaub?"
+   ],
+   "teil3": "Einen neuen Kühlschrank kaufen (Samstag, drei Stunden)"
+  }
+ },
+ "notes": "Aus dem PDF Goethe A2 Modelltest 10 übertragen; Lesen Teil 4: X auf Aufgabe 19, f bleibt übrig; Hören Teil 2: b, e, f bleiben übrig; Hören Teil 4 Aufgabe 16 = Ja.",
+ "kommentar": {
+  "rows": {
+   "L1": [
+    {
+     "no": "1",
+     "ans": "a",
+     "typ": "P",
+     "note": "„im Urlaub in Kopenhagen“ = Urlaub im Ausland; b: Krankenpfleger ist sein Beruf, die Idee kam aber im Urlaub; c steht nicht im Text."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "P",
+     "note": "„bekommen dafür kein Geld“ = ohne Bezahlung; a widerspricht dem Text; c: Dass die Fahrer im Seniorenheim arbeiten, steht nicht im Text."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "P",
+     "note": "Man „ruft einfach im Seniorenheim“ an, „dort stehen die Rikschas“; b steht nicht im Text; c: Die Fahrten sind „kostenlos“."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "P",
+     "note": "„das Haus sehen, in dem sie früher gewohnt haben“ = den Ort, an dem sie früher gelebt haben; a: In Kopenhagen war nur Brandes; c steht nicht im Text."
+    },
+    {
+     "no": "5",
+     "ans": "c",
+     "typ": "I",
+     "note": "„Man muss nicht sportlich sein“, „einen Elektromotor“ = keine große Kraft; a widerspricht dem Text; b: Im Winter „fahren die Rikschas leider nicht“."
+    }
+   ],
+   "L2": [
+    {
+     "no": "6",
+     "ans": "b",
+     "typ": "P",
+     "note": "Rechnung ausdrucken → „Businesscenter mit Computern, Druckern und Kopierern“ im 2. Stock; die Konferenzräume sind die Falle."
+    },
+    {
+     "no": "7",
+     "ans": "a",
+     "typ": "I",
+     "note": "um halb acht abfahren, vorher frühstücken → Restaurant „Parkblick“ im 1. Stock (Frühstück ab 6.30 Uhr)."
+    },
+    {
+     "no": "8",
+     "ans": "c",
+     "typ": "W",
+     "note": "draußen sitzen, trinken, Stadt von oben → „Dachterrasse mit Bar“ im 3. Stock = anderer Stock; die Hotelbar im EG ist die Falle."
+    },
+    {
+     "no": "9",
+     "ans": "b",
+     "typ": "I",
+     "note": "Koffer nicht den ganzen Tag mitnehmen, Abflug erst am Abend → Gepäckraum im EG."
+    },
+    {
+     "no": "10",
+     "ans": "c",
+     "typ": "P",
+     "note": "Kinder (4 und 7 Jahre) spielen → „Spielzimmer für Kinder von 3 bis 10 Jahren“ im 1. Stock = anderer Stock; im 2. und 3. Stock nichts für Kinder."
+    }
+   ],
+   "L3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "I",
+     "note": "„die Straße war sehr nass“, „bin ich gerutscht“ = glatt; a: Der Autofahrer „hat sofort angehalten“; c: Das Fahrrad ist erst danach kaputt."
+    },
+    {
+     "no": "12",
+     "ans": "c",
+     "typ": "P",
+     "note": "„sechs Wochen lang einen Gips“ = mehrere Wochen; a: Gebrochen ist der Arm („meinen Arm geröntgt“); b: Martina ist schon „zu Hause“."
+    },
+    {
+     "no": "13",
+     "ans": "a",
+     "typ": "P",
+     "note": "„am Computer nicht richtig schreiben“ = nicht tippen; b: Der Chef sagt nur „zuerst ausruhen“; c: Sie hört Hörbücher, das ist nicht der Grund."
+    },
+    {
+     "no": "14",
+     "ans": "c",
+     "typ": "S",
+     "note": "„Könntest du mich dienstags mit dem Auto hinbringen?“; a: Freitags fährt der Bruder; b: Zurück nimmt sie „ein Taxi“."
+    },
+    {
+     "no": "15",
+     "ans": "a",
+     "typ": "S",
+     "note": "„Freitags kann mich mein Bruder fahren.“; b widerspricht dem Text („dienstags und freitags um neun Uhr“); c steht nicht im Text."
+    }
+   ],
+   "L4": [
+    {
+     "no": "16",
+     "ans": "a",
+     "typ": "I",
+     "note": "Sohn sieben Jahre, braucht ein Bett → Hochbett „für Kinder ab 6 Jahren“."
+    },
+    {
+     "no": "17",
+     "ans": "c",
+     "typ": "I",
+     "note": "Waschmaschine, kein Auto, wenig Geld → Waschmaschine für 150 €, Lieferung „möglich, 20 €“."
+    },
+    {
+     "no": "18",
+     "ans": "e",
+     "typ": "P",
+     "note": "Frühstück auf dem Balkon → Holztisch mit 4 Stühlen „FÜR BALKON UND GARTEN“."
+    },
+    {
+     "no": "19",
+     "ans": "X",
+     "typ": "W",
+     "note": "Fernseher → f ist nur ein Fernsehschrank („Den Fernseher behalten wir!“); keine Anzeige passt."
+    },
+    {
+     "no": "20",
+     "ans": "d",
+     "typ": "I",
+     "note": "Platz zum Lernen im Wohnheim → Schreibtisch mit Stuhl, „Ideal für Schüler oder Studenten“."
+    }
+   ],
+   "H1": [
+    {
+     "no": "1",
+     "ans": "c",
+     "typ": "N",
+     "note": "„Der Ausgang Ost ist heute wegen Bauarbeiten geschlossen“; Nord und Süd sind offen."
+    },
+    {
+     "no": "2",
+     "ans": "b",
+     "typ": "N",
+     "note": "„heute ab 17 Uhr abholen, nicht schon um 15 Uhr wie geplant“."
+    },
+    {
+     "no": "3",
+     "ans": "a",
+     "typ": "P",
+     "note": "„Bringen Sie am besten eigene Körbe mit“ = etwas für die Erdbeeren; b: Bezahlt werden die Erdbeeren, nicht der Eintritt; c steht nicht im Text."
+    },
+    {
+     "no": "4",
+     "ans": "b",
+     "typ": "N",
+     "note": "„nicht von Gate B 14, sondern von Gate C 3“, „Bitte gehen Sie sofort zum neuen Gate“; c: In zwanzig Minuten beginnt das Boarding."
+    },
+    {
+     "no": "5",
+     "ans": "b",
+     "typ": "I",
+     "note": "„Ich gehe jetzt zu Moritz“, „Kannst du mich um sieben dort abholen?“ = bei seinem Freund; c: An der Sporthalle bleibt er nicht, er geht zu Moritz."
+    }
+   ],
+   "H2": [
+    {
+     "no": "6",
+     "ans": "d",
+     "typ": "A",
+     "note": "Bratwurst gab es „Früher“ (f ist die Falle) → „Jetzt isst er am liebsten Fisch mit Kartoffeln“."
+    },
+    {
+     "no": "7",
+     "ans": "a",
+     "typ": "P",
+     "note": "„der würde jeden Tag Pizza essen“."
+    },
+    {
+     "no": "8",
+     "ans": "h",
+     "typ": "S",
+     "note": "Pfannkuchen „macht sie oft für die Kinder“ (e ist die Falle) → „ihren Apfelkuchen“."
+    },
+    {
+     "no": "9",
+     "ans": "i",
+     "typ": "N",
+     "note": "„Suppe mag er gar nicht“ (b ist die Falle) → „Reis mit Hähnchen“."
+    },
+    {
+     "no": "10",
+     "ans": "g",
+     "typ": "P",
+     "note": "„isst kein Fleisch“, „eine große Schüssel Salat“."
+    }
+   ],
+   "H3": [
+    {
+     "no": "11",
+     "ans": "b",
+     "typ": "N",
+     "note": "Teller: „noch gut“; Gläser: „haben wir genug“ → „diese sechs Tassen“."
+    },
+    {
+     "no": "12",
+     "ans": "a",
+     "typ": "N",
+     "note": "Skateboard: „zu gefährlich“; Inlineskates: „Die hat er schon“ → „einen Roller“."
+    },
+    {
+     "no": "13",
+     "ans": "c",
+     "typ": "N",
+     "note": "Kartoffeln „noch im Keller“, Karotten „gestern schon gekauft“ → „Zwiebeln“."
+    },
+    {
+     "no": "14",
+     "ans": "a",
+     "typ": "N",
+     "note": "„Mein Staubsauger ist kaputt“; das Bügeleisen: „das habe ich mir inzwischen selbst gekauft“."
+    },
+    {
+     "no": "15",
+     "ans": "c",
+     "typ": "N",
+     "note": "Füller: „letzte Woche bekommen“; Lineal: „habe ich auch schon“ → „meine Schere ist kaputt“."
+    }
+   ],
+   "H4": [
+    {
+     "no": "16",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Später hat mein Vater es übernommen, und seit fünf Jahren gehört es mir.“"
+    },
+    {
+     "no": "17",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„wir haben fast das ganze Jahr offen“."
+    },
+    {
+     "no": "18",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„Jede Sorte machen wir selbst“."
+    },
+    {
+     "no": "19",
+     "ans": "Nein",
+     "typ": "N",
+     "note": "„die Nummer eins ist bei uns seit Jahren Vanille“."
+    },
+    {
+     "no": "20",
+     "ans": "Ja",
+     "typ": "P",
+     "note": "„eröffne ich ein zweites Café am Bahnhof“."
+    }
+   ]
+  },
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 5 von 15 Fällen die längste Option, in 4 die mittlere und in 6 die kürzeste oder gleich kurz wie die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+ }
+}
