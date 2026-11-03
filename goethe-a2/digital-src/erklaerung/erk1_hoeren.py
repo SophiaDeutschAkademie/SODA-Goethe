@@ -185,7 +185,7 @@ SCHREIBEN = {
        "제목: 화요일 수리 기사 방문",
        "Albers 씨께,",
        "알려 주셔서 감사합니다. 안타깝게도 저는 연수가 있어서 화요일에 집에 없습니다. 제 이웃이 열쇠를 가지고 있어서 수리 기사에게 문을 열어 줄 수 있습니다.",
-       "안녕히 계십시오.\nMia Kovač 드림"],
+       "안녕히 계십시오. Mia Kovač 드림"],
      "redemittel": [
        ["Sehr geehrte Frau …,", "공식 메일의 인사말"],
        ["Vielen Dank für Ihre Nachricht.", "알려 준 것에 감사하기"],

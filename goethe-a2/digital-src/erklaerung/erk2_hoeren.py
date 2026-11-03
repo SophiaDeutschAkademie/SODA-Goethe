@@ -246,7 +246,7 @@ SPRECHEN = {
       "짝의 일정표는 볼 수 없습니다. 내 일정을 말로 알려 주고 짝에게 물어봅니다.",
       "거절할 때는 이유를 말합니다: Da habe ich leider ein Seminar.",
       "마지막에 시간과 장소를 정리합니다: Dann lernen wir von halb vier bis halb sieben.",
-      "과제 카드의 말투에 맞춰 짝에게 du를 씁니다(Hast du am Vormittag Zeit?)."],
+      "시험지의 도움 표현(Hast du am Vormittag Zeit?)처럼 짝에게 du를 써도 됩니다. 한 번 정한 말투는 끝까지 씁니다."],
     "redemittel": [
       ["Wann hast du am Donnerstag Zeit?", "목요일에 언제 시간 있어요?"],
       ["Hast du am Vormittag Zeit?", "오전에 시간 있어요?"],

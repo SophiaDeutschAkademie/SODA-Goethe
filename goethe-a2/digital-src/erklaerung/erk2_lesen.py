@@ -18,7 +18,7 @@ LESEN1 = {
        ["„Dort war ich nur eine Nummer“, erzählt er, „und niemand hatte Zeit für ein Gespräch.“", "„거기서 저는 그냥 번호 하나였어요. 그리고 아무도 이야기할 시간이 없었어요.“라고 그는 말합니다."]],
      "why": "nur eine Nummer(번호 하나일 뿐)는 ‘한 사람으로 대해 주지 않았다’는 뜻입니다. 아무도 이야기할 시간이 없었습니다. 그래서 Leon은 도시의 큰 슈퍼마켓에서 편하지 않았습니다(nicht wohlgefühlt).",
      "wrong": {"b": "손님 이름을 모두 아는 곳은 Hohenfeld입니다: „In Hohenfeld dagegen kennt er jeden Kunden mit Namen.“ dagegen(그와 반대로)이 도시와 마을을 비교합니다.",
-               "c": "도시에서는 큰 슈퍼마켓에서 직업 교육(Ausbildung)을 받았습니다. 자기 가게를 가진 것은 Hohenfeld가 처음입니다."},
+               "c": "도시에서는 큰 슈퍼마켓에서 직업 교육(Ausbildung)을 받았습니다. 자기 가게가 있는 곳은 Hohenfeld입니다."},
      "vocab": [["die Ausbildung, -en", "직업 교육"], ["dagegen", "그와 반대로"], ["sich wohlfühlen", "편안하다"]]},
     {"no": "3", "ans": "b",
      "basis": [
@@ -110,7 +110,7 @@ LESEN3 = {
        ["und einmal im Monat muss jeder bei der Gemeinschaftsarbeit mithelfen, damit die Gehwege und der Spielplatz sauber bleiben.", "그리고 한 달에 한 번은 모두 공동 작업을 도와야 해요. 길과 놀이터를 깨끗하게 하기 위해서요."]],
      "why": "einmal im Monat(한 달에 한 번)가 보기 a의 regelmäßig(규칙적으로)이고, Gemeinschaftsarbeit(공동 작업)가 für alle mitarbeiten(모두를 위해 함께 일하다)입니다.",
      "wrong": {"b": "„nach 22 Uhr darf man keine Musik mehr machen“ 밤 10시 이후에만 음악이 금지됩니다. 주말에만 음악을 할 수 있다는 말이 아닙니다.",
-               "c": "채소를 함께 팔아야 한다는 규칙은 없습니다. Jonas는 직접 기른 토마토를 먹었습니다."},
+               "c": "채소를 함께 팔아야 한다는 규칙은 없습니다. Jonas는 토마토를 직접 수확했을(geerntet) 뿐입니다."},
      "vocab": [["die Vorschrift, -en", "규칙"], ["der Rasen", "잔디"], ["die Gemeinschaftsarbeit", "공동 작업"], ["regelmäßig", "규칙적으로"]]},
     {"no": "15", "ans": "c",
      "basis": [
@@ -133,7 +133,7 @@ LESEN4 = {
        ["Freitags und samstags um 21 Uhr", "금요일과 토요일 21시"],
        ["ab 16 Jahren", "16세부터"],
        ["Freitags ab 18 Uhr Saunanacht – dann nur für Erwachsene", "금요일 18시부터 사우나의 밤 – 이때는 성인만"]],
-     "why": "금요일 저녁에 하는 광고는 f와 d입니다. f는 16세부터이고, d는 금요일 18시부터 성인만 들어갈 수 있습니다. a는 18시까지만 열고, b의 저녁 운항은 토요일에만 있고 18세부터입니다. 맞는 광고가 없으므로 X입니다.",
+     "why": "금요일 저녁에 하는 광고는 f와 d입니다. f는 16세부터이고, d는 금요일 18시부터 성인만 들어갈 수 있습니다. a는 18시까지만 열고, b의 저녁 운항은 토요일에만 있고 18세부터입니다. e는 토요일과 일요일에만 열고, c는 예시에서 이미 썼습니다. 맞는 광고가 없으므로 X입니다.",
      "trap": "f의 „Freitags und samstags um 21 Uhr“만 보고 고르기 쉽습니다. 나이 조건 ab 16 Jahren까지 읽으십시오. 15살은 참가할 수 없습니다."},
     {"no": "17", "ans": "e",
      "stko": "Sommer 가족에게는 네 살, 일곱 살 아이가 둘 있습니다. 아이들은 동물을 아주 좋아합니다.",
