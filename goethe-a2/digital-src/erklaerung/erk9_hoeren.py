@@ -75,8 +75,8 @@ HOEREN3 = {
     {"no": "11", "ans": "b",
      "stko": "두 사람은 어떤 램프를 삽니까?",
      "basis": [
-       ["Die ist zu klein. Neben dem Sessel brauchen wir eine große, die auf dem Boden steht.", "그건 너무 작아. 안락의자 옆에는 바닥에 세우는 큰 램프가 필요해."],
-       ["Gut, dann nehmen wir die große da hinten.", "좋아, 그럼 저 뒤에 있는 큰 걸로 사자."]],
+       ["Die ist zu klein. Neben dem Sessel brauchen wir eine große, die auf dem Boden steht.", "그건 너무 작아요. 안락의자 옆에는 바닥에 세우는 큰 램프가 필요해요."],
+       ["Gut, dann nehmen wir die große da hinten.", "좋아요, 그럼 저 뒤에 있는 큰 걸로 사요."]],
      "why": "바닥에 세우는(auf dem Boden steht) 큰 램프는 스탠드 램프(Stehlampe)입니다. 마지막에 그 큰 램프를 사기로 합니다.",
      "wrong": {"a": "Hängelampe(천장에 다는 램프): 식탁 위의 램프는 예쁘지만 식탁용 램프는 필요 없다고 합니다(keine Lampe für den Esstisch).",
                "c": "Schreibtischlampe(책상 램프): 남자가 너무 작다(zu klein)고 합니다."}},
@@ -98,7 +98,7 @@ HOEREN3 = {
                "c": "Kakao mit Sahne(생크림 올린 코코아): 오늘 할인 메뉴지만 여자는 이미 케이크를 두 조각 먹었다며 마시지 않습니다."}},
     {"no": "14", "ans": "c",
      "stko": "남자는 기차에서 무엇을 읽습니까?",
-     "basis": [["Nein, ich lese lieber weiter in meinem Roman. Ich habe nur noch fünfzig Seiten.", "아니, 나는 내 소설을 계속 읽을래. 50쪽밖에 안 남았어."]],
+     "basis": [["Nein, ich lese lieber weiter in meinem Roman. Ich habe nur noch fünfzig Seiten.", "아니요, 저는 제 소설을 계속 읽을래요. 50쪽밖에 안 남았어요."]],
      "why": "남자는 소설(Roman)을 계속 읽습니다. 소설은 책이므로 그림 c(책)가 맞습니다.",
      "wrong": {"a": "Zeitung(신문): 남자는 오늘 아침에 라디오로 뉴스를 이미 들었다며 거절합니다.",
                "b": "Comicheft(만화책): 아들의 만화책도 Nein이라고 거절합니다."}},
@@ -154,9 +154,9 @@ SCHREIBEN = {
        "세 번째 내용은 장소(wo)를 제안하는 것입니다. 시간만 쓰고 장소를 빠뜨리면 감점됩니다. Treffen wir uns …?처럼 묻는 형태로 제안하면 좋습니다.",
        "친구에게 Sie나 „Sehr geehrte …“를 쓰지 마십시오. SMS는 du와 Hallo로 씁니다."],
      "model_ko": [
-       "안녕, Jule,",
+       "Jule에게,",
        "콘서트 표 두 장에 당첨됐어요. 같이 갈래요?\n콘서트는 토요일 20시에 시작해요.\n19시에 역에서 만날까요?",
-       "안녕, Alex"],
+       "그럼 안녕히, Alex"],
      "redemittel": [
        ["Ich habe zwei Karten für … gewonnen.", "…의 표 두 장에 당첨됐어요."],
        ["Kommst du mit? / Hast du Lust mitzukommen?", "같이 갈래요? / 같이 갈 마음 있어요?"],
@@ -222,7 +222,7 @@ SPRECHEN = {
       "키워드 네 개를 하나씩 모두 문장으로 만드십시오. 하나를 빠뜨리면 감점됩니다.",
       "구체적인 예를 넣으십시오: Obst und Gemüse kaufe ich samstags auf dem Markt.",
       "이유는 weil이나 denn으로 말합니다. weil 뒤에서는 동사가 문장 끝에 옵니다: …, weil das am schnellsten geht. / …, denn dann ist es im Supermarkt ruhiger.",
-      "A는 ‘Was ist schwer?’와 ‘Warum?’을 함께 이어서 말하면 좋습니다: Die Artikel sind schwer, weil ich sie immer lernen muss.",
+      "A는 ‘Was ist schwer?’와 ‘Warum?’을 함께 이어서 말하면 좋습니다: Die Artikel finde ich schwer, weil man sie auswendig lernen muss.",
       "끝난 뒤 시험관이 묻습니다(A: Mit wem sprechen Sie Deutsch? Was möchten Sie später mit Deutsch machen? / B: Was haben Sie zuletzt gekauft? Kaufen Sie lieber allein oder mit anderen ein?). 이 질문에도 한두 문장으로 답해야 Teil 2가 끝납니다."],
     "redemittel": [
       ["Ich lerne seit … Deutsch.", "…부터 독일어를 배우고 있습니다."],

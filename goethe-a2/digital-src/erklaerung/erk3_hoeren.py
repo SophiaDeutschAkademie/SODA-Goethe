@@ -73,14 +73,14 @@ HOEREN2 = {
 HOEREN3 = {
   "title": "짧은 대화 다섯 개",
   "intro": "",
-  "tip": "한 번만 듣습니다. 듣기 전에 그림 세 개의 이름을 독일어로 떠올려 두십시오. 대화에는 세 그림이 거의 모두 나옵니다. lieber nicht, gibt es nicht mehr, zu lang, zu Hause lassen 같은 말로 하나씩 지워지고, 마지막에 dann nehme ich / dann nehmen wir로 정한 것이 정답입니다.",
+  "tip": "한 번만 듣습니다. 듣기 전에 그림 세 개의 이름을 독일어로 떠올려 두십시오. 대화에는 세 그림이 거의 모두 나옵니다. lieber nicht, gibt es nicht mehr, zu lang, zu Hause lassen 같은 말로 하나씩 지워지고, 마지막에 Dann nehme ich …, Den nehme ich, … passt처럼 정하는 말 뒤의 것이 정답입니다.",
   "items": [
     {"no": "11", "ans": "a",
      "stko": "남자는 점심으로 무엇을 먹습니까?",
      "basis": [["Den gibt es leider nicht mehr, hat die Frau an der Theke gesagt.", "그건 이제 없대요. 카운터에 있는 분이 그렇게 말했어요."],
                ["Schade. Dann nehme ich die Tomatensuppe. Und ein Brötchen dazu.", "아쉽네요. 그럼 토마토 수프로 할게요. 작은 빵도 하나 같이요."]],
      "why": "피자와 샐러드가 차례로 지워지고 마지막에 dann nehme ich die Tomatensuppe(그럼 토마토 수프로 하겠습니다)라고 정합니다.",
-     "wrong": {"b": "Pizza: „ich hatte gestern schon Pizza“ 어제 이미 피자를 먹어서 lieber nicht(안 먹겠습니다)라고 합니다.",
+     "wrong": {"b": "Pizza: „ich hatte gestern schon Pizza“ 어제 이미 피자를 먹어서 lieber nicht, 곧 먹지 않겠다고 합니다.",
                "c": "Salat: 원래 먹고 싶었지만 „Den gibt es leider nicht mehr“ 이미 다 떨어졌습니다."}},
     {"no": "12", "ans": "b",
      "stko": "여자는 무엇을 가져갑니까?",
@@ -184,7 +184,7 @@ SCHREIBEN = {
        "제목: 금요일 휴가",
        "Steinmann 님께,",
        "금요일 10시에 딸의 학교에서 중요한 약속이 있습니다. 그날 하루 쉬어도 되겠습니까? 그 일은 토요일 오전에 기꺼이 보충하겠습니다.",
-       "안녕히 계십시오.\nLara Weiss 드림"],
+       "Lara Weiss 드림"],
      "redemittel": [
        ["Sehr geehrte Frau Steinmann,", "Steinmann 님께,(공식 첫인사)"],
        ["Am Freitag habe ich einen wichtigen Termin.", "금요일에 중요한 약속이 있습니다."],

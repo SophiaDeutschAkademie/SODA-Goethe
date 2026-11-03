@@ -108,7 +108,7 @@ HOEREN3 = {
      "stko": "두 사람은 내일 어디에서 만납니까?",
      "basis": [["Was hältst du vom Brunnen auf dem Marktplatz? Von dort sind es nur zwei Minuten bis zum Museum.", "광장의 분수는 어때요? 거기서 박물관까지 2분밖에 안 걸려요."],
                ["Gute Idee, abgemacht.", "좋은 생각이에요, 그렇게 해요."]],
-     "why": "남자가 분수(Brunnen)를 제안하고 여자가 abgemacht(그렇게 하자, 정했다)라고 답합니다. 마지막에 두 사람이 정한 곳이 답입니다.",
+     "why": "남자가 분수(Brunnen)를 제안하고 여자가 abgemacht(그렇게 정해요)라고 답합니다. 마지막에 두 사람이 정한 곳이 답입니다.",
      "wrong": {"b": "Café(카페): „Das macht erst um zwölf auf.“ 카페는 12시에야 엽니다.",
                "c": "Museum(박물관): 원래(eigentlich) 박물관 앞에서 만나려고 했지만, 11시에 학생 단체 안내가 있어서 아주 붐빕니다."}},
   ]}
@@ -120,7 +120,7 @@ HOEREN4 = {
   "items": [
     {"no": "16", "ans": "Nein",
      "stko": "Elif는 처음부터 소방대에 참여하고 싶었습니다.",
-     "basis": [["Durch meinen Bruder. Er war schon lange dabei und hat mich einmal zu einer Übung mitgenommen.", "제 형제 덕분이에요. 그는 오래전부터 대원이었고, 한번은 저를 훈련에 데려갔어요."],
+     "basis": [["Durch meinen Bruder. Er war schon lange dabei und hat mich einmal zu einer Übung mitgenommen.", "남자 형제 덕분이에요. 오래전부터 대원이었는데, 한번은 저를 훈련에 데려갔어요."],
                ["Ich wollte eigentlich nur zuschauen, aber am Ende habe ich selbst mitgemacht.", "저는 원래 구경만 하려고 했는데, 결국 직접 참여했어요."]],
      "why": "eigentlich nur zuschauen(원래는 구경만 하려고 했다)이라고 했습니다. 처음부터 참여하려고 한 것이 아니므로 Nein입니다. mitgemacht(참여했다)라는 단어만 듣고 Ja를 고르지 마십시오."},
     {"no": "17", "ans": "Ja",
@@ -159,7 +159,7 @@ SCHREIBEN = {
        "친구에게 Sie나 „Sehr geehrte …“를 쓰지 마십시오. du, dir, dein으로 씁니다."],
      "model_ko": [
        "안녕하세요, Carla,",
-       "내 가방에 모르는 열쇠가 하나 있었어요. 이거 Carla 거예요, 아니면 누구 건지 알아요? 내일 18시에 Carla 집으로 가져갈게요.",
+       "제 가방에 모르는 열쇠가 하나 있었어요. 이거 Carla 거예요, 아니면 누구 건지 알아요? 내일 18시에 Carla한테 가져갈게요.",
        "안녕히, Mia"],
      "redemittel": [
        ["Ich habe … gefunden.", "무엇을 발견했는지 말하기"],
@@ -245,8 +245,8 @@ SPRECHEN = {
       ["Das war alles. Vielen Dank.", "이상입니다. 감사합니다."]]},
   "t3": {
     "task": "친구 Daniel이 새 집으로 이사했습니다. 두 사람은 토요일(3월 14일)에 Daniel의 부엌을 함께 칠해 주려고 합니다. 약 두 시간이 걸립니다. 각자 자기 일정표만 보고, 둘 다 두 시간 동안 비어 있는 시간을 찾습니다(약 5분). 친구와 하는 계획이므로 du로 말합니다.",
-    "a": "8–9시 공원에서 조깅, 9시 30분–11시 30분 독일어 수업, 12–13시 30분 할머니 댁 점심, 15–16시 30분 딸을 발레에서 데려오기, 19시 30분 Jan과 영화",
-    "b": "8시 30분–10시 자동차를 정비소에 맡기기, 10시 30분–12시 30분 카페에서 일하기, 13–14시 우체국에서 소포 찾기, 15시 30분–16시 30분 미용실, 18시 30분 부모님 댁 저녁 식사",
+    "a": "8–9시 공원에서 조깅, 9시 30분–11시 30분 독일어 수업, 12–13시 30분 할머니 댁 점심, 15–16시 30분 딸을 발레에서 데려오기, 19시 30분–21시 Jan과 영화",
+    "b": "8시 30분–10시 자동차를 정비소에 맡기기, 10시 30분–12시 30분 카페에서 일하기, 13–14시 우체국에서 소포 찾기, 15시 30분–16시 30분 미용실, 18시 30분–21시 부모님 댁 저녁 식사",
     "a_label": "A의 일정",
     "b_label": "B의 일정",
     "points": [

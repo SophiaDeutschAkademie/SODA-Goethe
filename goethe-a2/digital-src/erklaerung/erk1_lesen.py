@@ -132,7 +132,7 @@ LESEN4 = {
                ["Einzelunterricht per Video: morgens, mittags oder spät in der Nacht.", "화상 개인 수업: 아침, 낮, 또는 밤늦게"],
                ["Ihre Termine buchen Sie selbst in unserer App.", "수업 시간은 앱에서 직접 예약합니다."]],
      "why": "Gitarre(기타)가 Instrument(악기)입니다. 밤에도 일하는 사람은 정해진 시간에 수업에 가기 어렵습니다. e는 밤늦게도 수업이 있고 시간을 직접 정할 수 있습니다.",
-     "trap": "Krankenhaus(병원)라는 말 때문에 응급 처치 강좌 f를 떠올리기 쉽습니다. 하지만 Oliver가 배우고 싶은 것은 악기입니다. Instrument라는 단어는 광고에 없고 Gitarre로 나옵니다."},
+     "trap": "광고 e에는 Instrument라는 단어가 없고 Gitarre만 있습니다. 같은 단어를 찾으면 놓치기 쉽습니다. 또 시간이 정해진 강좌(c는 화요일 저녁, f는 토요일 하루)는 밤에도 일하는 Oliver에게 맞지 않습니다."},
     {"no": "18", "ans": "X",
      "stko": "Sandra는 가장 친한 친구와 함께 주말에 춤을 배우고 싶습니다.",
      "cond": "친구와 함께 + 주말 + 춤",
