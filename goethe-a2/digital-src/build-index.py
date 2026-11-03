@@ -102,6 +102,14 @@ def item(tag, title, desc, right):
     return f'<div class="it"><span class="t">{e(tag)}</span><span class="d" lang="de">{e(title)}<span>{e(desc)}</span></span>{right}</div>'
 
 
+def erklaerung_btn(n):
+    """해설 페이지(앱 폴더의 'Goethe A2 Modelltest N 해설.html')가 있으면 해설 버튼을 만듭니다. 원본은 digital-src/erklaerung/."""
+    name = f"Goethe {LEVEL} Modelltest {n} 해설.html"
+    if not os.path.exists(os.path.join(HERE, "..", name)):
+        return ""
+    return f'<a class="btn ghost" href="{quote(name)}">해설</a>'
+
+
 def paper_page(t):
     d, ix, L = t.d, t.d["index"], t.d["lesen"]
     n = t.n
@@ -116,6 +124,7 @@ def paper_page(t):
                f'<a class="btn" href="{t.pdf}" target="_blank" rel="noopener">PDF 열기</a>'
                f'<a class="btn ghost" href="{t.pdf}" download>PDF 다운로드</a>'
                f'<a class="btn ghost" href="#d{n}">디지털로 풀기</a>'
+               + erklaerung_btn(n) +
                f'<a class="btn ghost" href="{t.pg(PDF_PAGES["loesung"])}" target="_blank" rel="noopener">Lösungsschlüssel</a></div>')
     # Lesen
     out.append('<div class="mod"><h3 lang="de">Lesen<small>30 Min.</small></h3>')
