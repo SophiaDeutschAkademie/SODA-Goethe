@@ -160,7 +160,7 @@ SCHREIBEN = {
      "model_ko": [
        "안녕하세요, Carla,",
        "제 가방에 모르는 열쇠가 하나 있었어요. 이거 Carla 거예요, 아니면 누구 건지 알아요? 내일 18시에 Carla한테 가져갈게요.",
-       "안녕히, Mia"],
+       "Mia가"],
      "redemittel": [
        ["Ich habe … gefunden.", "무엇을 발견했는지 말하기"],
        ["In meiner Tasche war …", "가방 안에 무엇이 있었는지 말하기"],
