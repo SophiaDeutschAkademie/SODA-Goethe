@@ -153,6 +153,12 @@ html[data-theme="dark"] .start,html[data-theme="dark"] .btn:not(.ghost),html[dat
 html[data-theme="dark"] .it .p:hover,html[data-theme="dark"] .btn.ghost:hover{border-color:var(--ink-3)}
 @media (max-width:700px){.page>.brand{padding-right:132px}.page>.brand b{font-size:16px}}
 </style>
+<style id="soda-actions">
+/* soda-actions: Modelltest 메뉴 버튼을 같은 폭으로 줄 맞춤. 넓은 화면은 윗줄 열기·디지털로 풀기·해설, 아랫줄 다운로드·제출·Lösungsschlüssel; 핸드폰은 두 개씩 */
+.actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:auto auto;grid-auto-flow:column;gap:10px;max-width:660px}
+.actions .btn{justify-content:center;text-align:center;white-space:nowrap;padding:11px 14px}
+@media (max-width:640px){.actions{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:none;grid-auto-flow:row;max-width:none}.actions .btn:last-child:nth-child(odd){grid-column:1/-1}}
+</style>
 </head>
 <body>
 <header class="page" id="cover">
