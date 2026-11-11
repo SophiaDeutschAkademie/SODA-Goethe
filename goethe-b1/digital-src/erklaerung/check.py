@@ -9,6 +9,7 @@ python3 -I check.py <app-folder> <N> [<N> …]      N을 생략하면 erkN_lesen
   3. 말하기 Teil 1의 제목과 점, Teil 2의 주제가 PDF 14–16쪽과 같은지 (pdftotext 필요)
   4. Lesen 3의 unused가 실제로 쓰이지 않는 광고를 모두 말하는지
   5. 빠진 키, 빈 글, 문항 수
+  6. tip이 ‘문항 순서와 본문 순서가 같다’고 하는데 실제 인용 위치가 어긋나는지
 """
 import glob
 import importlib
@@ -95,8 +96,8 @@ for N in NS:
                 w = it.get("wrong", {})
                 if sorted(w) != sorted(set("abc") - {it["ans"]}):
                     W(f"{where}: wrong 보기 {sorted(w)} (정답 {it['ans']})")
-                if name in ("H1", "H2") and not it["stko"].rstrip().endswith("…"):
-                    W(f"{where}: a/b/c 줄기 번역이 …로 끝나지 않음")
+                if name in ("H1", "H2") and "…" not in it["stko"]:
+                    W(f"{where}: a/b/c 줄기 번역에 …가 없음")
             if name in ("L1", "L2", "L5") and len(it.get("vocab", [])) < 3:
                 W(f"{where}: vocab {len(it.get('vocab', []))}개")
             # 1. 해설 글 속 „…“ 인용
@@ -122,6 +123,32 @@ for N in NS:
             for s in sentences(part.get(k, "") or ""):
                 if BAD_END.search(s) or YO_END.search(s):
                     W(f"{name} {k}: 어조 … {s[-40:]}")
+    # 6. 문항 순서와 본문·대본 순서 (tip이 ‘순서가 같다’고 말하는데 어긋나면 알림)
+    L_, HT_ = D["lesen"], D["hoertexte"]
+    b_ = L_["t1"]["blog"]
+    src = {"L1": " ".join(b_["paragraphs"]),
+           "L5": " ".join(s_["heading"] + " " + s_["text"] for s_ in L_["t5"]["doc"]["sections"]),
+           "H2": HT_["t2"]["text"].replace("\n\n", " "),
+           "H3": " ".join(u["text"] for u in HT_["t3"]["turns"]),
+           "H4": " ".join(u["text"] for u in HT_["t4"]["turns"])}
+    for name, part in parts:
+        if name not in src:
+            continue
+        # 문항마다 인용 위치의 (가장 앞, 가장 뒤). 뒤 문항의 인용이 모두 앞 문항의 인용보다 앞에 있으면 순서가 바뀐 것
+        pos = []
+        for it in part["items"]:
+            ps = [src[name].find(b[0]) for b in it["basis"]]
+            if name == "H4":   # 정답인 사람이 말한 인용만
+                spk = D["hoeren"]["t4"]["speakers"]
+                ps = [src[name].find(b[0]) for b in it["basis"]
+                      if any(b[0] in u["text"] and u["who"] in spk[it["ans"]] for u in HT_["t4"]["turns"])]
+            ps = [x for x in ps if x >= 0] or [-1]
+            pos.append((it["no"], min(ps), max(ps)))
+        bad = [f"{b[0]}번이 {a[0]}번보다 먼저" for a, b in zip(pos, pos[1:]) if 0 <= b[2] < a[1]]
+        if bad and re.search(r"순서(가|와)[^.]*같습니다", part.get("tip", "")) and "대체로" not in part.get("tip", ""):
+            W(f"{name} tip: 순서가 같다고 했지만 원문에서는 {', '.join(bad)} 나옵니다")
+        elif bad:
+            print(f"   (참고) MT{N} {name}: 원문에서 {', '.join(bad)}")
     # 4. Lesen 3 unused
     t3 = D["lesen"]["t3"]
     used = {i["answer"] for i in t3["items"]} | {t3["example"]["answer"]}

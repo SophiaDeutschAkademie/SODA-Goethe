@@ -180,6 +180,14 @@ def why(t):
 
 
 FT = {t[0]: t for t in G.FALLEN}
+# 문항에 "ft": "N"처럼 적으면 Kommentar의 유형 대신 그 유형을 표시합니다(Kommentar가 틀렸을 때만).
+for _part, _data in (("lesen", (LESEN1, LESEN2, LESEN3, LESEN4, LESEN5)), ("hoeren", (HOEREN1, HOEREN2, HOEREN3, HOEREN4))):
+    for _d in _data:
+        for _it in ([i for t in _d["texts"] for i in t["items"]] if "texts" in _d else _d["items"]):
+            if _it.get("ft"):
+                if _it["ft"] not in FT:
+                    sys.exit(f"{_part} {_it['no']}: 모르는 함정 유형 {_it['ft']}")
+                K[_part][_it["no"]] = dict(K[_part].get(_it["no"], {}), type=_it["ft"])
 
 
 def ft(part, no):
@@ -423,7 +431,7 @@ for k, th in enumerate(sp2["themen"], 1):
     themen += (f'<h4 class="sub3">Thema {k} · <span lang="de">{e(th["title"])}</span> <small>{e(th["ko"])}</small></h4>'
                f'<table class="tbl idea"><tbody>{rows}</tbody></table>')
 M.append(h3sp(2) + f'<p class="lead2">{e(GS["t2"]["task"])}</p>' + folien + themen
-         + (f'<p class="note">{e(sp2["note"])}</p>' if sp2.get("note") else "")
+         + f'<p class="note">{e(sp2.get("note") or GS["t2"]["note"])}</p>'
          + '<h4 class="sub3">진행 요령</h4>' + dots(sp2.get("points", []) + GS["t2"]["points"])
          + '<h4 class="sub3">쓸 수 있는 표현</h4>' + _tbl(GS["t2"]["redemittel"]))
 M.append(h3sp(3) + f'<p class="lead2">{e(GS["t3"]["task"])}</p>'

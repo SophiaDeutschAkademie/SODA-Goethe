@@ -65,7 +65,9 @@ SPRECHEN = {
             ["Folie 4", "Nennen Sie die Vor- und Nachteile und sagen Sie dazu Ihre Meinung. Geben Sie auch Beispiele.", "장점과 단점을 말하고, 예를 들어 내 의견을 말합니다."],
             ["Folie 5", "Beenden Sie Ihre Präsentation und bedanken Sie sich bei den Zuhörern.", "발표를 마무리하고 듣는 사람에게 감사 인사를 합니다."],
         ],
+        "note": "위 문장은 Folie 2–4에 쓸 수 있는 예입니다. Thema 1의 모범 발표 전체는 시험지 19쪽에 있습니다.",
         "points": [
+            "시험관은 Folie 3(내 나라의 상황)과 Folie 4(이유가 있는 의견)에서 B1 수준인지를 봅니다. 이 두 장을 가장 충실하게 준비하십시오.",
             "다섯 장을 모두 다루어야 합니다. 한 장이라도 빠지면 과제 수행(Erfüllung) 점수가 내려갑니다. 한 장에 서너 문장이면 약 3분이 됩니다.",
             "Folie 1에서 순서를 먼저 알리십시오: Zuerst …, dann …, danach …, zum Schluss …",
             "Folie 2는 과거 시제로 내 경험을, Folie 3은 „In Korea …“로 한국의 상황을 말합니다. 정확한 통계는 필요 없습니다. 내가 아는 예를 하나 들면 됩니다.",

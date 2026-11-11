@@ -40,7 +40,7 @@ LESEN5 = {"intro": "문서 설명", "tip": "…", "items": [ LESEN2의 문항과
   - Lesen 4는 그 사람의 글 안에서 자릅니다. 글 전체는 카드 안에 접힌 채로 들어갑니다.
 - `vocab`은 Lesen 1·2·5에만 3개씩 씁니다. 명사는 관사와 복수형(der Unfall, ¨-e), 전치사 짝은 + Akk./+ Dat.
 - 예시 문항(0번)은 해설하지 않습니다.
-- 문항마다 Kommentar의 함정 유형(바꿔 말하기, 부정·제한 …)이 자동으로 표시됩니다. 유형의 뜻은 `gemeinsam.py`의 `FALLEN`에 있습니다.
+- 문항마다 Kommentar의 함정 유형(바꿔 말하기, 부정·제한 …)이 자동으로 표시됩니다. 유형의 뜻은 `gemeinsam.py`의 `FALLEN`에 있습니다. Kommentar의 유형이 그 문항과 맞지 않으면(예: Modelltest 2의 Lesen 17·18번은 설명이 서로 바뀌어 있음) 문항에 `"ft": "N"`처럼 적어 바로잡고, 그 사실을 보고합니다.
 
 ## erkN_hoeren.py
 
@@ -71,8 +71,7 @@ SPRECHEN = {
          "points": ["이 과제에만 해당하는 요령", …], "muster": "19쪽 모범 대화가 무엇을 어떻게 정하는지 요약",
          "redemittel": [["19쪽 모범 대화에서 고른 문장", "한국어"], …]},
   "t2": {"themen": [{"title": "Thema 1 제목(PDF 15쪽 그대로)", "ko": "한국어", "ideas": [["Folie 2 예문", "한국어"], ["Folie 3 예문", "한국어"], ["Folie 4 예문", "한국어"]]},
-                    {"title": "Thema 2 제목(PDF 16쪽 그대로)", …}],
-         "note": "…", "points": ["…"]},
+                    {"title": "Thema 2 제목(PDF 16쪽 그대로)", …}]},       # 그 시험에만 해당하는 요령이 있으면 "points": ["…"]
   "t3": {"muster": "19쪽 모범 문답 요약", "fragen": [["질문(독일어)", "Thema 1 · 한국어"], …]}}
 ```
 

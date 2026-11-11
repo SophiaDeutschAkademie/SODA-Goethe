@@ -149,7 +149,7 @@ HOEREN3 = {
 HOEREN4 = {
   "title": "토론: 모든 젊은이가 사회 봉사의 해를 보내야 하는가",
   "intro": "라디오 방송 „Standpunkte“에서 진행자가 의대생 Lea Hoffmann, 목공 장인 Karl Brenner와 ‘졸업 후 모든 젊은이에게 사회 봉사 1년을 의무로 해야 하는가’를 토론합니다. Hoffmann은 찬성, Brenner는 반대입니다. 두 번 듣습니다.",
-  "tip": "‘누가 말했는가’를 고르는 문제이고, 문항 순서와 토론 순서가 같습니다. 먼저 두 손님의 입장을 잡으십시오(Hoffmann 찬성, Brenner 반대). 다만 입장만으로 고르면 틀립니다. 두 사람이 같은 주제(돈, 인력 부족)를 말하므로 문장의 내용을 직접 말한 사람을 찾아야 합니다. 진행자(a)도 답이 됩니다. 진행자는 사실을 소개하거나(26번) 앞 사람의 말에서 결론을 끌어냅니다(29번). 첫 번째 들을 때는 확실한 것만 표시하고, 두 번째에 나머지를 확인하십시오.",
+  "tip": "‘누가 말했는가’를 고르는 문제입니다. 문항은 대체로 토론 순서대로 나오지만 28번과 29번처럼 순서가 바뀐 곳도 있습니다. 먼저 두 손님의 입장을 잡으십시오(Hoffmann 찬성, Brenner 반대). 다만 입장만으로 고르면 틀립니다. 두 사람이 같은 주제(돈, 인력 부족)를 말하므로 문장의 내용을 직접 말한 사람을 찾아야 합니다. 진행자(a)도 답이 됩니다. 진행자는 사실을 소개하거나(26번) 앞 사람의 말에서 결론을 끌어냅니다(29번). 첫 번째 들을 때는 확실한 것만 표시하고, 두 번째에 나머지를 확인하십시오.",
   "items": [
     {"no": "23", "ans": "b",
      "stko": "사회 봉사의 해를 보내고 나면 직업을 고르기가 더 쉬워집니다.",
@@ -308,10 +308,7 @@ SPRECHEN = {
        "ideas": [
          ["Letzten Sommer bin ich nicht weggefahren, sondern zu Hause geblieben. Ich habe Ausflüge in die Umgebung gemacht und Freunde getroffen.", "지난여름에 저는 여행을 떠나지 않고 집에 있었습니다. 가까운 곳으로 나들이를 가고 친구들을 만났습니다."],
          ["In Korea haben viele Menschen nur wenige Tage Urlaub. Deshalb machen sie oft kurze Reisen im eigenen Land, zum Beispiel nach Jeju oder ans Meer.", "한국에서는 휴가가 며칠밖에 없는 사람이 많습니다. 그래서 제주도나 바다처럼 국내로 짧은 여행을 자주 갑니다."],
-         ["Ein Vorteil ist, dass man Geld spart und keinen Stress am Flughafen hat. Ein Nachteil ist, dass man zu Hause oft an die Arbeit denkt und nichts Neues sieht. Ich finde, eine Mischung ist am besten.", "장점은 돈을 아끼고 공항에서 스트레스를 받지 않는다는 것입니다. 단점은 집에서는 일을 자주 생각하게 되고 새로운 것을 보지 못한다는 것입니다. 저는 두 가지를 섞는 것이 가장 좋다고 생각합니다."]]}],
-    "note": "위 문장은 Folie 2–4에 쓸 수 있는 예입니다. Thema 1의 모범 발표 전체는 시험지 19쪽에 있습니다.",
-    "points": [
-      "시험관은 Folie 3(내 나라의 상황)과 Folie 4(이유가 있는 의견)에서 B1 수준인지를 봅니다. 이 두 장을 가장 충실하게 준비하십시오."]},
+         ["Ein Vorteil ist, dass man Geld spart und keinen Stress am Flughafen hat. Ein Nachteil ist, dass man zu Hause oft an die Arbeit denkt und nichts Neues sieht. Ich finde, eine Mischung ist am besten.", "장점은 돈을 아끼고 공항에서 스트레스를 받지 않는다는 것입니다. 단점은 집에서는 일을 자주 생각하게 되고 새로운 것을 보지 못한다는 것입니다. 저는 두 가지를 섞는 것이 가장 좋다고 생각합니다."]]}]},
   "t3": {
     "muster": "모범 문답에서 B는 먼저 감사 인사를 하고, 구성이 분명했다는 점과 새로 알게 된 내용(발표자 나라의 전통 음식도 빠르고 싸다는 것)을 말합니다. 그다음 발표에서 들은 말을 받아 질문합니다. A는 솔직하게 짧게 답하고 이유를 붙입니다. 시험관의 질문 „Sollte Fast Food teurer werden?“에도 A는 Nein이라고 답한 뒤 이유(돈이 적은 사람들에게 부담이 됨)와 더 나은 방법(건강한 음식이 싸져야 함)을 말합니다.",
     "fragen": [
