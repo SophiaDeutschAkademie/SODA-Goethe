@@ -10,6 +10,7 @@
 | `guidelib.py` | 두 가이드 페이지가 함께 쓰는 헬퍼(표, 섹션, 페이지 틀)와 기본 CSS |
 | `guide-data.json`, `build-guide.py` | 쓰기 시험 대비 가이드(`../schreiben-guide.html`)의 글과 모범 답안 30편, 이를 HTML로 만드는 스크립트. 모범 답안의 단어 수가 범위 안인지 빌드할 때 검사합니다 |
 | `sprechen-data.json`, `build-sprechen.py` | 말하기 시험 대비 가이드(`../sprechen-guide.html`)의 글, Teil 1 대화 10편, Teil 2 발표 10편, Teil 3 문답 10편, 이를 HTML로 만드는 스크립트. 발표 단어 수를 빌드할 때 검사합니다 |
+| `erklaerung/` | Modelltest별 해설 페이지 원본(`erklaerung/README.md`). 해설 파일이 있으면 `erklaerung/add-buttons.py`가 시험 페이지에 「해설」 버튼을 넣습니다 |
 | `validate.py` | `data/mtN.json` 형식 검사 |
 | `logo-small.png` | 시험 화면 왼쪽 위 로고 |
 | `fonts/pretendard-soda.woff` | 시험 화면 글꼴 Pretendard 중 화면에 쓰는 글자만 담은 파일(SIL OFL 1.1, `fonts/Pretendard-OFL.txt`) |
