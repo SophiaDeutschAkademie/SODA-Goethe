@@ -41,10 +41,16 @@ def norm(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
-def pdftext(pdf, page):
+def pdftext(pdf, page, cols=False):
+    """한 쪽의 글. cols=True이면 두 단을 왼쪽, 오른쪽 차례로 읽습니다(19쪽: 줄 끝에서 나뉜 낱말을 잇기 위해)."""
+    def run(extra):
+        return subprocess.run(["pdftotext", "-layout", "-f", str(page), "-l", str(page), *extra, pdf, "-"],
+                              capture_output=True, text=True).stdout
     try:
-        return norm(subprocess.run(["pdftotext", "-layout", "-f", str(page), "-l", str(page), pdf, "-"],
-                                   capture_output=True, text=True).stdout)
+        if cols:
+            return norm(run(["-x", "0", "-y", "0", "-W", "297", "-H", "842"]) + "\n"
+                        + run(["-x", "297", "-y", "0", "-W", "298", "-H", "842"]))
+        return norm(run([]))
     except OSError:
         return None
 
@@ -195,7 +201,7 @@ for N in NS:
             px = pdftext(pdf, pg)
             if not all(w in px for w in words):
                 W(f"Sprechen 2: {pg}쪽에 없는 주제: {th['title']}")
-        p19 = pdftext(pdf, 19).replace("- ", "")
+        p19 = pdftext(pdf, 19, cols=True).replace("- ", "")
         for a, _ in SP["t1"]["redemittel"]:
             a2 = norm(a).rstrip(".?!")
             if a2.replace("-", "") not in p19.replace("-", "") and not all(w in p19 for w in re.findall(r"\w{5,}", a2)):
