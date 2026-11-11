@@ -76,7 +76,7 @@ LESEN2 = {
         "why": "ertönt zunächst ein Signal(먼저 신호음이 울린다)이 보기 c의 warnen … zuerst mit einem Geräusch(먼저 소리로 경고한다)입니다. zunächst가 zuerst이고, Signal이 Geräusch입니다.",
         "wrong": {"a": "주(Kanton)는 시험 기간에 절반만 냅니다: „in der Testphase übernimmt der Kanton die Hälfte“. vollständig(전부)가 틀립니다.",
                   "b": "전기 충격은 신호음을 듣고도 계속 갈 때 받습니다. ohne Warnung(경고 없이)이 틀립니다."},
-        "vocab": [["sich nähern + 3격", "~에 가까이 가다"], ["ertönen", "(소리가) 울리다"], ["der Stromstoss, ¨-e (스위스 표기, 독일 표기는 Stromstoß)", "전기 충격"]]},
+        "vocab": [["sich nähern + Dat.", "~에 가까이 가다"], ["ertönen", "(소리가) 울리다"], ["der Stromstoss, ¨-e (스위스 표기, 독일 표기는 Stromstoß)", "전기 충격"]]},
        {"no": "12", "ans": "b",
         "basis": [["Tierschützer beurteilen das Projekt kritisch und verlangen genaue Angaben darüber, wie oft die Tiere einen Stromstoss erhalten. Eine Hochschule wertet die Daten deshalb aus.", "동물 보호 운동가들은 이 사업을 비판적으로 보고, 소들이 전기 충격을 얼마나 자주 받는지 정확한 자료를 요구합니다. 그래서 한 대학이 데이터를 분석합니다."]],
         "why": "Eine Hochschule wertet die Daten … aus(한 대학이 데이터를 분석한다)가 보기 b의 werden wissenschaftlich untersucht(학문적으로 조사된다)입니다. auswerten은 ‘분석하다’입니다.",

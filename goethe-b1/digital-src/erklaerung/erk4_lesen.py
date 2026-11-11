@@ -10,7 +10,7 @@ LESEN1 = {
      "basis": [["Wer mich kennt, weiß, dass ich bisher höchstens unter der Dusche gesungen habe", "저를 아는 사람은 제가 지금까지 기껏해야 샤워할 때나 노래했다는 걸 알아요."],
                ["bis ich an einem Dienstag mitgekommen bin – eigentlich nur, damit sie endlich Ruhe gibt", "결국 어느 화요일에 따라갔어요. 사실은 그저 그 사람이 그만 조르게 하려는 것이었어요."]],
      "why": "Daniel은 지금까지 샤워할 때만 노래했고, 합창단에는 동료 Birgit이 오랫동안 자랑하며 권해서 따라갔습니다. eigentlich nur, damit sie endlich Ruhe gibt(사실은 그저 Birgit이 그만 조르게 하려고)이므로 오래전부터 원했던 것이 아닙니다.",
-     "vocab": [["vorschwärmen (von + 3격)", "~에 대해 들떠서 자랑하다"], ["verdanken (+ 3격 + 4격)", "~의 덕분이다"], ["Ruhe geben", "조용히 하다, 그만 조르다"]]},
+     "vocab": [["vorschwärmen (von + Dat.)", "~에 대해 들떠서 자랑하다"], ["verdanken (+ Dat. + Akk.)", "~의 덕분이다"], ["Ruhe geben", "조용히 하다, 그만 조르다"]]},
     {"no": "2", "ans": "R",
      "stko": "„Querbeet“에서는 아무도 들어오기 전에 시험을 받지 않습니다.",
      "basis": [["Vorsingen muss bei „Querbeet“ niemand.", "„Querbeet“에서는 아무도 노래 시험을 보지 않아도 돼요."]],
@@ -20,7 +20,7 @@ LESEN1 = {
      "stko": "연습할 때 Daniel은 무엇보다 악보에 의지했습니다.",
      "basis": [["Notenlesen beherrsche ich bis heute nicht. Dafür schickt Ines uns nach jeder Probe Mitschnitte aufs Handy, und die habe ich monatelang im Auto gehört, auf dem Weg ins Büro und zurück.", "악보 읽기는 지금까지도 할 줄 몰라요. 그 대신 Ines가 연습이 끝날 때마다 녹음을 휴대폰으로 보내 주는데, 저는 그걸 몇 달 동안 사무실을 오가는 자동차 안에서 들었어요."]],
      "why": "Notenlesen beherrsche ich bis heute nicht(악보 읽기는 지금까지도 할 줄 모른다)이므로 악보에 의지할 수 없었습니다. Daniel은 지휘자가 보내 준 연습 녹음(Mitschnitte)을 자동차에서 들으며 익혔습니다. 문장에 본문의 단어 Noten이 나오지만 내용은 반대입니다.",
-     "vocab": [["beherrschen", "(완전히) 할 줄 알다"], ["der Mitschnitt, -e", "녹음, 녹음본"], ["sich verlassen auf + 4격", "~에 의지하다"]]},
+     "vocab": [["beherrschen", "(완전히) 할 줄 알다"], ["der Mitschnitt, -e", "녹음, 녹음본"], ["sich verlassen auf + Akk.", "~에 의지하다"]]},
     {"no": "4", "ans": "R",
      "stko": "공연에서 Daniel은 감기에도 불구하고 함께 노래할 수 있었습니다.",
      "basis": [["Ines meinte, notfalls solle ich eben nur die Lippen bewegen.", "Ines는 정 안 되면 입술만 움직이라고 했어요."],
@@ -36,7 +36,7 @@ LESEN1 = {
      "stko": "Daniel은 여름 공연에서 혼자 노래할 계획입니다.",
      "basis": [["Ein Solo beim Sommerkonzert, wie Birgit es anregt? Das überlasse ich lieber anderen.", "Birgit이 권하는 것처럼 여름 공연에서 독창을 하느냐고요? 그건 다른 사람들에게 맡길래요."]],
      "why": "Solo(독창)가 문장의 allein singen(혼자 노래하다)입니다. 독창은 Birgit이 권한 것이고(wie Birgit es anregt), Daniel은 Das überlasse ich lieber anderen(그건 다른 사람들에게 맡기겠다)이라고 답합니다. Daniel이 실제로 등록한 것은 2월에 시작하는 악보 읽기 강좌입니다.",
-     "vocab": [["anregen", "권하다, 제안하다"], ["überlassen (+ 3격 + 4격)", "~에게 맡기다"], ["sich einschreiben (eingeschrieben)", "등록하다"]]},
+     "vocab": [["anregen", "권하다, 제안하다"], ["überlassen (+ Dat. + Akk.)", "~에게 맡기다"], ["sich einschreiben (eingeschrieben)", "등록하다"]]},
   ]}
 
 LESEN2 = {
@@ -187,7 +187,7 @@ LESEN5 = {
      "why": "15세는 16세 미만(unter 16 Jahren)이므로 성인 회원과 함께 있을 때만 운동할 수 있습니다. in Begleitung eines erwachsenen Mitglieds(성인 회원을 동반하고)가 보기 b의 zusammen mit einem Erwachsenen(어른과 함께)입니다.",
      "wrong": {"a": "보호자의 동의도 필요하지만 그것만으로는(nur) 부족합니다. 15세는 성인 회원과 함께 가야 합니다.",
                "c": "가입은 14세부터 할 수 있으므로 15세는 회원이 될 수 있습니다."},
-     "vocab": [["die Einwilligung", "동의"], ["der/die Erziehungsberechtigte, -n", "보호자"], ["in Begleitung + 2격", "~을 동반하고"]]},
+     "vocab": [["die Einwilligung", "동의"], ["der/die Erziehungsberechtigte, -n", "보호자"], ["in Begleitung + Gen.", "~을 동반하고"]]},
     {"no": "28", "ans": "c",
      "basis": [["Das Trainerteam ist montags bis freitags von 9 bis 21 Uhr für Sie da. Außerhalb dieser Zeiten dürfen nur Mitglieder an den Geräten trainieren, die schon eine Einweisung absolviert haben.", "트레이너들은 월요일부터 금요일까지 9시에서 21시까지 있습니다. 이 시간 밖에는 이미 기구 사용 안내를 받은 회원만 기구에서 운동할 수 있습니다."]],
      "why": "21시 이후는 트레이너가 없는 시간(Außerhalb dieser Zeiten)입니다. 이때는 Einweisung(기구 사용 안내)을 이미 받은 회원만 운동할 수 있습니다. eine Einweisung absolviert haben이 보기 c의 eingewiesen worden sein(안내를 받았다)입니다.",

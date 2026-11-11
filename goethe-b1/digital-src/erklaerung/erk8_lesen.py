@@ -34,7 +34,7 @@ LESEN1 = {
      "stko": "Corinna는 벌써 Hanna와 자주 잘 이야기할 수 있습니다.",
      "basis": [["Mir genügt es, wenn ich mich mit Hanna über alles austauschen kann, was uns beschäftigt. Und das gelingt schon erstaunlich oft.", "저는 Hanna와 우리가 마음 쓰는 모든 일에 대해 이야기를 나눌 수 있으면 충분해요. 그리고 그게 벌써 놀랄 만큼 자주 돼요."]],
      "why": "das gelingt schon erstaunlich oft(그것이 벌써 놀랄 만큼 자주 된다)의 das는 Hanna와 이야기를 나누는 것(sich austauschen)입니다. 문장의 schon oft gut unterhalten(벌써 자주 잘 이야기하다)과 같습니다.",
-     "vocab": [["sich austauschen über + 4격", "~에 대해 이야기를 나누다"], ["gelingen (gelungen)", "잘되다, 성공하다"], ["erstaunlich", "놀랄 만큼"]]},
+     "vocab": [["sich austauschen über + Akk.", "~에 대해 이야기를 나누다"], ["gelingen (gelungen)", "잘되다, 성공하다"], ["erstaunlich", "놀랄 만큼"]]},
   ]}
 
 LESEN2 = {
@@ -47,13 +47,13 @@ LESEN2 = {
         "why": "첫 수업을 9시에 시작하는 학교의 1년을 돌아보는 것이 글 전체의 내용입니다. erst um neun Uhr(9시에야)가 보기 c의 später anfängt(더 늦게 시작한다)입니다.",
         "wrong": {"a": "청소년이 저녁에 늦게 졸린다는 것은 수면 연구자들의 설명으로 나옵니다. 휴대폰 이야기는 없습니다.",
                   "b": "오후 수업은 줄어들지 않았습니다. 오히려 수업이 한 시간 늦게 끝납니다: „Der Unterricht endet nun eine Stunde später.“"},
-        "vocab": [["ausgeschlafen", "잠을 충분히 잔"], ["die Schülervertretung", "학생회"], ["sich berufen auf + 4격", "~을 근거로 들다"]]},
+        "vocab": [["ausgeschlafen", "잠을 충분히 잔"], ["die Schülervertretung", "학생회"], ["sich berufen auf + Akk.", "~을 근거로 들다"]]},
        {"no": "8", "ans": "b",
         "basis": [["Einer schulinternen Umfrage zufolge schlafen die Schüler durchschnittlich 40 Minuten länger. Außerdem kommen spürbar weniger zu spät.", "학교 안에서 한 설문에 따르면 학생들은 평균 40분 더 잡니다. 게다가 지각하는 학생이 눈에 띄게 줄었습니다."]],
         "why": "spürbar weniger zu spät(눈에 띄게 적게 지각)가 보기 b의 weniger Schüler verspätet(더 적은 학생이 늦게)입니다.",
         "wrong": {"a": "„Ob sich auch die Noten verbessert haben, lässt sich vorerst nicht beurteilen.“ 성적이 좋아졌는지는 아직 판단할 수 없습니다.",
                   "c": "시범 사업은 계속되고 있습니다. 다음 학년도에는 학교 두 곳이 더 따라 하려고 합니다."},
-        "vocab": [["die Bilanz", "결산, 평가"], ["zufolge (+ 3격, 명사 뒤에 옴)", "~에 따르면"], ["vorerst", "우선은, 아직은"]]},
+        "vocab": [["die Bilanz", "결산, 평가"], ["zufolge (+ Dat., 명사 뒤에 옴)", "~에 따르면"], ["vorerst", "우선은, 아직은"]]},
        {"no": "9", "ans": "a",
         "basis": [["Eltern, die frühmorgens zur Arbeit müssen, setzen ihre Kinder trotzdem um halb acht vor dem Schultor ab. Für sie gibt es seit diesem Schuljahr eine Frühbetreuung in der Bibliothek, wo man lesen oder Hausaufgaben erledigen kann.", "아침 일찍 일하러 가야 하는 부모들은 그래도 7시 30분에 아이를 교문 앞에 내려 줍니다. 이 아이들을 위해 이번 학년도부터 도서관에 아침 돌봄이 있습니다. 거기서 책을 읽거나 숙제를 할 수 있습니다."]],
         "why": "Frühbetreuung(아침 돌봄)이 보기 a의 ein Angebot vor dem Unterricht(수업 전의 프로그램)입니다. Eltern, die frühmorgens zur Arbeit müssen이 문항의 berufstätige Eltern(일하는 부모)입니다.",
