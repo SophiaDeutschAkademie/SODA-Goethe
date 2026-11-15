@@ -42,6 +42,10 @@ Modelltest 1과 2의 Sprechen 영역(페이퍼 페이지와 디지털 페이지 
 
 학생의 답과 결과는 학생 브라우저에만 저장되고 앱마다 저장 이름이 다릅니다(`sodaGZA2.v1.`, `sodaGZB1.v1.`, `sodaGZB2.v1.`). 다크 모드 선택(`soda-theme`)은 Lehrwerk의 모든 앱이 함께 씁니다. Lehrwerk와 이 저장소는 같은 `sophiadeutschakademie.github.io` 주소 아래에 있어서 저장된 답과 다크 모드 선택이 그대로 이어집니다. 사용자 지정 도메인으로 바꾸면 이 연결이 끊어질 수 있어요.
 
+## 학습 저장(다른 기기에서 이어 풀기)
+
+학습 포탈에 로그인한 학생의 답과 결과는 서버에 저장되어, 다른 기기에서 포탈에 로그인하면 그대로 이어집니다. 목록 페이지(`index.html`)와 디지털 시험 화면(`digital.html`)이 `<meta charset>` 바로 뒤에서 `<script id="soda-sync" src="/SODA-LERNPORTAL/sync.js"></script>`를 불러옵니다. `tools/soda-theme.py`가 다크 모드 스위치와 함께 이 줄을 넣으므로, 파일을 다시 만들어도 빠지지 않습니다. 자세한 내용은 SODA-LERNPORTAL README의 「학습 기록 자동 저장」에 있습니다.
+
 ## 다크 모드와 목차 버튼
 
 `tools/soda-theme.py`가 모든 앱에 다크 모드 스위치를 넣고, 목록 페이지(`index.html`)에는 「목차」 버튼도 넣습니다. 버튼은 Lehrwerk 목차로 돌아가며, 주소는 `tools/soda-theme.py` 맨 위의 `LEHRWERK_TOC`에 있습니다. 각 앱의 `build-digital.py`와 `build-index.py`가 파일을 쓴 뒤 자동으로 부르고, 직접 쓸 때는 다음처럼 실행합니다. 몇 번을 실행해도 결과가 같습니다.

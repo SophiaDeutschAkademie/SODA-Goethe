@@ -5,6 +5,7 @@ Lehrwerk의 다른 앱과 같은 부품입니다.
   - 오른쪽 위 다크 모드 스위치 (기본 다크, 선택은 localStorage 'soda-theme' 하나를 모든 앱이 함께 씁니다)
   - 목차 페이지(index.html)에는 스위치 왼쪽에 'Lehrwerk 목차로 돌아가기' 버튼
   - 접속 횟수 집계 태그(GoatCounter, 쿠키 없음)를 head에 넣음
+  - 학습 포탈 학습 저장(SODA-LERNPORTAL/sync.js)을 head 맨 앞에 넣음: 포탈에 로그인한 학생의 답안을 서버에 저장하고 다른 기기에서 불러옵니다
 
 사용법 (저장소 어디서 실행해도 됩니다)
   python3 tools/soda-theme.py zertifikat/goethe-b2/index.html  --kind index
@@ -144,6 +145,10 @@ def build_blocks(kind, toc_href):
 
 
 # 접속 횟수 집계(GoatCounter 공식 태그, 쿠키 없음). Lehrwerk의 모든 페이지와 같은 사이트 코드를 씁니다
+# 학습 포탈 학습 저장: 포탈에 로그인한 학생이 푼 답안(localStorage)을 저장 서버에 올리고 다른 기기에서 불러옵니다.
+# 앱의 스크립트보다 먼저 실행되어야 해서 <meta charset> 바로 뒤에 넣습니다
+SYNC_TAG = '<script id="soda-sync" src="/SODA-LERNPORTAL/sync.js"></script>'
+
 ANALYTICS_TAG = ('<script id="soda-analytics" data-goatcounter="https://sodadeutsch.goatcounter.com/count" '
                  'async src="https://gc.zgo.at/count.js"></script>\n')
 
@@ -153,6 +158,7 @@ def patch(html, kind, toc_href=LEHRWERK_TOC):
     html = re.sub(r'<script id="soda-theme-js">.*?</script>\s*', "", html, flags=re.S)
     html = re.sub(r'<style id="soda-dark">.*?</style>\s*', "", html, flags=re.S)
     html = re.sub(r'<script id="soda-analytics"[^>]*></script>\s*', "", html)
+    html = re.sub(r'<script id="soda-sync"[^>]*></script>', "", html)
 
     js = build_blocks(kind, toc_href)
     if kind == "index":
@@ -167,7 +173,7 @@ def patch(html, kind, toc_href=LEHRWERK_TOC):
     m = re.search(r"<meta\s+charset=[^>]*>", html, flags=re.I)
     if not m:
         sys.exit("<meta charset>을 찾지 못했습니다")
-    html = html[: m.end()] + "\n" + js + "\n" + html[m.end():]
+    html = html[: m.end()] + SYNC_TAG + "\n" + js + "\n" + html[m.end():]
     i = html.lower().rfind("</head>")
     if i < 0:
         sys.exit("</head>를 찾지 못했습니다")
