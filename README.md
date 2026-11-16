@@ -7,7 +7,7 @@ Goethe-Zertifikat A2, B1, B2 모의고사(Modelltest)입니다. 페이퍼 시험
 | 폴더 | 내용 |
 |---|---|
 | `goethe-a2/` | Goethe-Zertifikat A2, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
-| `goethe-b1/` | Goethe-Zertifikat B1, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) (예전 단일 파일 오프라인 버전 `… offline.html` 포함, 목차에서는 연결하지 않음) |
+| `goethe-b1/` | Goethe-Zertifikat B1, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`), 회차별 해설(`… 해설.html`), Modelltest I–V 작문 연습(`… 작문 연습.html`, A2 답안을 B1 표현으로 고쳐 쓰기) (예전 단일 파일 오프라인 버전 `… offline.html` 포함, 목차에서는 연결하지 않음) |
 | `goethe-b2/` | Goethe-Zertifikat B2, Modelltest 5개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
 | `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py`, 제출하기를 넣는 `add-submit.py`·`set-submit-url.py`, 제출을 메일로 받는 `제출 받기/` |
 | `assets/` | 시작 페이지의 로고와 글꼴 |
@@ -62,3 +62,4 @@ python3 tools/soda-theme.py goethe-b1/index.html --kind index
 - 시험 화면에 제출 주소 넣기: `python3 tools/set-submit-url.py "<웹 앱 URL>"`
 - 새 앱 폴더에 기능 넣기(옛 template.html에 처음 한 번): `python3 tools/add-submit.py <폴더>`. 지금 template.html에는 이미 들어 있어 `build-digital.py`로 다시 만들어도 유지됩니다.
 - telc 저장소(SODA-TELC)의 시험 화면도 같은 웹 앱 주소 하나를 씁니다.
+- Goethe B1 작문 연습(`goethe-b1/Goethe B1 Modelltest N 작문 연습.html`)의 「선생님께 제출하기」도 같은 주소로 보냅니다. 학습 기록 형식(`app: 'lehrwerk'`)이라 메일 제목은 「[SODA 학습 기록] Goethe B1 Modelltest N 작문 연습 · 이름」입니다. `set-submit-url.py`가 이 페이지들의 주소도 함께 바꿉니다.
