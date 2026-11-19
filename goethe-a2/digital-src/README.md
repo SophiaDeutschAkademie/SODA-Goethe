@@ -16,6 +16,7 @@
 | `guide-data.json`, `build-guide.py` | 쓰기 시험 대비 가이드(`../schreiben-guide.html`)의 글과 모범 답안 20편, 이를 HTML로 만드는 스크립트. 모범 답안의 단어 수(Anrede·본문·Gruß·이름 합계)를 세어 Teil 1 20~30, Teil 2 30~40을 벗어나면 멈춥니다 |
 | `sprechen-data.json`, `build-sprechen.py` | 말하기 시험 대비 가이드(`../sprechen-guide.html`)의 글, Teil 2 이야기 10편, Teil 3 대화 10편, 이를 HTML로 만드는 스크립트. Teil 2 본문 단어 수(60~85)와, Teil 3 유형 A 대화의 합의 시간이 두 사람 일정표와 겹치지 않는지를 검사하고 어긋나면 멈춥니다 |
 | `make-font.py` | 시험 화면에 새 한글 문구를 넣어 글자가 빠지면 Pretendard 원본에서 글꼴 파일을 다시 만듭니다 |
+| `schreibuebung/` | Modelltest별 작문 연습 페이지 원본(`schreibuebung/README.md`): A1 답안을 주어진 A2 표현으로 고쳐 쓰는 연습. `schreibuebung/add-links.py`가 시험 페이지의 Schreiben 영역에 「작문 연습」 줄을 넣습니다(`build-index.py`를 다시 실행한 뒤에도 한 번 더 실행) |
 
 그림은 `../img/`에 있습니다. Lesen Teil 1의 사진(`mtN-lesen-foto.jpg`), Lesen Teil 4의 광고 6장(`mtN-anzeige-a..f.png`), Hören Teil 2의 그림 a–i(`mtN-hoeren2-*.webp`), Hören Teil 3의 그림(`mtN-hoeren3-<문항><a|b|c>.webp`)입니다. 앞의 사진·광고는 PDF에서 잘라 낸 것이고, Hören Teil 2·3의 그림 120장은 SODA 삽화 그림체로 새로 만든 것입니다(Recraft 4.1 Flash로 생성, 시계·달력·가격표·식탁 그림은 코드로 직접 그림).
 
