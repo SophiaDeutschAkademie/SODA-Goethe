@@ -7,9 +7,9 @@
    "title": "Kino in der Scheune",
    "lead": "In Wernsdorf gibt es kein Kino. Seit zwei Jahren zeigt Landwirt Holger Wendt deshalb Filme in seiner alten Scheune.",
    "paragraphs": [
-    "Holger Wendt, 52, hat einen Bauernhof mit Kühen und Hühnern. Die große Scheune neben dem Wohnhaus, die er lange nur für Heu und alte Maschinen benutzt hat, ist heute ein richtiges Kino. „Das nächste Kino ist 40 Kilometer entfernt. Für Jugendliche ohne Auto ist das ein echtes Problem“, sagt Wendt. Deshalb hat er zusammen mit seiner Tochter eine große Leinwand gekauft. Die Stühle hat ihm die Grundschule geschenkt, als sie neue Möbel bekommen hat.",
-    "Von Juni bis September läuft jeden Freitag um 21 Uhr ein Film. Im Winter bleibt die Scheune geschlossen, weil es darin viel zu kalt ist. Meistens zeigt Wendt Familienfilme, aber einmal im Monat läuft auch ein alter Film in Schwarz-Weiß, den vor allem die älteren Besucher gern sehen. Welche Filme gezeigt werden, entscheidet er nicht allein: Am Eingang hängt eine Tafel, auf die die Besucher ihre Wünsche schreiben können.",
-    "Eintritt muss niemand bezahlen, aber am Ausgang steht eine Kasse für Spenden. Von dem Geld, das die Besucher in die Spendenkasse gelegt haben, hat Wendt im letzten Jahr einen neuen Beamer gekauft. Getränke und Popcorn werden vom Sportverein verkauft. Platz ist für 80 Personen, und obwohl die Scheune ziemlich groß ist, sind oft alle Stühle besetzt. Wer zu spät kommt, muss sich auf einen Strohballen setzen."
+    "Holger Wendt, 52, hat einen Bauernhof mit Kühen und Hühnern. Die große Scheune neben dem Wohnhaus, die er lange nur für Heu, Stroh und alte Landmaschinen benutzt hat, ist heute ein richtiges Kino. „Das nächste Kino ist 40 Kilometer entfernt. Für Jugendliche ohne Auto ist das ein echtes Problem“, sagt Wendt. Deshalb hat er mit seiner Tochter eine große Leinwand gekauft. Die Stühle hat ihm die Grundschule geschenkt, als sie für ihre Klassenzimmer neue Möbel bekommen hat.",
+    "Von Juni bis September gibt es jeden Freitagabend um 21 Uhr eine Vorstellung. In den Wintermonaten bleibt die Scheune geschlossen, weil sie keine Heizung hat und es darin viel zu kalt ist. Meistens zeigt Wendt Familienfilme. Einmal im Monat läuft aber auch ein alter Schwarz-Weiß-Film, den vor allem die älteren Dorfbewohner gern sehen. Welche Filme gezeigt werden, entscheidet er nicht allein: Am Scheunentor hängt eine Tafel, auf die die Kinobesucher ihre Filmwünsche schreiben können.",
+    "Eintritt muss niemand bezahlen, aber am Ausgang steht eine Kasse für Spenden. Von dem Geld, das die Besucher in die Spendenkasse gelegt haben, hat Wendt im vergangenen Jahr einen neuen Beamer gekauft. Getränke, Popcorn und Würstchen werden vom Sportverein verkauft. Die Plakate für die Vorstellungen malt Wendts Tochter. Sitzplätze gibt es für 80 Personen, und obwohl die Scheune sehr groß ist, sind oft alle Stühle besetzt. Wer zu spät zur Vorstellung kommt, muss sich auf einen Strohballen setzen."
    ],
    "source": "aus einer deutschen Tageszeitung",
    "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Kino in der Scheune“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -28,8 +28,8 @@
      "no": "1",
      "stem": "Holger Wendt hat mit dem Kino angefangen, weil …",
      "options": {
-      "a": "sich seine Tochter für Filme interessiert.",
-      "b": "das nächste Kino so weit weg ist.",
+      "a": "seine Tochter sich sehr für Filme interessiert.",
+      "b": "junge Leute ohne Auto sonst kaum ins Kino kommen.",
       "c": "er mit der leeren Scheune Geld verdienen wollte."
      },
      "answer": "b"
@@ -38,9 +38,9 @@
      "no": "2",
      "stem": "Die Stühle in der Scheune …",
      "options": {
-      "a": "waren ein Geschenk der Grundschule.",
+      "a": "haben Wendt keinen Cent gekostet.",
       "b": "hat Wendt mit seiner Tochter gekauft.",
-      "c": "hat der Sportverein gebracht."
+      "c": "hat ihm der Sportverein in die Scheune gebracht."
      },
      "answer": "a"
     },
@@ -50,7 +50,7 @@
      "options": {
       "a": "zeigt Wendt nur Filme für die ganze Familie.",
       "b": "beginnen die Filme schon früher.",
-      "c": "gibt es in der Scheune kein Kino."
+      "c": "macht das Kino auf dem Bauernhof Pause."
      },
      "answer": "c"
     },
@@ -58,9 +58,9 @@
      "no": "4",
      "stem": "Welche Filme gezeigt werden, …",
      "options": {
-      "a": "bestimmt Holger Wendt allein.",
-      "b": "steht jeden Monat in der Lokalzeitung.",
-      "c": "können die Besucher mitbestimmen."
+      "a": "bestimmt Holger Wendt ganz allein.",
+      "b": "schreibt Wendt selbst auf die Tafel am Scheunentor.",
+      "c": "entscheiden auch die Gäste mit."
      },
      "answer": "c"
     },
@@ -68,8 +68,8 @@
      "no": "5",
      "stem": "Mit dem Geld aus der Spendenkasse …",
      "options": {
-      "a": "hat Wendt Technik für das Kino gekauft.",
-      "b": "bezahlt Wendt Getränke und Popcorn.",
+      "a": "hat Wendt ein Gerät für die Filme besorgt.",
+      "b": "bezahlt Wendt die Getränke und das Popcorn.",
       "c": "bekommt der Sportverein neue Stühle."
      },
      "answer": "a"
@@ -87,19 +87,19 @@
     "rows": [
      {
       "floor": "3. Stock",
-      "text": "Möbel und Lampen (Beratung: Di und Do, nur mit Termin) · Teppiche · Bettwäsche und Handtücher · Geschirr und Gläser · Restaurant „Dachgarten“ mit Terrasse und Blick über die Altstadt (bis 18 Uhr geöffnet) · Toiletten"
+      "text": "Möbel, Lampen, Teppiche (Einrichtungsberatung dienstags und donnerstags, nur mit Termin) · Bettdecken, Kopfkissen, Bettwäsche · Handtücher, Badezimmerartikel · Geschirr, Gläser, Haushaltswaren · Restaurant „Dachgarten“ mit Dachterrasse und Altstadtblick (geöffnet bis 18 Uhr) · Kundentoiletten"
      },
      {
       "floor": "2. Stock",
-      "text": "Herrenmode und Anzüge · Sportkleidung und Fahrradhelme · Schuhe für Damen, Herren und Kinder · Koffer, Rucksäcke und Taschen · Änderungsschneiderei (Hosen kürzen, Knöpfe annähen, Reißverschlüsse ersetzen). Fertig in zwei bis drei Tagen."
+      "text": "Herrenbekleidung, Anzüge, Krawatten · Sportbekleidung, Fahrradhelme · Damenschuhe, Herrenschuhe, Kinderschuhe · Reisegepäck: Koffer, Rucksäcke, Reisetaschen · Änderungsschneiderei (Hosen kürzen, Knöpfe annähen, Reißverschlüsse ersetzen). Abholung nach zwei bis drei Werktagen."
      },
      {
       "floor": "1. Stock",
-      "text": "Damenmode und Bademode · Kinderkleidung · Spielwaren und Bastelbedarf · Babyausstattung und Wickelraum · Uhren und Schmuck · Friseur (auch ohne Termin)"
+      "text": "Damenbekleidung, Bademode · Kinderbekleidung · Spielwaren, Gesellschaftsspiele, Bastelbedarf · Babyausstattung mit Wickelraum · Kinderbetreuung im Spielzimmer (samstags 10–16 Uhr, für Kinder ab drei Jahren) · Uhren, Schmuck (Batteriewechsel, Schmuckreinigung) · Friseursalon (auch ohne Termin)"
      },
      {
       "floor": "EG",
-      "text": "Kosmetik und Parfüm · Zeitschriften und Bücher · Handys, Kopfhörer und Zubehör · Kundenservice (Umtausch nur mit Kassenzettel, Geschenkgutscheine, Lieferung nach Hause) · Bäckerei-Café · Geldautomat · Aufzug zu allen Etagen · Ausgang zum Parkhaus (erste Stunde gratis). Öffnungszeiten: Montag bis Samstag 9.30–20 Uhr."
+      "text": "Kosmetik, Parfümerie · Zeitschriften, Bücher, Schreibwaren · Handys, Tablets, Kopfhörer, Zubehör · Information und Kundenservice (Umtausch nur mit Kassenzettel, Geschenkgutscheine, Lieferung nach Hause) · Fundbüro · Bäckerei-Café · Geldautomat · Aufzug zu allen Etagen · Ausgang zum Parkhaus (erste Stunde kostenlos). Öffnungszeiten: Montag bis Samstag 9.30–20 Uhr."
      }
     ]
    },
@@ -116,7 +116,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Die Hose, die Sie gestern gekauft haben, ist zu lang. Sie können nicht nähen und möchten die Hose kürzer machen lassen.",
+     "stem": "Ihre neue Jeans ist Ihnen ein paar Zentimeter zu lang. Sie können nicht nähen und suchen jemanden, der das für Sie macht.",
      "options": {
       "a": "1. Stock",
       "b": "2. Stock",
@@ -126,7 +126,7 @@
     },
     {
      "no": "7",
-     "stem": "Sie haben Ihrer Schwester ein Geschenk gekauft, aber es gefällt ihr nicht. Sie haben den Kassenzettel noch und möchten das Geschenk gegen etwas anderes tauschen.",
+     "stem": "Ihre Schwester hat von Ihnen ein Geschenk aus diesem Kaufhaus bekommen, aber es gefällt ihr nicht. Den Kassenzettel haben Sie noch. Nun möchten Sie etwas anderes dafür bekommen.",
      "options": {
       "a": "3. Stock",
       "b": "1. Stock",
@@ -136,7 +136,7 @@
     },
     {
      "no": "8",
-     "stem": "Ihr Sohn wird nächste Woche drei Jahre alt. Er wünscht sich ein Feuerwehrauto aus Holz, das Sie ihm schenken möchten.",
+     "stem": "Ihr Sohn wird nächste Woche drei. Auf seinem Wunschzettel steht ein Feuerwehrauto aus Holz.",
      "options": {
       "a": "1. Stock",
       "b": "EG",
@@ -146,7 +146,7 @@
     },
     {
      "no": "9",
-     "stem": "Am Wochenende kommen Ihre Eltern zu Besuch. Sie haben ein Gästebett, aber noch keine Bettwäsche dafür.",
+     "stem": "Am Wochenende übernachten Ihre Eltern bei Ihnen im Gästebett. Für das Bett haben Sie aber noch nichts für den Kopf und nichts zum Zudecken.",
      "options": {
       "a": "2. Stock",
       "b": "3. Stock",
@@ -156,7 +156,7 @@
     },
     {
      "no": "10",
-     "stem": "Im Juli wollen Sie eine Woche in den Bergen wandern. Dafür brauchen Sie einen neuen Rucksack.",
+     "stem": "Im Juli wollen Sie eine Woche in den Bergen wandern. Für Kleidung und Essen brauchen Sie noch eine große Tasche, die man auf dem Rücken trägt.",
      "options": {
       "a": "EG",
       "b": "3. Stock",
@@ -178,11 +178,11 @@
      "deine Sandra"
     ],
     "paragraphs": [
-     "lange hast du nichts von mir gehört, aber jetzt habe ich eine große Neuigkeit: Ich mache mit 41 Jahren den Führerschein! Du weißt ja, dass ich früher immer gesagt habe: „Ich brauche kein Auto.“ In Köln bin ich überall mit dem Fahrrad hingefahren, weil das in der Stadt viel schneller war. Aber im Mai sind wir aufs Land gezogen, und hier fährt der Bus nur zweimal am Tag, am Wochenende gar nicht. Ohne Auto komme ich kaum zur Arbeit, denn mein Büro liegt 25 Kilometer entfernt.",
-     "Die Theorieprüfung habe ich schon im Oktober bestanden. Ich habe jeden Abend mit einer App gelernt und in der Prüfung keinen einzigen Fehler gemacht! Das Fahren selbst ist leider viel schwieriger, als ich erwartet habe. In der ersten Fahrstunde hatte ich solche Angst, dass meine Hände ganz nass waren und ich kaum sprechen konnte.",
-     "Zum Glück ist mein Fahrlehrer, Herr Brandl, sehr geduldig und ruhig. Er sagt, dass ich sicher fahre, und er erklärt alles ganz genau. Nur beim Einparken brauche ich seiner Meinung nach noch zu lange. Die praktische Prüfung ist am 12. Dezember. Bis dahin habe ich noch sechs Fahrstunden, aber die sind teuer: Eine Stunde kostet 65 Euro, deshalb möchte ich zusätzlich außerhalb der Fahrschule üben.",
-     "Und jetzt meine Bitte: Könnten wir am Sonntag mit deinem Auto zusammen üben? Du fährst doch schon seit zwanzig Jahren Auto und kannst mir bestimmt hilfreiche Tipps geben. Am Stadtrand gibt es einen Verkehrsübungsplatz, auf dem ich mit dir als Beifahrerin in Ruhe das Einparken üben kann. Das Benzin bezahle ich natürlich, und danach lade ich dich zum Mittagessen ein.",
-     "Schreib mir einfach, ob es dir passt. Und wenn ich die Prüfung bestehe, machen wir im Frühling zusammen einen Ausflug an den Bodensee – und ich fahre!"
+     "lange hast du nichts von mir gehört, aber jetzt habe ich eine große Neuigkeit: Ich mache mit 41 Jahren den Führerschein! Du weißt ja, dass ich früher nie ein Auto haben wollte. In Köln bin ich überall mit dem Fahrrad hingefahren, weil ich damit in der Innenstadt viel schneller war als mit dem Auto. Aber im Mai sind wir aufs Land gezogen, und in unserem Dorf fährt der Bus nur zweimal am Tag, am Wochenende gar nicht. Ohne Auto komme ich kaum zur Arbeit, denn mein Büro liegt 25 Kilometer entfernt.",
+     "Die Theorieprüfung habe ich schon im Oktober bestanden. Ich habe jeden Abend nach der Arbeit mit einer Lern-App die Prüfungsfragen geübt und in der Prüfung keinen einzigen Fehler gemacht! Das Autofahren selbst ist leider viel schwieriger, als ich erwartet habe. In der ersten Fahrstunde hatte ich solche Angst, dass meine Hände ganz nass waren und ich kaum sprechen konnte. Inzwischen fahre ich aber schon ohne Probleme auf der Landstraße.",
+     "Zum Glück ist mein Fahrlehrer, Herr Brandl, sehr geduldig und freundlich. Herr Brandl sagt, dass ich sicher fahre, und er erklärt mir alles ganz genau. Nur beim Einparken brauche ich seiner Meinung nach noch zu lange. Die praktische Fahrprüfung ist am 12. Dezember. Bis zum Prüfungstermin habe ich noch sechs Fahrstunden, aber die sind ziemlich teuer: Eine Fahrstunde kostet 65 Euro. Deshalb möchte ich zusätzlich außerhalb der Fahrschule üben.",
+     "Und jetzt meine Bitte: Könnten wir am Sonntag mit deinem Auto zusammen üben? Du hast schon seit zwanzig Jahren einen Führerschein und kannst mir bestimmt hilfreiche Tipps geben. Am Stadtrand gibt es einen Verkehrsübungsplatz, auf dem ich mit dir als Beifahrerin in Ruhe das Einparken üben kann. Das Benzin bezahle ich natürlich, und danach lade ich dich zum Mittagessen ein.",
+     "Schreib mir einfach, ob es dir am Sonntag passt. Und wenn ich die Fahrprüfung bestehe, machen wir im Frühling zusammen einen Ausflug an den Bodensee – und ich fahre!"
     ]
    },
    "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Sandras E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -201,8 +201,8 @@
      "no": "11",
      "stem": "Sandra braucht jetzt ein Auto, weil …",
      "options": {
-      "a": "sie eine neue Stelle in der Kölner Innenstadt hat.",
-      "b": "ihr Fahrrad kaputt ist.",
+      "a": "sie in Köln eine neue Arbeitsstelle gefunden hat.",
+      "b": "ihr altes Fahrrad kaputt ist.",
       "c": "es an ihrem neuen Wohnort kaum Busse gibt."
      },
      "answer": "c"
@@ -211,9 +211,9 @@
      "no": "12",
      "stem": "Bei der Theorieprüfung …",
      "options": {
-      "a": "hat Sandra alles richtig beantwortet.",
-      "b": "war Sandra sehr nervös.",
-      "c": "hat Sandra nur wenige Fehler gemacht."
+      "a": "hat Sandra jede Frage richtig beantwortet.",
+      "b": "hatte Sandra sehr große Angst.",
+      "c": "hat Sandra nur ganz wenige Fehler gemacht."
      },
      "answer": "a"
     },
@@ -223,7 +223,7 @@
      "options": {
       "a": "oft zu schnell und zu nervös fährt.",
       "b": "beim Parken noch zu langsam ist.",
-      "c": "keine Fahrstunden mehr braucht."
+      "c": "schon jetzt keine Fahrstunden mehr braucht."
      },
      "answer": "b"
     },
@@ -232,8 +232,8 @@
      "stem": "Am Sonntag möchte Sandra …",
      "options": {
       "a": "ihre praktische Prüfung bei Herrn Brandl machen.",
-      "b": "mit Ines das Einparken üben.",
-      "c": "an den Bodensee fahren."
+      "b": "mit dem Auto von Ines das Parken trainieren.",
+      "c": "mit Ines an den Bodensee fahren."
      },
      "answer": "b"
     },
@@ -241,9 +241,9 @@
      "no": "15",
      "stem": "Für die Übungsstunde am Sonntag …",
      "options": {
-      "a": "übernimmt Sandra das Benzin.",
-      "b": "bezahlt Sandra Ines 65 Euro für die Stunde.",
-      "c": "fährt Sandra mit dem Fahrrad."
+      "a": "übernimmt Sandra die Kosten für das Benzin.",
+      "b": "gibt Sandra Ines 65 Euro für die Stunde.",
+      "c": "fährt Sandra wie früher mit dem Fahrrad."
      },
      "answer": "a"
     }
@@ -259,27 +259,27 @@
    "items": [
     {
      "no": "16",
-     "text": "Familie Schulte möchte in den Sommerferien zwei Wochen ans Meer. Sie sucht eine Unterkunft mit eigener Küche, und der Hund der Familie soll mitkommen.",
+     "text": "Familie Schulte möchte in den Sommerferien zwei Wochen am Meer verbringen. Sie will dort selbst kochen, und ihr Hund soll auch mitfahren.",
      "answer": "d"
     },
     {
      "no": "17",
-     "text": "Herr und Frau Demir möchten ihren Hochzeitstag in einem Hotel mit Sauna und gutem Restaurant feiern.",
+     "text": "Herr und Frau Demir feiern im Oktober ihren Hochzeitstag. Dafür möchten sie zwei Nächte in einem Hotel im Ausland verbringen. Hinfahren wollen sie mit ihrem eigenen Auto.",
      "answer": "X"
     },
     {
      "no": "18",
-     "text": "Frau Ritter fährt nicht gern selbst Auto. Im Herbst möchte sie ein paar Tage eine Stadt im Ausland besuchen und sich dabei um nichts kümmern müssen.",
+     "text": "Frau Ritter fährt nicht gern selbst Auto. Im Herbst möchte sie ein paar Tage in eine Stadt im Ausland reisen. Hotel, Programm und alles andere soll jemand für sie organisieren.",
      "answer": "e"
     },
     {
      "no": "19",
-     "text": "Lukas macht mit drei Freunden eine Radtour am Rhein. Sie suchen für eine Nacht eine günstige Unterkunft. Ein Zelt wollen sie nicht mitnehmen.",
+     "text": "Lukas fährt mit drei Freunden mit dem Fahrrad am Rhein entlang. Für eine Nacht brauchen sie ein Bett, das nicht viel kostet. Ein Zelt haben sie nicht dabei.",
      "answer": "a"
     },
     {
      "no": "20",
-     "text": "Jana und ihr Freund haben ein Zelt. Für ein langes Wochenende suchen sie einen Platz direkt am Wasser.",
+     "text": "Jana und ihr Freund haben ein eigenes Zelt. Von Freitag bis Montag möchten sie in der Natur schlafen und morgens gleich schwimmen gehen.",
      "answer": "f"
     }
    ],
@@ -320,7 +320,7 @@
    "items": [
     {
      "no": "1",
-     "stem": "Wann können Besucher heute bei der Fütterung der Pinguine zusehen?",
+     "stem": "Wann werden die Pinguine heute gefüttert?",
      "options": {
       "a": "Um 14.30 Uhr.",
       "b": "Um 15 Uhr.",
@@ -330,31 +330,31 @@
     },
     {
      "no": "2",
-     "stem": "Warum ist die Reparatur teurer als geplant?",
+     "stem": "Warum muss Frau Schäfer mehr bezahlen als besprochen?",
      "options": {
-      "a": "Die Bremsen waren kaputt.",
-      "b": "Die Werkstatt hat länger gearbeitet.",
-      "c": "Neue Reifen waren nötig."
+      "a": "Die Bremsen mussten repariert werden.",
+      "b": "Die Werkstatt brauchte mehr Zeit für das Auto.",
+      "c": "Das Auto hat neue Reifen bekommen."
      },
      "answer": "c"
     },
     {
      "no": "3",
-     "stem": "Wie kommt man am besten zum Stadtfest?",
+     "stem": "Was empfiehlt das Radio den Besuchern des Stadtfests?",
      "options": {
-      "a": "Mit dem Auto bis in die Altstadt.",
-      "b": "Mit dem Bus vom Bahnhof.",
-      "c": "Mit dem Auto zum Parkhaus am Markt."
+      "a": "Mit dem Auto direkt in die Altstadt fahren.",
+      "b": "Am Bahnhof parken und dann den Bus nehmen.",
+      "c": "Das Auto im Parkhaus am Markt abstellen."
      },
      "answer": "b"
     },
     {
      "no": "4",
-     "stem": "Was ist heute im Museum anders?",
+     "stem": "Was ist heute im Museum anders als sonst?",
      "options": {
-      "a": "Heute kann man die Ausstellung zum letzten Mal sehen.",
-      "b": "Das Museum schließt früher als sonst.",
-      "c": "Das Café bleibt heute länger geöffnet."
+      "a": "Man kann die Spielzeugausstellung heute zum letzten Mal sehen.",
+      "b": "Man muss das Museum zwei Stunden früher verlassen.",
+      "c": "Das Café im Erdgeschoss ist länger offen."
      },
      "answer": "b"
     },
@@ -362,9 +362,9 @@
      "no": "5",
      "stem": "Wo findet das Treffen statt?",
      "options": {
-      "a": "Im Büro von Herrn Gruber.",
-      "b": "In einem Hotel.",
-      "c": "In Miriams Büro."
+      "a": "Im Büro von Herrn Gruber, wie geplant.",
+      "b": "In einem Hotel beim Bahnhof.",
+      "c": "In Miriams Büro, weil ihr Laptop kaputt ist."
      },
      "answer": "b"
     }
@@ -579,7 +579,7 @@
     },
     {
      "no": "20",
-     "text": "Tobias möchte später in einer anderen Stadt arbeiten.",
+     "text": "Tobias möchte nach der Meisterprüfung in einer anderen Stadt einen eigenen Betrieb gründen.",
      "answer": "Nein"
     }
    ]
@@ -689,31 +689,31 @@
      "no": "1",
      "ans": "b",
      "typ": "P",
-     "note": "„Das nächste Kino ist 40 Kilometer entfernt“ = weit weg; a: Die Tochter hilft nur beim Kauf der Leinwand; c: Der Eintritt ist kostenlos."
+     "note": "„Das nächste Kino ist 40 Kilometer entfernt“, „Für Jugendliche ohne Auto ist das ein echtes Problem“ = junge Leute kommen sonst kaum ins Kino; a: Die Tochter kauft die Leinwand mit und malt Plakate; c: „Eintritt muss niemand bezahlen“."
     },
     {
      "no": "2",
      "ans": "a",
      "typ": "P",
-     "note": "„Die Stühle hat ihm die Grundschule geschenkt“ = Geschenk; b: Gekauft hat er die Leinwand, nicht die Stühle; c: Der Sportverein verkauft Getränke."
+     "note": "„Die Stühle hat ihm die Grundschule geschenkt“ = „keinen Cent gekostet“; b: Mit der Tochter hat er die Leinwand gekauft, nicht die Stühle; c: Der Sportverein verkauft Getränke, Popcorn und Würstchen."
     },
     {
      "no": "3",
      "ans": "c",
      "typ": "P",
-     "note": "„Im Winter bleibt die Scheune geschlossen“ = kein Kino; a: Familienfilme zeigt er nur „meistens“; b steht nicht im Text."
+     "note": "„In den Wintermonaten bleibt die Scheune geschlossen“ = das Kino macht Pause; a: Familienfilme zeigt er nur „meistens“, und zwar im Sommer; b steht nicht im Text."
     },
     {
      "no": "4",
      "ans": "c",
      "typ": "N",
-     "note": "„entscheidet er nicht allein“, die Besucher schreiben „ihre Wünsche“ auf eine Tafel; a wird ausdrücklich verneint; b steht nicht im Text."
+     "note": "„entscheidet er nicht allein“, die Kinobesucher schreiben „ihre Filmwünsche“ auf eine Tafel = die Gäste entscheiden mit; a wird ausdrücklich verneint; b: Auf die Tafel „Am Scheunentor“ schreiben die Kinobesucher, nicht Wendt (Wortfalle, falsche Person)."
     },
     {
      "no": "5",
      "ans": "a",
      "typ": "P",
-     "note": "„einen neuen Beamer gekauft“ = Technik; b: Getränke und Popcorn „werden vom Sportverein verkauft“; c steht nicht im Text."
+     "note": "„einen neuen Beamer gekauft“ = ein Gerät für die Filme besorgt; b: Getränke und Popcorn „werden vom Sportverein verkauft“; c steht nicht im Text."
     }
    ],
    "L2": [
@@ -721,31 +721,31 @@
      "no": "6",
      "ans": "b",
      "typ": "P",
-     "note": "Hose kürzer machen lassen → Änderungsschneiderei im 2. Stock; die Damenmode im 1. Stock ist die Falle."
+     "note": "Jeans zu lang, nicht selbst nähen → Änderungsschneiderei („Hosen kürzen“) im 2. Stock; die Damenbekleidung im 1. Stock ist die Falle."
     },
     {
      "no": "7",
      "ans": "c",
      "typ": "I",
-     "note": "Geschenk gegen etwas anderes tauschen → Kundenservice („Umtausch“) im EG = anderer Stock; „Umtausch“ muss man mit der Aufgabe verbinden."
+     "note": "etwas anderes für das Geschenk bekommen → „Umtausch nur mit Kassenzettel“ beim Kundenservice im EG = anderer Stock; das Wort „Umtausch“ steht nicht in der Aufgabe."
     },
     {
      "no": "8",
      "ans": "a",
-     "typ": "P",
-     "note": "Feuerwehrauto aus Holz = Spielzeug → Spielwaren im 1. Stock; Handys und Zubehör im EG passen nicht."
+     "typ": "I",
+     "note": "„Wunschzettel“ mit Feuerwehrauto aus Holz = Spielzeug → „Spielwaren“ im 1. Stock; im EG gibt es Bücher und Schreibwaren, aber kein Spielzeug."
     },
     {
      "no": "9",
      "ans": "b",
-     "typ": "P",
-     "note": "Bettwäsche für das Gästebett → 3. Stock; im 2. Stock gibt es Mode und Koffer, aber keine Bettwäsche."
+     "typ": "I",
+     "note": "nichts „für den Kopf“ und nichts „zum Zudecken“ → „Bettdecken, Kopfkissen, Bettwäsche“ im 3. Stock; die „Fahrradhelme“ im 2. Stock sind die Falle (auch etwas für den Kopf)."
     },
     {
      "no": "10",
      "ans": "c",
      "typ": "I",
-     "note": "Rucksack für die Wanderung → „Koffer, Rucksäcke und Taschen“ im 2. Stock = anderer Stock; EG (Handys) und 3. Stock (Möbel) sind Fallen."
+     "note": "eine große Tasche, „die man auf dem Rücken trägt“ = Rucksack → „Reisegepäck: Koffer, Rucksäcke, Reisetaschen“ im 2. Stock = anderer Stock; EG und 3. Stock sind Fallen."
     }
    ],
    "L3": [
@@ -753,31 +753,31 @@
      "no": "11",
      "ans": "c",
      "typ": "P",
-     "note": "„im Mai sind wir aufs Land gezogen, und hier fährt der Bus nur zweimal am Tag“ = kaum Busse; a: Von einer neuen Stelle steht nichts im Text."
+     "note": "„im Mai sind wir aufs Land gezogen, und in unserem Dorf fährt der Bus nur zweimal am Tag“ = kaum Busse am neuen Wohnort; a: Von einer neuen Stelle steht nichts im Text, Köln ist der alte Wohnort."
     },
     {
      "no": "12",
      "ans": "a",
      "typ": "P",
-     "note": "„keinen einzigen Fehler gemacht“ = alles richtig; b: Angst hatte sie in der ersten Fahrstunde; c: „keinen einzigen“ heißt null, nicht wenige."
+     "note": "„keinen einzigen Fehler gemacht“ = jede Frage richtig beantwortet; b: Angst hatte sie „In der ersten Fahrstunde“; c: „keinen einzigen“ heißt null, nicht wenige."
     },
     {
      "no": "13",
      "ans": "b",
      "typ": "P",
-     "note": "„Nur beim Einparken brauche ich seiner Meinung nach noch zu lange“ = parkt zu langsam ein; a: Er sagt, dass sie „sicher“ fährt."
+     "note": "„Nur beim Einparken brauche ich seiner Meinung nach noch zu lange“ = beim Parken zu langsam; a: „Herr Brandl sagt, dass ich sicher fahre“; c: Sie hat noch sechs Fahrstunden."
     },
     {
      "no": "14",
      "ans": "b",
      "typ": "P",
-     "note": "„Könnten wir am Sonntag mit deinem Auto zusammen üben?“, „das Einparken üben“; a: Die Prüfung ist am 12. Dezember; c: Der Ausflug ist „im Frühling“."
+     "note": "„Könnten wir am Sonntag mit deinem Auto zusammen üben?“, „das Einparken üben“ = mit dem Auto von Ines das Parken trainieren; a: Die Prüfung ist am 12. Dezember; c: Der Ausflug ist „im Frühling“."
     },
     {
      "no": "15",
      "ans": "a",
      "typ": "P",
-     "note": "„Das Benzin bezahle ich natürlich“ = Sandra übernimmt das Benzin; b: 65 Euro kostet eine Fahrstunde (Wortfalle); c: Rad fuhr sie nur früher in Köln."
+     "note": "„Das Benzin bezahle ich natürlich“ = Sandra übernimmt die Kosten; b: 65 Euro kostet eine Fahrstunde (Wortfalle); c: Rad fuhr sie nur früher in Köln."
     }
    ],
    "L4": [
@@ -785,31 +785,31 @@
      "no": "16",
      "ans": "d",
      "typ": "I",
-     "note": "zwei Wochen am Meer, eigene Küche, Hund → Ferienwohnung in Zingst (Strand, Küche, „Haustiere sind willkommen“, ab 7 Nächten)."
+     "note": "zwei Wochen am Meer, selbst kochen, Hund → Ferienwohnung in Zingst („mit Küche“, „Haustiere sind willkommen“, ab 7 Nächten); der Campingplatz (f) liegt an einem See."
     },
     {
      "no": "17",
      "ans": "X",
      "typ": "N",
-     "note": "Hotel mit Sauna und Restaurant → keine Anzeige passt; Prag-Reise (e) nennt beides nicht, Jugendherberge (a) und Ferienwohnung (d) sind keine Hotels."
+     "note": "Oktober, zwei Nächte im Hotel im Ausland, aber mit dem eigenen Auto → keine Anzeige passt; die Prag-Reise (e) passt bei Zeit, Hotel und Ausland, fährt aber „mit dem Reisebus“; Jugendherberge (a) und Ferienwohnung (d) liegen in Deutschland und sind keine Hotels."
     },
     {
      "no": "18",
      "ans": "e",
      "typ": "P",
-     "note": "nicht selbst fahren, Stadt im Ausland, sich um nichts kümmern → Busreise nach Prag mit Reiseleiterin, „die sich um alles kümmert“."
+     "note": "nicht selbst fahren, Stadt im Ausland, jemand organisiert alles → Busreise nach Prag mit Reiseleiterin, „die sich um alles kümmert“."
     },
     {
      "no": "19",
      "ans": "a",
      "typ": "I",
-     "note": "günstige Unterkunft für eine Nacht, kein Zelt → Jugendherberge ab 29 €; der Campingplatz (f) ist die Falle: Zelte kann man dort nicht mieten."
+     "note": "ein günstiges Bett für eine Nacht, kein Zelt → Jugendherberge ab 29 €, „Radfahrer sind willkommen“; der Campingplatz (f) ist die Falle: „Zelte kann man bei uns nicht mieten“."
     },
     {
      "no": "20",
      "ans": "f",
      "typ": "I",
-     "note": "eigenes Zelt, Platz direkt am Wasser → Campingplatz am Ufer des Brombachsees; die Floßfahrt (c) ist nur ein Tagesausflug ohne Übernachtung."
+     "note": "eigenes Zelt, in der Natur schlafen, morgens schwimmen → Campingplatz „direkt am Ufer des Brombachsees“ mit Badestelle; d verlangt mindestens 7 Nächte, die Floßfahrt (c) ist nur ein Tagesausflug."
     }
    ],
    "H1": [
@@ -823,25 +823,25 @@
      "no": "2",
      "ans": "c",
      "typ": "P",
-     "note": "Teurer, weil die Werkstatt „zwei neue Reifen montieren“ musste; a: Die Bremsen „waren in Ordnung“; b steht nicht im Text."
+     "note": "Teurer, weil die Werkstatt „zwei neue Reifen montieren“ musste = neue Reifen bekommen; a: Die Bremsen „waren in Ordnung“; b steht nicht im Text."
     },
     {
      "no": "3",
      "ans": "b",
      "typ": "N",
-     "note": "Altstadt „für Autos gesperrt“, Parkhaus am Markt „bleibt geschlossen“ → Bus vom Bahnhof."
+     "note": "Altstadt „für Autos gesperrt“, Parkhaus am Markt „bleibt geschlossen“ → „Parken Sie am besten am Bahnhof“ und weiter mit dem Bus."
     },
     {
      "no": "4",
      "ans": "b",
      "typ": "N",
-     "note": "„schließt das Museum heute schon um 17 Uhr und nicht wie sonst um 19 Uhr“ = früher; das Café ist heute „geschlossen“ (c)."
+     "note": "„schließt das Museum heute schon um 17 Uhr und nicht wie sonst um 19 Uhr“ = zwei Stunden früher gehen; a: Die Ausstellung läuft „noch bis Sonntag“; c: Das Café ist heute „geschlossen“."
     },
     {
      "no": "5",
      "ans": "b",
      "typ": "N",
-     "note": "„nicht in seinem Büro, sondern im Hotel am Bahnhof“; a: Herrn Grubers Büro wird verneint; c: Von Miriams Büro ist nicht die Rede."
+     "note": "„nicht in seinem Büro, sondern im Hotel am Bahnhof“; a: Das Büro von Herrn Gruber wird verneint; c: Miriams Laptop ist kaputt („Meiner ist kaputt“), aber von ihrem Büro ist nicht die Rede."
     }
    ],
    "H2": [
@@ -937,10 +937,10 @@
      "no": "20",
      "ans": "Nein",
      "typ": "N",
-     "note": "„natürlich hier in Rostock“ = nicht in einer anderen Stadt."
+     "note": "„Danach möchte ich einen eigenen Betrieb gründen, natürlich hier in Rostock“ = nicht in einer anderen Stadt."
     }
    ]
   },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 2 von 15 Fällen die längste Option, in 8 die mittlere, in 5 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 4 von 15 Fällen die längste Option, in 7 die mittlere, in 4 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
  }
 }

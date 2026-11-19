@@ -1,946 +1,946 @@
 {
- "id": 4,
- "roman": "IV",
- "lesen": {
-  "t1": {
-   "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
-   "title": "Ein Jahr ohne Auto",
-   "lead": "Familie Hartmann aus Bergheim hat zwölf Monate ohne eigenes Auto gelebt. Jetzt erzählt sie, wie dieses Jahr verlaufen ist.",
-   "paragraphs": [
-    "Als im letzten Frühjahr das alte Auto der Hartmanns endgültig kaputtging, wollten sie eigentlich sofort ein neues kaufen. „Aber dann hat unsere Tochter gefragt, ob wir es nicht ein Jahr lang ohne Auto versuchen wollen“, erzählt Sandra Hartmann. Die Familie wohnt am Rand einer Kleinstadt. Bis zum Arbeitsplatz und zur Schule sind es sechs Kilometer.",
-    "Anstelle eines neuen Autos hat die Familie ein Lastenrad gekauft, das auch für größere Einkäufe genug Platz bietet. Damit bringt Sandra Hartmann morgens ihren vierjährigen Sohn in den Kindergarten und erledigt nachmittags die Besorgungen. Ihr Ehemann Jens fährt mit dem Linienbus ins Büro, obwohl die Busfahrt fast eine halbe Stunde dauert. „Im Winter war das anstrengend, besonders bei Regen“, erklärt er. Für Besuche bei den Großeltern, die 200 Kilometer entfernt wohnen, nimmt die Familie den Zug. Wenn es wirklich keine andere Möglichkeit gibt, leihen sich die Hartmanns in der Stadt ein Carsharing-Auto.",
-    "Das Ergebnis nach zwölf Monaten: Die Familie hat fast 3000 Euro gespart und bewegt sich viel öfter an der frischen Luft. Ein neues Auto möchten die Hartmanns deshalb nicht mehr anschaffen. Zwei Wünsche an die Gemeinde haben sie aber noch: mehr Radwege und einen Bus, der auch sonntags fährt."
-   ],
-   "quote": "„Im Winter war das anstrengend, besonders bei Regen.“",
-   "source": "aus einer deutschen Tageszeitung",
-   "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Ein Jahr ohne Auto“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "example": {
-    "no": "0",
-    "stem": "Familie Hartmann …",
-    "options": {
-     "a": "hat ein neues Auto gekauft.",
-     "b": "hat zwölf Monate lang ohne eigenes Auto gelebt.",
-     "c": "wohnt im Zentrum einer Großstadt."
+  "id": 4,
+  "roman": "IV",
+  "lesen": {
+    "t1": {
+      "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+      "title": "Ein Jahr ohne Auto",
+      "lead": "Familie Hartmann aus Bergheim hat zwölf Monate ohne eigenes Auto gelebt. Jetzt erzählt sie, wie dieses Jahr verlaufen ist.",
+      "paragraphs": [
+        "Als im letzten Frühjahr das alte Auto der Hartmanns endgültig kaputtging, wollten Sandra und Jens sofort ein neues anschaffen. „Aber dann hat unsere Tochter gefragt, ob wir es nicht ein Jahr lang ohne Auto versuchen wollen“, erzählt Sandra. Die Hartmanns wohnen am Rand einer Kleinstadt. Bis zum Arbeitsplatz und zur Schule sind es sechs Kilometer.",
+        "Statt eines neuen Autos hat die Familie ein Lastenrad gekauft, das auch für den Wocheneinkauf genug Platz hat. Mit dem Lastenrad bringt Sandra morgens ihren vierjährigen Sohn in die Kita und macht nachmittags die Einkäufe. Ihr Mann Jens fährt mit dem Linienbus ins Büro, obwohl die Busfahrt fast eine halbe Stunde dauert. „Im Winter war das anstrengend, besonders bei Regen“, sagt Jens. „Die Busse hatten oft Verspätung, und an der Haltestelle war es eiskalt.“ Für Besuche bei den Großeltern, die 200 Kilometer entfernt wohnen, nehmen die Hartmanns den Zug. Wenn es wirklich keine andere Möglichkeit gibt, leihen sie sich in der Innenstadt ein Carsharing-Auto.",
+        "Das Ergebnis nach zwölf Monaten: Die Familie hat fast 3000 Euro gespart, weil sie nicht mehr tanken und keine Reparaturen bezahlen muss. Außerdem sind alle viel öfter an der frischen Luft. Ein neues Auto möchten die Hartmanns deshalb nicht mehr anschaffen. Zwei Wünsche an die Gemeinde haben sie aber noch: mehr Radwege und Busse, die auch sonntags fahren."
+      ],
+      "quote": "„Im Winter war das anstrengend, besonders bei Regen.“",
+      "source": "aus einer deutschen Tageszeitung",
+      "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Ein Jahr ohne Auto“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "example": {
+        "no": "0",
+        "stem": "Familie Hartmann …",
+        "options": {
+          "a": "hat ein neues Auto gekauft.",
+          "b": "hat zwölf Monate lang ohne eigenes Auto gelebt.",
+          "c": "wohnt im Zentrum einer Großstadt."
+        },
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "1",
+          "stem": "Die Idee, ein Jahr ohne Auto zu leben, …",
+          "options": {
+            "a": "hat die Tochter vorgeschlagen.",
+            "b": "hatten die Eltern, als das alte Auto kaputtging.",
+            "c": "hatte Sandra Hartmann im letzten Frühjahr."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "2",
+          "stem": "Sandra Hartmann …",
+          "options": {
+            "a": "bringt ihren Sohn mit dem Bus in die Kita.",
+            "b": "macht ihre Einkäufe schon am Vormittag.",
+            "c": "benutzt das Lastenrad auch zum Einkaufen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "3",
+          "stem": "Jens Hartmann …",
+          "options": {
+            "a": "fährt gern bei Regen mit dem Bus.",
+            "b": "hatte es in den kalten Monaten nicht leicht.",
+            "c": "fährt mit dem Lastenrad ins Büro."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "4",
+          "stem": "Zu den Großeltern …",
+          "options": {
+            "a": "fahren die Hartmanns mit der Bahn.",
+            "b": "fahren sie mit einem Carsharing-Auto.",
+            "c": "dauert die Busfahrt eine halbe Stunde."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "5",
+          "stem": "Nach dem Jahr ohne Auto …",
+          "options": {
+            "a": "möchte die Familie bald wieder eins anschaffen.",
+            "b": "gibt es in Bergheim schon mehr Radwege.",
+            "c": "hat die Familie weniger Geld ausgegeben."
+          },
+          "answer": "c"
+        }
+      ],
+      "image": "img/mt4-lesen-foto.jpg",
+      "imageAlt": "Eine Frau fährt mit dem Lastenrad durch ein Dorf. Vorn im Rad sitzt ein Kind mit Helm, im Hintergrund fährt ein Bus."
     },
-    "answer": "b"
-   },
-   "items": [
-    {
-     "no": "1",
-     "stem": "Die Idee, ein Jahr ohne Auto zu leben, …",
-     "options": {
-      "a": "kam von der Tochter der Familie.",
-      "b": "hatten die Eltern nach dem Defekt selbst.",
-      "c": "stand vorher in der Zeitung."
-     },
-     "answer": "a"
+    "t2": {
+      "instruction": "Sie sind im Stadttheater. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
+      "board": {
+        "title": "Stadttheater Grünberg",
+        "label": "WEGWEISER",
+        "rows": [
+          {
+            "floor": "2. Stock",
+            "text": "Zweiter Rang (Reihen 1–8) · Studiobühne (Lesungen und kleine Theaterstücke, Vorstellungsbeginn 20 Uhr) · Theaterpädagogik (Workshops für Schulklassen, Anmeldung über die Schule) · Theaterleitung und Verwaltung"
+          },
+          {
+            "floor": "1. Stock",
+            "text": "Erster Rang (Reihen 1–6) · Foyer-Bar (Pausengetränke, Vorbestellung vor Vorstellungsbeginn – ohne Wartezeit während der Pause) · Garderobe Rang (nur für Gäste mit Rangplätzen) · Terrasse für Raucher · Ausstellung „100 Jahre Stadttheater“ (Fotos und Kostüme, Eintritt frei)"
+          },
+          {
+            "floor": "EG",
+            "text": "Haupteingang · Abendkasse (Kartenverkauf; reservierte Karten bis 15 Minuten vor Vorstellungsbeginn abholen und bezahlen) · Garderobe Parkett (nur für Gäste mit Parkettplätzen) · Parkett (Reihen 1–18) · Rollstuhlplätze (Reihe 1, mit Sitzplatz für eine zweite Person) · Theatershop (Programmhefte, Theaterbücher, Geschenkgutscheine)"
+          },
+          {
+            "floor": "UG",
+            "text": "Theatercafé (warme Speisen ab zwei Stunden vor Vorstellungsbeginn, während der Pause nur Getränke und Kuchen) · Toiletten · Kinderbetreuung bei Nachmittagsvorstellungen (Spielzimmer mit Erzieherinnen, 3–8 Jahre) · Fundbüro · Ausgang zur Tiefgarage"
+          }
+        ]
+      },
+      "example": {
+        "no": "0",
+        "stem": "Sie haben Karten für heute Abend reserviert und möchten sie jetzt bezahlen und abholen.",
+        "options": {
+          "a": "EG",
+          "b": "1. Stock",
+          "c": "anderer Stock"
+        },
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "6",
+          "stem": "Ihr Platz ist im ersten Rang, Reihe 3. Draußen ist es kalt, aber Ihre dicke Winterjacke möchten Sie nicht mit zu Ihrem Platz nehmen.",
+          "options": {
+            "a": "EG",
+            "b": "1. Stock",
+            "c": "anderer Stock"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "7",
+          "stem": "In der Pause möchten Sie ein Glas Sekt trinken. Weil die Pause kurz ist, wollen Sie dafür nicht lange warten.",
+          "options": {
+            "a": "EG",
+            "b": "2. Stock",
+            "c": "anderer Stock"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "8",
+          "stem": "Sie kommen direkt von der Arbeit und haben seit dem Mittag nichts mehr gegessen. Bis zum Beginn der Vorstellung sind es noch neunzig Minuten.",
+          "options": {
+            "a": "UG",
+            "b": "EG",
+            "c": "anderer Stock"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "9",
+          "stem": "Ihre Freundin sitzt seit einem Unfall im Rollstuhl. Sie gehen mit ihr ins Theater und möchten im Saal direkt neben ihr sitzen.",
+          "options": {
+            "a": "1. Stock",
+            "b": "EG",
+            "c": "anderer Stock"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "10",
+          "stem": "Sie haben Karten für ein Stück am Sonntagnachmittag, das nichts für Kinder ist. Für Ihre Tochter (5) haben Sie keinen Babysitter gefunden.",
+          "options": {
+            "a": "2. Stock",
+            "b": "1. Stock",
+            "c": "anderer Stock"
+          },
+          "answer": "c"
+        }
+      ]
     },
-    {
-     "no": "2",
-     "stem": "Sandra Hartmann …",
-     "options": {
-      "a": "fährt ihren Sohn mit dem Bus zum Kindergarten.",
-      "b": "arbeitet in einem Büro in der Stadt.",
-      "c": "erledigt ihre Besorgungen mit dem Lastenrad."
-     },
-     "answer": "c"
+    "t3": {
+      "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+      "mail": {
+        "from": "Nina Schulte",
+        "to": "Katja Winter",
+        "subject": "Wir heiraten! Und eine Bitte …",
+        "greeting": "Liebe Katja,",
+        "closing": [
+          "Liebe Grüße, auch von Tom",
+          "Nina"
+        ],
+        "paragraphs": [
+          "du wirst es nicht glauben: Tom und ich heiraten – nach sieben Jahren zusammen! Die Hochzeit ist am Samstag, dem 15. August. Tom hat mich bei einer Wanderung in den Bergen gefragt, ob ich ihn heiraten möchte, und den Verlobungsring hatte er die ganze Zeit im Rucksack. Eigentlich wollten wir nur zu zweit aufs Standesamt gehen, aber meine Mutter hat so lange geredet, bis wir einer kleinen Familienfeier zugestimmt haben. Jetzt kommen tatsächlich fünfzig Gäste, obwohl wir höchstens zehn Personen einladen wollten.",
+          "Die Trauung ist um 11 Uhr im Standesamt, danach feiern wir im Garten meiner Eltern. Weil die Wettervorhersage unsicher ist, haben wir vorsichtshalber ein großes Festzelt bestellt. Das Essen liefert ein Restaurant aus dem Nachbardorf, aber den Kuchen backen meine Tante und ihre Nachbarinnen. Ich darf leider nicht mithelfen, weil das in unserer Familie Tradition ist. Für die Musik sorgt eine Band aus Toms Fußballverein.",
+          "Und jetzt meine Bitte: Du fotografierst doch so gern. Könntest du bei der Feier die Hochzeitsfotos machen? Für einen richtigen Fotografen reicht unser Geld nach dem Festzelt und der Musik nicht mehr. Mein Vater wollte zuerst selbst fotografieren, aber auf seinen Urlaubsfotos fehlen immer die Köpfe. Natürlich musst du nicht den ganzen Tag fotografieren. Es reicht uns, wenn du nur bei der Trauung und danach ein bisschen im Garten Aufnahmen machst.",
+          "Außerdem suchen wir jemanden, der Toms Großmutter abholt. Sie wohnt in Halle und fährt nicht mehr gern Zug, weil ihr die Bahnhöfe zu groß und zu laut sind. Mit dem Auto sind es aber nur ungefähr zwei Stunden. Vielleicht kennst du jemanden, der an diesem Wochenende Zeit und ein Auto hat.",
+          "Komm bitte schon am Freitag, dann können wir gemeinsam den Garten schmücken und abends in Ruhe über alles sprechen. Übernachten kannst du bei uns, denn das Gästezimmer ist frei. Ich freue mich wahnsinnig auf dich!"
+        ]
+      },
+      "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Ninas E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "example": {
+        "no": "0",
+        "stem": "Nina und Tom …",
+        "options": {
+          "a": "sind seit sieben Jahren verheiratet.",
+          "b": "heiraten im August.",
+          "c": "wollten nur zu zweit feiern."
+        },
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "11",
+          "stem": "Die Feier …",
+          "options": {
+            "a": "ist größer geworden, als Nina und Tom wollten.",
+            "b": "findet nur im kleinen Kreis im Standesamt statt.",
+            "c": "war von Anfang an Toms großer Wunsch."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "12",
+          "stem": "Den Kuchen …",
+          "options": {
+            "a": "bestellt Nina bei einem Restaurant im Nachbardorf.",
+            "b": "backt Nina zusammen mit ihrer Tante.",
+            "c": "machen eine Verwandte und ihre Nachbarinnen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "13",
+          "stem": "Nina bittet Katja, …",
+          "options": {
+            "a": "für die Hochzeit einen richtigen Fotografen zu suchen.",
+            "b": "den ganzen Tag lang zu fotografieren.",
+            "c": "während der Trauung und kurz danach zu fotografieren."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "14",
+          "stem": "Toms Oma …",
+          "options": {
+            "a": "fährt allein mit dem Zug nach Halle.",
+            "b": "braucht jemanden, der sie mit dem Wagen holt.",
+            "c": "wohnt bei Toms Eltern."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "15",
+          "stem": "Katja soll …",
+          "options": {
+            "a": "schon einen Tag vor der Feier ankommen.",
+            "b": "am Freitag in einem Hotel übernachten.",
+            "c": "am Freitag allein den Garten der Eltern schmücken."
+          },
+          "answer": "a"
+        }
+      ]
     },
-    {
-     "no": "3",
-     "stem": "Jens Hartmann …",
-     "options": {
-      "a": "fährt gern bei Regen mit dem Bus.",
-      "b": "fand den Winter ohne Auto schwierig.",
-      "c": "fährt mit dem Rad ins Büro."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "4",
-     "stem": "Die Großeltern …",
-     "options": {
-      "a": "besucht die Familie mit der Bahn.",
-      "b": "bekommen Besuch im geliehenen Auto.",
-      "c": "wohnen jetzt in der Nähe von Bergheim."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "5",
-     "stem": "Nach dem Jahr ohne Auto …",
-     "options": {
-      "a": "möchte die Familie bald wieder eins kaufen.",
-      "b": "gibt es in Bergheim schon mehr Radwege.",
-      "c": "ist das Familienkonto etwas voller als vorher."
-     },
-     "answer": "c"
+    "t4": {
+      "instruction": "Sechs Personen suchen in der Zeitung und im Internet eine Wohnung. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
+      "example": {
+        "no": "0",
+        "text": "Jana studiert ab Oktober in Grünberg und sucht ein Zimmer. Viel Geld hat sie nicht.",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "16",
+          "text": "Familie Aydin braucht mehr Platz für ihre zwei Kinder. Der Hund soll natürlich mitkommen, und die Kinder möchten nach der Schule draußen spielen, aber nicht auf der Straße.",
+          "answer": "c"
+        },
+        {
+          "no": "17",
+          "text": "Familie Kowalski möchte im August zwei Wochen am Meer verbringen, am liebsten mit Blick aufs Wasser.",
+          "answer": "X"
+        },
+        {
+          "no": "18",
+          "text": "Herr und Frau Lemke sind beide über 70. Sie wohnen im vierten Stock, und das Haus hat keinen Aufzug. Das Treppensteigen fällt ihnen jeden Tag schwerer.",
+          "answer": "d"
+        },
+        {
+          "no": "19",
+          "text": "Marco hat in Grünberg für drei Monate eine Stelle bekommen. Er möchte dafür keine eigenen Möbel kaufen.",
+          "answer": "e"
+        },
+        {
+          "no": "20",
+          "text": "Nora und Elias suchen ihre erste gemeinsame Wohnung, in der sie viele Jahre bleiben möchten. Beide arbeiten in der Innenstadt und haben kein Auto. Die Miete soll nicht zu hoch sein.",
+          "answer": "b"
+        }
+      ],
+      "ads": {
+        "a": {
+          "img": "img/mt4-anzeige-a.png",
+          "alt": "P Pia & Anton heute, 18:42 Zimmer frei in unserer 3er-WG! 14 m², ab 1. Oktober, 290 € warm. Wir sind Pia (24, Lehramt) und Anton (26, Informatik). Küche und Bad teilen wir uns, eine Waschmaschine ist da. Möbel musst du selbst mitbringen. Mit dem Rad bist du in zehn Minuten an der Uni. Nur Nichtraucher/innen. Schreib uns einfach eine Nachricht!"
+        },
+        "b": {
+          "img": "img/mt4-anzeige-b.png",
+          "alt": "IMMOBILIEN KRÜGER EXPOSÉ Nr. 2231 Altbauwohnung im Zentrum 2 Zimmer, Küche, Bad, 58 m², 3. Stock ohne Aufzug, Balkon zum Hof. 620 € plus Nebenkosten. Keine Haustiere. Bus und Straßenbahn direkt vor der Tür, aber kein Parkplatz. Besichtigung: Samstag 10–12 Uhr"
+        },
+        "c": {
+          "img": "img/mt4-anzeige-c.png",
+          "alt": "IMMOBILIEN · VERMIETUNG Reihenhaus am Stadtrand 4 Zi., Garten, Garage 110 m², Terrasse, Kindergarten und Grundschule im Ort. Haustiere nach Absprache erlaubt. 1.150 € kalt, frei ab 1. September. Chiffre 4471 · Antworten an die Zeitung"
+        },
+        "d": {
+          "img": "img/mt4-anzeige-d.png",
+          "alt": "Wohnen ohne Stufen WOHNPARK LINDENHOF 2-Zimmer-Wohnung, 55 m², 2. Stock mit Aufzug, breite Türen, Dusche ohne Schwelle, Notrufknopf. Für Mieterinnen und Mieter ab 60 Jahren. Hausmeister im Haus, Supermarkt und Apotheke nur 200 Meter entfernt. 680 € warm · Tel. 0641 / 55 03 12"
+        },
+        "e": {
+          "img": "img/mt4-anzeige-e.png",
+          "alt": "KOMPLETT MÖBLIERT 750 €/Monat Apartment Bahnhofstraße 32 m² mit Bett, Schrank, Küche mit Geschirr, Fernseher und WLAN. 5 Minuten zu Fuß zum Bahnhof. Mietdauer 1 bis 6 Monate, 750 € inklusive Strom und Internet. Keine Kaution. Sofort frei · online buchen"
+        },
+        "f": {
+          "img": "img/mt4-anzeige-f.png",
+          "alt": "Urlaub an der Ostsee 85 € Ferienwohnung „Möwe“ 300 m zum Strand, für 2 bis 4 Personen, Balkon mit Meerblick, zwei Fahrräder inklusive. 85 € pro Nacht. Juli und August sind leider schon ausgebucht. www.fewo-moewe.de"
+        }
+      },
+      "unused": [
+        "f"
+      ]
     }
-   ],
-   "image": "img/mt4-lesen-foto.jpg",
-   "imageAlt": "Eine Frau fährt mit dem Lastenrad durch ein Dorf. Vorn im Rad sitzt ein Kind mit Helm, im Hintergrund fährt ein Bus."
   },
-  "t2": {
-   "instruction": "Sie sind im Stadttheater. Lesen Sie die Aufgaben 6 bis 10 und die Informationstafel. In welchen Stock gehen Sie? Wählen Sie die richtige Lösung a, b oder c.",
-   "board": {
-    "title": "Stadttheater Grünberg",
-    "label": "WEGWEISER",
-    "rows": [
-     {
-      "floor": "2. Stock",
-      "text": "Zweiter Rang (Reihen 1–8) · Studiobühne (kleine Stücke, Lesungen, Beginn um 20 Uhr) · Theaterpädagogik (Kurse für Schulklassen, Anmeldung über die Schule) · Büro der Theaterleitung"
-     },
-     {
-      "floor": "1. Stock",
-      "text": "Erster Rang (Reihen 1–6) · Foyer-Bar (Getränke in der Pause, Vorbestellung vor der Vorstellung möglich, damit man nicht in der Schlange steht) · Garderobe Rang (nur für Gäste mit Karten im Rang) · Ausstellung „100 Jahre Stadttheater“"
-     },
-     {
-      "floor": "EG",
-      "text": "Haupteingang · Abendkasse (reservierte Karten abholen und bezahlen, bis 15 Minuten vor Beginn) · Garderobe Parkett (nur für Gäste mit Karten im Parkett) · Parkett (Reihen 1–18) · Rollstuhlplätze (Reihe 1) · Theatershop (Programmhefte, Bücher, CDs)"
-     },
-     {
-      "floor": "UG",
-      "text": "Theatercafé (warme Küche ab zwei Stunden vor Beginn, danach nur Getränke und Kuchen) · Toiletten · Kinderbetreuung bei Nachmittagsvorstellungen (3–8 Jahre) · Fundsachen · Ausgang zur Tiefgarage"
-     }
-    ]
-   },
-   "example": {
-    "no": "0",
-    "stem": "Sie haben Karten für heute Abend reserviert und möchten sie jetzt bezahlen und abholen.",
-    "options": {
-     "a": "EG",
-     "b": "1. Stock",
-     "c": "anderer Stock"
-    },
-    "answer": "a"
-   },
-   "items": [
-    {
-     "no": "6",
-     "stem": "Auf Ihrer Karte steht: Erster Rang, Reihe 3. Sie möchten Ihren dicken Mantel vorher nicht mit in den Saal nehmen.",
-     "options": {
-      "a": "EG",
-      "b": "1. Stock",
-      "c": "anderer Stock"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "7",
-     "stem": "Sie möchten in der Pause ein Glas Sekt trinken, aber in der kurzen Zeit nicht in der Schlange stehen.",
-     "options": {
-      "a": "EG",
-      "b": "2. Stock",
-      "c": "anderer Stock"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "8",
-     "stem": "Sie kommen direkt von der Arbeit, haben großen Hunger, und die Vorstellung beginnt erst in anderthalb Stunden.",
-     "options": {
-      "a": "UG",
-      "b": "EG",
-      "c": "anderer Stock"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "9",
-     "stem": "Ihre Freundin kann nicht gehen und kommt heute im Rollstuhl zum ersten Mal mit ins Theater.",
-     "options": {
-      "a": "1. Stock",
-      "b": "EG",
-      "c": "anderer Stock"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "10",
-     "stem": "Sie haben Karten für die Nachmittagsvorstellung und suchen jemanden, der in dieser Zeit auf Ihre fünfjährige Tochter aufpasst.",
-     "options": {
-      "a": "2. Stock",
-      "b": "1. Stock",
-      "c": "anderer Stock"
-     },
-     "answer": "c"
-    }
-   ]
-  },
-  "t3": {
-   "instruction": "Sie lesen eine E-Mail. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
-   "mail": {
-    "from": "Nina Schulte",
-    "to": "Katja Winter",
-    "subject": "Wir heiraten! Und eine Bitte …",
-    "greeting": "Liebe Katja,",
-    "closing": [
-     "Liebe Grüße, auch von Tom",
-     "Nina"
-    ],
-    "paragraphs": [
-     "du wirst es nicht glauben: Tom und ich heiraten – nach sieben Jahren zusammen! Die Hochzeit ist am Samstag, dem 15. August. Tom hat mich bei einer Wanderung in den Bergen gefragt, ob ich ihn heiraten möchte, und den Verlobungsring hatte er die ganze Zeit im Rucksack. Eigentlich wollten wir nur zu zweit aufs Standesamt gehen, aber meine Mutter hat so lange geredet, bis wir einer kleinen Familienfeier zugestimmt haben. Jetzt kommen tatsächlich fünfzig Gäste, obwohl wir höchstens zehn Personen einladen wollten.",
-     "Die Trauung ist um 11 Uhr im Standesamt, danach feiern wir im Garten meiner Eltern. Weil die Wettervorhersage unsicher ist, haben wir vorsichtshalber ein großes Festzelt bestellt. Das Essen liefert ein Restaurant aus dem Nachbardorf, aber den Kuchen backen meine Tante und ihre Nachbarinnen. Ich darf leider nicht mithelfen, weil das in unserer Familie Tradition ist. Für die Musik sorgt eine Band aus Toms Fußballverein.",
-     "Und jetzt meine Bitte: Du fotografierst doch so gern. Könntest du bei der Feier die Hochzeitsfotos machen? Für einen richtigen Fotografen reicht unser Geld nach dem Festzelt und der Musik nicht mehr. Mein Vater wollte zuerst selbst fotografieren, aber auf seinen Urlaubsfotos fehlen immer die Köpfe. Natürlich musst du nicht den ganzen Tag fotografieren, denn es reicht uns, wenn du nur bei der Trauung und danach ein bisschen im Garten Aufnahmen machst.",
-     "Außerdem suchen wir jemanden, der Toms Großmutter abholt. Sie wohnt in Halle und fährt nicht mehr gern Zug, weil ihr die Bahnhöfe zu groß und zu laut sind, aber mit dem Auto braucht man ungefähr zwei Stunden. Vielleicht kennst du jemanden, der an diesem Wochenende Zeit und ein Auto hat.",
-     "Komm bitte schon am Freitag, dann können wir gemeinsam den Garten schmücken und abends in Ruhe über alles sprechen. Übernachten kannst du bei uns, denn das Gästezimmer ist frei. Ich freue mich wahnsinnig auf dich!"
-    ]
-   },
-   "tasksIntro": "Lesen Sie die Aufgaben 11 bis 15 zu Ninas E-Mail. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "example": {
-    "no": "0",
-    "stem": "Nina und Tom …",
-    "options": {
-     "a": "sind seit sieben Jahren verheiratet.",
-     "b": "heiraten im August.",
-     "c": "wollten nur zu zweit feiern."
-    },
-    "answer": "b"
-   },
-   "items": [
-    {
-     "no": "11",
-     "stem": "Die Feier …",
-     "options": {
-      "a": "ist größer geworden als geplant.",
-      "b": "findet nur im kleinen Kreis im Standesamt statt.",
-      "c": "war von Anfang an Toms großer Wunsch."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "12",
-     "stem": "Den Kuchen …",
-     "options": {
-      "a": "bestellt Nina bei einem Restaurant im Nachbardorf.",
-      "b": "backt Nina zusammen mit ihrer Tante.",
-      "c": "machen Verwandte und Nachbarinnen."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "13",
-     "stem": "Nina bittet Katja, …",
-     "options": {
-      "a": "für die Feier einen Fotografen zu suchen.",
-      "b": "den ganzen Tag lang zu fotografieren.",
-      "c": "nur einen Teil der Feier zu fotografieren."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "14",
-     "stem": "Toms Oma …",
-     "options": {
-      "a": "fährt allein mit dem Zug nach Halle.",
-      "b": "soll mit dem Auto abgeholt werden.",
-      "c": "wohnt bei Toms Eltern."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "15",
-     "stem": "Katja soll …",
-     "options": {
-      "a": "schon einen Tag vor der Hochzeit kommen.",
-      "b": "in einem Hotel in der Nähe übernachten.",
-      "c": "nur den Garten der Eltern fotografieren."
-     },
-     "answer": "a"
-    }
-   ]
-  },
-  "t4": {
-   "instruction": "Sechs Personen suchen in der Zeitung und im Internet eine Wohnung. Lesen Sie die Aufgaben 16 bis 20 und die Anzeigen a bis f. Welche Anzeige passt zu welcher Person? Für eine Aufgabe gibt es keine Lösung. Markieren Sie so: X. Die Anzeige aus dem Beispiel können Sie nicht mehr wählen.",
-   "example": {
-    "no": "0",
-    "text": "Jana studiert ab Oktober in Grünberg und sucht ein Zimmer. Viel Geld hat sie nicht.",
-    "answer": "a"
-   },
-   "items": [
-    {
-     "no": "16",
-     "text": "Familie Aydin hat zwei Kinder und einen Hund. Die Kinder möchten draußen spielen können.",
-     "answer": "c"
-    },
-    {
-     "no": "17",
-     "text": "Familie Kowalski sucht für zwei Wochen im August eine Ferienwohnung am Meer.",
-     "answer": "X"
-    },
-    {
-     "no": "18",
-     "text": "Herr und Frau Lemke sind über 70. Treppensteigen fällt ihnen schwer.",
-     "answer": "d"
-    },
-    {
-     "no": "19",
-     "text": "Marco arbeitet für drei Monate in Grünberg und braucht eine Wohnung mit Möbeln.",
-     "answer": "e"
-    },
-    {
-     "no": "20",
-     "text": "Nora und Elias arbeiten beide im Zentrum und haben kein Auto. Sie suchen eine Wohnung für zwei Personen, die nicht zu teuer ist.",
-     "answer": "b"
-    }
-   ],
-   "ads": {
-    "a": {
-     "img": "img/mt4-anzeige-a.png",
-     "alt": "P Pia & Anton heute, 18:42 Zimmer frei in unserer 3er-WG! 14 m², ab 1. Oktober, 290 € warm. Wir sind Pia (24, Lehramt) und Anton (26, Informatik). Küche und Bad teilen wir uns, eine Waschmaschine ist da. Möbel musst du selbst mitbringen. Mit dem Rad bist du in zehn Minuten an der Uni. Nur Nichtraucher/innen. Schreib uns einfach eine Nachricht!"
-    },
-    "b": {
-     "img": "img/mt4-anzeige-b.png",
-     "alt": "IMMOBILIEN KRÜGER EXPOSÉ Nr. 2231 Altbauwohnung im Zentrum 2 Zimmer, Küche, Bad, 58 m², 3. Stock ohne Aufzug, Balkon zum Hof. 620 € plus Nebenkosten. Keine Haustiere. Bus und Straßenbahn direkt vor der Tür, aber kein Parkplatz. Besichtigung: Samstag 10–12 Uhr"
-    },
-    "c": {
-     "img": "img/mt4-anzeige-c.png",
-     "alt": "IMMOBILIEN · VERMIETUNG Reihenhaus am Stadtrand 4 Zi., Garten, Garage 110 m², Terrasse, Kindergarten und Grundschule im Ort. Haustiere nach Absprache erlaubt. 1.150 € kalt, frei ab 1. September. Chiffre 4471 · Antworten an die Zeitung"
-    },
-    "d": {
-     "img": "img/mt4-anzeige-d.png",
-     "alt": "Wohnen ohne Stufen WOHNPARK LINDENHOF 2-Zimmer-Wohnung, 55 m², 2. Stock mit Aufzug, breite Türen, Dusche ohne Schwelle, Notrufknopf. Für Mieterinnen und Mieter ab 60 Jahren. Hausmeister im Haus, Supermarkt und Apotheke nur 200 Meter entfernt. 680 € warm · Tel. 0641 / 55 03 12"
-    },
-    "e": {
-     "img": "img/mt4-anzeige-e.png",
-     "alt": "KOMPLETT MÖBLIERT 750 €/Monat Apartment Bahnhofstraße 32 m² mit Bett, Schrank, Küche mit Geschirr, Fernseher und WLAN. 5 Minuten zu Fuß zum Bahnhof. Mietdauer 1 bis 6 Monate, 750 € inklusive Strom und Internet. Keine Kaution. Sofort frei · online buchen"
-    },
-    "f": {
-     "img": "img/mt4-anzeige-f.png",
-     "alt": "Urlaub an der Ostsee 85 € Ferienwohnung „Möwe“ 300 m zum Strand, für 2 bis 4 Personen, Balkon mit Meerblick, zwei Fahrräder inklusive. 85 € pro Nacht. Juli und August sind leider schon ausgebucht. www.fewo-moewe.de"
-    }
-   },
-   "unused": [
-    "f"
-   ]
-  }
- },
- "hoeren": {
-  "t1": {
-   "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
-   "items": [
-    {
-     "no": "1",
-     "stem": "Wo bekommt man heute im Zug etwas zu trinken?",
-     "options": {
-      "a": "Im Wagen 8.",
-      "b": "Im Wagen 5.",
-      "c": "Nirgendwo, das Bistro ist geschlossen."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "2",
-     "stem": "Wann startet der Flug nach Rom jetzt?",
-     "options": {
-      "a": "Um 9.45 Uhr.",
-      "b": "Um 7.20 Uhr.",
-      "c": "Um 11.15 Uhr."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "3",
-     "stem": "Was muss man zur Blutspende mitbringen?",
-     "options": {
-      "a": "Etwas zu trinken.",
-      "b": "Etwas zu essen.",
-      "c": "Einen Ausweis."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "4",
-     "stem": "Wo findet das Kindertheater heute statt?",
-     "options": {
-      "a": "Auf der Seebühne.",
-      "b": "Im großen Zelt.",
-      "c": "In der Halle am Eingang."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "5",
-     "stem": "An welchem Tag ist die Bibliothek jetzt geschlossen?",
-     "options": {
-      "a": "Am Montag.",
-      "b": "Am Mittwoch.",
-      "c": "Am Samstag."
-     },
-     "answer": "a"
-    }
-   ]
-  },
-  "t2": {
-   "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Was haben die Freunde auf dem Flohmarkt gekauft? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
-   "persons": [
-    {
-     "no": "0",
-     "name": "Sophie",
-     "answer": "a"
-    },
-    {
-     "no": "6",
-     "name": "Omar",
-     "answer": "d"
-    },
-    {
-     "no": "7",
-     "name": "Lena",
-     "answer": "e"
-    },
-    {
-     "no": "8",
-     "name": "Erik",
-     "answer": "g"
-    },
-    {
-     "no": "9",
-     "name": "Maja",
-     "answer": "i"
-    },
-    {
-     "no": "10",
-     "name": "Finn",
-     "answer": "h"
-    }
-   ],
-   "pictures": {
-    "a": {
-     "img": "img/mt4-hoeren2-a.webp",
-     "alt": "Lampe"
-    },
-    "b": {
-     "img": "img/mt4-hoeren2-b.webp",
-     "alt": "Stuhl"
-    },
-    "c": {
-     "img": "img/mt4-hoeren2-c.webp",
-     "alt": "Bild"
-    },
-    "d": {
-     "img": "img/mt4-hoeren2-d.webp",
-     "alt": "Fahrrad"
-    },
-    "e": {
-     "img": "img/mt4-hoeren2-e.webp",
-     "alt": "Kiste mit Büchern"
-    },
-    "f": {
-     "img": "img/mt4-hoeren2-f.webp",
-     "alt": "Teppich"
-    },
-    "g": {
-     "img": "img/mt4-hoeren2-g.webp",
-     "alt": "Kaffeemaschine"
-    },
-    "h": {
-     "img": "img/mt4-hoeren2-h.webp",
-     "alt": "Teddybär"
-    },
-    "i": {
-     "img": "img/mt4-hoeren2-i.webp",
-     "alt": "Spiegel"
-    }
-   },
-   "unused": [
-    "b",
-    "c",
-    "f"
-   ]
-  },
-  "t3": {
-   "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
-   "items": [
-    {
-     "no": "11",
-     "stem": "Was soll der Mann noch kaufen?",
-     "options": {
-      "a": {
-       "img": "img/mt4-hoeren3-11a.webp",
-       "alt": "Eier"
-      },
-      "b": {
-       "img": "img/mt4-hoeren3-11b.webp",
-       "alt": "Milch"
-      },
-      "c": {
-       "img": "img/mt4-hoeren3-11c.webp",
-       "alt": "Brot"
-      }
-     },
-     "answer": "a"
-    },
-    {
-     "no": "12",
-     "stem": "Wie wird das Wetter am Sonntag?",
-     "options": {
-      "a": {
-       "img": "img/mt4-hoeren3-12a.webp",
-       "alt": "Sonne"
-      },
-      "b": {
-       "img": "img/mt4-hoeren3-12b.webp",
-       "alt": "Regen"
-      },
-      "c": {
-       "img": "img/mt4-hoeren3-12c.webp",
-       "alt": "Schnee"
-      }
-     },
-     "answer": "b"
-    },
-    {
-     "no": "13",
-     "stem": "Was ist in der Wohnung kaputt?",
-     "options": {
-      "a": {
-       "img": "img/mt4-hoeren3-13a.webp",
-       "alt": "Waschmaschine"
-      },
-      "b": {
-       "img": "img/mt4-hoeren3-13b.webp",
-       "alt": "Dusche"
-      },
-      "c": {
-       "img": "img/mt4-hoeren3-13c.webp",
-       "alt": "Heizung"
-      }
-     },
-     "answer": "b"
-    },
-    {
-     "no": "14",
-     "stem": "Wie bezahlt die Frau?",
-     "options": {
-      "a": {
-       "img": "img/mt4-hoeren3-14a.webp",
-       "alt": "Kreditkarte"
-      },
-      "b": {
-       "img": "img/mt4-hoeren3-14b.webp",
-       "alt": "Bezahlen mit dem Handy"
-      },
-      "c": {
-       "img": "img/mt4-hoeren3-14c.webp",
-       "alt": "Bargeld"
-      }
-     },
-     "answer": "c"
-    },
-    {
-     "no": "15",
-     "stem": "Für wie viele Personen reserviert der Mann einen Tisch?",
-     "options": {
-      "a": {
-       "img": "img/mt4-hoeren3-15a.webp",
-       "alt": "Tisch für sechs Personen"
-      },
-      "b": {
-       "img": "img/mt4-hoeren3-15b.webp",
-       "alt": "Tisch für zwei Personen"
-      },
-      "c": {
-       "img": "img/mt4-hoeren3-15c.webp",
-       "alt": "Tisch für vier Personen"
-      }
-     },
-     "answer": "a"
-    }
-   ]
-  },
-  "t4": {
-   "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
-   "context": "In der Sendung „Menschen am Meer“ spricht eine Moderatorin mit Maren Petersen. Sie ist Briefträgerin auf einer kleinen Nordseeinsel.",
-   "example": {
-    "no": "0",
-    "text": "Maren Petersen arbeitet auf einer Insel.",
-    "answer": "Ja"
-   },
-   "items": [
-    {
-     "no": "16",
-     "text": "Maren lebt seit mehr als zehn Jahren auf der Insel.",
-     "answer": "Ja"
-    },
-    {
-     "no": "17",
-     "text": "Maren bringt die Post mit dem Fahrrad.",
-     "answer": "Ja"
-    },
-    {
-     "no": "18",
-     "text": "Im Winter kommt die Post jeden Tag auf die Insel.",
-     "answer": "Nein"
-    },
-    {
-     "no": "19",
-     "text": "Maren hilft älteren Leuten auch beim Einkaufen.",
-     "answer": "Ja"
-    },
-    {
-     "no": "20",
-     "text": "Im Sommer hat Maren weniger zu tun.",
-     "answer": "Nein"
-    }
-   ]
-  }
- },
- "schreiben": {
-  "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
-  "tasks": [
-   {
-    "no": 1,
-    "minutes": 10,
-    "words": [
-     20,
-     30
-    ],
-    "situation": [
-     "Ihre Freundin Anna hat Ihnen für das Wochenende ihr Fahrrad geliehen. Jetzt ist ein Reifen kaputt. Schreiben Sie Anna eine SMS:"
-    ],
-    "points": [
-     "Schreiben Sie, was passiert ist.",
-     "Entschuldigen Sie sich.",
-     "Machen Sie einen Vorschlag, wie Sie das Problem lösen wollen."
-    ],
-    "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
-    "model": {
-     "label": "SMS, 30 Wörter",
-     "text": "Hallo Anna,\n\nbeim Fahren ist ein Reifen an deinem Rad kaputtgegangen.\nDas tut mir sehr leid!\nIch bringe es morgen in die Werkstatt und bezahle die Reparatur.\n\nLiebe Grüße, Julia"
-    },
-    "typicalErrors": "Nur *Sorry, dein Rad ist kaputt* – Punkt 1 ist zu knapp, und Punkt 3 (Vorschlag) fehlt."
-   },
-   {
-    "no": 2,
-    "minutes": 20,
-    "words": [
-     30,
-     40
-    ],
-    "situation": [
-     "Sie haben in einem Online-Shop Sportschuhe bestellt. Heute ist das Paket gekommen, aber die Schuhe haben die falsche Größe. Schreiben Sie dem Kundenservice eine E-Mail."
-    ],
-    "points": [
-     "Schreiben Sie, was Sie bestellt und was Sie bekommen haben.",
-     "Schreiben Sie, was Sie jetzt möchten.",
-     "Fragen Sie, wie Sie die falschen Schuhe zurückschicken können."
-    ],
-    "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
-    "model": {
-     "label": "E-Mail an den Online-Shop, 39 Wörter",
-     "text": "Betreff: Bestellung 48213 – falsche Größe\n\nSehr geehrte Damen und Herren,\n\nich habe Sportschuhe in Größe 42 bestellt, bekommen habe ich aber Größe 39.\nBitte schicken Sie mir die Schuhe in Größe 42.\nWie kann ich die falschen Schuhe zurückschicken?\n\nMit freundlichen Grüßen\nJulia Kern"
-    },
-    "typicalErrors": "*Hallo, die Schuhe sind falsch* – falsche Anrede, keine Größenangabe, kein Wunsch und keine Frage zur Rücksendung."
-   }
-  ],
-  "good": [
-   {
-    "label": "Erfüllung",
-    "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Reifen, morgen, Werkstatt; Größe 42 und 39)."
-   },
-   {
-    "label": "Register",
-    "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Damen und Herren* und *Mit freundlichen Grüßen*."
-   },
-   {
-    "label": "Wortschatz",
-    "text": "*kaputtgegangen, Reparatur, bestellt, zurückschicken* statt allgemeiner Wörter wie *Problem* oder *machen*."
-   },
-   {
-    "label": "Strukturen",
-    "text": "Perfekt (*ist kaputtgegangen*, *habe bestellt*), Gegensatz mit *aber*, höfliche Bitte mit *Bitte schicken Sie*, W-Frage (*Wie kann ich …?*)."
-   }
-  ]
- },
- "index": {
   "hoeren": {
-   "t1": "Fünf kurze Texte",
-   "t2": "Gespräch: Einkäufe auf dem Flohmarkt",
-   "t3": "Fünf kurze Gespräche",
-   "t4": "Interview: Maren Petersen, Briefträgerin auf der Insel"
+    "t1": {
+      "instruction": "Sie hören fünf kurze Texte. Sie hören jeden Text zweimal. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
+      "items": [
+        {
+          "no": "1",
+          "stem": "Was sagt die Durchsage über Getränke im Zug?",
+          "options": {
+            "a": "Man bekommt sie heute im Bordbistro.",
+            "b": "Man kauft sie in Wagen 5.",
+            "c": "Es gibt heute leider keine."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "2",
+          "stem": "Um wie viel Uhr fliegt Frau Winkler am Samstag los?",
+          "options": {
+            "a": "Um 9.45 Uhr.",
+            "b": "Um 7.20 Uhr.",
+            "c": "Um 11.15 Uhr."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "3",
+          "stem": "Was sollen die Spender ins Bürgerhaus mitbringen?",
+          "options": {
+            "a": "Etwas zu trinken.",
+            "b": "Etwas zu essen.",
+            "c": "Ihren Ausweis."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "4",
+          "stem": "Wohin müssen Familien heute für das Kindertheater gehen?",
+          "options": {
+            "a": "Zur Seebühne.",
+            "b": "Ins große Zelt.",
+            "c": "In die Halle am Eingang."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "5",
+          "stem": "An welchem Tag bleibt die Bibliothek jetzt zu?",
+          "options": {
+            "a": "Am Montag.",
+            "b": "Am Mittwoch.",
+            "c": "Am Samstag."
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören ein Gespräch. Sie hören den Text einmal. Was haben die Freunde auf dem Flohmarkt gekauft? Wählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i. Wählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.",
+      "persons": [
+        {
+          "no": "0",
+          "name": "Sophie",
+          "answer": "a"
+        },
+        {
+          "no": "6",
+          "name": "Omar",
+          "answer": "d"
+        },
+        {
+          "no": "7",
+          "name": "Lena",
+          "answer": "e"
+        },
+        {
+          "no": "8",
+          "name": "Erik",
+          "answer": "g"
+        },
+        {
+          "no": "9",
+          "name": "Maja",
+          "answer": "i"
+        },
+        {
+          "no": "10",
+          "name": "Finn",
+          "answer": "h"
+        }
+      ],
+      "pictures": {
+        "a": {
+          "img": "img/mt4-hoeren2-a.webp",
+          "alt": "Lampe"
+        },
+        "b": {
+          "img": "img/mt4-hoeren2-b.webp",
+          "alt": "Stuhl"
+        },
+        "c": {
+          "img": "img/mt4-hoeren2-c.webp",
+          "alt": "Bild"
+        },
+        "d": {
+          "img": "img/mt4-hoeren2-d.webp",
+          "alt": "Fahrrad"
+        },
+        "e": {
+          "img": "img/mt4-hoeren2-e.webp",
+          "alt": "Kiste mit Büchern"
+        },
+        "f": {
+          "img": "img/mt4-hoeren2-f.webp",
+          "alt": "Teppich"
+        },
+        "g": {
+          "img": "img/mt4-hoeren2-g.webp",
+          "alt": "Kaffeemaschine"
+        },
+        "h": {
+          "img": "img/mt4-hoeren2-h.webp",
+          "alt": "Teddybär"
+        },
+        "i": {
+          "img": "img/mt4-hoeren2-i.webp",
+          "alt": "Spiegel"
+        }
+      },
+      "unused": [
+        "b",
+        "c",
+        "f"
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören fünf kurze Gespräche. Sie hören jeden Text einmal. Wählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a, b oder c.",
+      "items": [
+        {
+          "no": "11",
+          "stem": "Was soll der Mann noch kaufen?",
+          "options": {
+            "a": {
+              "img": "img/mt4-hoeren3-11a.webp",
+              "alt": "Eier"
+            },
+            "b": {
+              "img": "img/mt4-hoeren3-11b.webp",
+              "alt": "Milch"
+            },
+            "c": {
+              "img": "img/mt4-hoeren3-11c.webp",
+              "alt": "Brot"
+            }
+          },
+          "answer": "a"
+        },
+        {
+          "no": "12",
+          "stem": "Wie wird das Wetter am Sonntag?",
+          "options": {
+            "a": {
+              "img": "img/mt4-hoeren3-12a.webp",
+              "alt": "Sonne"
+            },
+            "b": {
+              "img": "img/mt4-hoeren3-12b.webp",
+              "alt": "Regen"
+            },
+            "c": {
+              "img": "img/mt4-hoeren3-12c.webp",
+              "alt": "Schnee"
+            }
+          },
+          "answer": "b"
+        },
+        {
+          "no": "13",
+          "stem": "Was ist in der Wohnung kaputt?",
+          "options": {
+            "a": {
+              "img": "img/mt4-hoeren3-13a.webp",
+              "alt": "Waschmaschine"
+            },
+            "b": {
+              "img": "img/mt4-hoeren3-13b.webp",
+              "alt": "Dusche"
+            },
+            "c": {
+              "img": "img/mt4-hoeren3-13c.webp",
+              "alt": "Heizung"
+            }
+          },
+          "answer": "b"
+        },
+        {
+          "no": "14",
+          "stem": "Wie bezahlt die Frau?",
+          "options": {
+            "a": {
+              "img": "img/mt4-hoeren3-14a.webp",
+              "alt": "Kreditkarte"
+            },
+            "b": {
+              "img": "img/mt4-hoeren3-14b.webp",
+              "alt": "Bezahlen mit dem Handy"
+            },
+            "c": {
+              "img": "img/mt4-hoeren3-14c.webp",
+              "alt": "Bargeld"
+            }
+          },
+          "answer": "c"
+        },
+        {
+          "no": "15",
+          "stem": "Für wie viele Personen reserviert der Mann einen Tisch?",
+          "options": {
+            "a": {
+              "img": "img/mt4-hoeren3-15a.webp",
+              "alt": "Tisch für sechs Personen"
+            },
+            "b": {
+              "img": "img/mt4-hoeren3-15b.webp",
+              "alt": "Tisch für zwei Personen"
+            },
+            "c": {
+              "img": "img/mt4-hoeren3-15c.webp",
+              "alt": "Tisch für vier Personen"
+            }
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie hören ein Interview. Sie hören den Text zweimal. Wählen Sie für die Aufgaben 16 bis 20 Ja oder Nein. Lesen Sie jetzt die Aufgaben.",
+      "context": "In der Sendung „Menschen am Meer“ spricht eine Moderatorin mit Maren Petersen. Sie ist Briefträgerin auf einer kleinen Nordseeinsel.",
+      "example": {
+        "no": "0",
+        "text": "Maren Petersen arbeitet auf einer Insel.",
+        "answer": "Ja"
+      },
+      "items": [
+        {
+          "no": "16",
+          "text": "Maren lebt seit mehr als zehn Jahren auf der Insel.",
+          "answer": "Ja"
+        },
+        {
+          "no": "17",
+          "text": "Maren ist bei der Arbeit mit dem Fahrrad unterwegs.",
+          "answer": "Ja"
+        },
+        {
+          "no": "18",
+          "text": "Im Winter kommt die Post jeden Tag auf die Insel.",
+          "answer": "Nein"
+        },
+        {
+          "no": "19",
+          "text": "Maren hilft älteren Leuten auch beim Einkaufen.",
+          "answer": "Ja"
+        },
+        {
+          "no": "20",
+          "text": "Im Sommer hat Maren weniger zu tun.",
+          "answer": "Nein"
+        }
+      ]
+    }
   },
-  "schreiben": [
-   "SMS an Anna: Reifen kaputt",
-   "E-Mail an den Online-Shop: falsche Schuhgröße"
-  ],
-  "sprechen": {
-   "teil1": [
-    "Auto",
-    "Wetter",
-    "Nachbarn",
-    "Stadt",
-    "Kochen",
-    "Schlafen",
-    "Kaffee oder Tee",
-    "Zukunft"
-   ],
-   "teil2": [
-    "Wie bleiben Sie gesund?",
-    "Was machen Sie mit Ihrer Familie zusammen?"
-   ],
-   "teil3": "Für Frau Kaiser einkaufen und kochen (Mittwoch, zwei Stunden)"
+  "schreiben": {
+    "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie eine SMS, in Teil 2 eine E-Mail. Schreiben Sie Ihre Texte auf den Antwortbogen. Schreiben Sie bitte deutlich und nicht mit Bleistift. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+    "tasks": [
+      {
+        "no": 1,
+        "minutes": 10,
+        "words": [
+          20,
+          30
+        ],
+        "situation": [
+          "Ihre Freundin Anna hat Ihnen für das Wochenende ihr Fahrrad geliehen. Jetzt ist ein Reifen kaputt. Schreiben Sie Anna eine SMS:"
+        ],
+        "points": [
+          "Schreiben Sie, was passiert ist.",
+          "Entschuldigen Sie sich.",
+          "Machen Sie einen Vorschlag, wie Sie das Problem lösen wollen."
+        ],
+        "instruction": "Schreiben Sie 20–30 Wörter. Schreiben Sie zu allen drei Punkten.",
+        "model": {
+          "label": "SMS, 30 Wörter",
+          "text": "Hallo Anna,\n\nbeim Fahren ist ein Reifen an deinem Rad kaputtgegangen.\nDas tut mir sehr leid!\nIch bringe es morgen in die Werkstatt und bezahle die Reparatur.\n\nLiebe Grüße, Julia"
+        },
+        "typicalErrors": "Nur *Sorry, dein Rad ist kaputt* – Punkt 1 ist zu knapp, und Punkt 3 (Vorschlag) fehlt."
+      },
+      {
+        "no": 2,
+        "minutes": 20,
+        "words": [
+          30,
+          40
+        ],
+        "situation": [
+          "Sie haben in einem Online-Shop Sportschuhe bestellt. Heute ist das Paket gekommen, aber die Schuhe haben die falsche Größe. Schreiben Sie dem Kundenservice eine E-Mail."
+        ],
+        "points": [
+          "Schreiben Sie, was Sie bestellt und was Sie bekommen haben.",
+          "Schreiben Sie, was Sie jetzt möchten.",
+          "Fragen Sie, wie Sie die falschen Schuhe zurückschicken können."
+        ],
+        "instruction": "Schreiben Sie 30–40 Wörter. Schreiben Sie zu allen drei Punkten. Vergessen Sie Anrede und Gruß nicht.",
+        "model": {
+          "label": "E-Mail an den Online-Shop, 39 Wörter",
+          "text": "Betreff: Bestellung 48213 – falsche Größe\n\nSehr geehrte Damen und Herren,\n\nich habe Sportschuhe in Größe 42 bestellt, bekommen habe ich aber Größe 39.\nBitte schicken Sie mir die Schuhe in Größe 42.\nWie kann ich die falschen Schuhe zurückschicken?\n\nMit freundlichen Grüßen\nJulia Kern"
+        },
+        "typicalErrors": "*Hallo, die Schuhe sind falsch* – falsche Anrede, keine Größenangabe, kein Wunsch und keine Frage zur Rücksendung."
+      }
+    ],
+    "good": [
+      {
+        "label": "Erfüllung",
+        "text": "Alle drei Punkte, jeder in einem eigenen Satz; die Angaben sind konkret (Reifen, morgen, Werkstatt; Größe 42 und 39)."
+      },
+      {
+        "label": "Register",
+        "text": "SMS mit *du* und *Hallo*, E-Mail mit *Sie*, *Sehr geehrte Damen und Herren* und *Mit freundlichen Grüßen*."
+      },
+      {
+        "label": "Wortschatz",
+        "text": "*kaputtgegangen, Reparatur, bestellt, zurückschicken* statt allgemeiner Wörter wie *Problem* oder *machen*."
+      },
+      {
+        "label": "Strukturen",
+        "text": "Perfekt (*ist kaputtgegangen*, *habe bestellt*), Gegensatz mit *aber*, höfliche Bitte mit *Bitte schicken Sie*, W-Frage (*Wie kann ich …?*)."
+      }
+    ]
+  },
+  "index": {
+    "hoeren": {
+      "t1": "Fünf kurze Texte",
+      "t2": "Gespräch: Einkäufe auf dem Flohmarkt",
+      "t3": "Fünf kurze Gespräche",
+      "t4": "Interview: Maren Petersen, Briefträgerin auf der Insel"
+    },
+    "schreiben": [
+      "SMS an Anna: Reifen kaputt",
+      "E-Mail an den Online-Shop: falsche Schuhgröße"
+    ],
+    "sprechen": {
+      "teil1": [
+        "Auto",
+        "Wetter",
+        "Nachbarn",
+        "Stadt",
+        "Kochen",
+        "Schlafen",
+        "Kaffee oder Tee",
+        "Zukunft"
+      ],
+      "teil2": [
+        "Wie bleiben Sie gesund?",
+        "Was machen Sie mit Ihrer Familie zusammen?"
+      ],
+      "teil3": "Für Frau Kaiser einkaufen und kochen (Mittwoch, zwei Stunden)"
+    }
+  },
+  "notes": "Aus dem PDF Goethe A2 Modelltest 4 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand.",
+  "kommentar": {
+    "rows": {
+      "L1": [
+        {
+          "no": "1",
+          "ans": "a",
+          "typ": "P",
+          "note": "„hat unsere Tochter gefragt, ob …“ = vorgeschlagen; b: Die Eltern „wollten … sofort ein neues anschaffen“; c: Sandra erzählt nur (S)."
+        },
+        {
+          "no": "2",
+          "ans": "c",
+          "typ": "I",
+          "note": "Lastenrad, „das auch für den Wocheneinkauf genug Platz hat“ → auch zum Einkaufen; a: Bus fährt Jens, den Sohn bringt sie mit dem Lastenrad (S); b: „morgens … Kita“, Einkäufe erst „nachmittags“ (W)."
+        },
+        {
+          "no": "3",
+          "ans": "b",
+          "typ": "P",
+          "note": "„Im Winter war das anstrengend“ = in den kalten Monaten nicht leicht; c: Das Lastenrad fährt Sandra (S)."
+        },
+        {
+          "no": "4",
+          "ans": "a",
+          "typ": "P",
+          "note": "„nehmen die Hartmanns den Zug“ = mit der Bahn; b: Carsharing nur, „wenn es … keine andere Möglichkeit gibt“; c: halbe Stunde = Jens’ Busfahrt (W)."
+        },
+        {
+          "no": "5",
+          "ans": "c",
+          "typ": "P",
+          "note": "„fast 3000 Euro gespart“ = weniger Geld ausgegeben; a: „nicht mehr anschaffen“; b: Radwege sind ein Wunsch, kein Ergebnis."
+        }
+      ],
+      "L2": [
+        {
+          "no": "6",
+          "ans": "b",
+          "typ": "P",
+          "note": "Erster Rang → „Garderobe Rang (nur für Gäste mit Rangplätzen)“ im 1. Stock; a: Garderobe Parkett gilt nur für das Parkett."
+        },
+        {
+          "no": "7",
+          "ans": "c",
+          "typ": "I",
+          "note": "nicht lange warten → Foyer-Bar, „Vorbestellung vor Vorstellungsbeginn – ohne Wartezeit“, 1. Stock."
+        },
+        {
+          "no": "8",
+          "ans": "a",
+          "typ": "I",
+          "note": "neunzig Minuten vor Beginn → „warme Speisen ab zwei Stunden vor Vorstellungsbeginn“ im UG; b: Theatershop als Falle."
+        },
+        {
+          "no": "9",
+          "ans": "b",
+          "typ": "I",
+          "note": "Rollstuhl + direkt daneben sitzen → „Rollstuhlplätze (Reihe 1, mit Sitzplatz für eine zweite Person)“ im EG."
+        },
+        {
+          "no": "10",
+          "ans": "c",
+          "typ": "I",
+          "note": "Sonntagnachmittag + Tochter (5) → „Kinderbetreuung bei Nachmittagsvorstellungen“, „3–8 Jahre“ im UG; a: Theaterpädagogik ist für Schulklassen."
+        }
+      ],
+      "L3": [
+        {
+          "no": "11",
+          "ans": "a",
+          "typ": "A",
+          "note": "„nur zu zweit“ → „tatsächlich fünfzig Gäste“ = größer, als sie wollten; c: Die Mutter hat überredet (S)."
+        },
+        {
+          "no": "12",
+          "ans": "c",
+          "typ": "P",
+          "note": "„meine Tante und ihre Nachbarinnen“ = eine Verwandte; a: Das Restaurant liefert das Essen (W); b: „Ich darf … nicht mithelfen“."
+        },
+        {
+          "no": "13",
+          "ans": "c",
+          "typ": "P",
+          "note": "„nur bei der Trauung und danach ein bisschen im Garten“ = während der Trauung und kurz danach; a: „Für einen richtigen Fotografen reicht unser Geld … nicht“ (W); b: Gegenteil – „nicht den ganzen Tag“."
+        },
+        {
+          "no": "14",
+          "ans": "b",
+          "typ": "I",
+          "note": "„fährt nicht mehr gern Zug“, „mit dem Auto … zwei Stunden“ → jemand holt sie mit dem Wagen; a: Sie wohnt in Halle."
+        },
+        {
+          "no": "15",
+          "ans": "a",
+          "typ": "I",
+          "note": "„Komm bitte schon am Freitag“, Hochzeit „am Samstag“ = einen Tag vor der Feier; b: Freitag stimmt, aber „Übernachten kannst du bei uns“ (W); c: „gemeinsam den Garten schmücken“ (W)."
+        }
+      ],
+      "L4": [
+        {
+          "no": "16",
+          "ans": "c",
+          "typ": "I",
+          "note": "zwei Kinder, Hund, draußen spielen → „Garten“, „Haustiere nach Absprache erlaubt“; b: „Keine Haustiere“."
+        },
+        {
+          "no": "17",
+          "ans": "X",
+          "typ": "N",
+          "note": "f: Meer und „Meerblick“ passen, aber Juli und August „schon ausgebucht“ – sonst gibt es keine Ferienwohnung."
+        },
+        {
+          "no": "18",
+          "ans": "d",
+          "typ": "I",
+          "note": "vierter Stock ohne Aufzug, über 70 → „Wohnen ohne Stufen“, „mit Aufzug“, „ab 60 Jahren“; b: „3. Stock ohne Aufzug“."
+        },
+        {
+          "no": "19",
+          "ans": "e",
+          "typ": "I",
+          "note": "drei Monate, keine eigenen Möbel → „KOMPLETT MÖBLIERT“, „Mietdauer 1 bis 6 Monate“."
+        },
+        {
+          "no": "20",
+          "ans": "b",
+          "typ": "I",
+          "note": "Innenstadt, kein Auto, viele Jahre bleiben, Miete nicht zu hoch → „im Zentrum“, „Bus und Straßenbahn direkt vor der Tür“; e: nur „1 bis 6 Monate“."
+        }
+      ],
+      "H1": [
+        {
+          "no": "1",
+          "ans": "b",
+          "typ": "N",
+          "note": "Bordbistro „bleibt heute leider geschlossen“ → „bei unserem Mitarbeiter im Wagen 5“; c: Es gibt Getränke."
+        },
+        {
+          "no": "2",
+          "ans": "a",
+          "typ": "N",
+          "note": "„nicht um 7.20 Uhr, sondern erst um 9.45 Uhr“; c: Landezeit."
+        },
+        {
+          "no": "3",
+          "ans": "c",
+          "typ": "P",
+          "note": "„Bringen Sie Ihren Personalausweis mit“; a: Trinken soll man vorher; b: Essen gibt es danach gratis."
+        },
+        {
+          "no": "4",
+          "ans": "b",
+          "typ": "N",
+          "note": "„nicht wie geplant auf der Seebühne, sondern im großen Zelt“; c: nur Geburtstagsgruppen."
+        },
+        {
+          "no": "5",
+          "ans": "a",
+          "typ": "N",
+          "note": "„montags geschlossen, dafür … mittwochs bis 20 Uhr geöffnet“; c: Abholen bis Samstag."
+        }
+      ],
+      "H2": [
+        {
+          "no": "6",
+          "ans": "d",
+          "typ": "A",
+          "note": "Teppich wollte er, „dafür hat er ein Fahrrad gekauft“ (f ist die Falle)."
+        },
+        {
+          "no": "7",
+          "ans": "e",
+          "typ": "N",
+          "note": "„diesmal keine Bilder“ → Kiste Bücher (c ist die Falle)."
+        },
+        {
+          "no": "8",
+          "ans": "g",
+          "typ": "A",
+          "note": "Stuhl wackelig → „am Ende … eine Kaffeemaschine“ (b ist die Falle)."
+        },
+        {
+          "no": "9",
+          "ans": "i",
+          "typ": "P",
+          "note": "„einen großen Spiegel mit Goldrahmen“."
+        },
+        {
+          "no": "10",
+          "ans": "h",
+          "typ": "P",
+          "note": "„Taschengeld für einen Teddybären ausgegeben“."
+        }
+      ],
+      "H3": [
+        {
+          "no": "11",
+          "ans": "a",
+          "typ": "N",
+          "note": "Milch schon im Korb, Brot morgen → Eier."
+        },
+        {
+          "no": "12",
+          "ans": "b",
+          "typ": "N",
+          "note": "Schnee war für Samstag, Sonne erst Montag → Regen."
+        },
+        {
+          "no": "13",
+          "ans": "b",
+          "typ": "A",
+          "note": "„die Heizung funktioniert. Das Problem ist die Dusche“; a: Die Waschmaschine geht wieder."
+        },
+        {
+          "no": "14",
+          "ans": "c",
+          "typ": "N",
+          "note": "Karte funktioniert nicht, Handy vergessen → bar."
+        },
+        {
+          "no": "15",
+          "ans": "a",
+          "typ": "A",
+          "note": "„zu viert … also sechs“; b: zwei Personen kommen dazu."
+        }
+      ],
+      "H4": [
+        {
+          "no": "16",
+          "ans": "Ja",
+          "typ": "I",
+          "note": "„Vor zwölf Jahren habe ich hier Urlaub gemacht“, „Ein Jahr später bin ich ganz hierhergezogen“ → seit elf Jahren auf der Insel."
+        },
+        {
+          "no": "17",
+          "ans": "Ja",
+          "typ": "P",
+          "note": "„fahre ich mit dem Rad los“ = mit dem Fahrrad unterwegs; „Autos gibt es … nicht“."
+        },
+        {
+          "no": "18",
+          "ans": "Nein",
+          "typ": "N",
+          "note": "„fällt die Fähre … aus. Dann kommt gar keine Post“."
+        },
+        {
+          "no": "19",
+          "ans": "Ja",
+          "typ": "P",
+          "note": "„bringe ihnen Brötchen … mit“, „hole ihre Medikamente“."
+        },
+        {
+          "no": "20",
+          "ans": "Nein",
+          "typ": "N",
+          "note": "„Im Gegenteil!“ – 2000 Touristen, Tour zweimal am Tag."
+        }
+      ]
+    },
+    "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 2 von 15 Fällen die längste Option, in 7 die mittlere, in 6 die kürzeste."
   }
- },
- "notes": "Aus dem PDF Goethe A2 Modelltest 4 automatisch (Textkoordinaten, pdfplumber) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18, Bildbeschreibungen (alt) von Hand.",
- "kommentar": {
-  "rows": {
-   "L1": [
-    {
-     "no": "1",
-     "ans": "a",
-     "typ": "P",
-     "note": "„hat unsere Tochter gefragt, ob …“; b: Die Eltern wollten sofort ein neues Auto kaufen."
-    },
-    {
-     "no": "2",
-     "ans": "c",
-     "typ": "I",
-     "note": "Besorgungen mit dem Lastenrad → nicht mit dem Auto; a: Den Bus nimmt ihr Mann (S)."
-    },
-    {
-     "no": "3",
-     "ans": "b",
-     "typ": "P",
-     "note": "„Im Winter war das anstrengend“ = schwierig; c: Er fährt mit dem Linienbus, nicht mit dem Rad (S)."
-    },
-    {
-     "no": "4",
-     "ans": "a",
-     "typ": "P",
-     "note": "„nimmt die Familie den Zug“ = mit der Bahn; b: Carsharing nur, „wenn es … keine andere Möglichkeit gibt“."
-    },
-    {
-     "no": "5",
-     "ans": "c",
-     "typ": "P",
-     "note": "„fast 3000 Euro gespart“ = Konto voller; b: Radwege sind ein Wunsch, kein Ergebnis."
-    }
-   ],
-   "L2": [
-    {
-     "no": "6",
-     "ans": "b",
-     "typ": "P",
-     "note": "Erster Rang → Garderobe Rang im 1. Stock; a: Garderobe Parkett gilt nur für das Parkett."
-    },
-    {
-     "no": "7",
-     "ans": "c",
-     "typ": "I",
-     "note": "nicht in der Schlange stehen → Vorbestellung in der Foyer-Bar, 1. Stock."
-    },
-    {
-     "no": "8",
-     "ans": "a",
-     "typ": "I",
-     "note": "Hunger, Beginn in anderthalb Stunden → Theatercafé mit warmer Küche im UG; b: Theatershop als Falle."
-    },
-    {
-     "no": "9",
-     "ans": "b",
-     "typ": "P",
-     "note": "Rollstuhl → Rollstuhlplätze, Reihe 1 im Parkett (EG)."
-    },
-    {
-     "no": "10",
-     "ans": "c",
-     "typ": "P",
-     "note": "Betreuung der Tochter → Kinderbetreuung im UG; a: Theaterpädagogik ist für Schulklassen."
-    }
-   ],
-   "L3": [
-    {
-     "no": "11",
-     "ans": "a",
-     "typ": "P",
-     "note": "„nur zu zweit“ → „tatsächlich fünfzig Gäste“ = größer als geplant; c: Die Mutter hat überredet."
-    },
-    {
-     "no": "12",
-     "ans": "c",
-     "typ": "P",
-     "note": "„meine Tante und ihre Nachbarinnen“; a: Das Restaurant liefert das Essen; b: „Ich darf … nicht mithelfen“."
-    },
-    {
-     "no": "13",
-     "ans": "c",
-     "typ": "P",
-     "note": "„nur bei der Trauung und danach ein bisschen im Garten“; b: Gegenteil – „nicht den ganzen Tag“."
-    },
-    {
-     "no": "14",
-     "ans": "b",
-     "typ": "I",
-     "note": "„fährt nicht mehr gern Zug“, „mit dem Auto … zwei Stunden“ → mit dem Auto abholen; a: Sie wohnt in Halle."
-    },
-    {
-     "no": "15",
-     "ans": "a",
-     "typ": "P",
-     "note": "„Komm bitte schon am Freitag“, Hochzeit „am Samstag“ = einen Tag vorher; b: Gästezimmer."
-    }
-   ],
-   "L4": [
-    {
-     "no": "16",
-     "ans": "c",
-     "typ": "P",
-     "note": "Kinder, Hund, draußen spielen → Garten, Haustiere erlaubt; b: keine Haustiere."
-    },
-    {
-     "no": "17",
-     "ans": "X",
-     "typ": "N",
-     "note": "f: Juli und August „schon ausgebucht“ – alle anderen Anzeigen sind keine Ferienwohnungen."
-    },
-    {
-     "no": "18",
-     "ans": "d",
-     "typ": "I",
-     "note": "Treppensteigen schwer → Aufzug, „ohne Stufen“; b: 3. Stock ohne Aufzug."
-    },
-    {
-     "no": "19",
-     "ans": "e",
-     "typ": "P",
-     "note": "drei Monate, Möbel → möbliert, Mietdauer 1 bis 6 Monate."
-    },
-    {
-     "no": "20",
-     "ans": "b",
-     "typ": "I",
-     "note": "Zentrum, kein Auto, nicht teuer → 620 €, Bus und Straßenbahn vor der Tür; a: nur ein Zimmer."
-    }
-   ],
-   "H1": [
-    {
-     "no": "1",
-     "ans": "b",
-     "typ": "N",
-     "note": "Bistro im Wagen 8 „geschlossen“ → Mitarbeiter im Wagen 5; c: Es gibt Getränke."
-    },
-    {
-     "no": "2",
-     "ans": "a",
-     "typ": "N",
-     "note": "„nicht um 7.20 Uhr, sondern erst um 9.45 Uhr“; c: Landezeit."
-    },
-    {
-     "no": "3",
-     "ans": "c",
-     "typ": "P",
-     "note": "„Bringen Sie Ihren Personalausweis mit“; a: Trinken soll man vorher; b: Essen gibt es danach gratis."
-    },
-    {
-     "no": "4",
-     "ans": "b",
-     "typ": "N",
-     "note": "„nicht wie geplant auf der Seebühne, sondern im großen Zelt“; c: nur Geburtstagsgruppen."
-    },
-    {
-     "no": "5",
-     "ans": "a",
-     "typ": "N",
-     "note": "„montags geschlossen, dafür … mittwochs bis 20 Uhr geöffnet“; c: Abholen bis Samstag."
-    }
-   ],
-   "H2": [
-    {
-     "no": "6",
-     "ans": "d",
-     "typ": "A",
-     "note": "Teppich wollte er, „dafür hat er ein Fahrrad gekauft“ (f ist die Falle)."
-    },
-    {
-     "no": "7",
-     "ans": "e",
-     "typ": "N",
-     "note": "„diesmal keine Bilder“ → Kiste Bücher (c ist die Falle)."
-    },
-    {
-     "no": "8",
-     "ans": "g",
-     "typ": "A",
-     "note": "Stuhl wackelig → „am Ende … eine Kaffeemaschine“ (b ist die Falle)."
-    },
-    {
-     "no": "9",
-     "ans": "i",
-     "typ": "P",
-     "note": "„einen großen Spiegel mit Goldrahmen“."
-    },
-    {
-     "no": "10",
-     "ans": "h",
-     "typ": "P",
-     "note": "„Taschengeld für einen Teddybären ausgegeben“."
-    }
-   ],
-   "H3": [
-    {
-     "no": "11",
-     "ans": "a",
-     "typ": "N",
-     "note": "Milch schon im Korb, Brot morgen → Eier."
-    },
-    {
-     "no": "12",
-     "ans": "b",
-     "typ": "N",
-     "note": "Schnee war für Samstag, Sonne erst Montag → Regen."
-    },
-    {
-     "no": "13",
-     "ans": "b",
-     "typ": "A",
-     "note": "„die Heizung funktioniert. Das Problem ist die Dusche“; a: Die Waschmaschine geht wieder."
-    },
-    {
-     "no": "14",
-     "ans": "c",
-     "typ": "N",
-     "note": "Karte funktioniert nicht, Handy vergessen → bar."
-    },
-    {
-     "no": "15",
-     "ans": "a",
-     "typ": "A",
-     "note": "„zu viert … also sechs“; b: zwei Personen kommen dazu."
-    }
-   ],
-   "H4": [
-    {
-     "no": "16",
-     "ans": "Ja",
-     "typ": "I",
-     "note": "„Vor zwölf Jahren Urlaub“, „ein Jahr später ganz hergezogen“ → seit elf Jahren auf der Insel."
-    },
-    {
-     "no": "17",
-     "ans": "Ja",
-     "typ": "P",
-     "note": "„fahre ich mit dem Rad los. Autos gibt es … nicht“."
-    },
-    {
-     "no": "18",
-     "ans": "Nein",
-     "typ": "N",
-     "note": "„fällt die Fähre … aus. Dann kommt gar keine Post“."
-    },
-    {
-     "no": "19",
-     "ans": "Ja",
-     "typ": "P",
-     "note": "„bringe ihnen Brötchen … mit“, „hole ihre Medikamente“."
-    },
-    {
-     "no": "20",
-     "ans": "Nein",
-     "typ": "N",
-     "note": "„Im Gegenteil!“ – 2000 Touristen, Tour zweimal am Tag."
-    }
-   ]
-  },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 3 von 15 Fällen die längste Option, in 5 die mittlere, in 7 die kürzeste."
- }
 }

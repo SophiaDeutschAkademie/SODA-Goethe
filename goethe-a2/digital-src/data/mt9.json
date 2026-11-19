@@ -5,11 +5,11 @@
   "t1": {
    "instruction": "Sie lesen in einer Zeitung diesen Text. Wählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a, b oder c.",
    "title": "Leihen statt kaufen",
-   "lead": "Im Leihladen in Kassel kann man Bohrmaschinen, Zelte und Spiele ausleihen, die andere Menschen kaum noch benutzen. Gegründet hat ihn eine Lehrerin im Ruhestand.",
+   "lead": "Im Leihladen in Kassel kann man Bohrmaschinen, Zelte und Spiele ausleihen, die ihre Besitzer kaum noch benutzen. Gegründet hat ihn eine Lehrerin im Ruhestand.",
    "paragraphs": [
-    "Renate Vogt, 66, war fast 40 Jahre lang Lehrerin für Mathematik. Als sie in Rente gegangen ist, hat sie eines Tages ihren Keller aufgeräumt. „Da standen eine Bohrmaschine, ein Zelt und ein Waffeleisen. Ich habe alles in zehn Jahren vielleicht dreimal benutzt“, erzählt sie. Weil sie viele Gegenstände selten benutzt hat, ist ihr die Idee für einen Laden gekommen, in dem man Dinge ausleihen kann, statt sie zu kaufen.",
-    "Heute gibt es im Leihladen in der Goethestraße mehr als 600 Gegenstände: Werkzeug, Campingartikel, Spiele und Küchengeräte. Fast alles haben Nachbarn geschenkt, weil sie es zu Hause nicht mehr brauchen. Wer etwas ausleihen möchte, muss zuerst Mitglied werden. Der Mitgliedsbeitrag beträgt fünf Euro im Monat. Danach darf man bis zu drei Gegenstände für eine Woche mitnehmen. Wer mehr Zeit braucht, kann die Leihfrist um eine Woche verlängern.",
-    "Geöffnet ist der Laden dienstags und donnerstags von 16 bis 19 Uhr und samstags vormittags. Hinter der Ladentheke stehen zwölf Freiwillige, die keinen Lohn bekommen. Einige von ihnen sind Rentner, andere sind noch Schüler. Am beliebtesten ist übrigens nicht die Bohrmaschine, sondern der Rasenmäher. „Im Sommer müssen sich die Leute dafür sogar auf eine Warteliste setzen lassen, weil ihn so viele Nachbarn brauchen“, sagt Vogt und lacht."
+    "Renate Vogt, 66, war fast 40 Jahre lang Lehrerin für Mathematik. Als sie in Rente war, hat sie eines Tages ihren Keller aufgeräumt. „Da standen eine Bohrmaschine, ein Zelt und ein Waffeleisen. Ich habe alles in zehn Jahren vielleicht dreimal benutzt“, erzählt sie. Bestimmt sieht es in vielen Wohnungen in der Nachbarschaft genauso aus, dachte sie. So ist ihr die Idee für einen Laden gekommen, in dem man Gegenstände ausleihen kann, statt sie zu kaufen.",
+    "Heute gibt es im Leihladen in der Goethestraße mehr als 600 Gegenstände: Werkzeug, Campingartikel, Spiele und Küchengeräte. Fast alles haben Nachbarn geschenkt, weil sie es zu Hause nicht mehr brauchen. Wer etwas ausleihen möchte, muss zuerst Mitglied werden. Der Mitgliedsbeitrag beträgt fünf Euro im Monat, ganz egal, wie viele Gegenstände man ausleiht. Danach darf man bis zu drei Gegenstände für eine Woche mitnehmen. Wer mehr Zeit braucht, kann die Leihfrist um eine Woche verlängern.",
+    "Geöffnet ist der Laden dienstags und donnerstags von 16 bis 19 Uhr und samstags vormittags. Hinter der Ladentheke stehen zwölf Freiwillige, die keinen Lohn bekommen. Einige von ihnen sind Rentner wie Renate Vogt, andere sind noch Schüler und sammeln hier erste Erfahrungen mit Kunden. Am beliebtesten ist übrigens nicht die Bohrmaschine, sondern der Rasenmäher. „Im Sommer müssen sich die Leute dafür sogar auf eine Warteliste setzen lassen, weil ihn so viele Nachbarn brauchen“, sagt Vogt und lacht."
    ],
    "source": "aus einer deutschen Tageszeitung",
    "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Leihen statt kaufen“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -30,7 +30,7 @@
      "options": {
       "a": "in ihrem Keller Ordnung gemacht hat.",
       "b": "neues Werkzeug für ihren Keller gebraucht hat.",
-      "c": "mit ihren Nachbarn ein Fest gefeiert hat."
+      "c": "im Keller ihrer Nachbarn aufgeräumt hat."
      },
      "answer": "a"
     },
@@ -38,9 +38,9 @@
      "no": "2",
      "stem": "Die meisten Sachen im Laden …",
      "options": {
-      "a": "hat Frau Vogt selbst im Geschäft gekauft.",
-      "b": "kommen aus der Nachbarschaft.",
-      "c": "sind schon ziemlich alt und oft kaputt."
+      "a": "hat Frau Vogt aus ihrem eigenen Keller mitgebracht.",
+      "b": "sind Geschenke von Leuten aus der Gegend.",
+      "c": "brauchen die Nachbarn zu Hause noch oft."
      },
      "answer": "b"
     },
@@ -48,9 +48,9 @@
      "no": "3",
      "stem": "Wer etwas ausleihen will, …",
      "options": {
-      "a": "zahlt für jede Sache fünf Euro.",
-      "b": "darf bis zu drei Sachen einen Monat behalten.",
-      "c": "bezahlt jeden Monat einen festen Beitrag."
+      "a": "zahlt für jeden Gegenstand fünf Euro.",
+      "b": "darf drei Gegenstände einen Monat mitnehmen.",
+      "c": "zahlt jeden Monat den gleichen Betrag."
      },
      "answer": "c"
     },
@@ -58,8 +58,8 @@
      "no": "4",
      "stem": "Die Menschen hinter der Theke …",
      "options": {
-      "a": "arbeiten ohne Lohn.",
-      "b": "waren früher alle Lehrer.",
+      "a": "bekommen für ihre Hilfe kein Geld.",
+      "b": "sind alle Rentner wie Frau Vogt.",
       "c": "stehen dort jeden Tag."
      },
      "answer": "a"
@@ -68,9 +68,9 @@
      "no": "5",
      "stem": "Im Sommer …",
      "options": {
-      "a": "ist der Laden geschlossen.",
+      "a": "brauchen nur wenige Nachbarn den Rasenmäher.",
       "b": "leihen die meisten Leute die Bohrmaschine aus.",
-      "c": "wollen viele Leute den Rasenmäher ausleihen."
+      "c": "bekommt man den Rasenmäher oft nicht sofort."
      },
      "answer": "c"
     }
@@ -87,19 +87,19 @@
     "rows": [
      {
       "floor": "3. Stock",
-      "text": "Sprachkurse (Englisch, Spanisch, Deutsch als Fremdsprache) · Einstufungstests für Deutschkurse (ohne Termin, Mo und Mi 14–16 Uhr) · Selbstlernzentrum mit Computern und Kopierern · Leseecke mit Zeitungen aus aller Welt"
+      "text": "Sprachkurse (Englisch, Spanisch, Deutsch als Fremdsprache) · Einstufungstests für Deutschkurse (ohne Termin, Mo und Mi 14–16 Uhr) · Selbstlernzentrum mit Computerarbeitsplätzen und Kopierern · Leseecke mit Tageszeitungen aus aller Welt"
      },
      {
       "floor": "2. Stock",
-      "text": "Computerkurse (Anfänger und Fortgeschrittene) · Fotokurse (auch mit dem Smartphone) · Musikraum (Gitarre, Klavier) · Büro der Kursleitung (Beratung und Kurswechsel, Mo–Do 10–12 Uhr) · Raum für Vorträge (bis 80 Personen)"
+      "text": "Computerkurse (Anfänger und Fortgeschrittene) · Fotokurse (Digitalkamera und Smartphone) · Musikraum (Gitarrenunterricht, Klavierunterricht) · Büro der Kursleitung (Kursberatung und Kurswechsel, Mo–Do 10–12 Uhr) · Vortragssaal (bis 80 Personen)"
      },
      {
       "floor": "1. Stock",
-      "text": "Lehrküche (Kochkurse, meist abends) · Gesundheitskurse (Yoga, Rückengymnastik) · Malatelier · Tanzsaal · Umkleideräume und Duschen"
+      "text": "Lehrküche (Kochkurse und Backkurse, meist abends) · Gesundheitskurse (Yoga, Rückengymnastik, Entspannungstraining) · Malatelier und Keramikwerkstatt · Tanzsaal · Umkleideräume und Duschen"
      },
      {
       "floor": "EG",
-      "text": "Anmeldung und Kasse · Information und Programmhefte · Erste Hilfe · Café „Kreidestaub“ (bis 18 Uhr) · Garderobe und Schließfächer · Toiletten · Aufzug zu allen Etagen · Fahrradständer im Hof · Öffnungszeiten: Montag bis Freitag 8–21 Uhr, Samstag 9–14 Uhr"
+      "text": "Anmeldung und Kasse (Kursgebühren, Ermäßigungen) · Information, Programmhefte und Fundbüro · Erste-Hilfe-Raum · Café „Kreidestaub“ (bis 18 Uhr) · Garderobe und Schließfächer · Toiletten · Aufzug zu allen Etagen · Fahrradständer im Innenhof · Öffnungszeiten: Montag bis Freitag 8–21 Uhr, Samstag 9–14 Uhr"
      }
     ]
    },
@@ -116,7 +116,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie sind neu in der Stadt und möchten wissen, welcher Deutschkurs zu Ihrem Niveau passt. Sie haben nur am Montagnachmittag Zeit.",
+     "stem": "Sie haben schon etwas Deutsch gelernt und möchten wissen, welcher Kurs für Sie richtig ist. Sie können nur am Montagnachmittag kommen.",
      "options": {
       "a": "2. Stock",
       "b": "3. Stock",
@@ -126,7 +126,7 @@
     },
     {
      "no": "7",
-     "stem": "Sie haben ein neues Smartphone und möchten lernen, wie man damit schöne Fotos von der Familie macht.",
+     "stem": "Sie haben ein neues Handy und möchten lernen, wie man damit schöne Bilder von Ihren Kindern macht.",
      "options": {
       "a": "1. Stock",
       "b": "EG",
@@ -136,7 +136,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie arbeiten tagsüber und möchten abends lernen, wie man Pasta selbst macht.",
+     "stem": "Sie arbeiten jeden Tag bis 17 Uhr und möchten danach lernen, wie man Pasta selbst macht.",
      "options": {
       "a": "1. Stock",
       "b": "3. Stock",
@@ -146,7 +146,7 @@
     },
     {
      "no": "9",
-     "stem": "Ihr Kurs ist Ihnen zu schwer, und Sie möchten mit der Kursleitung über einen Wechsel sprechen. Sie haben nur am Dienstagvormittag Zeit.",
+     "stem": "Ihr Kurs ist Ihnen zu schwer. Sie möchten lieber in eine leichtere Gruppe gehen und darüber mit jemandem sprechen. Sie haben nur am Dienstagvormittag Zeit.",
      "options": {
       "a": "3. Stock",
       "b": "2. Stock",
@@ -156,7 +156,7 @@
     },
     {
      "no": "10",
-     "stem": "Sie haben sich im Kochkurs in den Finger geschnitten. Die Wunde blutet ein bisschen, und Sie brauchen ein Pflaster.",
+     "stem": "Sie haben sich im Kochkurs beim Gemüseschneiden in den Finger geschnitten. Er blutet ein bisschen, und Sie brauchen ein Pflaster.",
      "options": {
       "a": "1. Stock",
       "b": "3. Stock",
@@ -178,10 +178,10 @@
      "deine Johanna"
     ],
     "paragraphs": [
-     "endlich habe ich ein bisschen Zeit zum Schreiben! Unser Sohn Emil ist am 3. März auf die Welt gekommen, zwei Wochen vor dem Termin. Er wiegt 3.200 Gramm, hat dunkelbraune Haare und schreit vor allem abends ziemlich laut. Wir mussten vier Tage im Krankenhaus bleiben, weil die Kinderärztin sichergehen wollte, dass er gesund ist. Inzwischen sind wir wieder zu Hause, und es geht uns allen gut, nur ordentlich schlafen können wir leider nicht.",
-     "Die erste Woche war ziemlich anstrengend, weil wir noch keinen festen Tagesablauf hatten. Mein Mann Lukas hat sich einen Monat freigenommen und kocht jeden Tag das Abendessen für uns, obwohl er sonst selten in der Küche steht. Meine Mutter kommt jeden Nachmittag und geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann, und das hilft mir wirklich sehr. Zum Glück schläft Emil nachts schon vier Stunden hintereinander.",
-     "Eigentlich wollten wir schon im Februar in eine größere Wohnung umziehen. Das hat leider nicht geklappt, weil der Vermieter die Wohnung noch renovieren muss. Deshalb können wir erst im Juni umziehen. Die neue Wohnung hat vier Zimmer und einen Balkon, auf dem Emil später ungestört spielen kann. Bis dahin schläft er noch in unserem Schlafzimmer, und das funktioniert bisher ganz gut.",
-     "Und jetzt habe ich eine Frage. Hast du den Kinderwagen von deiner Tochter noch? Unser Kinderwagen ist zwar ganz neu, aber er ist so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann. Wir wohnen ja im dritten Stock, und es gibt keinen Fahrstuhl. Wenn du ihn noch hast, würden wir ihn gern für mehrere Monate ausleihen oder dir abkaufen.",
+     "endlich habe ich ein bisschen Zeit zum Schreiben! Unser Sohn Emil ist am 3. März auf die Welt gekommen, zwei Wochen vor dem Termin. Er wiegt 3.200 Gramm, hat dunkelbraune Haare und schreit vor allem abends ziemlich laut. Wir mussten vier Tage im Krankenhaus bleiben, weil die Kinderärztin sichergehen wollte, dass Emil gesund ist. Inzwischen sind wir wieder zu Hause, und es geht der ganzen Familie gut, nur ordentlich schlafen können wir leider nicht.",
+     "Die ersten Wochen zu Hause waren ziemlich anstrengend, weil wir noch keinen festen Tagesablauf hatten. Mein Mann Lukas hat sich einen Monat freigenommen und kocht jeden Tag das Abendessen für uns, obwohl er sonst eigentlich nie kocht. Meine Mutter kommt jeden Nachmittag und geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann. Diese Unterstützung hilft mir wirklich sehr. Zum Glück schläft Emil nachts schon vier Stunden hintereinander.",
+     "Eigentlich wollten wir schon im Februar in eine größere Wohnung umziehen. Das hat leider nicht funktioniert, weil der Vermieter die neue Wohnung noch renovieren muss. Deshalb können wir erst im Juni umziehen. Die neue Wohnung hat vier Zimmer und einen Balkon, auf dem Emil später draußen spielen kann. Bis dahin schläft Emil noch in unserem Schlafzimmer, und das funktioniert bisher ganz gut.",
+     "Und jetzt habe ich eine wichtige Frage. Hast du den Kinderwagen von deiner Tochter noch? Unser Kinderwagen ist zwar ganz neu, aber er ist so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann. Wir wohnen ja im dritten Stock, und in unserem Haus gibt es keinen Fahrstuhl. Wenn du ihn noch hast, würden wir ihn gern für mehrere Monate ausleihen oder dir abkaufen.",
      "Komm uns doch bald besuchen! Am besten noch nächste Woche, solange Lukas zu Hause ist und uns etwas Schönes kocht. Emil freut sich bestimmt auf dich – und ich mich sowieso."
     ]
    },
@@ -222,7 +222,7 @@
      "stem": "Die Familie ist noch nicht umgezogen, weil …",
      "options": {
       "a": "sie bis jetzt keine größere Wohnung gefunden hat.",
-      "b": "in der Wohnung noch gearbeitet wird.",
+      "b": "ihre neue Wohnung noch nicht fertig ist.",
       "c": "Emil zu früh gekommen ist."
      },
      "answer": "b"
@@ -231,8 +231,8 @@
      "no": "14",
      "stem": "Johanna braucht einen anderen Kinderwagen, weil …",
      "options": {
-      "a": "ihr Wagen schon nach wenigen Wochen kaputt ist.",
-      "b": "ihr Wagen nicht in den Fahrstuhl passt.",
+      "a": "ihr Kinderwagen kaputt ist, obwohl er neu ist.",
+      "b": "ihr Kinderwagen nicht in den Fahrstuhl passt.",
       "c": "sie ihren Wagen kaum nach oben tragen kann."
      },
      "answer": "c"
@@ -241,8 +241,8 @@
      "no": "15",
      "stem": "Nele soll …",
      "options": {
-      "a": "die Familie bald besuchen.",
-      "b": "Johanna bei der Arbeit helfen.",
+      "a": "zu Besuch kommen, solange Lukas noch frei hat.",
+      "b": "Johanna einen Kinderwagen schenken.",
       "c": "Emil am Nachmittag abholen."
      },
      "answer": "a"
@@ -259,27 +259,27 @@
    "items": [
     {
      "no": "16",
-     "text": "Herr Lindt ist 78 und hat einen neuen Laptop. Er weiß nicht, wie man das Internet einrichtet, und kann nicht mehr gut aus dem Haus gehen.",
+     "text": "Herr Lindt ist 78 und hat zum Geburtstag einen Laptop bekommen. Er kann damit noch nicht online gehen. Weil er schlecht laufen kann, soll jemand zu ihm kommen.",
      "answer": "a"
     },
     {
      "no": "17",
-     "text": "Familie Schmidt möchte am Samstagabend ins Theater gehen. Ihre Tochter ist zwei Jahre alt.",
+     "text": "Herr und Frau Schmidt haben Karten für ein Theaterstück am Samstagabend. Ihre Tochter ist zwei und kann nicht mitkommen.",
      "answer": "d"
     },
     {
      "no": "18",
-     "text": "Tarek ist beim Joggen hingefallen. Jetzt hat sein Handy einen Riss, und er braucht es morgen früh für die Arbeit.",
+     "text": "Tarek ist beim Joggen hingefallen. Jetzt ist der Bildschirm von seinem Smartphone kaputt, und er braucht es morgen früh für die Arbeit.",
      "answer": "f"
     },
     {
      "no": "19",
-     "text": "Jan hat ein Sofa und einen großen Schrank gekauft und möchte beides selbst abholen. Er hat aber kein Auto.",
+     "text": "Jan hat ein Sofa und einen großen Schrank gekauft. Er hat kein Auto und kann die schweren Möbel nicht allein in seine Wohnung bringen.",
      "answer": "c"
     },
     {
      "no": "20",
-     "text": "Frau Böhm möchte ihre alte Nähmaschine reparieren lassen.",
+     "text": "Frau Böhms alte Nähmaschine ist kaputt. Sie sucht jemanden, der sie wieder in Ordnung bringt.",
      "answer": "X"
     }
    ],
@@ -332,7 +332,7 @@
      "no": "2",
      "stem": "Warum ruft der Friseursalon an?",
      "options": {
-      "a": "Frau Brückner soll früher kommen.",
+      "a": "Frau Brückner soll am Donnerstag früher kommen.",
       "b": "Ein Termin kann nicht stattfinden.",
       "c": "Eine neue Friseurin stellt sich vor."
      },
@@ -340,11 +340,11 @@
     },
     {
      "no": "3",
-     "stem": "Wofür muss man sein Kind anmelden?",
+     "stem": "Wofür braucht man eine Anmeldung?",
      "options": {
-      "a": "Für den Kurs am Mittwoch.",
+      "a": "Für das Programm am Mittwochnachmittag.",
       "b": "Für das Vorlesen am Morgen.",
-      "c": "Für alle Angebote der Bibliothek."
+      "c": "Für alle Angebote in den Ferien."
      },
      "answer": "a"
     },
@@ -360,10 +360,10 @@
     },
     {
      "no": "5",
-     "stem": "Was soll Herr Petrović tun?",
+     "stem": "Was empfiehlt der Hausmeister Herrn Petrović?",
      "options": {
       "a": "Den Handwerker am Mittwoch anrufen.",
-      "b": "Heute Wasser für morgen vorbereiten.",
+      "b": "Heute an Wasser für morgen denken.",
       "c": "Morgen bis zwölf Uhr zu Hause bleiben."
      },
      "answer": "b"
@@ -559,12 +559,12 @@
    "items": [
     {
      "no": "16",
-     "text": "Frau Albrecht hat ihren Beruf direkt nach der Schule gelernt.",
+     "text": "Frau Albrecht hat direkt nach dem Abitur eine Ausbildung zur Gärtnerin gemacht.",
      "answer": "Nein"
     },
     {
      "no": "17",
-     "text": "Frau Albrecht kümmert sich vor allem um Pflanzen aus warmen Ländern.",
+     "text": "Frau Albrecht kümmert sich meistens um Pflanzen aus warmen Ländern.",
      "answer": "Ja"
     },
     {
@@ -574,7 +574,7 @@
     },
     {
      "no": "19",
-     "text": "Frau Albrecht zeigt manchmal Schulklassen den Garten.",
+     "text": "Frau Albrecht zeigt Schülern regelmäßig ihren Arbeitsplatz.",
      "answer": "Ja"
     },
     {
@@ -689,31 +689,31 @@
      "no": "1",
      "ans": "a",
      "typ": "P",
-     "note": "„hat sie eines Tages ihren Keller aufgeräumt“ = im Keller Ordnung gemacht; b: „Werkzeug“ ist nur eine Wortfalle; c steht nicht im Text."
+     "note": "„hat sie eines Tages ihren Keller aufgeräumt“ = im Keller Ordnung gemacht; b: „Werkzeug“ und „Keller“ sind nur Wortfallen; c: Sie hat ihren eigenen Keller aufgeräumt, nicht den der Nachbarn."
     },
     {
      "no": "2",
      "ans": "b",
      "typ": "P",
-     "note": "„Fast alles haben Nachbarn geschenkt“ = kommen aus der Nachbarschaft; a: Fast alles ist geschenkt, nicht gekauft; c steht nicht im Text."
+     "note": "„Fast alles haben Nachbarn geschenkt“ = Geschenke von Leuten aus der Gegend; a: Aus dem eigenen Keller kam nur die Idee; c: „weil sie es zu Hause nicht mehr brauchen“."
     },
     {
      "no": "3",
      "ans": "c",
      "typ": "W",
-     "note": "„Mitgliedsbeitrag … fünf Euro im Monat“ = fester Monatsbeitrag; a: Die fünf Euro gelten nicht pro Sache (Wortfalle); b: nur „für eine Woche“."
+     "note": "„fünf Euro im Monat, ganz egal, wie viele Gegenstände man ausleiht“ = jeden Monat der gleiche Betrag; a: nicht pro Gegenstand (Wortfalle „fünf Euro“); b: nur „für eine Woche“."
     },
     {
      "no": "4",
      "ans": "a",
      "typ": "P",
-     "note": "„die keinen Lohn bekommen“ = ohne Lohn; b: Einige sind „Rentner“, andere „Schüler“; c: Der Laden ist nur an drei Tagen geöffnet."
+     "note": "„die keinen Lohn bekommen“ = kein Geld für ihre Hilfe; b: „Einige … sind Rentner“, andere „Schüler“; c: Der Laden ist nur an drei Tagen geöffnet."
     },
     {
      "no": "5",
      "ans": "c",
-     "typ": "N",
-     "note": "„sondern der Rasenmäher“, „Warteliste“ = viele wollen ihn; b: „nicht die Bohrmaschine“; a steht nicht im Text."
+     "typ": "I",
+     "note": "„Warteliste“ = man bekommt den Rasenmäher oft nicht sofort; b: „nicht die Bohrmaschine“; a: „weil ihn so viele Nachbarn brauchen“ – nicht wenige."
     }
    ],
    "L2": [
@@ -721,31 +721,31 @@
      "no": "6",
      "ans": "b",
      "typ": "I",
-     "note": "Niveau für den Deutschkurs → „Einstufungstests“ im 3. Stock; „Mo und Mi 14–16 Uhr“ passt zu Montagnachmittag; im 2. Stock gibt es keine Tests."
+     "note": "welcher Kurs richtig ist → „Einstufungstests für Deutschkurse“ im 3. Stock; „Mo und Mi 14–16 Uhr“ passt zu Montagnachmittag; die „Kursberatung“ im 2. Stock ist nur „Mo–Do 10–12 Uhr“."
     },
     {
      "no": "7",
      "ans": "c",
      "typ": "I",
-     "note": "Fotos mit dem Smartphone → „Fotokurse (auch mit dem Smartphone)“ im 2. Stock = anderer Stock; das Malatelier im 1. Stock ist die Falle."
+     "note": "Bilder mit dem Handy → „Fotokurse (Digitalkamera und Smartphone)“ im 2. Stock = anderer Stock; „Malatelier“ im 1. Stock ist die Falle (Bilder)."
     },
     {
      "no": "8",
      "ans": "a",
-     "typ": "P",
-     "note": "Pasta selbst machen, abends → „Lehrküche (Kochkurse, meist abends)“ im 1. Stock; im 3. Stock gibt es keine Lehrküche."
+     "typ": "I",
+     "note": "bis 17 Uhr arbeiten, danach Pasta → „Lehrküche (Kochkurse und Backkurse, meist abends)“ im 1. Stock; im 3. Stock gibt es keine Lehrküche."
     },
     {
      "no": "9",
      "ans": "b",
      "typ": "W",
-     "note": "Kurswechsel → „Büro der Kursleitung (Beratung und Kurswechsel, Mo–Do 10–12 Uhr)“ im 2. Stock; das Wort „Kurs“ führt zu den Sprachkursen im 3. Stock."
+     "note": "leichtere Gruppe → „Kurswechsel“, „Mo–Do 10–12 Uhr“ im 2. Stock; das Wort „Kurs“ führt zu den Sprachkursen im 3. Stock, die „Einstufungstests“ sind nur Mo und Mi nachmittags."
     },
     {
      "no": "10",
      "ans": "c",
      "typ": "I",
-     "note": "Pflaster → „Erste Hilfe“ im EG = anderer Stock; der Kochkurs im 1. Stock ist die Falle, denn dort gibt es keine Erste Hilfe."
+     "note": "Pflaster → „Erste-Hilfe-Raum“ im EG = anderer Stock; der Kochkurs im 1. Stock ist die Falle, denn dort gibt es keine Erste Hilfe."
     }
    ],
    "L3": [
@@ -759,25 +759,25 @@
      "no": "12",
      "ans": "b",
      "typ": "S",
-     "note": "„geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann“ = ausruhen; a: Nicht Lukas, sondern die Mutter geht mit; c: Mutter kommt zu ihr."
+     "note": "„geht mit Emil spazieren, damit ich mich eine Stunde hinlegen kann“ = ausruhen; a: Nicht Lukas, sondern die Mutter geht mit Emil; c: Die Mutter kommt zu Johanna."
     },
     {
      "no": "13",
      "ans": "b",
-     "typ": "A",
-     "note": "„die Wohnung noch renovieren muss“ = es wird noch gearbeitet; a: Die neue Wohnung haben sie schon; c: Der Umzug war schon vor der Geburt geplant."
+     "typ": "P",
+     "note": "„der Vermieter die neue Wohnung noch renovieren muss“ = die Wohnung ist noch nicht fertig; a: Die neue Wohnung haben sie schon; c: Der Umzug war schon vor der Geburt geplant."
     },
     {
      "no": "14",
      "ans": "c",
      "typ": "P",
-     "note": "„so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann“ = kaum nach oben tragen; a: Der Wagen ist „ganz neu“; b: „keinen Fahrstuhl“."
+     "note": "„so schwer, dass ich ihn kaum durch das Treppenhaus tragen kann“ = kaum nach oben tragen; a: Der Wagen ist „ganz neu“, nicht kaputt; b: „keinen Fahrstuhl“."
     },
     {
      "no": "15",
      "ans": "a",
-     "typ": "P",
-     "note": "„Komm uns doch bald besuchen!“ = die Familie besuchen; b und c stehen nicht im Text."
+     "typ": "I",
+     "note": "„Komm uns doch bald besuchen! … solange Lukas zu Hause ist“ + „einen Monat freigenommen“ = Lukas hat frei; b: Johanna will den Wagen „ausleihen oder dir abkaufen“, nicht geschenkt; c: Am Nachmittag kommt die Mutter."
     }
    ],
    "L4": [
@@ -785,31 +785,31 @@
      "no": "16",
      "ans": "a",
      "typ": "I",
-     "note": "neuer Laptop, Internet einrichten, kann nicht gut aus dem Haus → PC-Doktor: „Ich komme zu Ihnen nach Hause“."
+     "note": "Laptop, nicht online, kann schlecht laufen → PC-Doktor: „Internet“, „Ich komme zu Ihnen nach Hause“; f repariert „Nur Handys und Tablets“."
     },
     {
      "no": "17",
      "ans": "d",
      "typ": "I",
-     "note": "Samstagabend, Tochter zwei Jahre → Babysitter „für Kinder ab 1 Jahr – auch abends“."
+     "note": "Theater am Samstagabend, Tochter zwei → Babysitter „für Kinder ab 1 Jahr – auch abends und am Wochenende“."
     },
     {
      "no": "18",
      "ans": "f",
      "typ": "P",
-     "note": "Riss im Handy, braucht es morgen → Handy-Klinik „in einer Stunde“."
+     "note": "Bildschirm vom Smartphone kaputt, morgen früh → „Display kaputt“, „in einer Stunde, während Sie warten“."
     },
     {
      "no": "19",
      "ans": "c",
      "typ": "I",
-     "note": "Sofa und Schrank abholen, kein Auto → Transporter mit Fahrer; „Wir tragen alles, auch Schränke“."
+     "note": "schwere Möbel, kein Auto → „Transporter mit Fahrer und zwei kräftigen Helfern“; „Wir tragen alles, auch Schränke“."
     },
     {
      "no": "20",
      "ans": "X",
      "typ": "N",
-     "note": "Nähmaschine reparieren → keine Anzeige passt; die Handy-Klinik (f) repariert „Nur Handys und Tablets“."
+     "note": "Nähmaschine in Ordnung bringen → keine Anzeige passt; die Handy-Klinik (f) repariert „Nur Handys und Tablets“."
     }
    ],
    "H1": [
@@ -823,13 +823,13 @@
      "no": "2",
      "ans": "b",
      "typ": "P",
-     "note": "„Ihr Termin am Donnerstag um 16 Uhr muss leider ausfallen“ = ein Termin kann nicht stattfinden; a und c sind nicht der Grund für den Anruf."
+     "note": "„Ihr Termin am Donnerstag um 16 Uhr muss leider ausfallen“ = ein Termin kann nicht stattfinden; a: Donnerstag fällt aus, niemand soll früher kommen; c: „eine neue Kollegin“ ist nur am Samstag da."
     },
     {
      "no": "3",
      "ans": "a",
      "typ": "N",
-     "note": "„Dafür müssen Sie Ihr Kind vorher anmelden“ gilt für Mittwoch; „Für das Vorlesen brauchen Sie keine Anmeldung“."
+     "note": "„Dafür müssen Sie Ihr Kind vorher anmelden“ gilt für Mittwochnachmittag; „Für das Vorlesen brauchen Sie keine Anmeldung“; „Alle Angebote sind kostenlos“ ist die Falle für c."
     },
     {
      "no": "4",
@@ -841,7 +841,7 @@
      "no": "5",
      "ans": "b",
      "typ": "A",
-     "note": "„Füllen Sie sich am besten heute Abend ein paar Flaschen Wasser ab“; a: Mittwoch war nur der alte Plan; c steht nicht im Text."
+     "note": "„Füllen Sie sich am besten heute Abend ein paar Flaschen Wasser ab“; a: Mittwoch war nur der alte Plan; c: „von acht bis zwölf Uhr“ ist das Wasser weg, zu Hause bleiben soll er nicht."
     }
    ],
    "H2": [
@@ -912,14 +912,14 @@
     {
      "no": "16",
      "ans": "Nein",
-     "typ": "P",
-     "note": "„Nach dem Abitur habe ich zuerst Biologie studiert.“"
+     "typ": "A",
+     "note": "„Nach dem Abitur habe ich zuerst Biologie studiert.“ Die Ausbildung kam erst danach."
     },
     {
      "no": "17",
      "ans": "Ja",
      "typ": "P",
-     "note": "„vor allem im Tropenhaus“, „Pflanzen aus Südamerika und Afrika“ = aus warmen Ländern."
+     "note": "„vor allem im Tropenhaus“, „Pflanzen aus Südamerika und Afrika“ = meistens Pflanzen aus warmen Ländern."
     },
     {
      "no": "18",
@@ -931,16 +931,16 @@
      "no": "19",
      "ans": "Ja",
      "typ": "P",
-     "note": "„Einmal im Monat führe ich Schulklassen durch das Tropenhaus.“"
+     "note": "„Einmal im Monat führe ich Schulklassen durch das Tropenhaus.“ = Schülern regelmäßig den Arbeitsplatz zeigen."
     },
     {
      "no": "20",
      "ans": "Nein",
      "typ": "N",
-     "note": "„nur einen kleinen Balkon“."
+     "note": "„Leider nicht.“ – „nur einen kleinen Balkon“."
     }
    ]
   },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 1 von 15 Fällen die längste Option, in 7 die mittlere, in 7 die kürzeste (gezählt nach Wörtern, Ziffern eingeschlossen, bei Gleichstand nach Zeichen)."
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 3 von 15 Fällen die längste Option, in 8 die mittlere, in 4 die kürzeste (gezählt nach Wörtern, Ziffern eingeschlossen, bei Gleichstand nach Zeichen)."
  }
 }

@@ -7,9 +7,9 @@
    "title": "Reparieren statt wegwerfen",
    "lead": "Im Repair-Café in Wittenberg reparieren Freiwillige kaputte Dinge – kostenlos. Das Team um Horst Krämer hat jeden Monat mehr zu tun.",
    "paragraphs": [
-    "Ein Toaster, der nicht mehr warm wird, ein Radio ohne Ton, eine Winterjacke mit kaputtem Reißverschluss: Jeden ersten Samstag im Monat bringen die Besucher solche Dinge ins Gemeindehaus in Wittenberg. Dort warten Horst Krämer und zehn andere Freiwillige. Der 72-Jährige hat 40 Jahre lang als Elektriker gearbeitet. „Früher hat man Sachen repariert. Heute wirft man sie weg und kauft neue“, sagt er. „Das wollten wir ändern.“",
-    "Das Repair-Café existiert seit drei Jahren. Die Reparatur ist kostenlos, nur neue Teile muss man bezahlen, weil der Verein keinen Gewinn macht. Krämer ist aber noch etwas anderes wichtig: „Die Leute sollen nicht nur zuschauen, sondern mithelfen. Dann können sie es beim nächsten Mal vielleicht selbst.“ Ungefähr zwei von drei Geräten funktionieren danach wieder. Wenn das nicht klappt, erklären die Helfer wenigstens, welches Teil defekt ist und ob sich eine Reparatur lohnt.",
-    "Die meisten Besucher sind Rentner, aber es kommen auch immer mehr junge Familien mit Kindern. Für sie gibt es seit diesem Jahr eine eigene Ecke für kaputtes Spielzeug. Am längsten wartet man am Tisch von Renate Voss: Sie repariert Uhren – und sie ist die Einzige hier, die das kann. Deshalb sucht das Team dringend einen zweiten Uhrmacher, obwohl niemand dafür bezahlt wird."
+    "Ein Toaster, der nicht mehr warm wird, ein Radio ohne Ton, eine Winterjacke mit kaputtem Reißverschluss: Jeden ersten Samstag im Monat bringen die Besucher solche Dinge ins Gemeindehaus in Wittenberg. Dort warten Horst Krämer und zehn andere Freiwillige mit ihren Werkzeugkisten. Der 72-Jährige hat 40 Jahre lang als Elektriker gearbeitet und hat viel Erfahrung mit Elektrogeräten. „Früher hat man Sachen repariert. Heute wirft man sie weg und kauft neue“, sagt er. „Das ist meiner Meinung nach schlecht für die Umwelt. Deshalb wollten wir etwas verändern.“",
+    "Das Repair-Café gibt es seit drei Jahren. Die Reparatur ist kostenlos, nur neue Teile muss man bezahlen, weil der Verein keinen Gewinn macht. Krämer ist aber noch etwas anderes wichtig: „Die Leute sollen nicht nur zuschauen, sondern mithelfen. Dann können sie es beim nächsten Mal vielleicht selbst.“ Ungefähr zwei von drei Geräten funktionieren nach der Reparatur wieder. Wenn das nicht klappt, erklären die Helfer wenigstens, welches Teil defekt ist und ob sich eine Reparatur überhaupt lohnt.",
+    "Die meisten Besucher sind Rentner, aber es kommen auch immer mehr junge Familien mit Kindern. Für diese Familien gibt es seit diesem Jahr eine eigene Ecke für kaputtes Spielzeug. Am längsten wartet man am Tisch von Renate Voss: Sie repariert Uhren – und sie ist die Einzige hier, die das kann. Deshalb sucht das Team dringend einen zweiten Uhrmacher, obwohl es dafür keine Bezahlung gibt."
    ],
    "quote": "„Die Leute sollen nicht nur zuschauen, sondern mithelfen.“",
    "source": "aus einer deutschen Tageszeitung",
@@ -29,9 +29,9 @@
      "no": "1",
      "stem": "Das Repair-Café …",
      "options": {
-      "a": "findet einmal im Monat statt.",
-      "b": "ist jede Woche geöffnet.",
-      "c": "ist nur für Rentner."
+      "a": "öffnet nur an einem Tag im Monat.",
+      "b": "hat an allen Samstagen im Monat geöffnet.",
+      "c": "ist nur für Rentner da."
      },
      "answer": "a"
     },
@@ -40,8 +40,8 @@
      "stem": "Im Repair-Café …",
      "options": {
       "a": "kostet jede Reparatur zehn Euro.",
-      "b": "muss man nichts bezahlen.",
-      "c": "bezahlt man nur für neue Teile."
+      "b": "sind die Reparatur und auch alle neuen Teile kostenlos.",
+      "c": "zahlt man nur für Teile, die neu sind."
      },
      "answer": "c"
     },
@@ -49,9 +49,9 @@
      "no": "3",
      "stem": "Horst Krämer möchte, dass die Besucher …",
      "options": {
-      "a": "beim Reparieren zuschauen.",
-      "b": "selbst mitarbeiten.",
-      "c": "ihre Geräte zu Hause reparieren."
+      "a": "bei der Reparatur nur zuschauen.",
+      "b": "bei der Arbeit aktiv helfen.",
+      "c": "ihre Geräte vorher zu Hause reparieren."
      },
      "answer": "b"
     },
@@ -59,9 +59,9 @@
      "no": "4",
      "stem": "Seit diesem Jahr …",
      "options": {
-      "a": "gibt es ein Angebot für Kinder.",
-      "b": "kommen keine Familien mehr.",
-      "c": "ist das Café in einem neuen Haus."
+      "a": "werden dort auch Spielsachen repariert.",
+      "b": "kommen weniger Familien als früher.",
+      "c": "ist das Repair-Café in einem neuen Gemeindehaus."
      },
      "answer": "a"
     },
@@ -69,9 +69,9 @@
      "no": "5",
      "stem": "Das Team sucht …",
      "options": {
-      "a": "jemanden, der Spielzeug repariert.",
-      "b": "noch einen Elektriker.",
-      "c": "jemanden für die Uhren."
+      "a": "jemanden, der kaputtes Spielzeug für Kinder repariert.",
+      "b": "noch einen erfahrenen Elektriker.",
+      "c": "noch jemanden, der sich mit Uhren auskennt."
      },
      "answer": "c"
     }
@@ -87,19 +87,19 @@
     "rows": [
      {
       "floor": "2. Stock",
-      "text": "Bahnhofshotel (Rezeption rund um die Uhr, 40 Zimmer, Frühstücksbuffet 6–10 Uhr) · Konferenzräume (Reservierung an der Hotelrezeption) · Verwaltung der Bahn (kein Kundenservice) · Dachterrasse nur für Hotelgäste"
+      "text": "Bahnhofshotel (Rezeption 24 Stunden geöffnet, 40 Einzel- und Doppelzimmer, Frühstücksbuffet 6–10 Uhr) · Konferenzräume (Reservierung über die Hotelrezeption) · Bahnverwaltung (kein Kundenservice, kein Fahrkartenverkauf) · Dachterrasse nur für Hotelgäste"
      },
      {
       "floor": "1. Stock",
-      "text": "Restaurant „Gleis 1“ (warme Küche 11–22 Uhr) · Warteraum (nur für Reisende mit Fahrkarte) · Bahnhofsmission (Hilfe für Reisende, Ruheraum) · Friseursalon (Mo–Sa 9–18 Uhr) · Toiletten · Verbindung zum Parkhaus"
+      "text": "Restaurant „Gleis 1“ (warme Küche 11–22 Uhr) · Wartebereich (nur für Reisende mit gültiger Fahrkarte) · Bahnhofsmission (Unterstützung für Reisende in Not, Ruheraum) · Friseursalon (Montag–Samstag 9–18 Uhr) · Toiletten · Verbindung zum Autoparkhaus"
      },
      {
       "floor": "EG",
-      "text": "Gleise 1–8 · Reisezentrum (Fahrkarten und Beratung, täglich 6–21 Uhr) · Information · Bäckerei (ab 5 Uhr) · Zeitungen und Reisebedarf · Blumenladen · Apotheke (Mo–Sa 7–22 Uhr, Medikamente und Erste Hilfe) · Polizei · Taxistand vor dem Haupteingang"
+      "text": "Gleise 1–8 · Reisezentrum (Fahrkartenverkauf und Reiseberatung, täglich 6–21 Uhr) · Information und Fundbüro · Geldautomaten · Bäckerei (ab 5 Uhr) · Imbiss (Currywurst, Bratwurst, Suppen, 10–19 Uhr) · Zeitschriften, Reisebedarf · Blumengeschäft · Apotheke (Montag–Samstag 7–22 Uhr, Medikamente, Erste Hilfe) · Polizeiwache · Taxistand vor dem Haupteingang"
      },
      {
       "floor": "UG",
-      "text": "S-Bahn (Gleise 11–14) · Schließfächer (rund um die Uhr, ab 3 € pro Tag) · Gepäckaufbewahrung (täglich 7–20 Uhr) · Fahrradparkhaus (überwacht, erste Nacht kostenlos) · Supermarkt (täglich bis 23 Uhr) · Toiletten und Duschen · Ausgang zum Busbahnhof"
+      "text": "S-Bahn (Gleise 11–14) · Schließfächer (24 Stunden täglich, ab 3 € pro Tag) · Gepäckaufbewahrung (täglich 7–20 Uhr) · Fahrradparkhaus (videoüberwacht, erste Nacht kostenlos) · Supermarkt (Lebensmittel und Getränke, täglich bis 23 Uhr) · Toiletten, Duschen · Ausgang zum Busbahnhof"
      }
     ]
    },
@@ -116,7 +116,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Ihr Zug fährt erst in zwei Stunden. Sie möchten die Stadt ansehen, aber Ihren schweren Koffer nicht den ganzen Nachmittag mit sich herumtragen.",
+     "stem": "Ihr Zug fährt erst in zwei Stunden. Sie möchten noch einen Spaziergang durch die Altstadt machen, aber Ihr schwerer Koffer soll so lange im Bahnhof bleiben.",
      "options": {
       "a": "EG",
       "b": "UG",
@@ -126,7 +126,7 @@
     },
     {
      "no": "7",
-     "stem": "Sie haben seit dem Frühstück Kopfschmerzen und möchten vor der langen Fahrt etwas dagegen kaufen.",
+     "stem": "Seit dem Frühstück tut Ihnen der Kopf weh. Vor der langen Fahrt möchten Sie noch schnell Tabletten dagegen kaufen.",
      "options": {
       "a": "1. Stock",
       "b": "UG",
@@ -136,7 +136,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie kommen mit dem Rad zum Bahnhof, weil Sie drei Tage verreisen, und möchten es dort sicher abstellen.",
+     "stem": "Sie besuchen drei Tage lang Freunde und fahren mit dem Rad zum Bahnhof. Dort soll es in dieser Zeit sicher stehen.",
      "options": {
       "a": "UG",
       "b": "1. Stock",
@@ -146,7 +146,7 @@
     },
     {
      "no": "9",
-     "stem": "Sie haben seit heute Morgen nichts gegessen und möchten vor der Abfahrt um 20 Uhr noch eine warme Mahlzeit.",
+     "stem": "Es ist schon halb acht am Abend, und Ihr Zug fährt erst um 21 Uhr. Sie haben großen Hunger und möchten vorher noch richtig warm essen.",
      "options": {
       "a": "EG",
       "b": "1. Stock",
@@ -156,7 +156,7 @@
     },
     {
      "no": "10",
-     "stem": "Ihre Mutter kommt mit dem Zug und bleibt eine Nacht. Sie sucht ein Zimmer, das nah am Bahnhof ist, damit sie nicht weit laufen muss.",
+     "stem": "Ihre Mutter kommt spät am Abend an und fährt erst am nächsten Morgen weiter. Sie möchte in einem bequemen Bett schlafen, aber nicht mehr weit laufen.",
      "options": {
       "a": "1. Stock",
       "b": "EG",
@@ -178,10 +178,10 @@
      "deine Oma Hilde"
     ],
     "paragraphs": [
-     "du liest richtig: Das ist meine erste E-Mail! Seit September besuche ich jeden Dienstag einen Computerkurs im Seniorentreff, der direkt neben der Kirche liegt. Dein Vater hat herzlich gelacht, als ich ihm das am Telefon erzählt habe. Aber ich wollte endlich verstehen, was ihr alle den ganzen Tag mit euren Smartphones und Computern macht.",
-     "Wir sind acht Teilnehmer im Kurs, alle über 65. Unser Kursleiter Jakob studiert Informatik und ist erst 22. Er ist sehr geduldig, denn ich frage jede Woche dreimal dasselbe, obwohl er es mir schon erklärt hat. Zuerst habe ich gelernt, wie man E-Mails schreibt und Fotos verschickt. Vorige Woche haben wir im Internet Kochrezepte gesucht und uns ein Kochvideo angeschaut. Ich wusste gar nicht, dass es so viele Kochvideos gibt!",
-     "Meine Nachbarin Frau Kurz meint, dass das Internet gefährlich ist. Ein bisschen Angst habe ich auch, weil ich so vieles noch nicht verstehe. Jakob hat uns drei wichtige Regeln erklärt: Ich darf nie mein Passwort weitergeben, keine E-Mails von Fremden öffnen und nichts bestellen, was ich nicht kenne. Das habe ich mir ordentlich auf einen Zettel geschrieben, der jetzt am Kühlschrank hängt, neben deinem Foto.",
-     "Jetzt zu meiner Bitte: Dein Opa und ich möchten euch so gern öfter sehen, weil wir uns in letzter Zeit leider selten besucht haben. Jakob meint, dass man mit dem Computer auch kostenlos telefonieren und sich dabei sehen kann. Kannst du mir das am Sonntag zeigen, wenn ihr zum Kaffeetrinken kommt? Dann können wir auch mit Onkel Peter in Kanada sprechen. Er ist im März Vater geworden, und wir haben das Enkelkind bisher nur auf zwei Fotos gesehen.",
+     "du liest richtig: Das ist meine erste E-Mail! Seit September besuche ich jeden Dienstag einen Computerkurs im Seniorentreff, der direkt neben der Kirche liegt. Die Informationen über den Kurs habe ich in unserer Kirchenzeitung gelesen. Dein Vater hat herzlich gelacht, als ich ihm das am Telefon erzählt habe. Aber ich wollte endlich verstehen, was ihr alle den ganzen Tag mit euren Smartphones und Computern macht.",
+     "Wir sind acht Teilnehmer im Kurs, alle über 65. Unser Kursleiter Jakob studiert Informatik und ist erst 22. Er ist sehr geduldig, denn ich frage jede Woche dreimal dasselbe, obwohl er es mir schon erklärt hat. Zuerst habe ich gelernt, wie man E-Mails schreibt und Urlaubsfotos verschickt. Vorige Woche haben wir im Internet Kochrezepte gesucht und uns ein Kochvideo angeschaut. Ich wusste gar nicht, dass es im Internet so viele Kochvideos gibt!",
+     "Meine Nachbarin Frau Kurz ist der Meinung, dass das Internet gefährlich ist. Ein bisschen Angst habe ich auch, weil ich so vieles noch nicht verstehe. Jakob hat uns drei wichtige Regeln erklärt: Ich darf nie mein Passwort weitergeben, keine E-Mails von Fremden öffnen und nichts bestellen, was ich nicht kenne. Das habe ich mir ordentlich auf einen Zettel geschrieben, der jetzt am Kühlschrank hängt, neben deinem Foto.",
+     "Jetzt zu meiner Bitte: Dein Opa und ich möchten euch so gern öfter sehen, weil wir uns in letzter Zeit leider selten besucht haben. Jakob meint, dass es dafür eine einfache Möglichkeit gibt: Man kann mit dem Computer kostenlos telefonieren und sich dabei sehen. Kannst du mir das am Sonntag zeigen, wenn ihr zum Kaffeetrinken kommt? Dann können wir auch mit Onkel Peter in Kanada sprechen. Er ist im März Vater geworden, und wir haben das Enkelkind bisher nur auf zwei Fotos gesehen.",
      "Schreib mir bitte – aber nicht zu schnell, denn ich muss erst lernen, wie ich deine Antwort finde!"
     ]
    },
@@ -201,9 +201,9 @@
      "no": "11",
      "stem": "Der Kurs …",
      "options": {
-      "a": "findet einmal pro Woche statt.",
+      "a": "trifft sich jede Woche.",
       "b": "ist nur für junge Leute.",
-      "c": "dauert bis September."
+      "c": "endet im September."
      },
      "answer": "a"
     },
@@ -211,9 +211,9 @@
      "no": "12",
      "stem": "Jakob …",
      "options": {
-      "a": "erklärt die Dinge auch mehrmals.",
-      "b": "wird schnell ungeduldig.",
-      "c": "ist der älteste Teilnehmer."
+      "a": "wird nicht ungeduldig, wenn man dasselbe mehrmals fragt.",
+      "b": "verliert schnell die Geduld.",
+      "c": "ist so alt wie die anderen Teilnehmer."
      },
      "answer": "a"
     },
@@ -221,9 +221,9 @@
      "no": "13",
      "stem": "Hilde …",
      "options": {
-      "a": "hat gar keine Angst vor dem Internet.",
-      "b": "hat sich die Regeln aufgeschrieben.",
-      "c": "hat ihr Passwort an die Nachbarin gegeben."
+      "a": "hat keine Angst mehr vor dem Internet.",
+      "b": "hat sich die drei Regeln aufgeschrieben.",
+      "c": "hat der Nachbarin ihr Passwort gegeben."
      },
      "answer": "b"
     },
@@ -231,9 +231,9 @@
      "no": "14",
      "stem": "Am Sonntag soll Emma …",
      "options": {
-      "a": "Onkel Peter in Kanada besuchen.",
-      "b": "ihrer Oma einen Videoanruf erklären.",
-      "c": "Kuchen für die Großeltern backen."
+      "a": "mit Onkel Peter nach Kanada fliegen.",
+      "b": "ihrer Oma zeigen, wie ein Videoanruf funktioniert.",
+      "c": "einen Kuchen zum Kaffeetrinken backen."
      },
      "answer": "b"
     },
@@ -241,9 +241,9 @@
      "no": "15",
      "stem": "Hilde bittet Emma, …",
      "options": {
-      "a": "sofort zu antworten.",
-      "b": "nicht per E-Mail zu antworten.",
-      "c": "ihr Zeit für die Antwort zu lassen."
+      "a": "ihr möglichst schnell zu antworten.",
+      "b": "ihr lieber einen Brief mit der Post zu schreiben.",
+      "c": "sich mit der Antwort Zeit zu lassen."
      },
      "answer": "c"
     }
@@ -259,27 +259,27 @@
    "items": [
     {
      "no": "16",
-     "text": "Frau Lindner fliegt für zwei Wochen nach Portugal. Ihr Hund kann nicht mitkommen.",
+     "text": "Frau Lindner macht zwei Wochen Urlaub in Portugal. Ihr Hund darf nicht mit ins Flugzeug, und die Nachbarn haben keine Zeit für ihn.",
      "answer": "b"
     },
     {
      "no": "17",
-     "text": "Frau Jansen ist 85 und kann die Wohnung nur noch selten verlassen. Ihre Haare sind zu lang.",
+     "text": "Frau Jansen ist 85 und geht kaum noch aus dem Haus, weil ihre Beine schwach sind. Sie möchte endlich wieder eine kurze Frisur haben.",
      "answer": "c"
     },
     {
      "no": "18",
-     "text": "Herr Roth hat einen großen Garten. Seit einer Operation darf er aber nicht schwer arbeiten.",
+     "text": "Herr Roth hatte im Frühling eine Operation am Rücken. Jetzt wächst das Gras hinter seinem Haus immer höher, aber er darf nicht schwer arbeiten.",
      "answer": "d"
     },
     {
      "no": "19",
-     "text": "Familie Demir hat eine neue Wohnung im 4. Stock mit sehr großen Fenstern. Die Fenster von außen zu putzen ist zu gefährlich.",
+     "text": "Familie Demir ist in eine Wohnung im 4. Stock gezogen. Die großen Fenster sind außen schmutzig, aber die Familie hat Angst, sie selbst zu putzen.",
      "answer": "f"
     },
     {
      "no": "20",
-     "text": "Bei Herrn Weber tropft der Wasserhahn in der Küche. Er sucht jemanden, der ihn repariert.",
+     "text": "Bei Herrn Weber tropft der Wasserhahn in der Küche schon seit Tagen. Er braucht schnell jemanden, der ihn repariert.",
      "answer": "X"
     }
    ],
@@ -320,19 +320,19 @@
    "items": [
     {
      "no": "1",
-     "stem": "Wo müssen die Fahrgäste in den Bus umsteigen?",
+     "stem": "Wo müssen die Fahrgäste heute in den Bus umsteigen?",
      "options": {
       "a": "Am Hauptbahnhof.",
       "b": "Am Rathausplatz.",
-      "c": "Am Stadtpark."
+      "c": "Unterwegs am Stadtpark."
      },
      "answer": "b"
     },
     {
      "no": "2",
-     "stem": "Wann beginnt der Kurs?",
+     "stem": "Wann ist der erste Termin des Töpferkurses?",
      "options": {
-      "a": "Am Montag um 18 Uhr.",
+      "a": "Wie geplant am Montag um 18 Uhr.",
       "b": "Am Dienstag um 18 Uhr.",
       "c": "Am Dienstag um 19 Uhr."
      },
@@ -340,9 +340,9 @@
     },
     {
      "no": "3",
-     "stem": "Wo findet der Wochenmarkt ab nächster Woche statt?",
+     "stem": "Wo kann man ab nächster Woche auf dem Wochenmarkt einkaufen?",
      "options": {
-      "a": "Auf dem Marktplatz.",
+      "a": "Wie immer auf dem Marktplatz.",
       "b": "Auf dem Schlossplatz.",
       "c": "Vor dem Rathaus."
      },
@@ -350,21 +350,21 @@
     },
     {
      "no": "4",
-     "stem": "Was soll der Besitzer des Autos tun?",
+     "stem": "Worum bittet man den Besitzer des blauen Autos?",
      "options": {
-      "a": "Zum Ausgang Nord kommen.",
-      "b": "An der Kasse bezahlen.",
-      "c": "Auf Ebene 2 warten."
+      "a": "Er soll zum Nordausgang gehen.",
+      "b": "Er soll an der Kasse auf Ebene 1 bezahlen.",
+      "c": "Er soll bei seinem Auto auf Ebene 2 warten."
      },
      "answer": "a"
     },
     {
      "no": "5",
-     "stem": "Was soll der Vater machen?",
+     "stem": "Worum bittet Lea ihren Vater?",
      "options": {
-      "a": "Lea vom Bahnhof abholen.",
-      "b": "Einen Kuchen backen.",
-      "c": "Lea zurückrufen."
+      "a": "Sie am Bahnhof abzuholen.",
+      "b": "Einen Kuchen für sie zu backen.",
+      "c": "Sie sofort zurückzurufen."
      },
      "answer": "a"
     }
@@ -559,12 +559,12 @@
    "items": [
     {
      "no": "16",
-     "text": "Lena ist in einer Großstadt aufgewachsen.",
+     "text": "Lena kommt aus einer sehr großen Stadt.",
      "answer": "Ja"
     },
     {
      "no": "17",
-     "text": "Lena hat den Beruf durch ein Praktikum kennengelernt.",
+     "text": "Bei einem Praktikum hat Lena gemerkt, dass sie Schäferin werden wollte.",
      "answer": "Ja"
     },
     {
@@ -579,7 +579,7 @@
     },
     {
      "no": "20",
-     "text": "Lena möchte später Käse aus Schafsmilch machen.",
+     "text": "Lena plant, später selbst Käse herzustellen.",
      "answer": "Ja"
     }
    ]
@@ -689,31 +689,31 @@
      "no": "1",
      "ans": "a",
      "typ": "P",
-     "note": "„jeden ersten Samstag im Monat“ = einmal im Monat; b: Gegenteil."
+     "note": "„Jeden ersten Samstag im Monat“ = nur an einem Tag im Monat; b: Wortfalle „Samstag“ – nicht an allen Samstagen, nur am ersten."
     },
     {
      "no": "2",
      "ans": "c",
      "typ": "N",
-     "note": "„ist kostenlos, nur neue Teile muss man bezahlen“; b ist die Wortfalle „kostenlos“."
+     "note": "„nur neue Teile muss man bezahlen“ = nur für Teile, die neu sind; b: Wortfalle „kostenlos“ – neue Teile kosten Geld."
     },
     {
      "no": "3",
      "ans": "b",
      "typ": "P",
-     "note": "„nicht nur zuschauen, sondern mithelfen“ = selbst mitarbeiten; a: Wortfalle „zuschauen“."
+     "note": "„nicht nur zuschauen, sondern mithelfen“ = bei der Arbeit aktiv helfen; a: Wortfalle „zuschauen“."
     },
     {
      "no": "4",
      "ans": "a",
      "typ": "P",
-     "note": "„eigene Ecke für kaputtes Spielzeug“ = Angebot für Kinder; b: Gegenteil – „immer mehr junge Familien“."
+     "note": "„eine eigene Ecke für kaputtes Spielzeug“ = dort werden Spielsachen repariert; b: Gegenteil – „immer mehr junge Familien“."
     },
     {
      "no": "5",
      "ans": "c",
      "typ": "P",
-     "note": "„dringend einen zweiten Uhrmacher“ = jemanden für die Uhren; a: Wortfalle „Spielzeug“."
+     "note": "„dringend einen zweiten Uhrmacher“ = jemanden, der sich mit Uhren auskennt; a: Wortfalle „Spielzeug“; b: „Elektriker“ ist Krämers Beruf."
     }
    ],
    "L2": [
@@ -721,31 +721,31 @@
      "no": "6",
      "ans": "b",
      "typ": "P",
-     "note": "Koffer nicht tragen → Schließfächer oder Gepäckaufbewahrung im UG."
+     "note": "Koffer soll im Bahnhof bleiben → Schließfächer oder Gepäckaufbewahrung im UG; a: „Fundbüro“ im EG als Falle."
     },
     {
      "no": "7",
      "ans": "c",
      "typ": "P",
-     "note": "Kopfschmerzen, Mittel kaufen → Apotheke im EG; a: Bahnhofsmission hilft, verkauft aber keine Medikamente."
+     "note": "Kopfschmerzen, Tabletten kaufen → „Apotheke (Montag–Samstag 7–22 Uhr, Medikamente“ im EG; a: Bahnhofsmission verkauft keine Medikamente; b: „Supermarkt (Lebensmittel und Getränke“ – Tabletten gibt es nur in der Apotheke."
     },
     {
      "no": "8",
      "ans": "a",
      "typ": "P",
-     "note": "Rad sicher abstellen → Fahrradparkhaus im UG; b: Verbindung zum Parkhaus ist für Autos."
+     "note": "Rad soll sicher stehen → „Fahrradparkhaus (videoüberwacht“ im UG; b: „Verbindung zum Autoparkhaus“ ist für Autos."
     },
     {
      "no": "9",
      "ans": "b",
-     "typ": "P",
-     "note": "warme Mahlzeit um 20 Uhr → Restaurant „Gleis 1“ im 1. Stock (Küche bis 22 Uhr); a: Bäckerei als Falle."
+     "typ": "I",
+     "note": "Zeit + Ort: um halb acht ist der Imbiss im EG („10–19 Uhr“) geschlossen → Restaurant „Gleis 1“ im 1. Stock („warme Küche 11–22 Uhr“)."
     },
     {
      "no": "10",
      "ans": "c",
-     "typ": "P",
-     "note": "Zimmer nah am Bahnhof → Bahnhofshotel im 2. Stock; a: Warteraum und Ruheraum als Falle."
+     "typ": "I",
+     "note": "Bett für eine Nacht → Bahnhofshotel im 2. Stock; a: „Wartebereich“ und „Ruheraum“ als Falle."
     }
    ],
    "L3": [
@@ -753,63 +753,63 @@
      "no": "11",
      "ans": "a",
      "typ": "P",
-     "note": "„jeden Dienstag“ = einmal pro Woche; c: „seit September“ ist der Beginn, nicht das Ende."
+     "note": "„jeden Dienstag“ = trifft sich jede Woche; c: „Seit September“ ist der Beginn, nicht das Ende."
     },
     {
      "no": "12",
      "ans": "a",
      "typ": "I",
-     "note": "„sehr geduldig, denn ich frage jede Woche dreimal dasselbe“ → erklärt mehrmals; c: Er ist der Jüngste (22)."
+     "note": "„sehr geduldig, denn ich frage jede Woche dreimal dasselbe“ → wird nicht ungeduldig; b: Gegenteil; c: Jakob ist „erst 22“."
     },
     {
      "no": "13",
      "ans": "b",
      "typ": "P",
-     "note": "„auf einen Zettel geschrieben“ = aufgeschrieben; c: Gegenteil – Passwort nie weitergeben."
+     "note": "„auf einen Zettel geschrieben“ = aufgeschrieben; a: „Ein bisschen Angst habe ich auch“; c: Gegenteil – „nie mein Passwort weitergeben“."
     },
     {
      "no": "14",
      "ans": "b",
      "typ": "P",
-     "note": "„telefonieren und sich dabei sehen“ = Videoanruf; a: Mit Peter wird nur gesprochen."
+     "note": "„kostenlos telefonieren und sich dabei sehen“ = Videoanruf; a: Mit Peter wird nur gesprochen; c: Wortfalle „Kaffeetrinken“."
     },
     {
      "no": "15",
      "ans": "c",
      "typ": "P",
-     "note": "„aber nicht zu schnell“ = Zeit lassen; a: Gegenteil."
+     "note": "„aber nicht zu schnell“ = sich Zeit lassen; a: Gegenteil; b: „Schreib mir bitte“ meint eine E-Mail."
     }
    ],
    "L4": [
     {
      "no": "16",
      "ans": "b",
-     "typ": "P",
-     "note": "Hund kann nicht mit, zwei Wochen → Hundepension „ab einer Nacht bis zu vier Wochen“."
+     "typ": "I",
+     "note": "Hund darf nicht ins Flugzeug, zwei Wochen → Hundepension „Ab einer Nacht bis zu vier Wochen“."
     },
     {
      "no": "17",
      "ans": "c",
      "typ": "I",
-     "note": "kann die Wohnung kaum verlassen, Haare zu lang → Friseurin kommt nach Hause."
+     "note": "geht kaum aus dem Haus, kurze Frisur → „ich komme zu Ihnen“ (Haarschnitt zu Hause)."
     },
     {
      "no": "18",
      "ans": "d",
-     "typ": "P",
-     "note": "großer Garten, darf nicht schwer arbeiten → Rasen mähen, Hecke schneiden."
+     "typ": "I",
+     "note": "Gras wächst, darf nicht schwer arbeiten → „Rasen mähen“."
     },
     {
      "no": "19",
      "ans": "f",
      "typ": "P",
-     "note": "große Fenster, 4. Stock, draußen gefährlich → „auch in großer Höhe, mit Leiter oder Hebebühne“."
+     "note": "4. Stock, Fenster außen schmutzig → „auch in großer Höhe, mit Leiter oder Hebebühne“."
     },
     {
      "no": "20",
      "ans": "X",
      "typ": "N",
-     "note": "e: Schlüsseldienst öffnet Türen – repariert keinen Wasserhahn; a–d, f passen nicht."
+     "note": "e: „In 30 Minuten sind wir bei Ihnen“ – schnell, aber nur für Türen; kein Wasserhahn in a–f."
     }
    ],
    "H1": [
@@ -817,25 +817,25 @@
      "no": "1",
      "ans": "b",
      "typ": "N",
-     "note": "„endet am Rathausplatz. Dort steht ein Ersatzbus“; c: Der Bus hält dort nur."
+     "note": "„endet am Rathausplatz. Dort steht ein Ersatzbus“; c: Wortfalle „unterwegs auch am Stadtpark“ – der Bus hält dort nur."
     },
     {
      "no": "2",
      "ans": "c",
      "typ": "N",
-     "note": "„nicht am Montag … am Dienstag – aber nicht um 18 Uhr, sondern erst um 19 Uhr“."
+     "note": "„nicht wie geplant am Montag um 18 Uhr“ … „am Dienstag – aber nicht um 18 Uhr, sondern erst um 19 Uhr“; a: Wortfalle „wie geplant“."
     },
     {
      "no": "3",
      "ans": "b",
      "typ": "A",
-     "note": "Marktplatz wird Baustelle → „auf dem Schlossplatz“; c: „hinter dem Rathaus“ ist nur die Lage."
+     "note": "Marktplatz wird Baustelle → „auf dem Schlossplatz“; a: „zieht der Wochenmarkt um“; c: „hinter dem Rathaus“ ist nur die Lage."
     },
     {
      "no": "4",
      "ans": "a",
      "typ": "P",
-     "note": "„Bitte kommen Sie zum Ausgang Nord“; b, c: Wortfallen Kasse, Ebene 2."
+     "note": "„Bitte kommen Sie zum Ausgang Nord“ = zum Nordausgang gehen; b, c: Wortfallen Kasse, Ebene 2."
     },
     {
      "no": "5",
@@ -913,13 +913,13 @@
      "no": "16",
      "ans": "Ja",
      "typ": "P",
-     "note": "„mitten in Berlin aufgewachsen“ = in einer Großstadt."
+     "note": "„mitten in Berlin aufgewachsen“ = aus einer sehr großen Stadt."
     },
     {
      "no": "17",
      "ans": "Ja",
      "typ": "P",
-     "note": "„Praktikum auf einem Hof … Das ist mein Beruf.“"
+     "note": "„Praktikum auf einem Hof … Das ist mein Beruf.“ = beim Praktikum gemerkt."
     },
     {
      "no": "18",
@@ -937,10 +937,10 @@
      "no": "20",
      "ans": "Ja",
      "typ": "P",
-     "note": "„aus der Milch meiner Schafe Käse machen“."
+     "note": "„aus der Milch meiner Schafe Käse machen“ = plant, selbst Käse herzustellen."
     }
    ]
   },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 5 von 15 Fällen die längste Option, in 8 die mittlere, in 2 die kürzeste."
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 3 von 15 Fällen die längste Option, in 7 die mittlere, in 5 die kürzeste."
  }
 }

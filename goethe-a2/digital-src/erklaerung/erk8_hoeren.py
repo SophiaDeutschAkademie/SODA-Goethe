@@ -7,7 +7,7 @@ HOEREN1 = {
   "tip": "질문을 먼저 읽고 무엇을 들어야 하는지 정하십시오(시각, 이유, 방법, 장소). Teil 1에는 ‘nicht …, sondern …’(…가 아니라 …)이 자주 나옵니다. sondern 뒤의 정보가 정답이고 nicht 뒤의 정보는 함정입니다. 두 번 들으므로 두 번째에 답을 확인하십시오.",
   "items": [
     {"no": "1", "ans": "a",
-     "stko": "방문객은 오늘 언제 펭귄 먹이 주기를 구경할 수 있습니까?",
+     "stko": "오늘 펭귄은 언제 먹이를 받습니까?",
      "basis": [
        ["die Fütterung der Pinguine ist heute nicht um 15 Uhr, sondern schon um halb drei.", "펭귄 먹이 주기는 오늘 15시가 아니라 벌써 2시 반에 합니다."],
        ["Die Vorführung mit den Seelöwen um 16 Uhr fällt wegen Bauarbeiten leider aus.", "16시 바다사자 공연은 공사 때문에 유감스럽게도 취소됩니다."]],
@@ -15,33 +15,33 @@ HOEREN1 = {
      "wrong": {"b": "15시는 원래 시각입니다. 오늘은 15시가 아니라고(nicht um 15 Uhr) 말합니다.",
                "c": "16시는 바다사자 공연 시각이고, 그 공연도 오늘은 취소됩니다(fällt aus)."}},
     {"no": "2", "ans": "c",
-     "stko": "수리비가 왜 계획보다 비쌉니까?",
+     "stko": "Schäfer 씨는 왜 이야기한 것보다 돈을 더 내야 합니까?",
      "basis": [["Die Bremsen waren in Ordnung, aber wir mussten zwei neue Reifen montieren. Deshalb kostet die Reparatur leider nicht 120 Euro, wie wir besprochen hatten, sondern 280 Euro.", "브레이크는 이상이 없었지만, 새 타이어 두 개를 달아야 했습니다. 그래서 수리비가 이야기한 대로 120유로가 아니라 280유로입니다."]],
-     "why": "새 타이어(neue Reifen)를 달아야 해서(Deshalb) 값이 올랐습니다. mussten(~해야 했다)이 보기 c의 nötig(필요한)와 같은 뜻입니다.",
-     "wrong": {"a": "„Die Bremsen waren in Ordnung“ 브레이크는 이상이 없었습니다. in Ordnung은 ‘괜찮은, 문제없는’이라는 뜻입니다.",
-               "b": "정비소가 더 오래 일했다는 말은 없습니다. 차는 이미 다 고쳐졌습니다(Ihr Auto ist fertig)."}},
+     "why": "새 타이어(neue Reifen)를 달아야 해서(Deshalb) 값이 120유로에서 280유로로 올랐습니다. 보기 c는 montieren(달다)을 bekommen(받다)으로 바꿔 말했습니다. 질문의 als besprochen(이야기한 것보다)은 대본의 wie wir besprochen hatten(우리가 이야기한 대로)에서 나왔습니다.",
+     "wrong": {"a": "„Die Bremsen waren in Ordnung“ 브레이크는 이상이 없었습니다. in Ordnung은 ‘괜찮은, 문제없는’이라는 뜻이므로 브레이크는 고치지 않았습니다.",
+               "b": "정비소가 시간이 더 걸렸다는 말은 없습니다. 차는 이미 다 고쳐졌습니다(Ihr Auto ist fertig)."}},
     {"no": "3", "ans": "b",
-     "stko": "시 축제에 가장 좋은 방법으로 어떻게 갑니까?",
+     "stko": "라디오는 시 축제 방문객에게 무엇을 권합니까?",
      "basis": [
        ["Wegen der vielen Besucher ist die Altstadt am Samstag und Sonntag für Autos gesperrt. Auch das Parkhaus am Markt bleibt geschlossen.", "방문객이 많아서 구시가지는 토요일과 일요일에 차가 다닐 수 없습니다. 시장 옆 주차 건물도 문을 닫습니다."],
        ["Parken Sie am besten am Bahnhof: Von dort fahren die Busse alle zehn Minuten kostenlos in die Innenstadt.", "역에 주차하는 것이 가장 좋습니다. 거기서 버스가 10분마다 무료로 시내까지 갑니다."]],
-     "why": "구시가지에는 차로 들어갈 수 없고 시장 옆 주차 건물도 닫습니다. 역에 차를 세우고 거기서 버스를 타라고 합니다. 질문의 am besten(가장 좋게)이 방송의 am besten과 같습니다.",
+     "why": "구시가지에는 차로 들어갈 수 없고 시장 옆 주차 건물도 닫습니다. 그래서 역에 차를 세우고(Parken Sie am besten am Bahnhof) 거기서 버스를 타라고 권합니다. 보기 b가 이 두 가지를 합친 것입니다.",
      "wrong": {"a": "구시가지는 차가 못 들어갑니다(für Autos gesperrt).",
-               "c": "„Auch das Parkhaus am Markt bleibt geschlossen.“ 시장 옆 주차 건물은 닫혀 있습니다."}},
+               "c": "„Auch das Parkhaus am Markt bleibt geschlossen.“ 시장 옆 주차 건물은 닫혀 있어서 차를 세울 수 없습니다."}},
     {"no": "4", "ans": "b",
-     "stko": "오늘 박물관은 무엇이 다릅니까?",
+     "stko": "오늘 박물관은 평소와 무엇이 다릅니까?",
      "basis": [
        ["wegen einer Veranstaltung schließt das Museum heute schon um 17 Uhr und nicht wie sonst um 19 Uhr.", "행사 때문에 박물관은 오늘 평소처럼 19시가 아니라 벌써 17시에 문을 닫습니다."],
        ["Unser Café im Erdgeschoss ist heute geschlossen.", "1층 카페는 오늘 문을 닫습니다."]],
-     "why": "평소(sonst)에는 19시, 오늘은 17시에 닫습니다. 보기 b의 früher als sonst(평소보다 일찍)와 같습니다. schon(벌써)도 ‘예상보다 이르다’는 신호입니다.",
-     "wrong": {"a": "„können Sie noch bis Sonntag besuchen“ 전시는 일요일까지 볼 수 있습니다. 오늘이 마지막 날이 아닙니다.",
+     "why": "평소(sonst)에는 19시, 오늘은 17시에 닫습니다. 그러니 방문객은 평소보다 두 시간 일찍 나가야 합니다. 보기 b의 zwei Stunden früher verlassen(두 시간 일찍 떠나다)이 이것입니다. schon(벌써)도 ‘예상보다 이르다’는 신호입니다.",
+     "wrong": {"a": "„können Sie noch bis Sonntag besuchen“ 장난감 전시는 일요일까지 볼 수 있습니다. 오늘이 마지막 날이 아닙니다.",
                "c": "카페는 오늘 문을 닫습니다(geschlossen). 더 오래 여는 것이 아니라 아예 열지 않습니다."}},
     {"no": "5", "ans": "b",
      "stko": "모임은 어디에서 열립니까?",
      "basis": [["Und wir treffen uns nicht in seinem Büro, sondern im Hotel am Bahnhof, im Raum „Elbe“.", "그리고 우리는 그분 사무실이 아니라 역 옆 호텔의 ‘Elbe’ 회의실에서 만납니다."]],
-     "why": "nicht in seinem Büro, sondern im Hotel에서 sondern 뒤의 장소가 정답입니다.",
-     "wrong": {"a": "seinem Büro(그의 사무실)는 Gruber 씨의 사무실입니다. 앞에 nicht가 있으므로 그곳에서 만나지 않습니다.",
-               "c": "Miriam의 사무실은 나오지 않습니다. Miriam이 말한 것은 자기 노트북이 고장 났다는 것(Meiner ist kaputt)뿐입니다."}},
+     "why": "nicht in seinem Büro, sondern im Hotel에서 sondern 뒤의 장소가 정답입니다. 보기 b는 am Bahnhof(역에)를 beim Bahnhof(역 옆에)로 바꿔 말했습니다.",
+     "wrong": {"a": "seinem Büro(그의 사무실)는 Gruber 씨의 사무실입니다. 앞에 nicht가 있으므로 원래 계획과 달리 그곳에서 만나지 않습니다.",
+               "c": "Miriam의 노트북이 고장 난 것(Meiner ist kaputt)은 맞습니다. 하지만 Miriam의 사무실은 나오지 않습니다. 그래서 Stefan에게 발표 자료가 든 그의 노트북을 가져와 달라고 부탁할 뿐이고, 모임 장소는 역 옆 호텔입니다."}},
   ]}
 
 HOEREN2 = {
@@ -150,9 +150,9 @@ HOEREN4 = {
      "basis": [["Fast jeden Tag möchte jemand einen Knopf an meiner Jacke anfassen oder ein Foto mit mir machen. Die meisten lächeln, wenn sie mich sehen.", "거의 매일 누군가 제 재킷 단추를 만지고 싶어 하거나 저와 사진을 찍고 싶어 합니다. 대부분의 사람이 저를 보면 웃습니다."]],
      "why": "die meisten(대부분의 사람)이 문장의 viele Menschen(많은 사람)이고, lächeln(미소 짓다)이 sich freuen(기뻐하다)을 보여 줍니다. 많은 사람이 굴뚝 청소부가 행운을 가져온다고 믿기 때문입니다(Das glauben jedenfalls viele Leute!)."},
     {"no": "20", "ans": "Nein",
-     "stko": "Tobias는 나중에 다른 도시에서 일하고 싶어 합니다.",
-     "basis": [["Danach möchte ich einen eigenen Betrieb gründen, natürlich hier in Rostock. Hier wohnt meine Familie", "그다음에는 제 회사를 세우고 싶습니다. 당연히 여기 로스토크에서요. 여기에 제 가족이 살고 있습니다"]],
-     "why": "자기 회사를 natürlich hier in Rostock(당연히 여기 로스토크에서) 세우고 싶다고 합니다. 다른 도시(eine andere Stadt)가 아닙니다. 마이스터 시험(Meisterprüfung)과 자기 회사(eigener Betrieb)는 새 계획이지만, 일하는 도시는 그대로 로스토크입니다."},
+     "stko": "Tobias는 마이스터 시험을 본 뒤 다른 도시에서 자기 회사를 세우고 싶어 합니다.",
+     "basis": [["Nächstes Jahr mache ich die Meisterprüfung.", "내년에 마이스터 시험을 봅니다."], ["Danach möchte ich einen eigenen Betrieb gründen, natürlich hier in Rostock. Hier wohnt meine Familie", "그다음에는 제 회사를 세우고 싶습니다. 당연히 여기 로스토크에서요. 여기에 제 가족이 살고 있습니다"]],
+     "why": "마이스터 시험(Meisterprüfung)을 보고 자기 회사(eigener Betrieb)를 세우려는 것은 맞습니다. 하지만 장소는 natürlich hier in Rostock(당연히 여기 로스토크에서)입니다. 문장의 in einer anderen Stadt(다른 도시에서)가 틀렸으므로 Nein입니다."},
   ]}
 
 SCHREIBEN = {

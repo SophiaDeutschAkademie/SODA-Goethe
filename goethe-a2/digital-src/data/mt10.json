@@ -7,9 +7,9 @@
    "title": "Mit der Rikscha durch die Stadt",
    "lead": "In Göttingen fahren Freiwillige ältere Menschen mit einer Fahrradrikscha durch die Innenstadt. Die Idee dafür kommt aus Dänemark.",
    "paragraphs": [
-    "Thomas Brandes, 58, arbeitet als Krankenpfleger. Vor zwei Jahren hat er im Urlaub in Kopenhagen eine Rikscha gesehen, in der zwei alte Damen saßen und lachten. „Da wusste ich sofort: So etwas brauchen wir auch“, erzählt er. Zurück in Göttingen hat er einen Verein gegründet und monatelang Spenden für die erste Rikscha gesammelt, und heute fährt er selbst regelmäßig zweimal pro Woche.",
-    "Inzwischen gehören drei Rikschas und 25 Fahrerinnen und Fahrer zum Verein. Alle arbeiten in ihrer Freizeit für den Verein und bekommen dafür kein Geld. Die Fahrten sind für die Gäste kostenlos, weil mehrere Firmen den Verein finanziell unterstützen. Wer mitfahren möchte, ruft einfach im Seniorenheim „Am Wall“ an. Dort stehen die Rikschas, und dort kann man auch einen Termin vereinbaren.",
-    "Die meisten Gäste wünschen sich eine Fahrt zum Fluss oder durch die Altstadt, aber manche möchten unbedingt noch einmal das Haus sehen, in dem sie früher gewohnt haben. Bei Regen und im Winter fahren die Rikschas leider nicht, denn dann werden die Gäste nass, oder es wird ihnen zu kalt. Für den nächsten Sommer sucht Brandes noch weitere Freiwillige, weil immer mehr Senioren mitfahren möchten. „Man muss nicht sportlich sein“, sagt er, „die Rikschas haben einen Elektromotor.“"
+    "Thomas Brandes, 58, arbeitet als Krankenpfleger. Vor zwei Jahren hat er im Urlaub in Kopenhagen eine Rikscha gesehen, in der zwei alte Damen saßen und lachten. „Da wusste ich sofort: So etwas brauchen wir auch“, erzählt er. Zurück in Göttingen hat er einen Verein gegründet und monatelang Spenden für die erste Rikscha gesammelt. Heute fährt er selbst regelmäßig zweimal pro Woche, meistens nach seiner Arbeit im Krankenhaus.",
+    "Inzwischen gehören drei Rikschas und 25 Fahrerinnen und Fahrer zum Verein. Alle arbeiten in ihrer Freizeit für den Verein und bekommen dafür kein Geld. Die Fahrten sind für die Gäste kostenlos, weil mehrere Firmen den Verein finanziell unterstützen. Wer mitfahren möchte, ruft zur Anmeldung einfach im Seniorenheim „Am Wall“ an. Dort stehen die Rikschas, und dort kann man auch einen Termin vereinbaren.",
+    "Die meisten Gäste wünschen sich eine Fahrt zum Fluss oder durch die Altstadt. Manche möchten aber unbedingt noch einmal das Haus sehen, in dem sie früher gewohnt haben. Für sie ist das eine besondere Erinnerung. Bei Regen und im Winter fahren die Rikschas leider nicht, denn dann werden die Gäste nass, oder es wird ihnen zu kalt. Für den nächsten Sommer sucht Brandes noch weitere Freiwillige, weil immer mehr Senioren mitfahren möchten. Nach seiner Erfahrung ist das Rikschafahren nicht schwer: „Man muss nicht sportlich sein“, sagt er, „die Rikschas haben einen Elektromotor.“"
    ],
    "source": "aus einer deutschen Tageszeitung",
    "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Mit der Rikscha durch die Stadt“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -28,9 +28,9 @@
      "no": "1",
      "stem": "Die Idee für die Rikschas hatte Brandes, als er …",
      "options": {
-      "a": "im Ausland Urlaub gemacht hat.",
-      "b": "als Krankenpfleger bei der Arbeit war.",
-      "c": "in einem Seniorenheim zu Besuch war."
+      "a": "auf einer Reise in einem anderen Land war.",
+      "b": "im Krankenhaus bei der Arbeit war.",
+      "c": "zwei alte Damen im Seniorenheim besucht hat."
      },
      "answer": "a"
     },
@@ -38,8 +38,8 @@
      "no": "2",
      "stem": "Die Fahrerinnen und Fahrer …",
      "options": {
-      "a": "bekommen für jede Fahrt etwas Geld.",
-      "b": "tun das ohne Bezahlung.",
+      "a": "bekommen von den Firmen etwas Geld.",
+      "b": "verdienen mit den Fahrten nichts.",
       "c": "arbeiten alle im Seniorenheim."
      },
      "answer": "b"
@@ -48,9 +48,9 @@
      "no": "3",
      "stem": "Wer eine Fahrt machen möchte, …",
      "options": {
-      "a": "muss dort anrufen, wo die Rikschas stehen.",
-      "b": "muss Mitglied im Verein sein.",
-      "c": "muss die Fahrt vorher bezahlen."
+      "a": "ruft dort an, wo die Rikschas parken.",
+      "b": "muss zuerst Mitglied im Verein werden.",
+      "c": "muss für den Termin etwas Geld bezahlen."
      },
      "answer": "a"
     },
@@ -58,9 +58,9 @@
      "no": "4",
      "stem": "Manche Gäste möchten …",
      "options": {
-      "a": "eine Fahrt bis nach Kopenhagen in Dänemark machen.",
-      "b": "den Ort sehen, an dem sie früher gelebt haben.",
-      "c": "selbst einmal eine Rikscha durch die Stadt fahren."
+      "a": "eine Fahrt bis nach Kopenhagen machen.",
+      "b": "dort vorbeifahren, wo sie früher gelebt haben.",
+      "c": "selbst einmal eine Rikscha durch die Altstadt fahren."
      },
      "answer": "b"
     },
@@ -68,9 +68,9 @@
      "no": "5",
      "stem": "Neue Fahrerinnen und Fahrer …",
      "options": {
-      "a": "müssen dafür sehr sportlich sein.",
-      "b": "fahren nur im Winter.",
-      "c": "brauchen keine große Kraft."
+      "a": "müssen im Sommer sehr sportlich sein.",
+      "b": "fahren auch im Winter und bei Regen.",
+      "c": "brauchen nicht viel Kraft in den Beinen."
      },
      "answer": "c"
     }
@@ -87,19 +87,19 @@
     "rows": [
      {
       "floor": "3. Stock",
-      "text": "Wellnessbereich (Sauna und Massage, täglich 14–21 Uhr) · Fitnessraum · Dachterrasse mit Bar und Blick über die Stadt (ab 17 Uhr geöffnet) · Liegestühle · Zimmer 301–330"
+      "text": "Wellnessbereich mit Sauna, Dampfbad und Massagen (täglich 14–21 Uhr) · Fitnessraum mit Laufbändern · Dachterrasse mit Cocktailbar und Blick über die Altstadt (ab 17 Uhr geöffnet) · Sonnenliegen · Gästezimmer 301–330"
      },
      {
       "floor": "2. Stock",
-      "text": "Konferenzräume „Linde“ und „Ahorn“ · Businesscenter mit Computern, Druckern und Kopierern (rund um die Uhr, für Hotelgäste kostenlos) · Saal für Feiern bis 60 Personen · Zimmer 201–240"
+      "text": "Konferenzräume „Linde“ und „Ahorn“ · Businesscenter mit Computerarbeitsplätzen, Druckern und Kopiergeräten (durchgehend geöffnet, für Hotelgäste kostenlos) · Veranstaltungssaal für Familienfeiern bis 60 Personen · Gästezimmer 201–240"
      },
      {
       "floor": "1. Stock",
-      "text": "Restaurant „Parkblick“ (Frühstück 6.30–10.30 Uhr, Abendessen 18–22 Uhr) · Mittagstisch auch für Gäste von außen (12–14 Uhr) · Spielzimmer für Kinder von 3 bis 10 Jahren (täglich 9–18 Uhr) · Zimmer 101–130"
+      "text": "Hotelrestaurant „Parkblick“ (Frühstücksbuffet 6.30–10.30 Uhr, Abendbuffet 18–22 Uhr) · Mittagstisch für Tagesgäste (12–14 Uhr) · Spielzimmer mit Kinderbetreuung (3–10 Jahre, täglich 9–18 Uhr) · Gästezimmer 101–130"
      },
      {
       "floor": "EG",
-      "text": "Rezeption (24 Stunden geöffnet) · Gepäckraum · Hotelbar (ab 11 Uhr) · Kiosk mit Zeitungen und Snacks · Fahrradverleih (täglich 9–18 Uhr, nur für Hotelgäste) · Geldautomat · Ausgang zur Tiefgarage (Parken 15 € pro Tag) · Aufzüge zu allen Etagen"
+      "text": "Rezeption und Touristeninformation (24 Stunden geöffnet) · Gepäckaufbewahrung · Hotelbar (ab 11 Uhr) · Kiosk mit Tageszeitungen, Zeitschriften und Snacks (8–20 Uhr) · Fahrradverleih (täglich 9–18 Uhr, nur für Hotelgäste) · Geldautomat · Ausgang zur Tiefgarage (Parkgebühr 15 € pro Tag) · Personenaufzüge zu allen Etagen"
      }
     ]
    },
@@ -116,7 +116,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie haben eine Rechnung für Ihre Firma nur auf dem Laptop und müssen sie noch ausdrucken.",
+     "stem": "Ihr Chef möchte die Rechnung für die Firma auf Papier haben, aber Sie haben sie nur auf Ihrem Laptop.",
      "options": {
       "a": "1. Stock",
       "b": "2. Stock",
@@ -126,7 +126,7 @@
     },
     {
      "no": "7",
-     "stem": "Sie müssen morgen schon um halb acht abfahren und möchten vorher frühstücken.",
+     "stem": "Sie verlassen das Hotel morgen schon um Viertel nach sieben und möchten vorher noch in Ruhe etwas essen.",
      "options": {
       "a": "1. Stock",
       "b": "3. Stock",
@@ -136,7 +136,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie möchten nach dem Abendessen noch draußen sitzen, etwas trinken und die Stadt von oben sehen.",
+     "stem": "Nach dem Abendessen möchten Sie noch an der frischen Luft ein Glas Wein trinken und über die Dächer der Stadt schauen.",
      "options": {
       "a": "EG",
       "b": "2. Stock",
@@ -146,7 +146,7 @@
     },
     {
      "no": "9",
-     "stem": "Sie müssen Ihr Zimmer schon um zehn Uhr verlassen, fliegen aber erst am Abend und möchten Ihre Koffer nicht den ganzen Tag mit in die Stadt nehmen.",
+     "stem": "Sie müssen Ihr Zimmer um zehn Uhr verlassen, Ihr Flug geht aber erst am Abend. Bis dahin möchten Sie ohne Koffer durch die Stadt gehen.",
      "options": {
       "a": "3. Stock",
       "b": "EG",
@@ -156,7 +156,7 @@
     },
     {
      "no": "10",
-     "stem": "Es regnet, und Ihre beiden Kinder, vier und sieben Jahre alt, möchten im Hotel spielen.",
+     "stem": "Draußen regnet es. Ihre Kinder, vier und sieben Jahre alt, haben im Zimmer Langeweile und möchten mit anderen Kindern spielen.",
      "options": {
       "a": "2. Stock",
       "b": "3. Stock",
@@ -178,10 +178,10 @@
      "deine Martina"
     ],
     "paragraphs": [
-     "ich muss dir unbedingt erzählen, was letzte Woche Schlimmes passiert ist. Am Mittwochmorgen bin ich wie immer mit dem Fahrrad zur Arbeit gefahren. Es hatte geregnet, und die Straße war sehr nass. In einer Kurve bin ich gerutscht und hingefallen, obwohl ich langsam gefahren bin. Ein Autofahrer, der hinter mir war, hat sofort angehalten und den Krankenwagen gerufen.",
-     "Im Krankenhaus haben sie meinen Arm geröntgt, und der Arzt hat mir erklärt, dass er gebrochen ist und ich sechs Wochen lang einen Gips brauche. Auch das Fahrrad ist kaputt, denn das Vorderrad ist total verbogen.",
-     "Arbeiten kann ich momentan nicht, weil ich am Computer nicht richtig schreiben kann. Diese E-Mail tippe ich mit der linken Hand, deshalb dauert es deutlich länger als sonst. Mein Chef war aber sehr verständnisvoll und hat gesagt, dass ich mich zuerst ausruhen soll. Am Anfang war mir zu Hause langweilig, aber jetzt höre ich viele Hörbücher, und meine Nachbarin bringt mir täglich die Zeitung.",
-     "Außerdem habe ich eine Bitte: Ab nächster Woche muss ich zweimal wöchentlich zur Physiotherapie, immer dienstags und freitags um neun Uhr. Die Praxis liegt am anderen Ende der Stadt, und mit dem Bus brauche ich über eine Stunde, weil ich zweimal umsteigen muss. Mein Mann hat leider keine Zeit, weil er morgens arbeiten muss, und mit dem Gips darf ich nicht selbst Auto fahren. Könntest du mich dienstags mit dem Auto hinbringen? Zurück nehme ich ein Taxi, das ist bequemer.",
+     "ich muss dir unbedingt erzählen, was letzte Woche Schlimmes passiert ist. Am Mittwochmorgen bin ich wie immer mit dem Fahrrad zur Arbeit gefahren. Es hatte die ganze Nacht geregnet, und die Straße war sehr nass. In einer Kurve bin ich gerutscht und hingefallen, obwohl ich langsam gefahren bin. Zum Glück hatte ich einen Helm auf. Ein Autofahrer, der hinter mir gefahren ist, hat sofort angehalten und den Notarzt gerufen.",
+     "Im Krankenhaus haben sie meinen Arm geröntgt. Nach der Untersuchung hat mir der Arzt erklärt, dass der Arm gebrochen ist und ich sechs Wochen lang einen Gips brauche. Auch das Fahrrad ist kaputt, denn das Vorderrad ist total verbogen.",
+     "Arbeiten kann ich momentan nicht, weil ich am Computer nicht richtig schreiben kann. Diese E-Mail tippe ich mit der linken Hand, deshalb dauert das Schreiben viel länger als sonst. Mein Chef war aber sehr verständnisvoll und hat gesagt, dass ich mich zuerst ausruhen soll. Am Anfang war mir in der Wohnung langweilig, aber jetzt höre ich viele Hörbücher, und meine Nachbarin bringt mir täglich die Zeitung.",
+     "Außerdem habe ich eine Bitte: Ab nächster Woche muss ich zweimal wöchentlich zur Physiotherapie, immer dienstags und freitags um neun Uhr. Die Praxis liegt am anderen Ende der Stadt. Mit dem Bus brauche ich über eine Stunde, weil ich zweimal umsteigen muss. Mein Mann hat leider keine Zeit, weil er morgens arbeiten muss, und mit dem Gips darf ich nicht selbst Auto fahren. Könntest du mich dienstags mit dem Auto hinbringen? Nach der Behandlung nehme ich für den Rückweg ein Taxi, das ist bequemer.",
      "Freitags kann mich mein Bruder fahren, aber dienstags arbeitet er in einer anderen Stadt. Sag mir bitte rechtzeitig Bescheid, ob es dir passt. Als Dankeschön lade ich dich am Wochenende zu Kaffee und Kuchen ein, wenn du Zeit hast. Ich freue mich auf dich!"
     ]
    },
@@ -201,9 +201,9 @@
      "no": "11",
      "stem": "Der Unfall ist passiert, weil …",
      "options": {
-      "a": "ein Auto viel zu schnell um die Kurve gefahren ist.",
+      "a": "ein Autofahrer zu schnell um die Kurve gefahren ist.",
       "b": "die Straße nach dem Regen glatt war.",
-      "c": "Martinas Fahrrad kaputt war."
+      "c": "Martina mit dem Fahrrad zu schnell gefahren ist."
      },
      "answer": "b"
     },
@@ -211,9 +211,9 @@
      "no": "12",
      "stem": "Martina …",
      "options": {
-      "a": "hat sich das Bein gebrochen.",
-      "b": "muss noch im Krankenhaus bleiben.",
-      "c": "muss mehrere Wochen einen Gips tragen."
+      "a": "hat sich in der Kurve das Bein gebrochen.",
+      "b": "muss sechs Wochen im Krankenhaus bleiben.",
+      "c": "trägt über einen Monat lang einen Gips."
      },
      "answer": "c"
     },
@@ -221,9 +221,9 @@
      "no": "13",
      "stem": "Martina arbeitet zurzeit nicht, weil …",
      "options": {
-      "a": "sie mit dem Arm nicht richtig tippen kann.",
-      "b": "ihr Chef es ihr verboten hat.",
-      "c": "sie zu Hause lieber in Ruhe viele Bücher lesen möchte."
+      "a": "sie mit dem Gips nicht gut tippen kann.",
+      "b": "ihr Chef ihr das Arbeiten verboten hat.",
+      "c": "sie in der Wohnung lieber Hörbücher hört."
      },
      "answer": "a"
     },
@@ -231,9 +231,9 @@
      "no": "14",
      "stem": "Claudia soll Martina …",
      "options": {
-      "a": "jeden Freitag zur Therapie bringen.",
-      "b": "jeden Dienstag von der Praxis abholen.",
-      "c": "jeden Dienstag zur Therapie fahren."
+      "a": "freitags mit dem Auto zur Praxis bringen.",
+      "b": "nach der Behandlung mit dem Auto abholen.",
+      "c": "dienstags hinfahren, aber nicht abholen."
      },
      "answer": "c"
     },
@@ -241,9 +241,9 @@
      "no": "15",
      "stem": "Am Freitag …",
      "options": {
-      "a": "fährt Martinas Bruder sie zur Praxis.",
-      "b": "hat Martina keinen Termin.",
-      "c": "kommt Claudia zu Besuch."
+      "a": "bringt ein Familienmitglied Martina zur Therapie.",
+      "b": "hat Martina keinen Termin in der Praxis.",
+      "c": "fährt Martinas Mann sie zur Praxis."
      },
      "answer": "a"
     }
@@ -259,27 +259,27 @@
    "items": [
     {
      "no": "16",
-     "text": "Familie Kessler hat einen siebenjährigen Sohn. Er schläft bald in seinem eigenen Zimmer und braucht dafür ein Bett.",
+     "text": "Familie Kessler zieht bald um. Ihr Sohn (7) bekommt in der neuen Wohnung zum ersten Mal ein eigenes Zimmer, aber dort fehlt noch etwas zum Schlafen.",
      "answer": "a"
     },
     {
      "no": "17",
-     "text": "Lara hat eine neue Wohnung, aber keine Waschmaschine. Sie hat kein Auto und möchte nicht viel Geld ausgeben.",
+     "text": "Lara wäscht ihre Kleidung bis jetzt immer bei ihrer Mutter. Das möchte sie ändern. Sie hat kein Auto und möchte höchstens 200 Euro ausgeben.",
      "answer": "c"
     },
     {
      "no": "18",
-     "text": "Herr und Frau Olsen haben einen großen Balkon. Im Sommer möchten sie dort gern frühstücken.",
+     "text": "Herr und Frau Olsen möchten im Sommer morgens auf ihrem großen Balkon sitzen, Brötchen essen und Kaffee trinken. Dafür fehlen ihnen noch Möbel.",
      "answer": "e"
     },
     {
      "no": "19",
-     "text": "Herr Lange sucht einen gebrauchten Fernseher für sein Schlafzimmer.",
+     "text": "Herr Lange möchte abends im Schlafzimmer fernsehen. Dafür sucht er ein gebrauchtes Gerät.",
      "answer": "X"
     },
     {
      "no": "20",
-     "text": "Sina beginnt im Herbst ihr Studium und braucht für ihr Zimmer im Wohnheim noch einen Platz zum Lernen.",
+     "text": "Sina zieht im Herbst für ihr Studium in ein Wohnheim. In ihrem Zimmer stehen nur ein Bett und ein Schrank, aber sie möchte dort auch in Ruhe lernen und schreiben.",
      "answer": "d"
     }
    ],
@@ -320,7 +320,7 @@
    "items": [
     {
      "no": "1",
-     "stem": "Welcher Ausgang ist heute nicht geöffnet?",
+     "stem": "Welchen Ausgang können die Fans heute nicht benutzen?",
      "options": {
       "a": "Der Ausgang Nord.",
       "b": "Der Ausgang Süd.",
@@ -330,7 +330,7 @@
     },
     {
      "no": "2",
-     "stem": "Wann kann Frau Lehmann ihre Katze abholen?",
+     "stem": "Ab wann darf Frau Lehmann ihre Katze wieder mit nach Hause nehmen?",
      "options": {
       "a": "Ab 15 Uhr.",
       "b": "Ab 17 Uhr.",
@@ -340,17 +340,17 @@
     },
     {
      "no": "3",
-     "stem": "Was sollen die Besucher mitbringen?",
+     "stem": "Was sollen die Besucher am besten mitbringen?",
      "options": {
-      "a": "Etwas, in das sie die Erdbeeren legen können.",
-      "b": "Bargeld für den Eintritt.",
-      "c": "Gummistiefel."
+      "a": "Etwas, worin sie das Obst tragen können.",
+      "b": "Zwei Euro für den Eintritt.",
+      "c": "Gute Schuhe für das Feld."
      },
      "answer": "a"
     },
     {
      "no": "4",
-     "stem": "Was sollen die Passagiere nach Madrid tun?",
+     "stem": "Was sollen die Fluggäste nach Madrid jetzt machen?",
      "options": {
       "a": "Am Gate B 14 warten.",
       "b": "Gleich zu einem anderen Gate gehen.",
@@ -360,11 +360,11 @@
     },
     {
      "no": "5",
-     "stem": "Wo soll die Mutter Niklas abholen?",
+     "stem": "Wo wartet Niklas um sieben auf seine Mutter?",
      "options": {
       "a": "An der Bushaltestelle.",
       "b": "Bei seinem Freund.",
-      "c": "An der Sporthalle."
+      "c": "Beim Training."
      },
      "answer": "b"
     }
@@ -559,7 +559,7 @@
    "items": [
     {
      "no": "16",
-     "text": "Herr Bianchi hat das Eiscafé von seiner Familie übernommen.",
+     "text": "Vor Herrn Bianchi haben schon sein Opa und sein Vater das Geschäft geführt.",
      "answer": "Ja"
     },
     {
@@ -569,7 +569,7 @@
     },
     {
      "no": "18",
-     "text": "Herr Bianchi macht alle Eissorten selbst.",
+     "text": "Im Eiscafé gibt es kein Eis aus der Fabrik.",
      "answer": "Ja"
     },
     {
@@ -579,7 +579,7 @@
     },
     {
      "no": "20",
-     "text": "Herr Bianchi möchte ein zweites Eiscafé eröffnen.",
+     "text": "Herr Bianchi will im Frühling noch einen Eisladen aufmachen.",
      "answer": "Ja"
     }
    ]
@@ -689,63 +689,63 @@
      "no": "1",
      "ans": "a",
      "typ": "P",
-     "note": "„im Urlaub in Kopenhagen“ = Urlaub im Ausland; b: Krankenpfleger ist sein Beruf, die Idee kam aber im Urlaub; c steht nicht im Text."
+     "note": "„im Urlaub in Kopenhagen“ = auf einer Reise in einem anderen Land; b: „nach seiner Arbeit im Krankenhaus“ fährt er heute, die Idee kam aber im Urlaub; c: Die „zwei alte Damen“ saßen in Kopenhagen in einer Rikscha, ein Besuch im Seniorenheim steht nicht im Text."
     },
     {
      "no": "2",
      "ans": "b",
      "typ": "P",
-     "note": "„bekommen dafür kein Geld“ = ohne Bezahlung; a widerspricht dem Text; c: Dass die Fahrer im Seniorenheim arbeiten, steht nicht im Text."
+     "note": "„bekommen dafür kein Geld“ = verdienen nichts; a: Die Firmen „unterstützen“ den Verein, nicht die Fahrer; c steht nicht im Text."
     },
     {
      "no": "3",
      "ans": "a",
-     "typ": "P",
-     "note": "Man „ruft einfach im Seniorenheim“ an, „dort stehen die Rikschas“; b steht nicht im Text; c: Die Fahrten sind „kostenlos“."
+     "typ": "I",
+     "note": "„ruft zur Anmeldung einfach im Seniorenheim … an“ + „Dort stehen die Rikschas“ = dort anrufen, wo die Rikschas parken (zwei Sätze verbinden); b steht nicht im Text; c: Die Fahrten sind „kostenlos“."
     },
     {
      "no": "4",
      "ans": "b",
      "typ": "P",
-     "note": "„das Haus sehen, in dem sie früher gewohnt haben“ = den Ort, an dem sie früher gelebt haben; a: In Kopenhagen war nur Brandes; c steht nicht im Text."
+     "note": "„das Haus sehen, in dem sie früher gewohnt haben“ = dort vorbeifahren, wo sie früher gelebt haben; a: In Kopenhagen war nur Brandes; c: Die Gäste wünschen sich „eine Fahrt … durch die Altstadt“, selbst fahren sie nicht."
     },
     {
      "no": "5",
      "ans": "c",
      "typ": "I",
-     "note": "„Man muss nicht sportlich sein“, „einen Elektromotor“ = keine große Kraft; a widerspricht dem Text; b: Im Winter „fahren die Rikschas leider nicht“."
+     "note": "„Man muss nicht sportlich sein“, „einen Elektromotor“ = nicht viel Kraft in den Beinen; a: „sportlich“ ist die Wortfalle; b: „Bei Regen und im Winter fahren die Rikschas leider nicht“."
     }
    ],
    "L2": [
     {
      "no": "6",
      "ans": "b",
-     "typ": "P",
-     "note": "Rechnung ausdrucken → „Businesscenter mit Computern, Druckern und Kopierern“ im 2. Stock; die Konferenzräume sind die Falle."
+     "typ": "I",
+     "note": "Rechnung auf Papier → drucken → „Businesscenter mit Computerarbeitsplätzen, Druckern und Kopiergeräten“ im 2. Stock; die Konferenzräume sind die Falle."
     },
     {
      "no": "7",
      "ans": "a",
      "typ": "I",
-     "note": "um halb acht abfahren, vorher frühstücken → Restaurant „Parkblick“ im 1. Stock (Frühstück ab 6.30 Uhr)."
+     "note": "um Viertel nach sieben abfahren, vorher essen → „Frühstücksbuffet 6.30–10.30 Uhr“ im 1. Stock; Kiosk (8–20 Uhr) und Hotelbar (ab 11 Uhr) im EG sind dann noch geschlossen."
     },
     {
      "no": "8",
      "ans": "c",
      "typ": "W",
-     "note": "draußen sitzen, trinken, Stadt von oben → „Dachterrasse mit Bar“ im 3. Stock = anderer Stock; die Hotelbar im EG ist die Falle."
+     "note": "frische Luft, Wein, über die Dächer schauen → „Dachterrasse mit Cocktailbar“ im 3. Stock = anderer Stock; die „Hotelbar“ im EG ist die Falle."
     },
     {
      "no": "9",
      "ans": "b",
      "typ": "I",
-     "note": "Koffer nicht den ganzen Tag mitnehmen, Abflug erst am Abend → Gepäckraum im EG."
+     "note": "Zimmer um zehn verlassen, Flug am Abend, ohne Koffer in die Stadt → „Gepäckaufbewahrung“ im EG."
     },
     {
      "no": "10",
      "ans": "c",
-     "typ": "P",
-     "note": "Kinder (4 und 7 Jahre) spielen → „Spielzimmer für Kinder von 3 bis 10 Jahren“ im 1. Stock = anderer Stock; im 2. und 3. Stock nichts für Kinder."
+     "typ": "I",
+     "note": "Kinder (4 und 7 Jahre) möchten mit anderen Kindern spielen → „Spielzimmer mit Kinderbetreuung“ im 1. Stock = anderer Stock; der „Veranstaltungssaal für Familienfeiern“ im 2. Stock ist die Falle."
     }
    ],
    "L3": [
@@ -753,31 +753,31 @@
      "no": "11",
      "ans": "b",
      "typ": "I",
-     "note": "„die Straße war sehr nass“, „bin ich gerutscht“ = glatt; a: Der Autofahrer „hat sofort angehalten“; c: Das Fahrrad ist erst danach kaputt."
+     "note": "„die Straße war sehr nass“, „bin ich gerutscht“ = glatt nach dem Regen; a: Der Autofahrer „hat sofort angehalten“; c: Martina ist „langsam gefahren“."
     },
     {
      "no": "12",
      "ans": "c",
      "typ": "P",
-     "note": "„sechs Wochen lang einen Gips“ = mehrere Wochen; a: Gebrochen ist der Arm („meinen Arm geröntgt“); b: Martina ist schon „zu Hause“."
+     "note": "„sechs Wochen lang einen Gips“ = über einen Monat; a: Gebrochen ist der Arm („meinen Arm geröntgt“); b: Martina ist schon „in der Wohnung“."
     },
     {
      "no": "13",
      "ans": "a",
      "typ": "P",
-     "note": "„am Computer nicht richtig schreiben“ = nicht tippen; b: Der Chef sagt nur „zuerst ausruhen“; c: Sie hört Hörbücher, das ist nicht der Grund."
+     "note": "„am Computer nicht richtig schreiben“ = mit dem Gips nicht gut tippen; b: Der Chef sagt nur „zuerst ausruhen“; c: Die Hörbücher sind nicht der Grund."
     },
     {
      "no": "14",
      "ans": "c",
      "typ": "S",
-     "note": "„Könntest du mich dienstags mit dem Auto hinbringen?“; a: Freitags fährt der Bruder; b: Zurück nimmt sie „ein Taxi“."
+     "note": "„Könntest du mich dienstags mit dem Auto hinbringen?“ + „für den Rückweg ein Taxi“ = hinfahren, aber nicht abholen; a: Freitags fährt der Bruder; b: Nach der Behandlung nimmt Martina „ein Taxi“."
     },
     {
      "no": "15",
      "ans": "a",
      "typ": "S",
-     "note": "„Freitags kann mich mein Bruder fahren.“; b widerspricht dem Text („dienstags und freitags um neun Uhr“); c steht nicht im Text."
+     "note": "„Freitags kann mich mein Bruder fahren.“ = ein Familienmitglied; c: Der Mann „hat leider keine Zeit“; b widerspricht dem Text („dienstags und freitags um neun Uhr“)."
     }
    ],
    "L4": [
@@ -785,31 +785,31 @@
      "no": "16",
      "ans": "a",
      "typ": "I",
-     "note": "Sohn sieben Jahre, braucht ein Bett → Hochbett „für Kinder ab 6 Jahren“."
+     "note": "Sohn (7), eigenes Zimmer, „etwas zum Schlafen“ → Hochbett „für Kinder ab 6 Jahren“."
     },
     {
      "no": "17",
      "ans": "c",
      "typ": "I",
-     "note": "Waschmaschine, kein Auto, wenig Geld → Waschmaschine für 150 €, Lieferung „möglich, 20 €“."
+     "note": "eigene Waschmaschine, kein Auto, höchstens 200 Euro → 150 € + Lieferung „möglich, 20 €“ = 170 €."
     },
     {
      "no": "18",
      "ans": "e",
      "typ": "P",
-     "note": "Frühstück auf dem Balkon → Holztisch mit 4 Stühlen „FÜR BALKON UND GARTEN“."
+     "note": "Frühstück auf dem Balkon, „fehlen ihnen noch Möbel“ → Holztisch mit 4 Stühlen „Für Balkon und Garten“, „Perfekt zum Frühstücken“."
     },
     {
      "no": "19",
      "ans": "X",
      "typ": "W",
-     "note": "Fernseher → f ist nur ein Fernsehschrank („Den Fernseher behalten wir!“); keine Anzeige passt."
+     "note": "fernsehen, ein gebrauchtes „Gerät“ → f ist nur ein Fernsehschrank („Den Fernseher behalten wir!“); keine Anzeige passt."
     },
     {
      "no": "20",
      "ans": "d",
      "typ": "I",
-     "note": "Platz zum Lernen im Wohnheim → Schreibtisch mit Stuhl, „Ideal für Schüler oder Studenten“."
+     "note": "nur Bett und Schrank, „in Ruhe lernen und schreiben“ → Schreibtisch mit Stuhl, „Ideal für Schüler oder Studenten“."
     }
    ],
    "H1": [
@@ -817,19 +817,19 @@
      "no": "1",
      "ans": "c",
      "typ": "N",
-     "note": "„Der Ausgang Ost ist heute wegen Bauarbeiten geschlossen“; Nord und Süd sind offen."
+     "note": "„Der Ausgang Ost ist heute wegen Bauarbeiten geschlossen“ = nicht benutzen; Nord und Süd sind offen."
     },
     {
      "no": "2",
      "ans": "b",
      "typ": "N",
-     "note": "„heute ab 17 Uhr abholen, nicht schon um 15 Uhr wie geplant“."
+     "note": "„heute ab 17 Uhr abholen, nicht schon um 15 Uhr wie geplant“; c: Von morgen ist nicht die Rede."
     },
     {
      "no": "3",
      "ans": "a",
      "typ": "P",
-     "note": "„Bringen Sie am besten eigene Körbe mit“ = etwas für die Erdbeeren; b: Bezahlt werden die Erdbeeren, nicht der Eintritt; c steht nicht im Text."
+     "note": "„Bringen Sie am besten eigene Körbe mit“ = etwas, worin sie das Obst tragen; b: „zwei Euro“ kostet ein Korb auf dem Hof, Eintritt gibt es nicht; c: Es geht um „das Feld“, aber nicht um Schuhe."
     },
     {
      "no": "4",
@@ -841,7 +841,7 @@
      "no": "5",
      "ans": "b",
      "typ": "I",
-     "note": "„Ich gehe jetzt zu Moritz“, „Kannst du mich um sieben dort abholen?“ = bei seinem Freund; c: An der Sporthalle bleibt er nicht, er geht zu Moritz."
+     "note": "„Ich gehe jetzt zu Moritz“, „Kannst du mich um sieben dort abholen?“ = bei seinem Freund; a: Den Bus hat er „verpasst“; c: Das Training ist schon vorbei („nach dem Training“)."
     }
    ],
    "H2": [
@@ -913,34 +913,34 @@
      "no": "16",
      "ans": "Ja",
      "typ": "P",
-     "note": "„Später hat mein Vater es übernommen, und seit fünf Jahren gehört es mir.“"
+     "note": "„Mein Großvater … hat das Café eröffnet. Später hat mein Vater es übernommen“ = Opa und Vater haben das Geschäft vorher geführt."
     },
     {
      "no": "17",
      "ans": "Nein",
      "typ": "N",
-     "note": "„wir haben fast das ganze Jahr offen“."
+     "note": "„wir haben fast das ganze Jahr offen“; geschlossen ist nur drei Wochen „im Januar“."
     },
     {
      "no": "18",
      "ans": "Ja",
      "typ": "P",
-     "note": "„Jede Sorte machen wir selbst“."
+     "note": "„Kaufen Sie Ihr Eis bei einer Firma?“ – „Auf keinen Fall! Jede Sorte machen wir selbst“ = kein Eis aus der Fabrik."
     },
     {
      "no": "19",
      "ans": "Nein",
      "typ": "N",
-     "note": "„die Nummer eins ist bei uns seit Jahren Vanille“."
+     "note": "„Viele denken, es ist Schokolade.“ Aber „die Nummer eins ist bei uns seit Jahren Vanille“."
     },
     {
      "no": "20",
      "ans": "Ja",
      "typ": "P",
-     "note": "„eröffne ich ein zweites Café am Bahnhof“."
+     "note": "„Im nächsten Frühling eröffne ich ein zweites Café am Bahnhof“ = im Frühling noch einen Eisladen aufmachen."
     }
    ]
   },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 5 von 15 Fällen die längste Option, in 4 die mittlere und in 6 die kürzeste oder gleich kurz wie die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 4 von 15 Fällen die längste Option, in 8 die mittlere und in 3 die kürzeste oder gleich kurz wie die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
  }
 }

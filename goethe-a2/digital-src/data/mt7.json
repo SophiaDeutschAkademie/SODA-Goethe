@@ -7,9 +7,9 @@
    "title": "Bücher auf Rädern",
    "lead": "Im Landkreis Celle fährt ein Bücherbus von Dorf zu Dorf. Am Steuer sitzt der erfahrene Busfahrer Klaus Reimann.",
    "paragraphs": [
-    "Klaus Reimann, 61, ist eigentlich Busfahrer. Mehr als 30 Jahre lang hat er Fahrgäste durch Celle gefahren. Dann hat der Landkreis vor drei Jahren einen zuverlässigen Fahrer für den neuen Bücherbus gesucht. „Ich lese selbst sehr gern, deshalb habe ich mich gleich gemeldet“, erzählt Reimann. Weil er vorher nie in einer Bücherei gearbeitet hat, hat er zuerst einen Kurs besucht, in dem er die wichtigsten Dinge gelernt hat.",
-    "Von Dienstag bis Freitag hält der Bus in zwölf Dörfern, in denen es keine eigene Bücherei gibt. Im Bus stehen ungefähr 4.000 Bücher, Zeitschriften, Hörbücher und Spiele. Wenn jemand ein bestimmtes Buch sucht, das gerade nicht da ist, bestellt Reimann es und bringt es beim nächsten Besuch mit. Das gefällt vor allem älteren Menschen, die keinen Führerschein haben und nicht mehr so weit gehen können.",
-    "Die Ausleihe kostet überhaupt nichts. Man braucht nur einen Leseausweis, den Reimann direkt im Bus ausstellt. Am ersten Samstag im Monat bleibt der Bus am Marktplatz in Celle stehen, während er sonst nur auf den Dörfern unterwegs ist. Dann kann jeder vorbeikommen und bei einem Kaffee mit dem Fahrer sprechen. Der Bücherbus ist ein riesiger Erfolg: Im letzten Jahr haben die Leser fast 25.000 Bücher ausgeliehen, obwohl viele Dörfer nur wenige Einwohner haben."
+    "Klaus Reimann, 61, ist eigentlich Busfahrer. Mehr als 30 Jahre lang hat er Fahrgäste mit dem Linienbus durch Celle gefahren. Vor drei Jahren hat der Landkreis einen zuverlässigen Fahrer für den neuen Bücherbus gesucht. „Ich lese selbst sehr gern, deshalb habe ich mich gleich gemeldet“, erzählt Reimann. Weil er vorher keine Erfahrung in einer Bücherei hatte, hat er zuerst einen Kurs in der Stadtbücherei Celle besucht. Dort hat er die wichtigsten Regeln für die Ausleihe gelernt.",
+    "Von Dienstag bis Freitag hält der Bücherbus in zwölf Dörfern, in denen es keine eigene Bücherei gibt. In den Bücherregalen stehen ungefähr 4.000 Bücher, Zeitschriften, Hörbücher und Gesellschaftsspiele. Wenn ein Leser ein bestimmtes Buch sucht, das gerade nicht im Bus ist, bestellt Reimann es in der Stadtbücherei und bringt es beim nächsten Besuch mit. Diesen Service finden vor allem ältere Dorfbewohner wichtig, die keinen Führerschein haben und nicht mehr so weit laufen können.",
+    "Die Ausleihe kostet überhaupt nichts. Man braucht nur einen Leseausweis. Den stellt Reimann ohne lange Anmeldung direkt im Bus aus. Am ersten Samstag im Monat steht der Bücherbus nicht auf den Dörfern, sondern am Marktplatz in Celle. Dann kann jeder vorbeikommen und bei einem Kaffee mit dem Fahrer sprechen. Viele Besucher nutzen diese Möglichkeit gern. Der Bücherbus ist ein riesiger Erfolg: Im letzten Jahr haben die Leser fast 25.000 Bücher ausgeliehen, obwohl viele Dörfer nur wenige Einwohner haben."
    ],
    "source": "aus einer deutschen Tageszeitung",
    "tasksIntro": "Lesen Sie die Aufgaben 1 bis 5 zum Artikel „Bücher auf Rädern“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
@@ -28,9 +28,9 @@
      "no": "1",
      "stem": "Bevor Klaus Reimann den Bücherbus gefahren hat, …",
      "options": {
-      "a": "hat er in einer großen Bücherei gearbeitet.",
-      "b": "war er jahrelang als Fahrer in der Stadt unterwegs.",
-      "c": "war er lange Zeit ohne feste Arbeit."
+      "a": "hat er schon einmal in einer Bücherei gearbeitet.",
+      "b": "ist er schon lange beruflich Bus gefahren.",
+      "c": "hat er drei Jahre lang keine feste Arbeit gehabt."
      },
      "answer": "b"
     },
@@ -38,9 +38,9 @@
      "no": "2",
      "stem": "Der Bücherbus …",
      "options": {
-      "a": "fährt an allen Tagen der Woche.",
-      "b": "bleibt immer vor einer Schule am Ortsrand stehen.",
-      "c": "hält in Orten ohne Bücherei."
+      "a": "hält jeden Tag in zwölf Dörfern.",
+      "b": "steht jeden Samstag am Marktplatz.",
+      "c": "besucht Orte ohne eigene Bibliothek."
      },
      "answer": "c"
     },
@@ -48,9 +48,9 @@
      "no": "3",
      "stem": "Wenn jemand ein Buch sucht, das nicht im Bus ist, …",
      "options": {
-      "a": "kann Herr Reimann es besorgen.",
-      "b": "muss er es selbst bestellen.",
-      "c": "muss er bis zum nächsten Jahr warten."
+      "a": "kann Herr Reimann es für ihn besorgen.",
+      "b": "muss er es selbst in der Stadtbücherei bestellen.",
+      "c": "muss er es in Celle selbst abholen."
      },
      "answer": "a"
     },
@@ -58,8 +58,8 @@
      "no": "4",
      "stem": "Wer im Bus Bücher ausleihen möchte, …",
      "options": {
-      "a": "muss jeden Monat einen festen Betrag zahlen.",
-      "b": "braucht einen Ausweis, den es im Bus gibt.",
+      "a": "muss für jede Ausleihe etwas bezahlen.",
+      "b": "bekommt die nötige Karte vom Fahrer.",
       "c": "muss sich vorher in Celle anmelden."
      },
      "answer": "b"
@@ -68,8 +68,8 @@
      "no": "5",
      "stem": "Am ersten Samstag im Monat …",
      "options": {
-      "a": "fährt der Bus in alle zwölf Dörfer.",
-      "b": "kommt ein Autor zum Vorlesen in den Bus.",
+      "a": "fährt der Bücherbus wie sonst in die zwölf Dörfer.",
+      "b": "kann man im Bücherbus einen Kurs besuchen.",
       "c": "kann man den Fahrer in der Stadt treffen."
      },
      "answer": "c"
@@ -87,19 +87,19 @@
     "rows": [
      {
       "floor": "3. Stock",
-      "text": "Wellnessbereich (Sauna, Dampfbad, Ruheraum) · Massagen nach Termin, auch als Geschenkgutschein · Terrasse mit Blick auf den See. Zutritt ab 16 Jahren. Bitte leise sprechen. Die Sauna ist täglich von 12 bis 21 Uhr geöffnet."
+      "text": "Wellnessbereich (Sauna, Dampfbad, Ruheraum) · Massagen nur nach Terminvereinbarung, auch als Geschenkgutschein · Dachterrasse mit Liegestühlen und Seeblick · Zutritt ab 16 Jahren · Handyverbot im Ruhebereich · Saunazeiten täglich 12–21 Uhr"
      },
      {
       "floor": "2. Stock",
-      "text": "Fitnessstudio (Geräte, Gewichte, persönliche Beratung) · Kursräume (Yoga, Rückenfit, Tanzen) · Kletterhalle für Kinder und Erwachsene · Getränkeautomat. Kinder unter 12 Jahren nur mit Begleitung. Alle Kurse beginnen zur vollen Stunde."
+      "text": "Fitnessstudio (moderne Trainingsgeräte, Hanteln, persönliche Trainingsberatung) · Kursräume (Yoga, Rückenfit, Pilates, Tanzkurse für Erwachsene) · Kletterhalle für Kinder und Erwachsene, Kletterschuhe zum Ausleihen · Getränkeautomat und Sitzecke · Kinder unter 12 Jahren nur mit erwachsener Begleitung"
      },
      {
       "floor": "1. Stock",
-      "text": "Schwimmhalle (Sportbecken, Kinderbecken, Sprungturm) · Schwimmschule (Kurse für Kinder ab 5 Jahren und für Erwachsene, auch für Anfänger) · Umkleiden und Duschen · Föhne und Wickelraum"
+      "text": "Schwimmhalle (Sportbecken, Kinderbecken, Sprungturm, Wasserrutsche) · Schwimmschule (Schwimmkurse für Kinder ab 5 Jahren und Erwachsene, auch für Nichtschwimmer) · Umkleidekabinen, Duschen und Haartrockner · Wickelraum für Babys"
      },
      {
       "floor": "EG",
-      "text": "Kasse und Information · Sportshop (Badebekleidung, Schwimmbrillen, Sportschuhe) · Handtuchverleih gegen 2 € Pfand · Café am See (Frühstück, Kuchen, warme Gerichte) · Schließfächer · Fundbüro · Aufzug zu allen Stockwerken. Wir sind täglich von 7 bis 22 Uhr geöffnet. Eingang an der Seestraße."
+      "text": "Kasse und Information · Sportgeschäft (Badebekleidung, Schwimmbrillen, Sportschuhe) · Handtuchverleih gegen 2 € Pfand · Café am See (Frühstück, Kuchen, warme Mittagsgerichte) · Schließfächer für Wertsachen · Fundbüro · Kinderbetreuung (3 bis 6 Jahre) · Aufzug zu allen Stockwerken · Öffnungszeiten täglich 7–22 Uhr · Eingang und Fahrradparkplatz an der Seestraße"
      }
     ]
    },
@@ -116,7 +116,7 @@
    "items": [
     {
      "no": "6",
-     "stem": "Sie haben im Fitnessstudio trainiert und möchten sich jetzt noch in der Sauna entspannen.",
+     "stem": "Nach dem Training im Fitnessstudio möchten Sie noch bei 90 Grad schwitzen und sich danach in Ruhe hinlegen.",
      "options": {
       "a": "2. Stock",
       "b": "3. Stock",
@@ -126,7 +126,7 @@
     },
     {
      "no": "7",
-     "stem": "Ihre achtjährige Tochter kann noch nicht schwimmen und soll es endlich richtig lernen. Sie suchen einen Kurs.",
+     "stem": "Ihre Tochter ist acht Jahre alt und hat noch nie schwimmen gelernt. Das soll sie jetzt endlich mit einer Lehrerin oder einem Lehrer lernen.",
      "options": {
       "a": "1. Stock",
       "b": "EG",
@@ -136,7 +136,7 @@
     },
     {
      "no": "8",
-     "stem": "Sie haben Ihre Schwimmbrille zu Hause vergessen und brauchen schnell eine neue.",
+     "stem": "Sie wollen gleich ins Wasser, aber Sie haben Ihren Badeanzug zu Hause vergessen. Sie möchten schnell einen neuen kaufen.",
      "options": {
       "a": "1. Stock",
       "b": "2. Stock",
@@ -146,7 +146,7 @@
     },
     {
      "no": "9",
-     "stem": "Sie haben seit Wochen Rückenschmerzen, und Ihr Arzt hat Ihnen geraten, einen Kurs dagegen zu besuchen.",
+     "stem": "Ihr Rücken tut seit Wochen weh. Ihre Ärztin sagt, Sie sollen regelmäßig zusammen mit anderen Übungen dagegen machen.",
      "options": {
       "a": "3. Stock",
       "b": "2. Stock",
@@ -156,7 +156,7 @@
     },
     {
      "no": "10",
-     "stem": "Sie waren gestern im Sportzentrum schwimmen und vermissen jetzt Ihre Jacke. Sie möchten fragen, ob jemand sie abgegeben hat.",
+     "stem": "Gestern nach dem Schwimmen war Ihre Jacke nicht mehr da. Vielleicht hat jemand sie gefunden.",
      "options": {
       "a": "EG",
       "b": "1. Stock",
@@ -178,10 +178,10 @@
      "deine Marta"
     ],
     "paragraphs": [
-     "stell dir vor: Seit drei Wochen habe ich einen Hund! Er heißt Bruno, ist zwei Jahre alt und kommt aus dem Tierheim. Ich wollte schon immer einen Hund haben, aber in meiner früheren Wohnung war dafür nie genug Platz. Seit dem Umzug im Frühling habe ich endlich einen Garten, in dem Bruno spielen kann. Beim ersten Besuch im Tierheim habe ich Bruno gleich mitgenommen, weil er mich so freundlich angesehen hat.",
-     "Anfangs war es ziemlich schwierig. Wenn ich zur Arbeit gegangen bin, hat Bruno stundenlang gebellt, und die Nachbarn waren gar nicht begeistert. Eine Nachbarin hat sich sogar beim Vermieter beschwert, obwohl ich mich sofort entschuldigt habe. Jetzt kommt meine Kollegin Sabine, die zum Glück in der Nachbarschaft wohnt, täglich in der Mittagspause und geht eine halbe Stunde mit ihm spazieren. Seitdem ist es wirklich viel besser.",
-     "Morgens und abends gehe ich selbst mit ihm im Stadtpark spazieren. Dort habe ich schon viele interessante Hundebesitzer kennengelernt, mit denen ich mich gern unterhalte. Der Spaziergang tut mir richtig gut, und Bruno ist danach auch viel ruhiger, weil er sich dort austoben kann.",
-     "Und jetzt zu meiner Bitte: Meine Schwester feiert ihre Hochzeit am 17. Oktober in Dresden, und ich fahre schon am Freitag hin, damit ich ihr bei den Vorbereitungen helfen kann. Bruno kann ich leider nicht mitnehmen, denn in dem Hotel, in dem die Gäste übernachten, sind keine Hunde erlaubt. Hättest du Lust, ihn von Freitag bis Sonntag zu dir zu nehmen? Hundefutter, Leine und seine Lieblingsdecke bringe ich natürlich mit.",
+     "stell dir vor: Seit drei Wochen habe ich einen Hund! Er heißt Bruno, ist zwei Jahre alt und kommt aus dem Tierheim. Ich wollte schon immer einen Hund haben, aber in meiner früheren Wohnung war dafür nie genug Platz. Seit dem Umzug im Frühling habe ich endlich eine größere Wohnung mit Garten, in dem Bruno spielen kann. Schon beim ersten Besuch im Tierheim habe ich mich für Bruno entschieden, weil er mich so freundlich angesehen hat.",
+     "Anfangs war es ziemlich schwierig. Wenn ich morgens zur Arbeit gegangen bin, hat Bruno stundenlang gebellt, und die Nachbarn waren gar nicht begeistert. Eine ältere Nachbarin hat sich sogar beim Vermieter beschwert, obwohl ich mich sofort entschuldigt habe. Zum Glück wohnt meine Arbeitskollegin Sabine in der Nachbarschaft. Sie kommt jetzt täglich in der Mittagspause vorbei und geht eine halbe Stunde mit ihm spazieren. Seitdem ist die Situation wirklich viel besser.",
+     "Morgens und abends gehe ich selbst mit ihm im Stadtpark spazieren. Dort habe ich schon viele nette Hundebesitzer kennengelernt, mit denen ich mich gern unterhalte. Die Spaziergänge tun mir richtig gut, und Bruno ist danach auch viel ruhiger, weil er dort lange mit anderen Hunden spielen kann.",
+     "Und jetzt zu meiner Bitte: Meine Schwester feiert ihre Hochzeit am 17. Oktober in Dresden, und ich fahre schon am Freitag hin, damit ich ihr bei den Vorbereitungen helfen kann. Bruno kann ich leider nicht mitnehmen, denn in dem Hotel, in dem alle Hochzeitsgäste übernachten, sind keine Hunde erlaubt. Hättest du Lust, ihn von Freitag bis Sonntag zu dir zu nehmen? Hundefutter, Leine und seine Lieblingsdecke bringe ich natürlich mit.",
      "Sag mir bitte bis zum Wochenende Bescheid. Wenn es bei dir nicht möglich ist, suche ich eine andere Lösung. Bruno ist übrigens sehr lieb und schläft nachts meistens ruhig, wenn man abends noch einmal mit ihm spazieren geht. Ich würde mich freuen, wenn ihr beide euch gut versteht."
     ]
    },
@@ -201,9 +201,9 @@
      "no": "11",
      "stem": "Marta hat lange keinen Hund gehabt, …",
      "options": {
-      "a": "weil sie keine Zeit für Tiere hatte.",
-      "b": "weil ihr Vermieter keine Tiere erlaubt hat.",
-      "c": "weil die Wohnung früher zu klein war."
+      "a": "weil sie nie genug Zeit für einen Hund hatte.",
+      "b": "weil der Vermieter keine Hunde erlaubt hat.",
+      "c": "weil es in ihrer alten Wohnung zu eng war."
      },
      "answer": "c"
     },
@@ -211,9 +211,9 @@
      "no": "12",
      "stem": "Als Marta am Anfang zur Arbeit gegangen ist, …",
      "options": {
-      "a": "hat Bruno oft lange gebellt.",
-      "b": "hat Marta Bruno mit zur Arbeit genommen.",
-      "c": "hat Bruno den ganzen Tag geschlafen."
+      "a": "war Bruno allein zu Hause sehr laut.",
+      "b": "ist Sabine jeden Tag mit Bruno spazieren gegangen.",
+      "c": "hat Bruno den ganzen Tag ruhig geschlafen."
      },
      "answer": "a"
     },
@@ -221,9 +221,9 @@
      "no": "13",
      "stem": "Sabine …",
      "options": {
-      "a": "wohnt bei Marta.",
-      "b": "kümmert sich mittags um den Hund.",
-      "c": "ist die beste Freundin von Marta und Jana."
+      "a": "hat selbst auch einen Hund aus dem Tierheim.",
+      "b": "nimmt sich jeden Mittag Zeit für Bruno.",
+      "c": "geht morgens und abends mit Bruno in den Stadtpark."
      },
      "answer": "b"
     },
@@ -231,9 +231,9 @@
      "no": "14",
      "stem": "Marta kann Bruno nicht nach Dresden mitnehmen, …",
      "options": {
-      "a": "weil er im Zug Angst hat.",
-      "b": "weil er bei der Hochzeit stören würde.",
-      "c": "weil Hunde im Hotel verboten sind."
+      "a": "weil er im Hotel nachts nicht ruhig schläft.",
+      "b": "weil ihre Schwester Angst vor großen Hunden hat.",
+      "c": "weil man Tiere nicht mit ins Hotel bringen darf."
      },
      "answer": "c"
     },
@@ -241,9 +241,9 @@
      "no": "15",
      "stem": "Marta möchte wissen, …",
      "options": {
-      "a": "ob Jana auf Bruno aufpassen kann.",
-      "b": "wann die Hochzeit ihrer Schwester stattfindet.",
-      "c": "welches Futter Bruno am liebsten frisst."
+      "a": "ob Bruno ein paar Tage bei Jana bleiben kann.",
+      "b": "ob Jana mit ihr zur Hochzeit nach Dresden fährt.",
+      "c": "ob Jana Hundefutter für Bruno kaufen kann."
      },
      "answer": "a"
     }
@@ -259,27 +259,27 @@
    "items": [
     {
      "no": "16",
-     "text": "Svenja möchte schon lange tanzen lernen. Sie sucht einen Kurs am Abend mit einer Lehrerin.",
+     "text": "Svenja und ihr Freund heiraten im Sommer. Vorher möchten sie zusammen Walzer tanzen lernen, am liebsten abends nach der Arbeit.",
      "answer": "X"
     },
     {
      "no": "17",
-     "text": "Frau Novak räumt gerade ihren Keller auf. Sie möchte Dinge, die sie nicht mehr braucht, an einem Sonntag verkaufen.",
+     "text": "Frau Novak hat beim Aufräumen viele alte Spielsachen ihrer Kinder gefunden. Damit möchte sie an einem Sonntag noch etwas Geld verdienen.",
      "answer": "e"
     },
     {
      "no": "18",
-     "text": "Elena ist vor einem Monat aus Spanien nach Deutschland gekommen. Sie arbeitet tagsüber und möchte abends Deutsch üben und neue Leute treffen.",
+     "text": "Elena lebt erst seit einem Monat in Deutschland und kennt hier noch niemanden. Nach der Arbeit möchte sie mit anderen Leuten sprechen und dabei ihr Deutsch verbessern. Viel Geld hat sie nicht.",
      "answer": "f"
     },
     {
      "no": "19",
-     "text": "Familie Aydin hat zwei Kinder, acht und zehn Jahre alt. Am Wochenende möchte die Familie einen Tag draußen verbringen, an dem alle etwas erleben.",
+     "text": "Familie Aydin möchte am Sonntag einen aktiven Tag in der Natur verbringen. Die Kinder sind acht und zehn Jahre alt, und auch die Eltern wollen mitmachen.",
      "answer": "c"
     },
     {
      "no": "20",
-     "text": "Herr Wagner arbeitet bis zum späten Nachmittag. Er möchte abends etwas Neues lernen und dabei auch etwas essen.",
+     "text": "Herr Wagner isst abends meistens nur Brot, weil er nicht weiß, wie man warmes Essen macht. Das möchte er ändern. Unter der Woche hat er erst ab 18 Uhr Zeit.",
      "answer": "a"
     }
    ],
@@ -320,7 +320,7 @@
    "items": [
     {
      "no": "1",
-     "stem": "Auf welchem Gleis fährt der Zug nach Leipzig ab?",
+     "stem": "Von welchem Gleis fährt der Intercity nach Leipzig heute ab?",
      "options": {
       "a": "Gleis 4.",
       "b": "Gleis 7.",
@@ -330,7 +330,7 @@
     },
     {
      "no": "2",
-     "stem": "Wann ist der neue Termin von Herrn Yilmaz?",
+     "stem": "Wann soll Herr Yilmaz jetzt in die Praxis kommen?",
      "options": {
       "a": "Am Donnerstag um 8 Uhr.",
       "b": "Am Dienstag um 14 Uhr.",
@@ -340,31 +340,31 @@
     },
     {
      "no": "3",
-     "stem": "Was kann man am Sonntag im Stadtpark kostenlos machen?",
+     "stem": "Was kann man am Sonntag im Stadtpark machen, ohne etwas zu bezahlen?",
      "options": {
       "a": "Einen Film sehen.",
-      "b": "Einen Kurs besuchen.",
+      "b": "Eine Decke ausleihen.",
       "c": "Musik hören."
      },
      "answer": "c"
     },
     {
      "no": "4",
-     "stem": "Was bekommen Kunden, die heute viel einkaufen?",
+     "stem": "Was bekommen Kunden, die heute viel Geld im Möbelhaus ausgeben?",
      "options": {
-      "a": "Ein Eis.",
-      "b": "Einen Kaffee im Restaurant.",
-      "c": "Einen Gutschein."
+      "a": "Ein Eis im Restaurant.",
+      "b": "Einen kostenlosen Kaffee.",
+      "c": "Einen Platz in der Kinderbetreuung."
      },
      "answer": "b"
     },
     {
      "no": "5",
-     "stem": "Wo treffen sich Jan und Nina?",
+     "stem": "Wo möchte Nina Jan morgen treffen?",
      "options": {
-      "a": "Vor dem Kino.",
-      "b": "Im Büro.",
-      "c": "Im Café im Kino."
+      "a": "Draußen vor dem Kino.",
+      "b": "Vor Ninas Büro.",
+      "c": "Im Café des Kinos."
      },
      "answer": "c"
     }
@@ -574,7 +574,7 @@
     },
     {
      "no": "19",
-     "text": "Lena geht abends früh ins Bett.",
+     "text": "Lena geht abends früh schlafen.",
      "answer": "Ja"
     },
     {
@@ -689,31 +689,31 @@
      "no": "1",
      "ans": "b",
      "typ": "P",
-     "note": "„Mehr als 30 Jahre lang hat er Fahrgäste durch Celle gefahren“ = jahrelang Fahrer in der Stadt; a: Er hat „vorher nie in einer Bücherei gearbeitet“."
+     "note": "„Mehr als 30 Jahre lang hat er Fahrgäste mit dem Linienbus durch Celle gefahren“ = schon lange beruflich Bus gefahren; a widerspricht „keine Erfahrung in einer Bücherei“; c greift „drei Jahren“ auf (Wortfalle)."
     },
     {
      "no": "2",
      "ans": "c",
      "typ": "P",
-     "note": "„in zwölf Dörfern, in denen es keine eigene Bücherei gibt“ = Orte ohne Bücherei; a: nur „von Dienstag bis Freitag“; b steht nicht im Text."
+     "note": "„in zwölf Dörfern, in denen es keine eigene Bücherei gibt“ = Orte ohne eigene Bibliothek; a: nur „Von Dienstag bis Freitag“; b: nur „Am ersten Samstag im Monat“ (falsche Zeit)."
     },
     {
      "no": "3",
      "ans": "a",
      "typ": "P",
-     "note": "„bestellt Reimann es und bringt es … mit“ = Herr Reimann besorgt es; b greift „bestellt“ auf (Wortfalle: Reimann bestellt); c fehlt im Text."
+     "note": "„bestellt Reimann es in der Stadtbücherei und bringt es … mit“ = Herr Reimann besorgt es; b greift „bestellt“ und „Stadtbücherei“ auf (falsche Person); c: Reimann bringt das Buch, niemand muss es abholen."
     },
     {
      "no": "4",
      "ans": "b",
      "typ": "W",
-     "note": "„einen Leseausweis, den Reimann direkt im Bus ausstellt“; a widerspricht „kostet überhaupt nichts“; c: Celle steht im Text (Wortfalle)."
+     "note": "„Man braucht nur einen Leseausweis. Den stellt Reimann ohne lange Anmeldung direkt im Bus aus“ = Karte vom Fahrer; a widerspricht „kostet überhaupt nichts“; c widerspricht „ohne lange Anmeldung“ (Wortfalle)."
     },
     {
      "no": "5",
      "ans": "c",
      "typ": "P",
-     "note": "„bleibt der Bus am Marktplatz in Celle stehen … mit dem Fahrer sprechen“ = den Fahrer mitten in der Stadt treffen; a: Der Bus bleibt in Celle."
+     "note": "„nicht auf den Dörfern, sondern am Marktplatz in Celle … mit dem Fahrer sprechen“ = den Fahrer in der Stadt treffen; a widerspricht „nicht auf den Dörfern“; b greift „Kurs“ aus Absatz 1 auf."
     }
    ],
    "L2": [
@@ -721,31 +721,31 @@
      "no": "6",
      "ans": "b",
      "typ": "I",
-     "note": "Sauna → Wellnessbereich im 3. Stock; das Fitnessstudio im 2. Stock (Training) ist die Falle, dort gibt es keine Sauna."
+     "note": "bei 90 Grad schwitzen, danach hinlegen → Sauna und Ruheraum bzw. Liegestühle im 3. Stock; das Fitnessstudio im 2. Stock (Training) ist die Falle."
     },
     {
      "no": "7",
      "ans": "a",
      "typ": "I",
-     "note": "Kind soll schwimmen lernen, Kurs → Schwimmschule im 1. Stock (Kinder ab 5 Jahren); im EG gibt es Kasse, Shop und Café."
+     "note": "acht Jahre, kann nicht schwimmen, Kurs mit Lehrer → Schwimmschule im 1. Stock („auch für Nichtschwimmer“); die „Kinderbetreuung (3 bis 6 Jahre)“ im EG passt nicht zum Alter."
     },
     {
      "no": "8",
      "ans": "c",
      "typ": "I",
-     "note": "Schwimmbrille → Sportshop im EG = anderer Stock; die Schwimmhalle im 1. Stock ist die Falle."
+     "note": "Badeanzug kaufen → „Badebekleidung“ im Sportgeschäft im EG = anderer Stock; Schwimmhalle und Umkleidekabinen im 1. Stock sind die Falle."
     },
     {
      "no": "9",
      "ans": "b",
      "typ": "W",
-     "note": "Rückenschmerzen + Kurs → Rückenfit im 2. Stock; die Massagen im 3. Stock sind die Falle, denn dort besucht man keinen Kurs."
+     "note": "Rückenschmerzen, regelmäßig Übungen mit anderen → Kurs „Rückenfit“ im 2. Stock; die Massagen im 3. Stock sind die Falle, denn dort gibt es keinen Kurs."
     },
     {
      "no": "10",
      "ans": "a",
      "typ": "I",
-     "note": "Jacke vermisst, abgegeben? → Fundbüro im EG; die Umkleiden im 1. Stock sind die Falle (Fundsachen gibt man im EG ab)."
+     "note": "Jacke weg, vielleicht gefunden → Fundbüro im EG; die Umkleidekabinen im 1. Stock sind die Falle (Fundsachen gibt man im EG ab)."
     }
    ],
    "L3": [
@@ -753,31 +753,31 @@
      "no": "11",
      "ans": "c",
      "typ": "P",
-     "note": "„in meiner früheren Wohnung war dafür nie genug Platz“ = früher zu wenig Platz; b greift „Vermieter“ auf (Wortfalle), a fehlt im Text."
+     "note": "„in meiner früheren Wohnung war dafür nie genug Platz“ = in der alten Wohnung zu eng; a greift „nie genug“ auf (Wortfalle); b greift „Vermieter“ auf, dort geht es aber um eine Beschwerde."
     },
     {
      "no": "12",
      "ans": "a",
      "typ": "P",
-     "note": "„hat Bruno stundenlang gebellt“ = oft lange gebellt; b und c stehen nicht im Text."
+     "note": "„hat Bruno stundenlang gebellt“ = allein zu Hause sehr laut; b: Sabine kommt erst „jetzt“ (falsche Zeit); c widerspricht dem Bellen."
     },
     {
      "no": "13",
      "ans": "b",
      "typ": "P",
-     "note": "„Kollegin Sabine … täglich in der Mittagspause … geht … mit ihm spazieren“ = kümmert sich mittags um den Hund; a und c stehen nicht im Text."
+     "note": "„täglich in der Mittagspause vorbei und geht eine halbe Stunde mit ihm spazieren“ = jeden Mittag Zeit für Bruno; c: „Morgens und abends“ geht Marta selbst (falsche Person); a steht nicht im Text."
     },
     {
      "no": "14",
      "ans": "c",
      "typ": "P",
-     "note": "„in dem Hotel … sind keine Hunde erlaubt“ = Hunde sind im Hotel verboten; a und b stehen nicht im Text."
+     "note": "„in dem Hotel, in dem alle Hochzeitsgäste übernachten, sind keine Hunde erlaubt“ = Tiere nicht mit ins Hotel bringen; a widerspricht „schläft nachts meistens ruhig“; b steht nicht im Text."
     },
     {
      "no": "15",
      "ans": "a",
      "typ": "P",
-     "note": "„Hättest du Lust, ihn … zu dir zu nehmen?“ = auf Bruno aufpassen; b: Das Datum steht schon fest; c: Das Hundefutter bringt Marta mit."
+     "note": "„Hättest du Lust, ihn von Freitag bis Sonntag zu dir zu nehmen?“ = ein paar Tage bei Jana bleiben; b: Jana soll Bruno nehmen, nicht mitfahren; c: „Hundefutter … bringe ich natürlich mit“."
     }
    ],
    "L4": [
@@ -785,31 +785,31 @@
      "no": "16",
      "ans": "X",
      "typ": "N",
-     "note": "Tanzen lernen, Kurs am Abend → keine Anzeige passt; Fahrradkurs (d) und Kochkurs (a) sind keine Alternative."
+     "note": "Walzer tanzen lernen, abends → keine Anzeige für einen Tanzkurs; a ist ein Abendkurs, aber man lernt dort kochen; d ist ein Kurs am Samstagvormittag."
     },
     {
      "no": "17",
      "ans": "e",
      "typ": "P",
-     "note": "Sachen aus dem Keller verkaufen, Sonntag → Flohmarkt am ersten Sonntag im Monat."
+     "note": "alte Spielsachen, am Sonntag Geld verdienen → Flohmarkt „Jeden ersten Sonntag im Monat“: „Verkaufen Sie, was Sie nicht mehr brauchen!“"
     },
     {
      "no": "18",
      "ans": "f",
      "typ": "I",
-     "note": "neu in Deutschland, tagsüber Arbeit, abends Deutsch üben → Sprachcafé dienstags 19–21 Uhr."
+     "note": "neu in Deutschland, kennt niemanden, nach der Arbeit sprechen, wenig Geld → Sprachcafé dienstags 19–21 Uhr, „Eintritt frei“; a ist auch abends, kostet aber 120 €."
     },
     {
      "no": "19",
      "ans": "c",
      "typ": "I",
-     "note": "zwei Kinder, Tag draußen → Kletterwald; Kinder zahlen nur 12 €."
+     "note": "Sonntag, aktiv in der Natur, Kinder 8 und 10, Eltern machen mit → Kletterwald „für Kinder ab 6 Jahren und für Erwachsene“, „Täglich geöffnet“; der Flohmarkt (e) ist auch sonntags draußen (Falle)."
     },
     {
      "no": "20",
      "ans": "a",
      "typ": "I",
-     "note": "bis zum späten Nachmittag Arbeit, abends lernen und essen → Kochkurs mittwochs ab 18.30 Uhr mit gemeinsamem Essen."
+     "note": "kann nicht kochen, will es lernen, erst ab 18 Uhr frei → Kochkurs mittwochs „von 18.30 bis 21.30 Uhr“ mit gemeinsamem Essen; f ist auch abends, aber ein Sprachcafé."
     }
    ],
    "H1": [
@@ -829,19 +829,19 @@
      "no": "3",
      "ans": "c",
      "typ": "P",
-     "note": "„ein Konzert der Stadtkapelle. Der Eintritt ist frei“ = Musik hören; der Film am Samstag kostet acht Euro."
+     "note": "„ein Konzert der Stadtkapelle. Der Eintritt ist frei“ = Musik hören, ohne zu bezahlen; a: der Film am Samstag kostet acht Euro; b: „Bringen Sie am besten eine Decke mit“ (Wortfalle)."
     },
     {
      "no": "4",
      "ans": "b",
      "typ": "S",
-     "note": "„Wer heute mehr als hundert Euro ausgibt, bekommt außerdem einen Kaffee“; das Eis bekommen nur die Kinder."
+     "note": "„bekommt außerdem einen Kaffee im Restaurant gratis“ = kostenloser Kaffee; a: das Eis bekommen „Alle Kinder“; c: die Kinderbetreuung ist für alle geöffnet und kein Geschenk für den Einkauf."
     },
     {
      "no": "5",
      "ans": "c",
      "typ": "N",
-     "note": "„Treffen wir uns lieber gleich im Café im Kino?“ statt vor dem Kino; Nina kommt „erst um halb sechs aus dem Büro“."
+     "note": "„Treffen wir uns lieber gleich im Café im Kino?“ statt vor dem Kino („Warte bitte nicht draußen“); das Büro (b) nennt Nina nur, weil sie „erst um halb sechs aus dem Büro“ kommt."
     }
    ],
    "H2": [
@@ -931,7 +931,7 @@
      "no": "19",
      "ans": "Ja",
      "typ": "P",
-     "note": "„Ich gehe schon gegen acht Uhr abends ins Bett.“ = früh."
+     "note": "„Ich gehe schon gegen acht Uhr abends ins Bett.“ = abends früh schlafen."
     },
     {
      "no": "20",
@@ -941,6 +941,6 @@
     }
    ]
   },
-  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 6 von 15 Fällen die längste Option, in 5 die mittlere, in 4 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
+  "optionen": "Lesen 1, Lesen 3 und Hören 1: Die Lösung ist in 2 von 15 Fällen die längste Option, in 7 die mittlere, in 6 die kürzeste (gezählt nach Wörtern, bei Gleichstand nach Zeichen)."
  }
 }
