@@ -9,12 +9,12 @@
     "date": "Mittwoch, 6. März",
     "title": "Plötzlich Ersthelferin",
     "paragraphs": [
-     "Ich habe lange gezögert, ob ich darüber schreiben soll. Aber vielleicht bringt es ja jemanden dazu, einen Erste-Hilfe-Kurs zu besuchen. Mein letzter Kurs lag zwanzig Jahre zurück – damals, für den Führerschein. Im Januar hat dann meine Firma einen Auffrischungskurs angeboten, während der Arbeitszeit und kostenlos. Ehrlich gesagt habe ich mich nur angemeldet, weil ich so einen ganzen Nachmittag lang keine E-Mails beantworten musste.",
-     "Der Trainer, ein ehemaliger Rettungssanitäter, hat uns vor allem eines eingeschärft: Das Schlimmste ist, gar nichts zu unternehmen. Danach haben wir an Übungspuppen geprobt, wie man richtig auf den Brustkorb drückt – hundertmal pro Minute, fünf bis sechs Zentimeter tief. Nach zehn Minuten schmerzten mir die Arme. Zum Schluss hat jeder von uns einmal den Defibrillator ausprobiert – das Gerät gibt sogar Anweisungen, was man als Nächstes tun muss.",
-     "Genau drei Wochen später stand ich morgens beim Bäcker in der Schlange, als vor mir ein älterer Herr plötzlich zusammenbrach. Er atmete nicht mehr. Einen Augenblick lang stand die ganze Kundschaft wie erstarrt da. Dann habe ich der Verkäuferin zugerufen, sie solle den Notruf wählen, und mit der Herzdruckmassage begonnen. Ein junger Mann hat aus der Apotheke gegenüber einen Defibrillator geholt – ich hatte nicht einmal gewusst, dass dort einer hängt.",
-     "Bis der Rettungswagen kam, vergingen acht Minuten. Mir kam es vor wie eine Stunde. Als die Sanitäter die Versorgung übernommen hatten, zitterten mir die Knie so heftig, dass ich mich auf den Boden setzen musste. Zur Arbeit bin ich an diesem Tag nicht mehr gegangen.",
-     "Vorgestern klingelte es dann an meiner Wohnungstür. Draußen stand Herr Wendt, der Mann vom Bäcker, mit einem riesigen Blumenstrauß. Seine Tochter hatte über die Bäckerei herausgefunden, wer ich bin. Er lag zwei Wochen im Krankenhaus und bekommt jetzt einen Herzschrittmacher. „Ohne Sie wäre ich nicht mehr hier“, hat er gesagt. Da musste ich weinen.",
-     "Meine Firma will mich jetzt zur betrieblichen Ersthelferin für unsere Abteilung ausbilden lassen, und ich habe zugesagt. Eine Ausbildung zur Sanitäterin, wie mein Mann sie vorschlägt, kommt für mich aber nicht infrage – so ein Morgen reicht mir für mein ganzes Leben. Macht bitte alle einen Kurs. Er dauert nur einen Tag."
+     "Ich habe lange gezögert, ob ich über diesen Morgen schreiben soll. Aber vielleicht bringt mein Bericht ja jemanden dazu, einen Erste-Hilfe-Kurs zu besuchen. Mein letzter Erste-Hilfe-Kurs lag zwanzig Jahre zurück – damals war er für den Führerschein vorgeschrieben. Im Januar hat dann mein Arbeitgeber einen Auffrischungskurs angeboten, der während der Arbeitszeit stattfand und für die gesamte Belegschaft kostenlos war. Ehrlich gesagt habe ich mich nur angemeldet, weil ich so einen ganzen Nachmittag lang keine E-Mails beantworten musste.",
+     "Der Kursleiter, ein ehemaliger Rettungssanitäter, hat uns vor allem eines eingeschärft: Das Schlimmste ist, gar nichts zu unternehmen. Danach haben wir an Übungspuppen geprobt, wie man bei einer Wiederbelebung richtig auf den Brustkorb drückt – hundertmal pro Minute, fünf bis sechs Zentimeter tief. Nach zehn Minuten schmerzten mir die Arme. Zum Schluss hat jeder von uns einmal den Defibrillator ausprobiert. Der Defibrillator erklärt sogar per Sprachansage, was man als Nächstes tun muss.",
+     "Genau drei Wochen später stand ich morgens in der Bäckerei in der Warteschlange, als vor mir ein älterer Herr plötzlich zusammenbrach. Er war nicht mehr ansprechbar und atmete nicht. Einen Augenblick lang stand die ganze Kundschaft wie erstarrt da. Dann habe ich der Verkäuferin zugerufen, sie solle den Notruf wählen, und selbst mit der Herzdruckmassage begonnen. Ein junger Mann hat aus der Apotheke gegenüber einen Defibrillator geholt – ich hatte nicht einmal gewusst, dass dort einer hängt.",
+     "Bis der Rettungswagen eintraf, vergingen acht Minuten, die mir wie eine Stunde vorkamen. Als die Sanitäter die Versorgung übernommen hatten, zitterten mir vor Erleichterung die Knie so heftig, dass ich mich auf den Boden setzen musste. Zur Arbeit bin ich an diesem Tag nicht mehr gegangen.",
+     "Vorgestern klingelte es dann an meiner Wohnungstür. Draußen stand Herr Wendt, der ältere Herr aus der Bäckerei, mit einem riesigen Blumenstrauß. Seine Tochter hatte über die Bäckerei herausgefunden, wer ich bin. Er lag zwei Wochen im Krankenhaus und bekommt jetzt einen Herzschrittmacher. „Ohne Sie wäre ich nicht mehr hier“, hat er gesagt. Da musste ich weinen.",
+     "Mein Arbeitgeber will mich jetzt zur betrieblichen Ersthelferin für unsere Abteilung ausbilden lassen, und ich habe sofort zugesagt. Eine Ausbildung zur Sanitäterin, wie mein Mann sie vorschlägt, kommt für mich aber nicht infrage. So ein Morgen reicht mir für mein ganzes Leben. Macht bitte alle einen Erste-Hilfe-Kurs. Er dauert nur einen Tag."
     ],
     "closing": "Eure Miriam"
    },
@@ -26,12 +26,12 @@
    "items": [
     {
      "no": "1",
-     "text": "Der Kurs fand nicht in Miriams Freizeit statt.",
+     "text": "Der Erste-Hilfe-Kurs fand nicht in Miriams Freizeit statt.",
      "answer": "R"
     },
     {
      "no": "2",
-     "text": "Im Kurs hat Miriam vor allem theoretisches Wissen gelernt.",
+     "text": "Im Erste-Hilfe-Kurs ging es vor allem um die Theorie der Wiederbelebung.",
      "answer": "F"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
      "no": "4",
-     "text": "Nach dem Einsatz ging es Miriam selbst nicht gut.",
+     "text": "Der Einsatz hat Miriam auch körperlich sehr belastet.",
      "answer": "R"
     },
     {
      "no": "5",
-     "text": "Herr Wendt hat sich bei Miriam persönlich bedankt.",
+     "text": "Der gerettete Mann ist zu Miriam nach Hause gekommen, um ihr zu danken.",
      "answer": "R"
     },
     {
@@ -61,9 +61,9 @@
     {
      "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 7 bis 9 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
      "title": "Die Ärztin kommt per Bildschirm",
-     "lead": "In Krummbach hat seit einem Jahr eine Gesundheitsstation die Arztpraxis ersetzt.",
+     "lead": "In Krummbach ersetzt seit einem Jahr eine Gesundheitsstation die frühere Hausarztpraxis.",
      "paragraphs": [
-      "Als Dr. Helmut Reiners vor zwei Jahren in den Ruhestand ging, stand Krummbach ohne Arzt da. Einen Nachfolger für die Praxis fand das Dorf mit seinen 1.800 Einwohnern nicht, und die nächste Hausarztpraxis liegt 25 Kilometer entfernt. Seit einem Jahr gibt es in den alten Praxisräumen nun eine Gesundheitsstation, in der die Krankenschwester Anja Fuchs arbeitet. Sie misst den Blutdruck, wechselt Verbände und nimmt Blut ab. Für viele Patienten ist sie inzwischen die wichtigste Ansprechpartnerin, auch wenn es nur um eine Frage zu ihren Tabletten geht. Bei Bedarf schaltet sie die Patienten per Video zu einer Ärztin in der Kreisstadt, die dann Medikamente verordnen kann. Das Rezept liegt eine Stunde später in der Apotheke im Ort. Geöffnet ist die Station dienstags und donnerstags von 8 bis 13 Uhr; einen Termin muss man vorher telefonisch vereinbaren. Viele ältere Einwohner begegneten dem Angebot anfangs mit großer Skepsis. „Ich will keinen Fernseher, ich will einen Arzt“, beschwerte sich ein Rentner bei der Eröffnung. Inzwischen kommt er jede Woche, und wer nicht mehr selbst fahren kann, wird von Nachbarn gebracht. Für Notfälle ist die Station allerdings nicht gedacht; dann muss man weiterhin die 112 wählen. Finanziert wird das Projekt zunächst für drei Jahre von der Krankenkasse und vom Land. Der Bürgermeister hofft dennoch, dass sich irgendwann wieder ein Arzt im Dorf niederlässt – die Wohnung über der Praxis hält die Gemeinde dafür frei."
+      "Als Dr. Helmut Reiners vor zwei Jahren in den Ruhestand ging, stand Krummbach plötzlich ohne Hausarzt da. Einen Nachfolger für die Praxis fand das Dorf mit seinen 1.800 Einwohnern trotz intensiver Suche nicht, und die nächste Hausarztpraxis liegt 25 Kilometer entfernt. Seit einem Jahr gibt es in den ehemaligen Praxisräumen nun eine Gesundheitsstation, in der die Krankenschwester Anja Fuchs arbeitet. Zu ihren Aufgaben gehören die Messung des Blutdrucks, der Wechsel von Verbänden und die Blutabnahme. Für viele Einwohner ist sie inzwischen die wichtigste Ansprechpartnerin, auch wenn es nur um eine Frage zu ihren Tabletten geht. Bei Bedarf verbindet sie die Patienten per Videosprechstunde mit einer Ärztin in der Kreisstadt, die dann Arzneimittel verordnen kann. Das Rezept liegt eine Stunde später in der Apotheke im Dorf bereit. Geöffnet ist die Gesundheitsstation dienstags und donnerstags von 8 bis 13 Uhr. Eine Behandlung ist nur nach vorheriger telefonischer Terminvereinbarung möglich. Viele ältere Einwohner begegneten dem Angebot anfangs mit großer Skepsis. „Ich will keinen Fernseher, ich will einen Arzt“, beschwerte sich ein Rentner bei der Eröffnung. Inzwischen kommt er wöchentlich, und wer nicht mehr selbst fahren kann, wird von Nachbarn gebracht. Für Notfälle ist die Gesundheitsstation allerdings nicht gedacht; in diesem Fall muss man weiterhin die 112 wählen. Die Finanzierung des Modellprojekts übernehmen zunächst für drei Jahre die Krankenkasse und das Land. Der Bürgermeister hofft dennoch, dass sich irgendwann wieder ein Hausarzt im Dorf niederlässt – die Wohnung über den Praxisräumen hält die Gemeinde dafür frei."
      ],
      "footnote": "",
      "source": "aus einer deutschen Zeitung",
@@ -92,9 +92,9 @@
        "no": "8",
        "stem": "In der Gesundheitsstation …",
        "options": {
-        "a": "bekommt man Rezepte, ohne wegzufahren.",
+        "a": "bekommt man Medikamente verschrieben, ohne in die Stadt zu fahren.",
         "b": "werden auch Notfälle direkt von der Krankenschwester behandelt.",
-        "c": "kann man jederzeit auch ohne vorherige Anmeldung vorbeikommen."
+        "c": "kann man auch ohne Termin spontan zum Blutdruckmessen vorbeikommen."
        },
        "answer": "a"
       },
@@ -102,9 +102,9 @@
        "no": "9",
        "stem": "Die Gemeinde …",
        "options": {
-        "a": "bezahlt das ganze Projekt ohne Hilfe von außen.",
-        "b": "will die Räume der alten Praxis möglichst bald verkaufen.",
-        "c": "hält für einen künftigen Arzt eine Unterkunft bereit."
+        "a": "finanziert das Modellprojekt ohne Geld von der Krankenkasse.",
+        "b": "will die ehemaligen Praxisräume möglichst bald verkaufen.",
+        "c": "hält eine Unterkunft für einen künftigen Mediziner frei."
        },
        "answer": "c"
       }
@@ -115,7 +115,7 @@
      "title": "Wenn der Pager piepst",
      "lead": "In vielen Schweizer Dörfern fehlen der Feuerwehr Leute – Rüti geht neue Wege.",
      "paragraphs": [
-      "In Rüti im Zürcher Oberland löschen keine Berufsfeuerwehrleute die Brände, sondern Nachbarn: der Bäcker, die Lehrerin, der Landwirt. Wie in den meisten Schweizer Gemeinden ist die Feuerwehr hier eine Milizfeuerwehr. Die Mitglieder gehen einem normalen Beruf nach und rücken nur aus, wenn ihr Pager piepst. Insgesamt gehören 48 Frauen und Männer dazu; im Jahr gibt es rund 80 Einsätze, vom Küchenbrand bis zum umgestürzten Baum. Das Problem: Tagsüber arbeiten viele von ihnen nicht mehr im Dorf, sondern in Zürich oder Winterthur. „Bei einem Alarm um zehn Uhr morgens waren wir manchmal nur zu viert“, sagt Kommandant Beat Keller. Deshalb hat die Gemeinde mit den Firmen im Ort eine Vereinbarung getroffen: Wer Pikett* hat, darf während der Arbeit jederzeit weggehen, und die Gemeinde vergütet dem Arbeitgeber die verlorene Arbeitszeit. Ausserdem wirbt die Feuerwehr gezielt um Frauen und um Zugezogene. Mit Erfolg: Seit letztem Jahr sind elf neue Mitglieder dazugekommen, darunter fünf Frauen. Die Jüngste ist 19. Sie studiert in Zürich. Neulinge absolvieren zuerst einen Grundkurs an drei Wochenenden. Danach findet jeden zweiten Dienstag eine Übung statt. Für jeden Einsatz erhalten die Mitglieder 30 Franken pro Stunde. Schwierig bleibt die Nacht: Wer kleine Kinder hat, kann nicht einfach aus dem Haus laufen. Ab dem nächsten Jahr will Rüti deshalb mit der Feuerwehr des Nachbardorfs zusammenarbeiten."
+      "In Rüti im Zürcher Oberland löschen keine Berufsfeuerwehrleute die Brände, sondern Nachbarn: der Bäcker, die Lehrerin, der Landwirt. Wie in den meisten Schweizer Gemeinden ist die Feuerwehr hier eine Milizfeuerwehr. Die Feuerwehrleute gehen einem normalen Beruf nach und rücken nur aus, wenn ihr Pager piepst. Insgesamt gehören 48 Frauen und Männer dazu; im Jahr gibt es rund 80 Einsätze, vom Küchenbrand bis zum umgestürzten Baum. Das Problem: Tagsüber arbeiten viele Feuerwehrleute nicht mehr im Dorf, sondern in Zürich oder Winterthur. „Bei einem Alarm um zehn Uhr morgens waren wir manchmal nur zu viert“, sagt Kommandant Beat Keller. Deshalb hat die Gemeinde mit den ansässigen Firmen eine Vereinbarung getroffen: Wer Pikett* hat, darf während der Arbeit jederzeit weggehen, und die Gemeinde vergütet dem Arbeitgeber die verlorene Arbeitszeit. Ausserdem wirbt die Feuerwehr gezielt um Frauen und um Zugezogene. Mit Erfolg: Seit letztem Jahr sind elf neue Mitglieder dazugekommen, darunter fünf Frauen. Das jüngste Neumitglied ist 19 und studiert in Zürich. Neulinge absolvieren zuerst eine Grundausbildung an drei Wochenenden; danach findet jeden zweiten Dienstag eine Feuerwehrübung statt. Für jeden Einsatz erhalten die Feuerwehrleute eine Entschädigung von 30 Franken pro Stunde. Schwierig bleibt die Nacht: Wer kleine Kinder hat, kann bei einem nächtlichen Alarm nicht einfach aus dem Haus laufen. Ab dem nächsten Jahr will Rüti deshalb mit der Feuerwehr des Nachbardorfs zusammenarbeiten."
      ],
      "footnote": "*Pikett = Schweizer Standard für „Bereitschaftsdienst“",
      "source": "aus einer Schweizer Zeitung",
@@ -125,9 +125,9 @@
        "no": "10",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "ein Dorf, das für seine Feuerwehr Lösungen sucht.",
-        "b": "eine Feuerwehr, die nur noch aus Frauen besteht.",
-        "c": "Firmen, die ihre Mitarbeiter zu Feuerwehrleuten ausbilden."
+        "a": "eine Gemeinde, die für ihre Feuerwehr neue Ideen ausprobiert.",
+        "b": "eine Feuerwehr, die inzwischen fast nur aus Frauen besteht.",
+        "c": "Firmen im Ort, die ihre Mitarbeiter zu Feuerwehrleuten ausbilden."
        },
        "answer": "a"
       },
@@ -135,9 +135,9 @@
        "no": "11",
        "stem": "Wer an einem Tag für Einsätze eingeteilt ist, …",
        "options": {
-        "a": "muss sich für diesen Tag bei der Arbeit freinehmen.",
-        "b": "bekommt dafür von seinem Chef einen höheren Lohn.",
-        "c": "darf bei Alarm sofort die Arbeit verlassen."
+        "a": "muss die verlorene Arbeitszeit später wieder nacharbeiten.",
+        "b": "bekommt dafür vom Arbeitgeber einen höheren Lohn.",
+        "c": "darf bei Alarm ohne Weiteres seinen Job unterbrechen."
        },
        "answer": "c"
       },
@@ -145,9 +145,9 @@
        "no": "12",
        "stem": "Ein Problem ist, dass …",
        "options": {
-        "a": "die neuen Mitglieder für Einsätze zu wenig Geld bekommen.",
-        "b": "Eltern in der Nacht oft nicht kommen können.",
-        "c": "die Übungen nur am Wochenende stattfinden."
+        "a": "die Neulinge für ihre Einsätze viel zu wenig Geld bekommen.",
+        "b": "Eltern kleiner Kinder nachts oft zu Hause bleiben müssen.",
+        "c": "die Feuerwehrübungen nur an Wochenenden stattfinden."
        },
        "answer": "b"
       }
@@ -166,37 +166,37 @@
    "items": [
     {
      "no": "13",
-     "text": "Lea ist zwölf und interessiert sich für Computer. Sie möchte lernen, wie man selbst ein kleines Spiel entwickelt.",
+     "text": "Lea ist zwölf und sitzt gern am Computer. Am liebsten würde sie einmal ein eigenes kleines Spiel erstellen.",
      "answer": "e"
     },
     {
      "no": "14",
-     "text": "Herr Novak braucht für seine Zwillinge (9) in der ersten Woche der Sommerferien eine Betreuung, während er arbeitet.",
+     "text": "Herr Novak muss in der ersten Sommerferienwoche voll arbeiten. Seine Zwillinge (9) sollen in dieser Zeit tagsüber gut aufgehoben sein.",
      "answer": "h"
     },
     {
      "no": "15",
-     "text": "Paul (10) ist sehr schüchtern. Seine Eltern wünschen sich, dass er lernt, vor anderen Menschen sicherer aufzutreten.",
+     "text": "Paul (10) ist sehr schüchtern. Seine Eltern hoffen, dass er mehr Mut bekommt, vor einer Gruppe zu sprechen.",
      "answer": "c"
     },
     {
      "no": "16",
-     "text": "Familie Sahin möchte am Wochenende mit ihren Kindern (5 und 7) zusammen etwas Kreatives machen.",
+     "text": "Familie Sahin möchte am Wochenende mit ihren Kindern (5 und 7) etwas mit den eigenen Händen herstellen – alle zusammen.",
      "answer": "g"
     },
     {
      "no": "17",
-     "text": "Mia (14) liebt Tiere und möchte sich regelmäßig um sie kümmern. Auf ein Pferd will sie sich aber nicht setzen.",
+     "text": "Mia (14) möchte sich regelmäßig um Tiere kümmern. Reiten kommt für sie aber nicht infrage.",
      "answer": "j"
     },
     {
      "no": "18",
-     "text": "Jonas ist 16. Er möchte in einer Halle klettern lernen.",
+     "text": "Jonas ist 16 und möchte in einer Halle mit dem Klettern anfangen.",
      "answer": "0"
     },
     {
      "no": "19",
-     "text": "Frau Ostermann sucht für ihre Tochter (11) ein wöchentliches Angebot im Freien, bei dem sie andere Kinder kennenlernt.",
+     "text": "Frau Ostermann wünscht sich für ihre Tochter (11) eine Gruppe, die sich jede Woche draußen trifft, damit sie neue Freunde findet.",
      "answer": "d"
     }
    ],
@@ -214,9 +214,9 @@
       "60 Minuten · 32 €"
      ],
      "body": [
-      "Kinder ab 6 Jahren lernen bei uns auf geduldigen Ponys das Reiten. Wir unterrichten ausschließlich in Einzelstunden, damit sich jedes Kind in seinem eigenen Tempo entwickeln kann. Reithelm und Stiefel stellen wir bei Bedarf leihweise zur Verfügung."
+      "Auf geduldigen Ponys erlernen Kinder ab 6 Jahren bei uns das Reiten. Der Unterricht erfolgt ausschließlich in Einzelstunden, damit sich jedes Kind in seinem eigenen Tempo entwickeln kann. Reithelme und Reitstiefel stellen wir bei Bedarf leihweise zur Verfügung."
      ],
-     "footer": "Anmeldung: 0421 / 61 22 30"
+     "footer": "Anmeldung unter 0421 / 61 22 30"
     },
     {
      "letter": "b",
@@ -227,9 +227,9 @@
      "subtitle": "INSTRUMENTALUNTERRICHT AB 6 JAHREN",
      "facts": [],
      "body": [
-      "Gitarre, Klavier, Geige oder Schlagzeug: Bei uns lernen Kinder ein Instrument – im Einzelunterricht, einmal pro Woche. Die erste Stunde ist eine kostenlose Probestunde. Wer noch kein eigenes Instrument besitzt, kann eines für die ersten sechs Monate mieten."
+      "Gitarre, Klavier, Geige oder Schlagzeug – bei uns erlernen Kinder ein Instrument im wöchentlichen Einzelunterricht. Die erste Unterrichtsstunde gilt als kostenlose Probestunde. Für Anfänger ohne eigenes Instrument vermieten wir Leihinstrumente für die ersten sechs Monate."
      ],
-     "footer": "musikschule-stadt.de · Mo–Fr 9–12 Uhr",
+     "footer": "musikschule-stadt.de · Sekretariat Mo–Fr 9–12 Uhr",
      "deco": {
       "icon": "note"
      }
@@ -243,7 +243,7 @@
      "subtitle": "THEATERKURS · 8 BIS 12 JAHRE",
      "facts": [],
      "body": [
-      "Jeden Dienstag von 16 bis 17.30 Uhr lernen Kinder im Jugendhaus spielerisch, laut und deutlich zu sprechen und selbstbewusst vor Publikum aufzutreten. Zum Ende des Halbjahres führen wir ein eigenes Stück auf."
+      "Jeden Dienstag von 16 bis 17.30 Uhr trainieren Kinder im Jugendhaus spielerisch eine deutliche Aussprache, eine sichere Körperhaltung und selbstbewusstes Auftreten vor Publikum. Den Abschluss des Halbjahres bildet die Aufführung eines eigenen Theaterstücks."
      ],
      "footer": "Anmeldung im Jugendhaus"
     },
@@ -256,9 +256,9 @@
      "subtitle": "ALLZEIT BEREIT",
      "facts": [],
      "body": [
-      "Jeden Freitag um 16 Uhr treffen sich bei uns Mädchen und Jungen von 10 bis 13 Jahren. Gemeinsam errichten wir Hütten im Wald, kochen über dem Lagerfeuer und üben, uns mit Karte und Kompass zurechtzufinden."
+      "Jeden Freitag um 16 Uhr treffen sich Mädchen und Jungen von 10 bis 13 Jahren zu Gruppenstunden in der Natur. Auf dem Programm stehen Hüttenbau im Wald, Kochen am Lagerfeuer und Orientierungsübungen mit Karte und Kompass."
      ],
-     "footer": "Schnuppern ohne Anmeldung · Waldweg 4"
+     "footer": "Schnupperbesuch ohne Anmeldung · Waldweg 4"
     },
     {
      "letter": "e",
@@ -269,10 +269,10 @@
      "subtitle": "für 11- bis 15-Jährige",
      "facts": [],
      "body": [
-      "Gemeinsam programmieren wir eigene Spiele und kleine Apps – Schritt für Schritt und mit Unterstützung erfahrener Betreuer.",
-      "Jeden Donnerstag, 17–19 Uhr, in der Stadtbibliothek.",
-      "Vorkenntnisse sind nicht erforderlich.",
-      "Laptops stehen bereit, die Teilnahme ist kostenlos."
+      "Gemeinsam programmieren wir eigene Computerspiele und kleine Apps – Schritt für Schritt und mit Unterstützung erfahrener Betreuer.",
+      "Treffpunkt ist jeden Donnerstag von 17 bis 19 Uhr die Stadtbibliothek.",
+      "Vorkenntnisse sind keine Voraussetzung.",
+      "Laptops werden gestellt, die Teilnahme ist kostenlos."
      ],
      "footer": "> anmelden: coding-club.de",
      "deco": {
@@ -288,7 +288,7 @@
      "subtitle": "KINDERKLETTERN",
      "facts": [],
      "body": [
-      "In überschaubaren Gruppen erlernen Kinder von 6 bis 12 Jahren mit erfahrenen Trainern das sichere Klettern und Sichern. Jeden Samstag von 10 bis 12 Uhr. Achtung: Unser Kursangebot gilt ausschließlich für Kinder bis 12 Jahre."
+      "In überschaubaren Gruppen erlernen Kinder von 6 bis 12 Jahren unter Anleitung erfahrener Trainer das sichere Klettern und die richtige Sicherung. Kurstermine jeden Samstag von 10 bis 12 Uhr. Achtung – die Teilnahme ist ausschließlich Kindern bis 12 Jahre vorbehalten."
      ],
      "footer": "gipfelstuermer-halle.de"
     },
@@ -301,7 +301,7 @@
      "subtitle": "TÖPFERN FÜR GROSS UND KLEIN",
      "facts": [],
      "body": [
-      "Jeden Samstagvormittag formen Eltern und Kinder ab 4 Jahren gemeinsam Schalen, Tassen und Figuren aus Ton. Material und Brennofen sind im Preis inbegriffen."
+      "Jeden Samstagvormittag gestalten Eltern und Kinder ab 4 Jahren gemeinsam Schalen, Tassen und Figuren aus Ton. Die Nutzung von Material und Brennofen ist im Preis inbegriffen."
      ],
      "footer": "15 Euro pro Person · Mühlenstraße 9"
     },
@@ -322,7 +322,7 @@
       "So –"
      ],
      "body": [
-      "Für Kinder von 6 bis 12 Jahren: Spiele, Ausflüge ins Schwimmbad und ein gemeinsames Mittagessen unter Aufsicht ausgebildeter Pädagogen. Der Preis für die gesamte Woche beträgt 90 Euro."
+      "Ganztägiges Programm für Kinder von 6 bis 12 Jahren mit Spielen, Ausflügen ins Schwimmbad und gemeinsamem Mittagessen unter der Betreuung ausgebildeter Pädagogen. Der Wochenpreis beträgt 90 Euro."
      ],
      "footer": ""
     },
@@ -335,12 +335,12 @@
      "subtitle": "",
      "facts": [
       "Sa + So · 11–20 Uhr",
-      "Spielen p. P. · 3,00 €",
+      "Spielgebühr pro Person · 3,00 €",
       "Kinder unter 6 · frei"
      ],
      "body": [
-      "Über 500 Brett- und Kartenspiele für die ganze Familie – von Klassikern bis zu Neuheiten",
-      "Selbstgebackene Waffeln und heißen Kakao gibt es auch!"
+      "Über 500 Brett- und Kartenspiele für die ganze Familie – von Klassikern bis zu aktuellen Neuerscheinungen",
+      "Außerdem gibt es selbstgebackene Waffeln und heißen Kakao!"
      ],
      "footer": ""
     },
@@ -353,7 +353,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Du bist zwischen 12 und 17 und begeisterst dich für Tiere? Jeden Mittwochnachmittag hilfst du uns im Tierheim beim Füttern, reinigst die Gehege und führst unsere Hunde spazieren. Nebenbei erfährst du viel über artgerechte Haltung und Tierschutz."
+      "Du bist zwischen 12 und 17 und begeisterst dich für Tiere? Jeden Mittwochnachmittag unterstützt du uns im Tierheim bei der Fütterung, der Gehegereinigung und beim Spaziergang mit unseren Hunden. Nebenbei erfährst du viel über artgerechte Tierhaltung und Tierschutz."
      ],
      "footer": "Tierheim Am Mühlbach · tierheim-muehlbach.de"
     }
@@ -368,7 +368,7 @@
     "no": "0",
     "name": "Johanna",
     "byline": "Johanna, 17, Rostock",
-    "text": "Mit 16 darf ich arbeiten, Steuern zahlen und selbst entscheiden, welche Ausbildung ich mache. Nur bei der Frage, wer unser Land regiert, darf ich nicht mitreden. Das verstehe ich nicht. Viele in meiner Klasse lesen mehr Nachrichten als ihre Eltern. Gebt uns endlich die Möglichkeit, unsere Meinung auch bei Wahlen zu zeigen. Schließlich geht es auch um unsere Zukunft.",
+    "text": "Mit 16 darf ich arbeiten, Steuern zahlen und selbst entscheiden, welche Ausbildung ich beginne. Nur bei der Frage, wer unser Land regiert, darf ich nicht mitreden. Das verstehe ich nicht. Viele Mitschüler verfolgen die Nachrichten aufmerksamer als ihre Eltern. Gebt uns endlich die Möglichkeit, unsere Meinung auch bei Bundestagswahlen zu äußern. Schließlich geht es dabei vor allem um unsere Zukunft.",
     "answer": "J"
    },
    "items": [
@@ -376,49 +376,49 @@
      "no": "20",
      "name": "Gerhard",
      "byline": "Gerhard, 70, Ulm",
-     "text": "Ich habe vier Enkelkinder zwischen 14 und 20 und schätze junge Leute sehr. Aber mit 16 lässt man sich noch leicht beeinflussen – von Freunden, von Videos im Internet, manchmal sogar von Lehrern. Man darf mit 16 ja auch noch kein Auto fahren und keinen Vertrag ohne die Eltern unterschreiben. Warum sollte man dann schon über die Regierung entscheiden?",
+     "text": "Ich habe vier Enkelkinder zwischen 14 und 20 und schätze junge Menschen sehr. Aber mit 16 lässt man sich noch leicht beeinflussen – von Freunden, von Videos in sozialen Netzwerken, manchmal sogar von Lehrern. Außerdem darf man mit 16 weder Auto fahren noch ohne Zustimmung der Eltern einen Vertrag unterschreiben. Warum sollte man dann schon über die Zusammensetzung der Regierung entscheiden?",
      "answer": "N"
     },
     {
      "no": "21",
      "name": "Svenja",
      "byline": "Svenja, 45, Bonn",
-     "text": "Ich unterrichte seit fünfzehn Jahren Politik an einer Gesamtschule. Meine Schülerinnen und Schüler setzen sich oft sachlicher mit Themen wie Wohnungsnot oder Klimaschutz auseinander als viele Erwachsene, die ich kenne. Viele engagieren sich in der Schülervertretung oder in Umweltgruppen, ohne dass jemand sie dazu auffordert. Wer sie fragt, bekommt überlegte Antworten. Es wird höchste Zeit, dass ihre Stimme auch auf dem Wahlzettel zählt.",
+     "text": "Ich unterrichte seit fünfzehn Jahren Politik an einer Gesamtschule. Meine Schülerinnen und Schüler setzen sich oft sachlicher mit Themen wie Wohnungsnot oder Klimaschutz auseinander als viele Erwachsene, die ich kenne. Viele engagieren sich in der Schülervertretung oder in Umweltgruppen, ohne dass jemand sie dazu auffordert. Wer sie nach ihrer Meinung fragt, bekommt durchdachte Antworten. Es wird höchste Zeit, dass ihre Stimme auch auf dem Wahlzettel zählt.",
      "answer": "J"
     },
     {
      "no": "22",
      "name": "Murat",
      "byline": "Murat, 19, Bielefeld",
-     "text": "Natürlich ist es erfreulich, wenn sich junge Menschen für Politik begeistern – ich war mit 16 selbst auf jeder Demonstration. Trotzdem halte ich 18 für die richtige Grenze. Mit 16 wohnen fast alle noch bei den Eltern und kennen viele Alltagsprobleme nur vom Hörensagen. Ein, zwei Jahre mehr Lebenserfahrung schaden niemandem. Wählen kann man schließlich noch lange genug.",
+     "text": "Natürlich ist es erfreulich, wenn sich junge Menschen für Politik begeistern – ich war mit 16 selbst auf jeder Klimademonstration. Trotzdem halte ich 18, also die Volljährigkeit, für die richtige Grenze. Mit 16 wohnen fast alle noch bei den Eltern und kennen Alltagsprobleme wie Mietverträge oder Steuererklärungen nur vom Hörensagen. Ein, zwei Jahre mehr Lebenserfahrung schaden niemandem. Wählen kann man schließlich noch lange genug.",
      "answer": "N"
     },
     {
      "no": "23",
      "name": "Nicole",
      "byline": "Nicole, 41, Mainz",
-     "text": "Ich wäre sofort dafür, wenn Jugendliche in der Schule vorher gründlich lernen würden, wie unser politisches System funktioniert. Davon ist an der Schule meines Sohnes aber nichts zu merken: Politik steht dort in der neunten Klasse gerade einmal eine Stunde pro Woche auf dem Stundenplan, und häufig fällt sie sogar ersatzlos aus. Unter diesen Voraussetzungen sollte man das Wahlalter lieber nicht senken.",
+     "text": "Ich wäre sofort für eine Senkung des Wahlalters, wenn Jugendliche im Unterricht vorher gründlich lernen würden, wie unser politisches System funktioniert. Davon ist an der Schule meines Sohnes aber nichts zu merken: Das Fach Politik steht dort in der neunten Klasse gerade einmal eine Stunde pro Woche auf dem Stundenplan. Häufig fällt der Unterricht wegen Lehrermangels sogar ersatzlos aus. Unter diesen Voraussetzungen sollte man das Wahlalter lieber nicht senken.",
      "answer": "N"
     },
     {
      "no": "24",
      "name": "Lukas",
      "byline": "Lukas, 16, Kiel",
-     "text": "Meine Eltern sagen immer, junge Leute interessieren sich sowieso nicht für Politik. Ich sehe das ganz anders. Ich bin 16, verfolge jeden Tag die Nachrichten und engagiere mich im Jugendparlament unserer Stadt. Dort entscheiden wir sogar über ein eigenes Budget für Projekte. Wenn wir das können, können wir auch einen Stimmzettel ausfüllen. Politikverdrossene Menschen gibt es übrigens in jedem Alter.",
+     "text": "Meine Eltern behaupten immer, junge Menschen interessieren sich sowieso nicht für Politik. Ich sehe das ganz anders. Ich bin 16, verfolge täglich die Nachrichten und engagiere mich im Jugendparlament unserer Stadt. Dort entscheiden wir sogar über ein eigenes Budget für Jugendprojekte. Wenn wir das können, können wir auch einen Stimmzettel ausfüllen. Politikverdrossene Menschen gibt es übrigens in jeder Altersgruppe.",
      "answer": "J"
     },
     {
      "no": "25",
      "name": "Brigitte",
      "byline": "Brigitte, 63, Graz",
-     "text": "Als Österreich 2007 das Wahlalter auf 16 gesenkt hat, war ich strikt dagegen. Ich befürchtete, die Jugendlichen würden dann nur das wählen, was gerade im Internet in Mode ist. Heute sehe ich das ganz anders: Meine Enkelin hat sich vor ihrer ersten Wahl wochenlang gründlich informiert und mir mehr über die Parteien erklärt als jede Zeitung. Ich möchte es auf keinen Fall wieder ändern.",
+     "text": "Als Österreich 2007 das Wahlalter auf 16 gesenkt hat, war ich strikt dagegen. Ich befürchtete, die Jugendlichen würden dann nur die Partei wählen, die gerade in sozialen Netzwerken in Mode ist. Heute sehe ich das ganz anders: Meine Enkelin hat sich vor ihrer ersten Nationalratswahl wochenlang gründlich informiert. Sie hat mir mehr über die Wahlprogramme der Parteien erklärt als jede Zeitung. Diese Regelung darf man auf keinen Fall wieder abschaffen.",
      "answer": "J"
     },
     {
      "no": "26",
      "name": "Paul",
      "byline": "Paul, 52, Essen",
-     "text": "Wir fordern ständig, dass sich junge Menschen mehr engagieren sollen. Gleichzeitig schließen wir sie von den wichtigsten Entscheidungen aus. In einigen Bundesländern dürfen 16-Jährige schon heute den Landtag wählen, und nach allem, was man hört, mit großem Interesse. Wer mit 16 eine Ausbildung absolviert und Sozialabgaben entrichtet, sollte auch mitbestimmen dürfen. Ich sehe keinen Grund, warum das nicht auch bundesweit gelten sollte.",
+     "text": "Wir fordern ständig, dass sich junge Menschen mehr engagieren sollen. Gleichzeitig schließen wir sie von den wichtigsten Entscheidungen aus. In einigen Bundesländern dürfen 16-Jährige schon heute den Landtag wählen. Nach allem, was man hört, beteiligen sie sich mit großem Interesse. Wer mit 16 eine Ausbildung absolviert und Sozialabgaben zahlt, sollte auch mitbestimmen dürfen. Ich sehe keinen Grund, warum dieses Wahlrecht nicht auch bundesweit gelten sollte.",
      "answer": "J"
     }
    ]
@@ -432,31 +432,31 @@
     "sections": [
      {
       "heading": "Voraussetzungen",
-      "text": "Werkzeug mieten kann, wer mindestens 18 Jahre alt ist. Bitte legen Sie bei der Abholung Ihren Personalausweis vor; ohne gültigen Ausweis können wir leider keine Geräte aushändigen. Firmenkunden benötigen zusätzlich eine Kopie ihrer Gewerbeanmeldung."
+      "text": "Die Anmietung von Werkzeug ist ab einem Mindestalter von 18 Jahren möglich. Bei der Abholung ist die Vorlage eines gültigen Personalausweises erforderlich, ohne den wir leider keine Geräte aushändigen können; Firmenkunden benötigen zusätzlich eine Kopie ihrer Gewerbeanmeldung."
      },
      {
       "heading": "Mietdauer und Preise",
-      "text": "Die Geräte werden tageweise vermietet. Wer ein Gerät am Samstag ab 12 Uhr abholt und bis Montag, 10 Uhr, zurückbringt, zahlt lediglich den Preis für einen Tag (Wochenendtarif). Feiertage werden nicht berechnet. Eine Reservierung ist telefonisch oder online bis zu zwei Wochen im Voraus möglich."
+      "text": "Die Vermietung erfolgt tageweise, Feiertage werden dabei nicht berechnet. Bei Abholung am Samstag ab 12 Uhr und Rückgabe bis Montag, 10 Uhr, berechnen wir lediglich den Preis für einen Miettag (Wochenendtarif). Eine Reservierung ist telefonisch oder online bis zu zwei Wochen im Voraus möglich."
      },
      {
       "heading": "Kaution",
-      "text": "Für jedes Gerät hinterlegen Sie je nach Gerätewert eine Kaution von 50 bis 200 Euro. Sie erhalten die Kaution bei der Rückgabe zurück, sofern das Gerät vollständig und unbeschädigt ist. Fehlt ein Zubehörteil, behalten wir einen Teil der Kaution als Ersatz ein."
+      "text": "Für jedes Gerät hinterlegen Sie je nach Gerätewert eine Kaution von 50 bis 200 Euro. Die Erstattung der Kaution erfolgt bei der Rückgabe, sofern das Gerät vollständig und unbeschädigt ist; bei fehlendem Zubehör behalten wir einen Teil der Kaution als Ersatz ein."
      },
      {
       "heading": "Zahlung",
-      "text": "Die Miete begleichen Sie bei der Abholung, bar oder mit Karte; die Kaution kann ausschließlich bar hinterlegt werden."
+      "text": "Die Miete begleichen Sie bei der Abholung in bar oder mit Karte; die Hinterlegung der Kaution ist ausschließlich in bar möglich."
      },
      {
       "heading": "Einweisung",
-      "text": "Bei Maschinen wie Fliesenschneidern und Bohrhämmern erläutert Ihnen unser Fachpersonal vor der Ausleihe die Handhabung des jeweiligen Geräts. Diese Einweisung ist kostenlos, aber verpflichtend; planen Sie dafür etwa 15 Minuten ein."
+      "text": "Bei Maschinen wie Fliesenschneidern und Bohrhämmern erläutert Ihnen unser Fachpersonal vor der Abholung die Bedienung des jeweiligen Geräts. Diese Einweisung ist kostenlos, aber verpflichtend; planen Sie dafür etwa 15 Minuten ein."
      },
      {
       "heading": "Rückgabe",
-      "text": "Bitte bringen Sie die Geräte gereinigt zurück; für stark verschmutzte Geräte berechnen wir pauschal 15 Euro. Benötigen Sie ein Gerät länger, rufen Sie uns bitte vor Ablauf der Mietzeit an. Bei verspäteter Rückgabe ohne vorherige Absprache berechnen wir einen zusätzlichen Miettag."
+      "text": "Bitte bringen Sie jedes Gerät sauber zurück, denn für die Reinigung stark verschmutzter Geräte berechnen wir pauschal 15 Euro. Wenn Sie eine Verlängerung benötigen, bitten wir um telefonische Mitteilung vor Ablauf der Mietzeit; bei verspäteter Rückgabe ohne vorherige Absprache berechnen wir einen zusätzlichen Miettag."
      },
      {
       "heading": "Schäden",
-      "text": "Melden Sie Mängel bitte umgehend und versuchen Sie nicht, die Geräte eigenhändig zu reparieren. Für Schäden durch unsachgemäße Bedienung haften Sie persönlich; Verschleißteile wie Sägeblätter und Bohrer stellen wir gesondert in Rechnung."
+      "text": "Schäden melden Sie bitte sofort persönlich oder telefonisch; versuchen Sie nicht, das Gerät eigenständig zu reparieren. Für Schäden durch unsachgemäße Bedienung haften Sie persönlich; Verschleißteile wie Sägeblätter und Bohrer berechnen wir gesondert."
      }
     ],
     "footer": ""
@@ -467,9 +467,9 @@
      "no": "27",
      "stem": "Ein 17-Jähriger, der eine Bohrmaschine braucht, …",
      "options": {
-      "a": "kann sie mit seinem eigenen Personalausweis ausleihen.",
-      "b": "darf das Gerät noch nicht selbst mieten.",
-      "c": "muss eine höhere Kaution hinterlegen."
+      "a": "kann sie mit einem gültigen Personalausweis abholen.",
+      "b": "kann das Werkzeug noch nicht auf seinen Namen mieten.",
+      "c": "muss wegen seines Alters eine höhere Kaution hinterlegen."
      },
      "answer": "b"
     },
@@ -477,9 +477,9 @@
      "no": "28",
      "stem": "Wer ein Gerät über das Wochenende braucht, …",
      "options": {
-      "a": "kann von einem günstigeren Tarif profitieren.",
-      "b": "muss es mindestens zwei Wochen vorher reservieren.",
-      "c": "bekommt die Kaution erst am Montag zurück."
+      "a": "kann von einem günstigeren Wochenendtarif profitieren.",
+      "b": "muss es spätestens zwei Wochen vorher reservieren.",
+      "c": "muss für Samstag und Sonntag zwei Miettage bezahlen."
      },
      "answer": "a"
     },
@@ -487,9 +487,9 @@
      "no": "29",
      "stem": "Bevor man einen Bohrhammer mitnehmen darf, …",
      "options": {
-      "a": "muss man für eine Erklärung bezahlen.",
+      "a": "muss man für die Einweisung extra bezahlen.",
       "b": "muss man eine Kopie der Gewerbeanmeldung vorlegen.",
-      "c": "muss man sich das Gerät erklären lassen."
+      "c": "muss man sich die Bedienung des Geräts erklären lassen."
      },
      "answer": "c"
     },
@@ -544,9 +544,9 @@
        "type": "abc",
        "stem": "Die Fahrgäste …",
        "options": {
-        "a": "sollen ihre Wertsachen im Bus lassen.",
-        "b": "bekommen für die Toilette etwas zurück.",
-        "c": "können länger bleiben, wenn sie dem Fahrer Bescheid sagen."
+        "a": "sollen ihre Wertsachen im abgeschlossenen Bus lassen.",
+        "b": "können das Toilettengeld im Laden wieder ausgeben.",
+        "c": "treffen sich um Viertel nach zwölf am Shop der Raststätte."
        },
        "answer": "b"
       }
@@ -566,9 +566,9 @@
        "type": "abc",
        "stem": "Lisa soll …",
        "options": {
-        "a": "Nina vor dem Abend Bescheid geben.",
-        "b": "für Emil am Abend etwas kochen.",
-        "c": "ein Kuscheltier für Emil kaufen und mitbringen."
+        "a": "Nina bis zum späten Nachmittag Bescheid geben.",
+        "b": "Emil gegen halb neun noch etwas zu essen machen.",
+        "c": "das Kuscheltier für Emil einpacken und mitbringen."
        },
        "answer": "a"
       }
@@ -580,7 +580,7 @@
       {
        "no": "5",
        "type": "rf",
-       "text": "Für die Aktion muss man sich vorher anmelden.",
+       "text": "Wer beim Frühjahrsputz helfen will, muss sich vorher anmelden.",
        "answer": "F"
       },
       {
@@ -602,7 +602,7 @@
       {
        "no": "7",
        "type": "rf",
-       "text": "Der Vortrag findet am selben Ort statt wie geplant.",
+       "text": "Der Vortrag „Wandern mit Kindern“ findet wie geplant in Halle 3 statt.",
        "answer": "F"
       },
       {
@@ -610,9 +610,9 @@
        "type": "abc",
        "stem": "Die Gewinner des Gewinnspiels …",
        "options": {
-        "a": "werden um 17 Uhr am Eingang bekannt gegeben.",
-        "b": "erfahren es später auf elektronischem Weg.",
-        "c": "müssen ihren Preis am Haupteingang abholen."
+        "a": "werden um 17 Uhr an der Box am Haupteingang gezogen.",
+        "b": "werden später elektronisch benachrichtigt.",
+        "c": "müssen ihre Karte bis 19 Uhr am Haupteingang abholen."
        },
        "answer": "b"
       }
@@ -624,7 +624,7 @@
       {
        "no": "9",
        "type": "rf",
-       "text": "Herr Brückner muss am Mittwoch nicht unbedingt zu Hause sein.",
+       "text": "Herr Brückner muss beim Ablesen der Wasserzähler nicht anwesend sein.",
        "answer": "R"
       },
       {
@@ -634,7 +634,7 @@
        "options": {
         "a": "kommen die Stadtwerke noch ein zweites Mal vorbei.",
         "b": "setzen die Stadtwerke einen ungefähren Wert an.",
-        "c": "muss er dafür eine zusätzliche Gebühr bezahlen."
+        "c": "muss er das Porto für die Karte selbst zahlen."
        },
        "answer": "b"
       }
@@ -662,8 +662,8 @@
      "stem": "Die Zimmer …",
      "options": {
       "a": "können die Eltern für ihr Kind auswählen.",
-      "b": "haben jeweils zwei Betten.",
-      "c": "haben die Schüler selbst verteilt."
+      "b": "sind Doppelzimmer direkt hinter dem Deich.",
+      "c": "hat die Klasse untereinander aufgeteilt."
      },
      "answer": "c"
     },
@@ -672,8 +672,8 @@
      "stem": "Für den Ausflug nach Norderney …",
      "options": {
       "a": "müssen die Eltern zusätzlich etwas bezahlen.",
-      "b": "brauchen die Kinder einen gültigen Reisepass.",
-      "c": "brauchen die Kinder ein bestimmtes Dokument."
+      "b": "brauchen die Kinder unbedingt einen gültigen Reisepass.",
+      "c": "muss jedes Kind einen bestimmten Ausweis dabeihaben."
      },
      "answer": "c"
     },
@@ -681,8 +681,8 @@
      "no": "14",
      "stem": "Das Taschengeld …",
      "options": {
-      "a": "ist im Preis der Fahrt enthalten.",
-      "b": "sollte nicht zu hoch sein.",
+      "a": "ist im Preis der Fahrt schon enthalten.",
+      "b": "sollte höchstens 30 Euro betragen.",
       "c": "wird von der Lehrerin verwaltet."
      },
      "answer": "b"
@@ -692,7 +692,7 @@
      "stem": "Die Handys …",
      "options": {
       "a": "müssen die Kinder über Nacht abgeben.",
-      "b": "dürfen nicht mitgenommen werden.",
+      "b": "bekommen die Kinder erst am Freitag zurück.",
       "c": "dürfen die Kinder nur im Notfall benutzen."
      },
      "answer": "a"
@@ -706,12 +706,12 @@
    "items": [
     {
      "no": "16",
-     "text": "Yusufs Frau arbeitet inzwischen wieder.",
+     "text": "Yusufs Partnerin ist in den Beruf zurückgekehrt.",
      "answer": "R"
     },
     {
      "no": "17",
-     "text": "Yusufs Chef hatte mit der Elternzeit kein Problem.",
+     "text": "Yusufs Vorgesetzter reagierte gelassen auf seine Auszeit.",
      "answer": "R"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
      "no": "19",
-     "text": "Die Idee zu Ellas Projekt entstand im Urlaub.",
+     "text": "Ellas Erfindung geht auf eine Beobachtung während einer Reise zurück.",
      "answer": "R"
     },
     {
@@ -736,7 +736,7 @@
     },
     {
      "no": "22",
-     "text": "Ella will mit ihrem Preisgeld ihr Projekt weiterentwickeln.",
+     "text": "Ellas Preisgeld soll in die Verbesserung ihrer Erfindung fließen.",
      "answer": "R"
     }
    ]
@@ -758,27 +758,27 @@
    "items": [
     {
      "no": "23",
-     "text": "Manche Tiere leiden darunter, dass sie zu wenig Platz haben.",
+     "text": "Man sieht manchen Zootieren an, dass sie zu wenig Platz haben.",
      "answer": "c"
     },
     {
      "no": "24",
-     "text": "Ohne Zoos gäbe es einige Tierarten heute nicht mehr.",
+     "text": "Manche Art hat nur dank der Zucht in Zoos überlebt.",
      "answer": "b"
     },
     {
      "no": "25",
-     "text": "Nur ein kleiner Teil der Zootiere gehört zu bedrohten Arten.",
+     "text": "Laut Kritikern gehört nur ein kleiner Teil der Zootiere zu bedrohten Arten.",
      "answer": "a"
     },
     {
      "no": "26",
-     "text": "Das Geld sollte besser direkt dort ausgegeben werden, wo die Tiere leben.",
+     "text": "Statt teurer Neubauten sollte man lieber den Tierschutz in der Wildnis finanzieren.",
      "answer": "c"
     },
     {
      "no": "27",
-     "text": "Im Zoo erleben Kinder Tiere so, wie es kein Film zeigen kann.",
+     "text": "Eine echte Begegnung mit einem Tier beeindruckt Kinder stärker als jedes Video.",
      "answer": "b"
     },
     {
@@ -788,7 +788,7 @@
     },
     {
      "no": "29",
-     "text": "Einige Zoos halten schon heute keine Elefanten oder Eisbären mehr.",
+     "text": "Mehrere Zoos haben schon aufgehört, Elefanten oder Eisbären zu halten.",
      "answer": "a"
     },
     {
@@ -861,7 +861,7 @@
    }
   ]
  },
- "notes": "Alle Antworten stammen aus dem Lösungsschlüssel (S. 17); Hören-Beispiele 01/02 und 0 aus den Hörtexten bzw. Aufgabenseite. Lesen Teil 3: Die Anzeigen d und h stimmen mit der Situation 14/19 überein (h = Betreuung 1. Ferienwoche, d = wöchentlich im Freien). Keine Konflikte zwischen Schlüssel und Text gefunden. Anzeige e (Coding-Club) ist im PDF als Textdatei mit Zeilennummern gesetzt, Anzeige i als Kassenbon; die Zeilennummern und Punktlinien sind nicht übernommen.",
+ "notes": "Alle Antworten stammen aus dem Lösungsschlüssel (S. 17); Hören-Beispiele 01/02 und 0 aus den Hörtexten bzw. Aufgabenseite. Lesen Teil 3: Die Anzeigen d und h stimmen mit der Situation 14/19 überein (h = Betreuung 1. Ferienwoche, d = wöchentlich im Freien). Keine Konflikte zwischen Schlüssel und Text gefunden. Anzeige e (Coding-Club) ist im PDF als Textdatei mit Zeilennummern gesetzt, Anzeige i als Kassenbon; die Zeilennummern und Punktlinien sind nicht übernommen. Überarbeitung 2026-11 (oberes B1): Lesetexte 1–5 sprachlich verdichtet (seltenere Wörter, Nominalstil, längere Sätze), Lesen- und Hören-Aufgaben stärker paraphrasiert; Lösungen, Hörtexte und Schreiben unverändert.",
  "hoertexte": {
   "t1": {
    "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
@@ -1104,15 +1104,15 @@
    },
    "3": {
     "type": "S",
-    "note": "Den Notruf hat die Verkäuferin gewählt; Miriam hat „mit der Herzdruckmassage begonnen“."
+    "note": "Den Notruf hat die Verkäuferin gewählt; Miriam hat „selbst mit der Herzdruckmassage begonnen“ – „selbst“ steht im Text, aber bei der Massage."
    },
    "4": {
     "type": "P",
-    "note": "„zitterten mir die Knie“, „Zur Arbeit bin ich … nicht mehr gegangen“ = es ging ihr nicht gut."
+    "note": "„zitterten mir vor Erleichterung die Knie“, „Zur Arbeit bin ich … nicht mehr gegangen“ = körperlich belastet."
    },
    "5": {
     "type": "P",
-    "note": "Herr Wendt stand „mit einem riesigen Blumenstrauß“ vor ihrer Wohnungstür."
+    "note": "Herr Wendt stand an ihrer „Wohnungstür“, „mit einem riesigen Blumenstrauß“ = zu Hause gedankt."
    },
    "6": {
     "type": "A",
@@ -1124,55 +1124,55 @@
    },
    "8": {
     "type": "P",
-    "note": "Video mit der Ärztin, „Rezept … in der Apotheke im Ort“ = keine Fahrt in die Stadt; keine Notfälle (b, N); nur mit Termin (c)."
+    "note": "Die Ärztin kann per Videosprechstunde „Arzneimittel verordnen“, das „Rezept … in der Apotheke im Dorf“ = Medikamente verschrieben ohne Fahrt in die Stadt; keine Notfälle (b, N); nur nach „Terminvereinbarung“ (c)."
    },
    "9": {
     "type": "P",
-    "note": "„die Wohnung über der Praxis hält die Gemeinde dafür frei“; Krankenkasse und Land zahlen (a); kein Verkauf (b)."
+    "note": "„die Wohnung über den Praxisräumen hält die Gemeinde dafür frei“; Krankenkasse und Land zahlen (a, N); kein Verkauf (b)."
    },
    "10": {
     "type": "W",
-    "note": "Globalfrage; „Frauen“ (b) und „Firmen“ (c) sind Wortfallen."
+    "note": "Globalfrage; „Frauen“ (b) und „Firmen“ (c) sind Wortfallen; a fasst Problem und Lösungsversuche des Textes zusammen."
    },
    "11": {
     "type": "P",
-    "note": "„darf während der Arbeit jederzeit weggehen“; die Gemeinde vergütet dem Arbeitgeber, nicht dem Mitarbeiter (b, S)."
+    "note": "„darf während der Arbeit jederzeit weggehen“ = den Job ohne Weiteres unterbrechen; die Gemeinde vergütet dem Arbeitgeber, nicht dem Mitarbeiter (b, S); „verlorene Arbeitszeit“ (a) ist eine Wortfalle."
    },
    "12": {
     "type": "P",
-    "note": "„Wer kleine Kinder hat, kann nicht einfach aus dem Haus laufen“; Übungen dienstags (c, Z)."
+    "note": "„Wer kleine Kinder hat, kann bei einem nächtlichen Alarm nicht einfach aus dem Haus laufen“; Übungen dienstags (c, Z); 30 Franken pro Stunde, keine Klage (a)."
    },
    "13": {
     "type": "P",
-    "note": "„programmieren wir eigene Spiele“ = ein Spiel entwickeln; i hat nur Brettspiele (W)."
+    "note": "„programmieren wir eigene Computerspiele“ = ein Spiel erstellen; i hat nur Brett- und Kartenspiele (W)."
    },
    "14": {
     "type": "Z",
-    "note": "„1. Woche der Sommerferien“, ganztags = Mo–Fr 8–16 Uhr; d erst ab 10 Jahren."
+    "note": "„1. Woche der Sommerferien“, ganztags Mo–Fr 8–16 Uhr = tagsüber gut aufgehoben; d erst ab 10 Jahren und nur freitags."
    },
    "15": {
     "type": "P",
-    "note": "„selbstbewusst vor Publikum aufzutreten“ = vor anderen sicherer auftreten; d hat damit nichts zu tun."
+    "note": "„selbstbewusstes Auftreten vor Publikum“ = Mut, vor einer Gruppe zu sprechen; d hat damit nichts zu tun."
    },
    "16": {
     "type": "P",
-    "note": "„Eltern und Kinder … gemeinsam“ formen = zusammen etwas Kreatives; i ist nicht kreativ."
+    "note": "„Eltern und Kinder … gemeinsam“ gestalten Schalen aus Ton = mit den eigenen Händen herstellen; im Spielecafé i wird nichts hergestellt."
    },
    "17": {
     "type": "N",
-    "note": "„Auf ein Pferd will sie sich aber nicht setzen“ – a ist Reitunterricht; j: Gehege reinigen, Hunde ausführen, ab 12."
+    "note": "„Reiten kommt für sie aber nicht infrage“ – a ist Reitunterricht; j: Fütterung, Gehegereinigung, Hunde, ab 12."
    },
    "18": {
     "type": "Z",
-    "note": "f gilt „ausschließlich für Kinder bis 12 Jahre“; Jonas ist 16."
+    "note": "f ist „ausschließlich Kindern bis 12 Jahre vorbehalten“; Jonas ist 16."
    },
    "19": {
     "type": "B",
-    "note": "„Jeden Freitag“, „Hütten im Wald“ = wöchentlich im Freien; a bietet nur Einzelstunden."
+    "note": "„Jeden Freitag“, „Gruppenstunden in der Natur“ = jede Woche draußen in einer Gruppe; a bietet nur Einzelstunden."
    },
    "20": {
     "type": "P",
-    "note": "„Warum sollte man dann schon über die Regierung entscheiden?“"
+    "note": "„Warum sollte man dann schon über die Zusammensetzung der Regierung entscheiden?“"
    },
    "21": {
     "type": "P",
@@ -1180,11 +1180,11 @@
    },
    "22": {
     "type": "K",
-    "note": "„Natürlich ist es erfreulich … Trotzdem halte ich 18 für die richtige Grenze.“"
+    "note": "„Natürlich ist es erfreulich … Trotzdem halte ich 18, also die Volljährigkeit, für die richtige Grenze.“"
    },
    "23": {
     "type": "B",
-    "note": "„Ich wäre sofort dafür, wenn …“ – die Bedingung ist nicht erfüllt: „gerade einmal eine Stunde pro Woche“."
+    "note": "„Ich wäre sofort für eine Senkung des Wahlalters, wenn …“ – die Bedingung ist nicht erfüllt: „gerade einmal eine Stunde pro Woche“."
    },
    "24": {
     "type": "S",
@@ -1192,37 +1192,37 @@
    },
    "25": {
     "type": "K",
-    "note": "Meinungswechsel: 2007 „strikt dagegen“, heute „auf keinen Fall wieder ändern“."
+    "note": "Meinungswechsel: 2007 „strikt dagegen“, heute „auf keinen Fall wieder abschaffen“."
    },
    "26": {
     "type": "P",
-    "note": "„keinen Grund, warum das nicht auch bundesweit gelten sollte“."
+    "note": "„keinen Grund, warum dieses Wahlrecht nicht auch bundesweit gelten sollte“."
    },
    "27": {
     "type": "Z",
-    "note": "„mindestens 18 Jahre alt“; der Ausweis allein reicht nicht (a, W)."
+    "note": "„ab einem Mindestalter von 18 Jahren“; der Ausweis allein reicht nicht (a, W); die Kaution hängt vom „Gerätewert“ ab (c)."
    },
    "28": {
     "type": "B",
-    "note": "Samstag ab 12 bis Montag, 10 Uhr = Preis für einen Tag; Reservieren ist „bis zu zwei Wochen im Voraus“ möglich, nicht Pflicht (b, W)."
+    "note": "Samstag ab 12 bis Montag, 10 Uhr = Preis für einen Miettag; Reservieren ist „bis zu zwei Wochen im Voraus möglich“, nicht Pflicht (b, W); „zwei Miettage“ (c) widerspricht dem „Wochenendtarif“ (W)."
    },
    "29": {
     "type": "P",
-    "note": "„kostenlos, aber verpflichtend“ (a, N)."
+    "note": "„kostenlos, aber verpflichtend“ (a, N); die „Gewerbeanmeldung“ brauchen nur Firmenkunden (b, W)."
    },
    "30": {
     "type": "P",
-    "note": "„vor Ablauf der Mietzeit an[rufen]“; die Kaution hängt nur vom Zustand ab (c)."
+    "note": "„telefonische Mitteilung vor Ablauf der Mietzeit“ = vorher Bescheid sagen; die Kaution hängt nur vom Zustand ab (c)."
    }
   },
   "hoeren": {
    "1": {
     "type": "Z",
-    "note": "„dreißig Minuten, nicht wie angekündigt … eine Stunde“."
+    "note": "„dreißig Minuten – nicht wie angekündigt von einer Stunde“."
    },
    "2": {
     "type": "P",
-    "note": "Toilette einen Euro, „dafür … einen Gutschein für den Shop“; Wertsachen mitnehmen (a); „auf niemanden warten“ (c, N)."
+    "note": "Toilette einen Euro, „dafür … einen Gutschein für den Shop“ = das Geld im Laden wieder ausgeben; Wertsachen mitnehmen (a, N); Treffpunkt „am Bus“, nicht am Shop (c, W)."
    },
    "3": {
     "type": "P",
@@ -1230,7 +1230,7 @@
    },
    "4": {
     "type": "Z",
-    "note": "„Ruf mich bitte bis fünf an“; Emil hat schon gegessen (b); das Kuscheltier packt Nina ein (c, S)."
+    "note": "„Ruf mich bitte bis fünf an“ = bis zum späten Nachmittag melden; Emil hat schon gegessen, „halb neun“ ist die Schlafenszeit (b, Z); das Kuscheltier packt Nina ein (c, S)."
    },
    "5": {
     "type": "N",
@@ -1242,19 +1242,19 @@
    },
    "7": {
     "type": "Z",
-    "note": "Nicht in Halle 3, sondern auf der Bühne in Halle 5 – und eine Stunde früher."
+    "note": "Nicht in Halle 3, sondern auf der Bühne in Halle 5 – und eine Stunde früher; „wie geplant“ ist die Falle."
    },
    "8": {
     "type": "P",
-    "note": "„per E-Mail benachrichtigt“; 17 Uhr ist der Einwurfschluss (a, Z)."
+    "note": "„per E-Mail benachrichtigt“; 17 Uhr ist der Einwurfschluss (a, Z); 19 Uhr ist die letzte Shuttlefahrt (c, Z)."
    },
    "9": {
     "type": "P",
-    "note": "Karte im Briefkasten oder online melden = er muss nicht da sein."
+    "note": "„Wenn Sie nicht zu Hause sind, ist das kein Problem“ = beim Ablesen nicht anwesend sein; die Karte im Briefkasten ersetzt den Besuch."
    },
    "10": {
     "type": "P",
-    "note": "„müssen wir den Verbrauch schätzen“; kein zweiter Besuch (a); keine Gebühr (c)."
+    "note": "„müssen wir den Verbrauch schätzen“; kein zweiter Besuch (a); „das Porto zahlen wir“ (c, W)."
    },
    "11": {
     "type": "Z",
@@ -1262,11 +1262,11 @@
    },
    "12": {
     "type": "P",
-    "note": "„haben die Kinder schon selbst entschieden“; „Elternwünsche“ sind nicht mehr möglich (a, N)."
+    "note": "„haben die Kinder schon selbst entschieden“ = die Klasse hat aufgeteilt; „Elternwünsche“ sind nicht mehr möglich (a, N); „vier bis sechs Betten“ (b, Z)."
    },
    "13": {
     "type": "P",
-    "note": "„Schülerausweis“ = ein bestimmtes Dokument; „Ein Reisepass ist nicht nötig“ (b, W); Ausflüge sind im Preis (a)."
+    "note": "„Schülerausweis“ = ein bestimmter Ausweis; „Ein Reisepass ist nicht nötig“ (b, W); die Fähre ist im Preis (a)."
    },
    "14": {
     "type": "N",
@@ -1274,15 +1274,15 @@
    },
    "15": {
     "type": "P",
-    "note": "„abends um neun bei uns ab“; mitnehmen ist erlaubt (b); „Notfälle“ betreffen Anrufe der Eltern (c, W)."
+    "note": "„abends um neun bei uns ab“; zurück „morgens nach dem Frühstück“, nicht erst am Freitag (b, Z); „Notfälle“ betreffen Anrufe der Eltern (c, W)."
    },
    "16": {
     "type": "P",
-    "note": "„Meine Frau ist im Januar wieder arbeiten gegangen.“"
+    "note": "„Meine Frau ist im Januar wieder arbeiten gegangen“ = in den Beruf zurückgekehrt."
    },
    "17": {
     "type": "P",
-    "note": "„besser, als ich gedacht hatte“ – nur eine Frage nach den Projekten."
+    "note": "„besser, als ich gedacht hatte“ – nur eine Frage nach den Projekten = gelassen."
    },
    "18": {
     "type": "A",
@@ -1290,7 +1290,7 @@
    },
    "19": {
     "type": "P",
-    "note": "Plastik am Strand im Urlaub = Ursprung der Idee."
+    "note": "Plastik am Strand „im Urlaub“ = eine Beobachtung während einer Reise."
    },
    "20": {
     "type": "S",
@@ -1302,11 +1302,11 @@
    },
    "22": {
     "type": "P",
-    "note": "Das Geld will sie „in neue Teile für ihren Filter stecken“; die korrigierte Summe (150 statt 200 Euro) ist nicht gefragt."
+    "note": "Das Geld will sie „in neue Teile für ihren Filter stecken“ = Verbesserung der Erfindung; die korrigierte Summe (150 statt 200 Euro) ist nicht gefragt."
    },
    "23": {
     "type": "P",
-    "note": "Seidel: ein Eisbär, der „stundenlang denselben Weg hin und her geht“."
+    "note": "Seidel: „Vor allem der Platz“; ein Eisbär, der „stundenlang denselben Weg hin und her geht“."
    },
    "24": {
     "type": "P",
@@ -1314,7 +1314,7 @@
    },
    "25": {
     "type": "S",
-    "note": "Der Moderator nennt den „Bruchteil“; Seidel bestätigt nur („Genau so ist es“)."
+    "note": "Der Moderator gibt wieder, was „Kritiker rechnen … vor“: nur ein „Bruchteil“; Seidel bestätigt nur („Genau so ist es“)."
    },
    "26": {
     "type": "P",

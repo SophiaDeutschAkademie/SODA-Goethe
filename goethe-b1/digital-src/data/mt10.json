@@ -9,11 +9,11 @@
         "date": "Sonntag, 23. März",
         "title": "Neues Knie mit 61",
         "paragraphs": [
-          "Zwei Jahre lang habe ich die Schmerzen verdrängt. Erst konnte ich nicht mehr wandern, dann kaum noch Treppen bewältigen. Meine Frau hat mich dann zum Orthopäden geschickt – oder besser gesagt: Sie hat den Termin vereinbart und mich gleich hingefahren. Auf dem Röntgenbild war der Befund eindeutig: Das rechte Knie war völlig verschlissen, ich brauchte ein künstliches Gelenk.",
-          "Vor dem Eingriff war mir mulmiger zumute als vor jeder Prüfung meines Lebens. Mein Nachbar, der vor drei Jahren dieselbe Operation überstanden hat, hat mir Mut zugesprochen. „Am zweiten Tag läufst du schon über den Flur“, hat er behauptet. Trotzdem habe ich in der Nacht davor kaum ein Auge zugetan. Er hatte übrigens recht – allerdings humpelte ich mit Krücken, sehr, sehr langsam.",
-          "Nach einer Woche im Krankenhaus ging es für drei Wochen in eine Reha-Klinik im Schwarzwald. Eigentlich hätte ich lieber eine ambulante Reha in der Nähe gemacht. Dann wäre ich abends zu Hause gewesen, aber ich hätte täglich ein Taxi nehmen müssen. Die Verpflegung war mäßig, das Pflegepersonal dafür unermüdlich. Im Nachhinein bin ich froh: In der Klinik hatte ich jeden Tag Physiotherapie, Wassergymnastik und genügend Zeit, mich nur um mein Knie zu kümmern.",
-          "Am schwierigsten war nicht der Schmerz, sondern die Geduld. Ich erwartete täglich Fortschritte, und wenn es zwei Tage lang nicht voranging, kam mir das wie ein Rückschlag vor. Dann war ich mürrisch und habe mit niemandem geredet. In solchen Momenten hat meine Physiotherapeutin Jana nur gesagt: „Ihr Knie ist nicht im Urlaub, es arbeitet.“",
-          "Jetzt bin ich seit vier Wochen wieder zu Hause. Die Krücken lehnen in der Ecke, nur für längere Strecken nehme ich noch eine mit. Treppen steige ich langsam, aber beschwerdefrei, und täglich drehe ich eine kleine Runde um den Block. Autofahren darf ich erst nach der nächsten Nachuntersuchung. Deshalb bringt mich meine Frau zweimal pro Woche zur Physiotherapie.",
+          "Zwei Jahre lang habe ich die Kniebeschwerden verdrängt, obwohl ich zuerst nicht mehr wandern und später kaum noch Treppen bewältigen konnte. Schließlich hat meine Frau mich zum Orthopäden geschickt – oder genauer gesagt: Sie hat den Termin vereinbart und mich gleich selbst in die Arztpraxis chauffiert. Auf dem Röntgenbild war der Befund eindeutig: Das rechte Kniegelenk war vollständig verschlissen, und ich brauchte ein künstliches Gelenk.",
+          "Vor dem Eingriff war mir mulmiger zumute als vor jeder Prüfung meines Lebens. Mein Nachbar, der vor drei Jahren dieselbe Operation überstanden hat, hat mir Mut zugesprochen. „Am zweiten Tag läufst du schon über den Flur“, hat er behauptet. Trotzdem habe ich in der Nacht vor der Operation kaum ein Auge zugetan. Mein Nachbar behielt übrigens recht – allerdings humpelte ich mit Krücken, und zwar sehr, sehr langsam.",
+          "Nach einer Woche im Krankenhaus ging es für drei Wochen in eine Reha-Klinik im Schwarzwald. Eigentlich hätte ich lieber eine ambulante Reha in der Nähe gemacht, weil ich dann abends zu Hause gewesen wäre; allerdings hätte ich dafür täglich ein Taxi nehmen müssen. Die Verpflegung in der Klinik war mäßig, das Pflegepersonal dafür unermüdlich. Im Nachhinein bin ich trotzdem froh über diese Entscheidung, denn dort hatte ich täglich Physiotherapie, Wassergymnastik und ausreichend Zeit, mich ausschließlich um mein Knie zu kümmern.",
+          "Am schwierigsten war nicht der Schmerz, sondern die Geduld. Ich erwartete täglich Fortschritte, und wenn es zwei Tage lang nicht voranging, kam mir das gleich wie ein Rückschlag vor. An solchen Tagen war ich launisch und schweigsam. Meine Physiotherapeutin Jana hat dann jedes Mal nur gesagt: „Ihr Knie ist nicht im Urlaub, es arbeitet.“",
+          "Inzwischen bin ich seit vier Wochen wieder zu Hause. Die Krücken lehnen in der Ecke, nur für längere Strecken nehme ich vorsichtshalber noch eine mit. Treppen steige ich langsam, aber beschwerdefrei, und täglich drehe ich eine kleine Runde um den Häuserblock. Autofahren darf ich allerdings erst nach der nächsten Nachuntersuchung beim Orthopäden. Deshalb bringt mich meine Frau zweimal pro Woche zur Physiotherapie, was für sie eine zusätzliche Belastung ist.",
           "Und das Wandern? Im Mai möchte ich mit meinem Wanderverein wieder mitgehen, zunächst nur die kurze Runde von acht Kilometern. Die große Alpentour im Sommer lasse ich dieses Jahr aus, denn dafür fehlt mir noch die Kondition. Das schmerzt, aber nicht so sehr wie mein altes Knie. Meine Wanderfreunde haben mir bereits eine Genesungskarte geschickt: Sie warten auf mich."
         ],
         "closing": "Euer Helmut"
@@ -26,12 +26,12 @@
       "items": [
         {
           "no": "1",
-          "text": "Helmut hat den Arzttermin nicht allein organisiert.",
+          "text": "Den Besuch beim Facharzt hat Helmut nicht allein geplant.",
           "answer": "R"
         },
         {
           "no": "2",
-          "text": "Ein Bekannter hatte die gleiche Operation schon hinter sich.",
+          "text": "Jemand aus Helmuts Umgebung kannte den Eingriff aus eigener Erfahrung.",
           "answer": "R"
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "no": "6",
-          "text": "Helmut wird in diesem Jahr auf eine längere Tour verzichten.",
+          "text": "Helmut verzichtet in diesem Jahr auf eine anspruchsvolle Bergtour.",
           "answer": "R"
         }
       ]
@@ -63,7 +63,7 @@
           "title": "Ein Baum für jedes Baby",
           "lead": "In Mittelbach pflanzt die Stadt für jedes neugeborene Kind einen Baum.",
           "paragraphs": [
-            "Kommt in Mittelbach ein Kind zur Welt, erhalten die Eltern seit drei Jahren nicht nur die Glückwünsche des Bürgermeisters, sondern auch ein Schreiben mit einer ungewöhnlichen Einladung: Im Herbst dürfen sie für ihr Kind einen Baum pflanzen. Jährlich werden in der Stadt rund 600 Babys geboren, entsprechend viele Setzlinge kommen hinzu. Gepflanzt wird auf einer ehemaligen Wiese am Stadtrand, die inzwischen „Geburtswald“ heißt. Jedes Bäumchen trägt ein Namensschild mit dem Vornamen und dem Geburtsjahr des Kindes. Die Kosten von etwa 80 Euro pro Baum trägt die Stadtkasse; wer möchte, kann sich mit einer Spende beteiligen. Welche Baumart in die Erde kommt, legen die Förster fest, denn nicht jede verträgt die zunehmend trockenen Sommer. „Anfangs wünschten sich viele Eltern Apfelbäume“, berichtet Förster Jens Hollmann. „Die gedeihen hier aber nicht.“ Die größte Sorge bereiten Hitze und Trockenheit: Im vergangenen Sommer sind fast hundert junge Bäume eingegangen. Seitdem wässern Freiwillige, häufig die Familien selbst, die Setzlinge nach einem festen Plan. Stirbt ein Baum trotzdem ab, wird er im nächsten Herbst kostenlos ersetzt. Für viele Eltern ist der Wald längst mehr als ein Umweltprojekt: Am Wochenende sieht man dort Familien beim Picknick, und Großeltern fotografieren ihre Enkel neben „ihrem“ Baum. Die Stadtverwaltung plant nun einen Rundweg mit Sitzbänken. Außerdem erwägt sie, das Angebot auch auf Kinder auszudehnen, die neu nach Mittelbach ziehen."
+            "Kommt in Mittelbach ein Kind zur Welt, erhalten die Eltern seit drei Jahren nicht nur die Glückwünsche des Bürgermeisters, sondern auch ein Schreiben mit einer ungewöhnlichen Einladung: Im Herbst dürfen sie für ihr Kind einen Baum pflanzen. Jährlich werden in der Stadt rund 600 Babys geboren, entsprechend viele Setzlinge kommen hinzu. Die Pflanzung findet auf einer ehemaligen Wiese am Stadtrand statt, die inzwischen „Geburtswald“ heißt. Jeder Setzling trägt ein Namensschild mit dem Vornamen und dem Geburtsjahr des Kindes. Die Kosten von etwa 80 Euro pro Baum übernimmt die Stadtverwaltung; wer möchte, kann sich mit einer Spende an der Finanzierung beteiligen. Die Auswahl der Baumart treffen die Förster, denn nicht jede Baumart verträgt die zunehmend trockenen Sommer. „Anfangs wünschten sich viele Eltern Apfelbäume“, berichtet Förster Jens Hollmann. „Die gedeihen hier aber nicht.“ Die größte Sorge bereiten Hitze und Trockenheit: Im vergangenen Sommer sind fast hundert Setzlinge eingegangen. Seitdem übernehmen Freiwillige, häufig die Familien selbst, die Bewässerung der Setzlinge nach einem festen Plan. Stirbt ein Baum trotzdem ab, wird er im folgenden Herbst auf Kosten der Stadt ersetzt. Für viele Eltern hat der Wald längst eine Bedeutung, die über den Umweltschutz hinausgeht: Am Wochenende beobachtet man dort Familien beim Picknick, und Großeltern fotografieren ihre Enkel neben „ihrem“ Baum. Die Stadtverwaltung plant nun einen Rundweg mit Sitzbänken und erwägt außerdem eine Erweiterung des Angebots auf Kinder, die neu nach Mittelbach ziehen."
           ],
           "footnote": "",
           "source": "aus einer deutschen Zeitung",
@@ -83,8 +83,8 @@
               "stem": "In diesem Text geht es um …",
               "options": {
                 "a": "einen Förster, der in einem trockenen Wald neue Baumarten testet.",
-                "b": "eine Stadt, die für jedes neue Kind einen Baum pflanzt.",
-                "c": "Eltern, die einen Wald gekauft haben."
+                "b": "eine Stadt, die jedes neue Baby mit einem eigenen Baum begrüßt.",
+                "c": "Eltern, die für ihre Kinder gemeinsam einen Wald am Stadtrand kaufen."
               },
               "answer": "b"
             },
@@ -102,9 +102,9 @@
               "no": "9",
               "stem": "Wenn ein junger Baum vertrocknet, …",
               "options": {
-                "a": "pflanzt die Stadt einen neuen.",
-                "b": "müssen die Eltern einen neuen kaufen.",
-                "c": "bleibt die Stelle im Wald leer."
+                "a": "bezahlt die Stadt im nächsten Herbst einen neuen.",
+                "b": "müssen die Eltern auf eigene Kosten einen neuen Baum pflanzen.",
+                "c": "wird die Stelle im Geburtswald nicht mehr bepflanzt."
               },
               "answer": "a"
             }
@@ -115,7 +115,7 @@
           "title": "Der Zaun, den man nicht sieht",
           "lead": "Auf einer Alp* im Kanton Graubünden tragen Kühe GPS-Halsbänder statt Zäune.",
           "paragraphs": [
-            "Auf der Alp Furna im Kanton Graubünden sucht man Zäune vergeblich. Trotzdem bleiben die 80 Kühe von Bauer Reto Casutt zuverlässig auf ihrer Weide, denn jedes Tier trägt ein Halsband mit GPS-Empfänger. Am Handy legt Casutt fest, in welchem Gebiet die Kühe grasen dürfen. Nähert sich eine Kuh der unsichtbaren Grenze, ertönt zunächst ein Signal; wenn sie trotzdem weitergeht, bekommt sie einen leichten Stromstoss, der etwa so stark ist wie bei einem herkömmlichen Weidezaun. „Nach zwei, drei Tagen haben die meisten Kühe begriffen, dass sie beim Ton umkehren müssen“, sagt Casutt. Früher verbrachte er jeden Sommer mehrere Wochen damit, kilometerlange Zäune aufzustellen und wieder abzubauen. Diese Arbeit entfällt jetzt, und er kann sich stattdessen mehr um die Tiere und die Käserei kümmern. Allerdings kostet ein Halsband rund 300 Franken, hinzu kommen Gebühren für die Software; in der Testphase übernimmt der Kanton die Hälfte. Tierschützer beurteilen das Projekt kritisch und verlangen genaue Angaben darüber, wie oft die Tiere einen Stromstoss erhalten. Eine Hochschule wertet die Daten deshalb aus. Auch die Wanderer mussten sich an die neue Technik gewöhnen: Da kein Tor mehr anzeigt, wo eine Weide beginnt, stehen sie unvermittelt mitten in der Herde. Schilder an den Wegen erklären inzwischen das richtige Verhalten: ruhig weitergehen und die Tiere nicht füttern. Fallen die Ergebnisse positiv aus, sollen ab nächstem Jahr zehn weitere Alpen teilnehmen."
+            "Auf der Alp Furna im Kanton Graubünden sucht man Zäune vergeblich. Trotzdem bleiben die 80 Kühe von Bauer Reto Casutt zuverlässig auf ihrer Weide, denn jede Kuh trägt ein Halsband mit GPS-Empfänger. Per Smartphone-App legt Casutt fest, in welchem Gebiet die Kühe grasen dürfen. Nähert sich eine Kuh der unsichtbaren Grenze, ertönt zunächst ein Signal; wenn sie trotzdem weitergeht, bekommt sie einen leichten Stromstoss, der etwa so stark ist wie bei einem herkömmlichen Weidezaun. „Nach zwei, drei Tagen haben die meisten Kühe begriffen, dass sie beim Signal umkehren müssen“, sagt Casutt. Früher verbrachte der Bauer jeden Sommer mehrere Wochen damit, kilometerlange Zäune aufzustellen und wieder abzubauen. Diese Arbeit entfällt dank der Halsbänder, und Casutt kann sich stattdessen mehr um die Kühe und die Käserei kümmern. Allerdings kostet ein Halsband rund 300 Franken, hinzu kommen Gebühren für die Nutzung der Software; während der Testphase übernimmt der Kanton die Hälfte der Kosten. Tierschützer beurteilen das Projekt kritisch und verlangen genaue Informationen darüber, wie oft die Kühe einen Stromstoss erhalten; die Auswertung der Daten übernimmt deshalb eine Hochschule. Auch die Wanderer mussten sich an die neue Technik gewöhnen: Da kein Tor mehr anzeigt, wo eine Weide beginnt, stehen sie unvermittelt mitten in der Herde. Hinweisschilder an den Wanderwegen erklären inzwischen das richtige Verhalten: ruhig weitergehen und die Kühe nicht füttern. Fallen die Ergebnisse positiv aus, sollen ab dem nächsten Jahr zehn weitere Alpen am Pilotversuch teilnehmen."
           ],
           "footnote": "*Alp = Schweizer Standard für „Alm“",
           "source": "aus einer Schweizer Zeitung",
@@ -125,9 +125,9 @@
               "no": "10",
               "stem": "In diesem Text geht es um …",
               "options": {
-                "a": "Kühe, die ohne sichtbare Zäune auf der Weide bleiben.",
-                "b": "einen Bauern, der für seine Alp neue, moderne Zäune kauft.",
-                "c": "Wanderer, die sich auf einer Alp vor Kühen fürchten."
+                "a": "Tiere, die dank eines Geräts am Hals nicht davonlaufen.",
+                "b": "einen Bauern, der auf seiner Alp jeden Sommer neue Zäune aufstellt.",
+                "c": "Wanderer, die mitten in einer Herde Kühe Angst bekommen."
               },
               "answer": "a"
             },
@@ -137,7 +137,7 @@
               "options": {
                 "a": "bezahlt der Kanton vollständig.",
                 "b": "geben den Kühen ohne Warnung sofort einen Stromstoss.",
-                "c": "warnen die Tiere zuerst mit einem Geräusch."
+                "c": "warnen die Tiere zuerst mit einem Signal."
               },
               "answer": "c"
             },
@@ -146,7 +146,7 @@
               "stem": "Die Daten der Halsbänder …",
               "options": {
                 "a": "bekommen die Wanderer auf ihr Handy.",
-                "b": "werden wissenschaftlich untersucht.",
+                "b": "werden an einer Hochschule untersucht.",
                 "c": "dürfen nur Tierschützer sehen."
               },
               "answer": "b"
@@ -166,37 +166,37 @@
       "items": [
         {
           "no": "13",
-          "text": "Frau Yildiz möchte mit ihren Kindern (4 und 6) ein Theaterstück sehen.",
+          "text": "Frau Yildiz sucht ein Bühnenstück, für das ihr vierjähriger Sohn und ihre sechsjährige Tochter nicht zu jung sind.",
           "answer": "g"
         },
         {
           "no": "14",
-          "text": "Jonas lernt Deutsch und möchte einen deutschen Film sehen, bei dem er den Text mitlesen kann.",
+          "text": "Jonas lernt Deutsch und sucht einen Film aus Deutschland, bei dem er die Dialoge gleichzeitig mitlesen kann.",
           "answer": "c"
         },
         {
           "no": "15",
-          "text": "Herr und Frau Brandt wollen an ihrem Hochzeitstag klassische Musik hören und vorher elegant essen.",
+          "text": "Herr und Frau Brandt möchten ihren Hochzeitstag mit einem feinen Abendessen feiern und danach klassische Musik hören.",
           "answer": "j"
         },
         {
           "no": "16",
-          "text": "Lisa möchte an diesem Freitagabend mit Freundinnen eine lustige Vorstellung besuchen.",
+          "text": "Lisa will an diesem Freitagabend mit Freundinnen eine Vorstellung besuchen, bei der man viel lachen kann.",
           "answer": "0"
         },
         {
           "no": "17",
-          "text": "Frau Sommer sieht sehr schlecht, möchte aber trotzdem eine Ausstellung erleben.",
+          "text": "Frau Sommer kann kaum noch etwas sehen, möchte aber trotzdem Kunstwerke in einem Museum kennenlernen.",
           "answer": "e"
         },
         {
           "no": "18",
-          "text": "Paul möchte einen bekannten Schriftsteller einmal persönlich erleben.",
+          "text": "Paul würde gern einmal eine bekannte Romanautorin oder einen bekannten Romanautor live erleben.",
           "answer": "a"
         },
         {
           "no": "19",
-          "text": "Familie Klein sucht für Sonntag ein kostenloses Musikangebot im Freien.",
+          "text": "Familie Klein möchte am Sonntag draußen Musik hören, ohne dafür etwas bezahlen zu müssen.",
           "answer": "h"
         }
       ],
@@ -210,10 +210,10 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "Die Autorin Anna Berger liest aus ihrem neuen Roman „Das Haus am Fluss“.",
-            "Anschließend beantwortet sie Fragen des Publikums und signiert auf Wunsch ihre Bücher."
+            "Die Autorin Anna Berger liest aus ihrem neuesten Roman „Das Haus am Fluss“.",
+            "Im Anschluss an die Lesung beantwortet die Autorin Publikumsfragen und signiert auf Wunsch ihre Bücher."
           ],
-          "footer": "Donnerstag, 19.30 Uhr · Eintritt 12 €"
+          "footer": "Donnerstag, 19.30 Uhr · Eintritt 12 € · Platzreservierung empfohlen"
         },
         {
           "letter": "b",
@@ -224,9 +224,9 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "Oldtimer-Ausstellung im Messezentrum: Über 200 restaurierte Automobile und Motorräder aus den Jahren 1920 bis 1980. Samstag und Sonntag, 10 bis 18 Uhr."
+            "Oldtimer-Ausstellung im Messezentrum mit über 200 sorgfältig restaurierten Automobilen und Motorrädern aus den Jahren 1920 bis 1980, geöffnet Samstag und Sonntag, 10 bis 18 Uhr."
           ],
-          "footer": "Eintritt 9 € · Kinder unter 12 frei"
+          "footer": "Eintritt 9 € · Kinder unter 12 Jahren eintrittsfrei"
         },
         {
           "letter": "c",
@@ -237,9 +237,9 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "Jeden Dienstag zeigen wir deutsche Filme mit deutschen Untertiteln – ideal für alle, die ihre Sprachkenntnisse verbessern wollen. Danach sprechen wir über den Film in einfacher Sprache."
+            "Jeden Dienstag zeigen wir deutsche Spielfilme mit deutschen Untertiteln – ideal für Deutschlernende, die ihre Sprachkenntnisse verbessern möchten. Im Anschluss an die Vorführung folgt ein Filmgespräch in einfacher Sprache."
           ],
-          "footer": "20 Uhr · Karten 6 €"
+          "footer": "Filmbeginn 20 Uhr · Eintritt 6 €"
         },
         {
           "letter": "d",
@@ -250,7 +250,7 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "„Alles im grünen Bereich“ – das neue Programm der Kabarettistin Lotte Kranz verspricht einen Abend voller Pointen. Jeweils samstags und sonntags um 20 Uhr."
+            "„Alles im grünen Bereich“ – das neue Soloprogramm der Kabarettistin Lotte Kranz verspricht einen Abend voller Pointen und Wortwitz. Vorstellungen jeweils samstags und sonntags um 20 Uhr."
           ],
           "footer": "TICKETS AB 18 € · ABENDKASSE AB 19 UHR"
         },
@@ -263,20 +263,20 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "Kunst zum Anfassen: Tastführungen für blinde und sehbehinderte Besucher durch unsere Skulpturensammlung, jeden ersten Sonntag im Monat um 11 Uhr."
+            "Kunst zum Anfassen – Tastführungen für blinde und sehbehinderte Museumsgäste durch unsere Skulpturensammlung, jeden ersten Sonntag im Monat um 11 Uhr."
           ],
           "footer": "Begleitpersonen frei · Tel. 0421 / 36 61 00"
         },
         {
           "letter": "f",
           "design": "rounded",
-          "header": "IMPROVISATIONSTHEATER",
+          "header": "IMPROVISATIONS\u00adTHEATER",
           "tag": "",
           "title": "SPONTAN",
           "subtitle": "",
           "facts": [],
           "body": [
-            "Das Publikum bestimmt, was auf der Bühne passiert. Jeden Freitag, 20 Uhr, ab 16 Jahren. Achtung: Die Vorstellung an diesem Freitag ist bereits ausverkauft."
+            "Spontane Komik ohne Drehbuch – das Publikum bestimmt, was auf der Bühne passiert. Vorstellungen jeden Freitag um 20 Uhr, Zutritt ab 16 Jahren. Bitte beachten Sie, dass die Vorstellung an diesem Freitag restlos ausverkauft ist."
           ],
           "footer": ""
         },
@@ -289,9 +289,9 @@
           "subtitle": "",
           "facts": [],
           "body": [
-            "In „Der kleine Drache Funkel“ erleben Kinder ab vier Jahren ein spannendes Abenteuer mit Puppen und viel Musik. Aufführungen samstags und sonntags um 15 Uhr."
+            "In „Der kleine Drache Funkel“ erleben Kinder ab vier Jahren ein spannendes Abenteuer mit Handpuppen und viel Musik. Vorstellungen samstags und sonntags um 15 Uhr."
           ],
-          "footer": "Dauer 45 Minuten · Eintritt 7 €"
+          "footer": "Spieldauer 45 Minuten · Eintritt 7 €"
         },
         {
           "letter": "h",
@@ -305,7 +305,7 @@
           "subtitle": "JUNI BIS AUGUST",
           "facts": [],
           "body": [
-            "Jeden Sonntag um 11 Uhr spielen Blasorchester und Jazzbands im Musikpavillon ein buntes Programm. Der Eintritt ist frei. Bei Regen findet das Konzert in der Wandelhalle statt."
+            "Jeden Sonntag um 11 Uhr spielen Blasorchester und Jazzbands im Musikpavillon ein abwechslungsreiches Programm. Der Eintritt ist frei. Bei schlechter Witterung findet die Veranstaltung in der Wandelhalle statt."
           ],
           "footer": ""
         },
@@ -318,7 +318,7 @@
           "subtitle": "FR + SA NACH SONNENUNTERGANG",
           "facts": [],
           "body": [
-            "Gezeigt werden Filme in Originalsprache mit englischen Untertiteln, empfohlen ab 12 Jahren. Eintritt 8 €, Getränke erhalten Sie an der Bar. Bitte bringen Sie Decken mit."
+            "Gezeigt werden internationale Filme in Originalsprache mit englischen Untertiteln, empfohlen ab 12 Jahren. Eintritt 8 €, Getränke erhalten Sie an der Strandbar. Bitte Decken oder Sitzkissen mitbringen."
           ],
           "footer": ""
         },
@@ -334,9 +334,9 @@
             "20 Uhr · Mozart und Haydn im Spiegelsaal"
           ],
           "body": [
-            "Erst genießen Sie ein festliches Menü im Schlossrestaurant, danach hören Sie Kammermusik."
+            "Zuerst genießen Sie ein festliches Menü im Schlossrestaurant, anschließend erwartet Sie Kammermusik in historischer Atmosphäre."
           ],
-          "footer": "Konzert und Menü: 79 € pro Person"
+          "footer": "Konzert und Menü: 79 € pro Person · Tischreservierung erbeten"
         }
       ]
     },
@@ -349,7 +349,7 @@
         "no": "0",
         "name": "Rolf",
         "byline": "Rolf, 57, Hannover",
-        "text": "Ich bin seit fast vierzig Jahren Polizist und habe zu viele schwere Unfälle mit Radfahrern erlebt. Betroffen waren oft keine ehrgeizigen Sportler, sondern ganz gewöhnliche Leute auf dem Weg zum Bäcker. Ein Helm kostet so viel wie ein Abendessen und kann ein Leben retten. Freiwillig tragen ihn leider zu wenige, deshalb halte ich eine gesetzliche Pflicht für unumgänglich.",
+        "text": "Ich bin seit fast vierzig Jahren Polizist und habe zu viele schwere Unfälle mit Radfahrern erlebt. Betroffen waren dabei meistens keine ehrgeizigen Sportler, sondern ganz gewöhnliche Alltagsradler auf dem Weg zum Bäcker. Ein Helm kostet so viel wie ein Abendessen und kann ein Leben retten. Freiwillig tragen ihn leider zu wenige Radfahrer, deshalb halte ich eine gesetzliche Helmpflicht für unumgänglich.",
         "answer": "J"
       },
       "items": [
@@ -357,49 +357,49 @@
           "no": "20",
           "name": "Petra",
           "byline": "Petra, 39, Münster",
-          "text": "Letzten Herbst bin ich auf nassem Laub ausgerutscht und mit dem Kopf auf die Bordsteinkante gestürzt. Die Ärzte stellten eine Gehirnerschütterung fest und sagten, ohne Helm hätte ich den Sturz vermutlich nicht überlebt. Seitdem fahre ich keinen Meter mehr ohne, und auch meine Kinder steigen nur noch mit Helm aufs Rad. Müssten alle einen tragen, ließen sich viele schwere Verletzungen abwenden.",
+          "text": "Letzten Herbst bin ich auf nassem Laub ausgerutscht und mit dem Kopf auf die Bordsteinkante gestürzt. Die Ärzte stellten eine Gehirnerschütterung fest. Ohne Helm hätte ich den Unfall vermutlich nicht überlebt, sagten sie. Seit dieser Erfahrung fahre ich keinen Meter mehr ohne Helm, und auch meine Kinder fahren nur noch mit Helm Rad. Müssten alle einen Helm tragen, ließen sich viele schwere Verletzungen abwenden.",
           "answer": "J"
         },
         {
           "no": "21",
           "name": "Max",
           "byline": "Max, 22, Leipzig",
-          "text": "Früher fand ich Helme lächerlich und habe über jeden gespottet, der einen trug. Dann verunglückte mein bester Freund und lag zwei Wochen im Krankenhaus. Heute sehe ich das völlig anders und trage selbst täglich einen Helm. Eine Pflicht wäre vernünftig, denn freiwillig überdenken die meisten ihre Einstellung erst, wenn es zu spät ist.",
+          "text": "Früher fand ich Helme lächerlich und habe über jeden gespottet, der einen Helm trug. Dann hatte mein bester Freund einen Unfall und lag mit einer schweren Kopfverletzung zwei Wochen im Krankenhaus. Heute sehe ich das völlig anders und trage selbst täglich einen Helm. Eine Helmpflicht wäre vernünftig, denn freiwillig überdenken die meisten ihre Einstellung erst, wenn es zu spät ist.",
           "answer": "J"
         },
         {
           "no": "22",
           "name": "Annette",
           "byline": "Annette, 45, Freiburg",
-          "text": "Selbstverständlich ist ein Helm sinnvoll, und meine Kinder tragen stets einen. Dennoch lehne ich einen Helmzwang entschieden ab, denn in Städten wie Kopenhagen radeln so viele Menschen, gerade weil es denkbar unkompliziert ist: aufsteigen und losfahren. Müsste man ständig einen Helm mitschleppen, würden viele lieber das Auto nehmen – und das wäre für alle schlechter. Entscheidend ist, dass überhaupt mehr Menschen Rad fahren.",
+          "text": "Selbstverständlich ist ein Helm sinnvoll, und meine Kinder tragen stets einen Helm. Dennoch lehne ich eine Helmpflicht entschieden ab. In Städten wie Kopenhagen fahren so viele Menschen Rad, gerade weil es dort unkompliziert ist: aufsteigen und losfahren. Müsste man ständig einen Helm mitschleppen, würden viele lieber das Auto nehmen – und das wäre für alle schlechter. Entscheidend ist, dass überhaupt mehr Menschen Rad fahren.",
           "answer": "N"
         },
         {
           "no": "23",
           "name": "Hakan",
           "byline": "Hakan, 34, Köln",
-          "text": "Viel wichtiger als eine Helmpflicht wären sichere Radwege. Die meisten schweren Unfälle ereignen sich, weil sich Autos und Fahrräder dieselbe Fahrbahn teilen müssen. Ich fahre täglich durch die Innenstadt und habe oft Angst vor abbiegenden Lastwagen. Würden die Städte endlich breite, getrennte Wege anlegen, müsste niemand über Helme debattieren. Dafür sollte man das Geld einsetzen, anstatt die Radfahrer zu bevormunden.",
+          "text": "Für die Sicherheit wären bessere Radwege viel wichtiger als eine Helmpflicht. Die meisten schweren Unfälle passieren, weil sich Autos und Radfahrer dieselbe Fahrbahn teilen müssen. Ich fahre täglich durch die Innenstadt und habe oft Angst vor abbiegenden Lastwagen. Würden die Städte endlich breite, getrennte Radwege anlegen, müsste niemand über eine Helmpflicht diskutieren. In die Verbesserung der Radwege sollte man das Geld investieren, anstatt die Radfahrer zu bevormunden.",
           "answer": "N"
         },
         {
           "no": "24",
           "name": "Ingrid",
           "byline": "Ingrid, 68, Innsbruck",
-          "text": "Mein Mann und meine Freundinnen finden, man dürfe Erwachsene nicht zu einem Helm zwingen. Ich sehe das anders. Beim Skifahren trägt man ganz selbstverständlich einen Helm, und niemand beklagt sich darüber. Warum sollte das beim Fahrrad anders sein – gerade für ältere Menschen wie uns, deren Reaktionsvermögen allmählich nachlässt? Ich hoffe, dass das Gesetz bald kommt.",
+          "text": "Mein Mann und meine Freundinnen finden, man dürfe Erwachsene nicht zu einem Helm zwingen. Ich sehe das anders. Beim Skifahren trägt man ganz selbstverständlich einen Helm, und niemand beklagt sich darüber. Warum sollte das beim Radfahren anders sein – gerade für ältere Menschen wie uns, deren Reaktionsfähigkeit allmählich nachlässt? Ich hoffe auf eine baldige Einführung der Helmpflicht.",
           "answer": "J"
         },
         {
           "no": "25",
           "name": "Sven",
           "byline": "Sven, 41, Bern",
-          "text": "Ich wäre sofort dafür, wenn es eine Pflicht nur für Kinder und für schnelle E-Bikes gäbe, denn dort ist das Risiko am höchsten. Der Vorschlag im Artikel betrifft jedoch alle, auch jemanden, der ganz gemächlich zum Markt radelt. Für viele Ältere wäre das eher ein Anlass, das Rad stehen zu lassen. So geht mir das eindeutig zu weit.",
+          "text": "Ich wäre sofort dafür, wenn es eine Helmpflicht nur für Kinder und für schnelle E-Bikes gäbe. Dort ist das Risiko nämlich am höchsten. Der Vorschlag im Artikel betrifft jedoch alle Radfahrer, auch jemanden, der ganz gemächlich zum Wochenmarkt fährt. Für viele Ältere wäre eine allgemeine Helmpflicht eher ein Anlass, das Rad stehen zu lassen. So geht mir das eindeutig zu weit.",
           "answer": "N"
         },
         {
           "no": "26",
           "name": "Lena",
           "byline": "Lena, 27, Hamburg",
-          "text": "Ich fahre täglich mit dem Rad zur Arbeit, und mein Helm hängt trotzdem oft zu Hause, weil er nicht in die Fahrradtasche passt. Das klingt banal, doch so ergeht es unzähligen Radfahrern. Im Hochsommer kommt dazu, dass er lästig ist und man darunter schwitzt. Jeder Erwachsene sollte selbst über sein Risiko entscheiden dürfen. Beim Wandern in den Bergen schreibt uns ja auch niemand vor, was wir tragen sollen.",
+          "text": "Ich fahre täglich mit dem Rad zur Arbeit, und mein Helm hängt trotzdem oft zu Hause, weil er nicht in die Fahrradtasche passt. Das klingt nach Bequemlichkeit, doch so geht es unzähligen Radfahrern. Im Hochsommer kommt dazu, dass der Helm lästig ist und man darunter schwitzt. Die Entscheidung über das eigene Risiko sollte jeder Erwachsene selbst treffen dürfen. Beim Wandern in den Bergen schreibt uns ja auch niemand vor, was wir tragen sollen.",
           "answer": "N"
         }
       ]
@@ -413,27 +413,27 @@
         "sections": [
           {
             "heading": "Teilnahme",
-            "text": "Teilnahmeberechtigt sind alle Personen, die in Neustadt ihren Wohnsitz oder Arbeitsplatz haben und mindestens 16 Jahre alt sind; Beschäftigte der Stadtzeitung sowie deren Angehörige sind ausgeschlossen. Die Teilnahme ist unentgeltlich und erfordert keine vorherige Anmeldung."
+            "text": "Teilnahmeberechtigt sind alle Personen mit Wohnsitz oder Arbeitsplatz in Neustadt, die mindestens 16 Jahre alt sind; Beschäftigte der Stadtzeitung sowie deren Angehörige sind von der Teilnahme ausgeschlossen. Die Teilnahme ist unentgeltlich und erfordert keine vorherige Anmeldung."
           },
           {
             "heading": "Fotos",
-            "text": "Jede Person darf höchstens drei Fotos einreichen, die im laufenden Jahr im Stadtgebiet aufgenommen wurden. Geringfügige Bearbeitungen wie Helligkeit oder Farbkorrekturen sind zulässig; Fotomontagen, bei denen Bildteile hinzugefügt oder entfernt werden, sind hingegen ausgeschlossen. Schwarz-Weiß-Aufnahmen sind ausdrücklich erwünscht."
+            "text": "Jede Person darf höchstens drei Fotos einreichen, die im laufenden Jahr im Stadtgebiet aufgenommen wurden. Geringfügige Bearbeitungen wie Helligkeits- oder Farbkorrekturen sind zulässig; Fotomontagen, bei denen Bildteile hinzugefügt oder entfernt werden, sind hingegen von der Bewertung ausgeschlossen. Schwarz-Weiß-Aufnahmen sind ausdrücklich erwünscht."
           },
           {
             "heading": "Personen auf Fotos",
-            "text": "Sind auf einem Foto Personen deutlich erkennbar, ist das schriftliche Einverständnis der Abgebildeten erforderlich; bei Kindern und Jugendlichen unter 18 Jahren müssen die Erziehungsberechtigten unterschreiben."
+            "text": "Sind auf einem Foto Personen deutlich erkennbar, ist das schriftliche Einverständnis der Abgebildeten erforderlich; bei Kindern und Jugendlichen unter 18 Jahren ist die Unterschrift der Erziehungsberechtigten erforderlich."
           },
           {
             "heading": "Einsendung",
-            "text": "Die Fotos sind bis zum 31. August per E-Mail an fotowettbewerb@stadtzeitung.de zu senden. Bitte geben Sie Ihren Namen, Ihre Anschrift und einen Titel für jedes Bild an, wobei die Dateigröße pro Foto 10 MB nicht überschreiten darf. Ausdrucke per Post können leider nicht berücksichtigt werden."
+            "text": "Die Einsendung der Fotos erfolgt bis zum 31. August per E-Mail an fotowettbewerb@stadtzeitung.de. Anzugeben sind Vorname, Nachname, Anschrift sowie ein Bildtitel für jedes einzelne Foto, wobei die Dateigröße pro Foto 10 MB nicht überschreiten darf. Papierabzüge per Post finden leider keine Berücksichtigung."
           },
           {
             "heading": "Preise",
-            "text": "Im September wählt eine Fachjury die zehn besten Einsendungen aus. Der Hauptgewinn ist ein Wochenende für zwei Personen am Bodensee, der zweite Preis eine Kamera und der dritte ein Gutschein für ein Fotobuch. Die Preisträgerinnen und Preisträger werden bis zum 30. September per E-Mail benachrichtigt. Sämtliche zehn Bilder werden im Oktober im Rathaus ausgestellt, über die Platzierung entscheidet ausschließlich die Jury."
+            "text": "Im September wählt eine Fachjury die zehn besten Einsendungen aus. Der Hauptgewinn ist ein Wochenende für zwei Personen am Bodensee, der zweite Preis eine Digitalkamera und der dritte ein Gutschein für ein Fotobuch. Die Benachrichtigung der Preisträgerinnen und Preisträger erfolgt bis zum 30. September per E-Mail. Sämtliche zehn Bilder sind im Oktober in einer Ausstellung im Rathaus zu sehen; über die Platzierung entscheidet ausschließlich die Jury."
           },
           {
             "heading": "Rechte",
-            "text": "Mit der Teilnahme räumen Sie der Stadtzeitung das Recht ein, Ihre Fotos zu veröffentlichen, auch im Internet, wobei stets Ihr Name genannt wird, auf Wunsch auch Ihr Wohnort. Das Urheberrecht an den Bildern verbleibt bei Ihnen."
+            "text": "Mit der Teilnahme räumen Sie der Stadtzeitung das Recht zur Veröffentlichung Ihrer Fotos ein, auch im Internet, wobei stets eine Nennung Ihres Namens erfolgt, auf Wunsch auch Ihres Wohnorts. Das Urheberrecht an den Bildern verbleibt bei Ihnen."
           }
         ],
         "footer": ""
@@ -444,7 +444,7 @@
           "no": "27",
           "stem": "Wer 15 Jahre alt ist, …",
           "options": {
-            "a": "kann am Wettbewerb nicht teilnehmen.",
+            "a": "ist für eine Teilnahme noch zu jung.",
             "b": "braucht für die Teilnahme die Unterschrift der Eltern.",
             "c": "darf nur ein Foto einreichen."
           },
@@ -454,9 +454,9 @@
           "no": "28",
           "stem": "Bei der Bearbeitung der Fotos …",
           "options": {
-            "a": "ist jede Veränderung streng verboten.",
+            "a": "sind Fotomontagen ausdrücklich erwünscht.",
             "b": "darf man störende Gegenstände aus dem Bild entfernen.",
-            "c": "sind kleine Korrekturen erlaubt."
+            "c": "darf man Helligkeit und Farben leicht verändern."
           },
           "answer": "c"
         },
@@ -465,7 +465,7 @@
           "stem": "Wenn auf einem Foto ein fremdes Kind gut zu erkennen ist, …",
           "options": {
             "a": "darf man das Foto nicht einreichen.",
-            "b": "muss man die Eltern um Erlaubnis bitten.",
+            "b": "braucht man eine Unterschrift der Eltern.",
             "c": "genügt eine mündliche Zustimmung des Kindes selbst."
           },
           "answer": "b"
@@ -474,7 +474,7 @@
           "no": "30",
           "stem": "Die zehn besten Fotos …",
           "options": {
-            "a": "kann man im Herbst im Rathaus sehen.",
+            "a": "werden im Herbst im Rathaus gezeigt.",
             "b": "gehören nach dem Ende des Wettbewerbs der Stadtzeitung.",
             "c": "werden ohne Namen veröffentlicht."
           },
@@ -513,7 +513,7 @@
             {
               "no": "1",
               "type": "rf",
-              "text": "Pflanzen sind heute günstiger als sonst.",
+              "text": "Wer heute Pflanzen kauft, zahlt weniger als an anderen Tagen.",
               "answer": "R"
             },
             {
@@ -521,8 +521,8 @@
               "stem": "Den gefundenen Schlüssel …",
               "options": {
                 "a": "bekommt man an der Kasse, an der er gefunden wurde.",
-                "b": "bringt man zum Holzzuschnitt.",
-                "c": "kann man am Eingang abholen."
+                "b": "kann man bis heute Abend beim Holzzuschnitt abholen.",
+                "c": "holt der Besitzer vorne beim Kundenservice ab."
               },
               "answer": "c",
               "type": "abc"
@@ -557,7 +557,7 @@
             {
               "no": "5",
               "type": "rf",
-              "text": "Man kann auch ohne die Benachrichtigung wählen.",
+              "text": "Für die Stimmabgabe ist die Wahlbenachrichtigung nicht unbedingt nötig.",
               "answer": "R"
             },
             {
@@ -565,8 +565,8 @@
               "stem": "Briefwahl …",
               "options": {
                 "a": "kann man noch am Wahltag selbst im Rathaus beantragen.",
-                "b": "muss man spätestens am Freitag beantragen.",
-                "c": "ist nur für Jugendliche möglich."
+                "b": "kann man bis spätestens Freitag beantragen.",
+                "c": "dürfen nur Jugendliche ab 16 Jahren beantragen."
               },
               "answer": "b",
               "type": "abc"
@@ -586,7 +586,7 @@
               "no": "8",
               "stem": "Heute …",
               "options": {
-                "a": "können Besucher günstig in der Mensa essen.",
+                "a": "gibt es in der Mensa günstiges Essen.",
                 "b": "fällt die Führung durch die Bibliothek aus.",
                 "c": "kann man direkt vor dem Hauptgebäude parken."
               },
@@ -606,11 +606,11 @@
             },
             {
               "no": "10",
-              "stem": "Wenn Frau Novak am Montag nicht zu Hause ist, soll sie …",
+              "stem": "Wenn Frau Novak am Montagvormittag nicht zu Hause ist, soll sie …",
               "options": {
-                "a": "selbst einen neuen Termin mit dem Schornsteinfeger vereinbaren.",
-                "b": "die Hausverwaltung anrufen.",
-                "c": "einer Nachbarin den Schlüssel geben."
+                "a": "dem Schornsteinfeger einen anderen Vormittag vorschlagen.",
+                "b": "bei der Hausverwaltung einen Schlüssel abgeben.",
+                "c": "ihrer Nachbarin einen Schlüssel überlassen."
               },
               "answer": "c",
               "type": "abc"
@@ -628,9 +628,9 @@
           "no": "11",
           "stem": "Wer nicht die ganze Strecke gehen kann, …",
           "options": {
-            "a": "wartet am Parkplatz auf die anderen.",
-            "b": "fährt von Anfang an mit dem Bus mit.",
-            "c": "kann unterwegs in den Bus steigen."
+            "a": "wartet am Besucherparkplatz, bis die Gruppe zurück ist.",
+            "b": "fährt von Anfang an mit dem Kleinbus zur Waldhütte.",
+            "c": "kann ab der Mitte der Tour fahren statt laufen."
           },
           "answer": "c"
         },
@@ -669,7 +669,7 @@
           "stem": "Ferngläser …",
           "options": {
             "a": "muss jeder selbst mitbringen.",
-            "b": "kann man sich bei der Rangerin leihen.",
+            "b": "bekommt man von Frau Hollweg geliehen.",
             "c": "kann man an der Waldhütte für wenig Geld kaufen."
           },
           "answer": "b"
@@ -683,37 +683,37 @@
       "items": [
         {
           "no": "16",
-          "text": "Für die Unterkunft in Dänemark hat Nadines Familie nichts bezahlt.",
+          "text": "Für ihre Unterkunft musste Nadines Familie in Dänemark nichts ausgeben.",
           "answer": "R"
         },
         {
           "no": "17",
-          "text": "Nadines Mann war von der Idee zuerst nicht begeistert.",
+          "text": "Nadines Mann stand dem Haustausch anfangs skeptisch gegenüber.",
           "answer": "R"
         },
         {
           "no": "18",
-          "text": "Nadine und die dänische Familie haben sich vor dem Urlaub persönlich getroffen.",
+          "text": "Bei der Schlüsselübergabe haben sich die beiden Familien persönlich kennengelernt.",
           "answer": "F"
         },
         {
           "no": "19",
-          "text": "Die Reparatur der Spülmaschine musste Nadines Familie bezahlen.",
+          "text": "Die Kosten für die Reparatur der Spülmaschine hat Nadines Familie übernommen.",
           "answer": "F"
         },
         {
           "no": "20",
-          "text": "Elena hat sich gründlich auf den Test vorbereitet.",
+          "text": "Elena hat sich über einen langen Zeitraum regelmäßig auf den Test vorbereitet.",
           "answer": "R"
         },
         {
           "no": "21",
-          "text": "Elenas Mann hat den Test zu Hause ohne Fehler geschafft.",
+          "text": "Elenas Mann hat zu Hause alle Testfragen fehlerfrei beantwortet.",
           "answer": "F"
         },
         {
           "no": "22",
-          "text": "Elena musste ihren spanischen Pass abgeben.",
+          "text": "Elena darf ihren spanischen Pass nicht behalten.",
           "answer": "F"
         }
       ]
@@ -740,7 +740,7 @@
         },
         {
           "no": "24",
-          "text": "Zigarettenreste sind der Müll, der am häufigsten gefunden wird.",
+          "text": "Bei Sammelaktionen findet man keinen Abfall öfter als Zigarettenkippen.",
           "answer": "a"
         },
         {
@@ -755,7 +755,7 @@
         },
         {
           "no": "27",
-          "text": "Kinder übernehmen das Verhalten von Erwachsenen.",
+          "text": "Kinder orientieren sich an dem, was Erwachsene ihnen vormachen.",
           "answer": "b"
         },
         {
@@ -838,7 +838,7 @@
       }
     ]
   },
-  "notes": "Alle 60 Lösungen (Lesen 1–30, Hören 1–30) aus dem Lösungsschlüssel (S. 17) übernommen und mit dem Kommentar (S. 20–21) abgeglichen. Beispiele laut markierten Kästchen auf den Aufgabenseiten: Lesen 1 R, Lesen 2 b (Text 1), Lesen 3 b (Anzeige im Blank), Lesen 4 Rolf Ja, Hören 1 01 R und 02 a, Hören 4 a. Lesen 5 hat kein Beispiel, Lesen 2 Text 2 ebenfalls nicht. Zweispaltige Texte (Lesen 2) nach Seitenbild in Spaltenreihenfolge zusammengesetzt (linke Spalte zuerst); Lesen 4: linke Spalte Beispiel, 20–22, rechte Spalte 23–26. Anzeigen: Dekor (Logos, Filmstreifen, Blindenschrift-Symbol, Kennzeichen-Schild „D“, Kreise, Rahmen) weggelassen. Layouts (design) pro Anzeige frei gewählt, alle verschieden. a: Spalte links (Anna Berger liest …) vor rechter Spalte (Danach beantwortet …); b: Kennzeichen-Schild „OLD · 1920“ als tag, die Anzeige hat sonst keine Überschrift; h: Pavillon-Symbol als deco.icon columns; j: der von Gedankenstrichen gerahmte Zusatz „— JEDEN SAMSTAG —“ als tag ohne Striche, Zeitzeilen als facts. Lesen 3: Situation 16 hat keine passende Anzeige (0): d nur Sa/So, f ist an diesem Freitag ausverkauft; b ist das Beispiel; d, f und i bleiben unbenutzt. „Stromstoss“ in Lesen 2 (Schweizer Schreibung) wie im Original. Hören: Beispielantworten aus den markierten Kästchen (Seite 9, 12), mit dem Hörtext (S. 22) abgeglichen. Hören 4: Der Moderator (nicht Moderatorin), Sprecher a Moderator, b Katrin Wolf, c Thomas Brenner. Schreiben: Musterlösungen von S. 18; Typische Fehler ohne führende Ziffer. Sprechen (S. 14–16) ist im JSON nicht vorgesehen.",
+  "notes": "Alle 60 Lösungen (Lesen 1–30, Hören 1–30) aus dem Lösungsschlüssel (S. 17) übernommen und mit dem Kommentar (S. 20–21) abgeglichen. Beispiele laut markierten Kästchen auf den Aufgabenseiten: Lesen 1 R, Lesen 2 b (Text 1), Lesen 3 b (Anzeige im Blank), Lesen 4 Rolf Ja, Hören 1 01 R und 02 a, Hören 4 a. Lesen 5 hat kein Beispiel, Lesen 2 Text 2 ebenfalls nicht. Zweispaltige Texte (Lesen 2) nach Seitenbild in Spaltenreihenfolge zusammengesetzt (linke Spalte zuerst); Lesen 4: linke Spalte Beispiel, 20–22, rechte Spalte 23–26. Anzeigen: Dekor (Logos, Filmstreifen, Blindenschrift-Symbol, Kennzeichen-Schild „D“, Kreise, Rahmen) weggelassen. Layouts (design) pro Anzeige frei gewählt, alle verschieden. a: Spalte links (Anna Berger liest …) vor rechter Spalte (Danach beantwortet …); b: Kennzeichen-Schild „OLD · 1920“ als tag, die Anzeige hat sonst keine Überschrift; h: Pavillon-Symbol als deco.icon columns; j: der von Gedankenstrichen gerahmte Zusatz „— JEDEN SAMSTAG —“ als tag ohne Striche, Zeitzeilen als facts. Lesen 3: Situation 16 hat keine passende Anzeige (0): d nur Sa/So, f ist an diesem Freitag ausverkauft; b ist das Beispiel; d, f und i bleiben unbenutzt. „Stromstoss“ in Lesen 2 (Schweizer Schreibung) wie im Original. Hören: Beispielantworten aus den markierten Kästchen (Seite 9, 12), mit dem Hörtext (S. 22) abgeglichen. Hören 4: Der Moderator (nicht Moderatorin), Sprecher a Moderator, b Katrin Wolf, c Thomas Brenner. Schreiben: Musterlösungen von S. 18; Typische Fehler ohne führende Ziffer. Sprechen (S. 14–16) ist im JSON nicht vorgesehen. Überarbeitung 11/2026 (oberes B1-Niveau): Lesetexte 1–5 mit präziserem Wortschatz, Nominalstil (v. a. Teil 2, 3, 5) und längeren Sätzen neu gefasst; Inhalte, Personen, Zahlen und Struktur unverändert. Lesen 1, 2 (7, 9, 10), 3 (13–19), 5 (30) sowie Hören 1, 2, 5, 6, 8, 10, 11, 15, 16–22, 24, 27 umformuliert; alle Lösungen und Beispiele unverändert, Hörtexte Wort für Wort unverändert.",
   "hoertexte": {
     "t1": {
       "instruction": "Sie hören nun fünf kurze Texte. Sie hören jeden Text zweimal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie zuerst das Beispiel. Dazu haben Sie 10 Sekunden Zeit.",
@@ -1049,11 +1049,11 @@
     "lesen": {
       "1": {
         "type": "S",
-        "note": "„Sie hat den Termin vereinbart und mich gleich hingefahren“ – nicht Helmut selbst."
+        "note": "„Sie hat den Termin vereinbart“ – den Besuch beim Facharzt hat also nicht Helmut allein geplant."
       },
       "2": {
         "type": "P",
-        "note": "Der Nachbar hat „dieselbe Operation überstanden“, und zwar „vor drei Jahren“."
+        "note": "Der Nachbar hat „vor drei Jahren dieselbe Operation überstanden“ = kennt den Eingriff aus eigener Erfahrung."
       },
       "3": {
         "type": "A",
@@ -1065,59 +1065,59 @@
       },
       "5": {
         "type": "Z",
-        "note": "„Autofahren darf ich erst nach der nächsten Nachuntersuchung“ – seine Frau bringt ihn hin."
+        "note": "„Autofahren darf ich allerdings erst nach der nächsten Nachuntersuchung“ – seine Frau bringt ihn hin."
       },
       "6": {
         "type": "P",
-        "note": "„Die große Alpentour im Sommer lasse ich dieses Jahr aus“ = auf eine längere Tour verzichten."
+        "note": "„Die große Alpentour im Sommer lasse ich dieses Jahr aus“ = auf eine anspruchsvolle Bergtour verzichten."
       },
       "7": {
         "type": "W",
-        "note": "Globalfrage; „Förster“ (a) und „Wald“ (c) sind Wortfallen."
+        "note": "Globalfrage; „Förster“ (a) sowie „Wald“ und „Stadtrand“ (c) sind Wortfallen; b fasst den Inhalt zusammen („jedes neue Baby“ = „jedes neugeborene Kind“)."
       },
       "8": {
         "type": "P",
-        "note": "„legen die Förster fest“ = Fachleute; Apfelbäume wünschten sich die Eltern nur (a); die Spende ist freiwillig (b)."
+        "note": "„Die Auswahl der Baumart treffen die Förster“ = Fachleute entscheiden; Apfelbäume wünschten sich die Eltern nur (a); die Spende ist freiwillig (b)."
       },
       "9": {
         "type": "P",
-        "note": "„wird er im nächsten Herbst kostenlos ersetzt“; die Eltern müssen nichts kaufen (b, N)."
+        "note": "„wird er im folgenden Herbst auf Kosten der Stadt ersetzt“ = die Stadt bezahlt im nächsten Herbst einen neuen; „auf eigene Kosten“ (b) ist eine Wortfalle."
       },
       "10": {
         "type": "W",
-        "note": "Globalfrage; „Zäune“ (b) und „Wanderer“ (c) sind Wortfallen."
+        "note": "Globalfrage; „Zäune“ (b) und „mitten in der Herde“ (c) sind Wortfallen; a umschreibt das Halsband („dank eines Geräts am Hals“)."
       },
       "11": {
         "type": "Z",
-        "note": "„ertönt zunächst ein Signal“ = Warnung; der Stromstoss folgt erst danach (b); der Kanton zahlt nur „die Hälfte“ (a, N)."
+        "note": "„ertönt zunächst ein Signal“ = zuerst eine Warnung; der Stromstoss folgt erst danach (b); der Kanton zahlt nur „die Hälfte der Kosten“ (a, N)."
       },
       "12": {
         "type": "P",
-        "note": "„Eine Hochschule wertet die Daten … aus“ = wissenschaftlich untersucht."
+        "note": "„die Auswertung der Daten übernimmt deshalb eine Hochschule“ = an einer Hochschule untersucht; die Tierschützer verlangen die Informationen nur (c)."
       },
       "13": {
         "type": "Z",
-        "note": "„Kindern (4 und 6)“ = „Kinder ab vier Jahren“; i empfiehlt Filme erst ab 12, f gilt ab 16."
+        "note": "„vierjähriger Sohn“ und „sechsjährige Tochter“ = „Kinder ab vier Jahren“; i empfiehlt Filme erst ab 12, f gilt ab 16."
       },
       "14": {
         "type": "P",
-        "note": "„den Text mitlesen“ = deutsche Untertitel; i zeigt Filme mit englischen Untertiteln."
+        "note": "„die Dialoge gleichzeitig mitlesen“ = „deutschen Untertiteln“; i zeigt Filme mit englischen Untertiteln."
       },
       "15": {
         "type": "P",
-        "note": "„vorher elegant essen“ = „festliches Menü“ vor dem Konzert; h bietet weder Essen noch Klassik."
+        "note": "„mit einem feinen Abendessen feiern und danach klassische Musik hören“ = „festliches Menü“ vor dem Konzert; h bietet weder Essen noch Klassik."
       },
       "16": {
         "type": "Z",
-        "note": "d spielt nur „samstags und sonntags“; f ist „an diesem Freitag“ ausverkauft."
+        "note": "d spielt nur „samstags und sonntags“; f ist „an diesem Freitag restlos ausverkauft“."
       },
       "17": {
         "type": "P",
-        "note": "„sieht sehr schlecht“ = „sehbehinderte Besucher“; Tastführung."
+        "note": "„kann kaum noch etwas sehen“ = „sehbehinderte Museumsgäste“; Tastführung."
       },
       "18": {
         "type": "P",
-        "note": "„persönlich erleben“ = Lesung mit Fragen des Publikums an die Autorin."
+        "note": "„live erleben“ = Lesung mit Publikumsfragen an die Autorin."
       },
       "19": {
         "type": "B",
@@ -1125,7 +1125,7 @@
       },
       "20": {
         "type": "P",
-        "note": "„Müssten alle einen tragen, ließen sich viele schwere Verletzungen abwenden.“"
+        "note": "„Müssten alle einen Helm tragen, ließen sich viele schwere Verletzungen abwenden.“"
       },
       "21": {
         "type": "K",
@@ -1133,11 +1133,11 @@
       },
       "22": {
         "type": "K",
-        "note": "„Selbstverständlich ist ein Helm sinnvoll … Dennoch lehne ich einen Helmzwang entschieden ab.“"
+        "note": "„Selbstverständlich ist ein Helm sinnvoll … Dennoch lehne ich eine Helmpflicht entschieden ab.“"
       },
       "23": {
         "type": "B",
-        "note": "Alternativvorschlag: breite, getrennte Wege statt einer Helmpflicht – „Dafür sollte man das Geld einsetzen“."
+        "note": "Alternativvorschlag: getrennte Radwege statt einer Helmpflicht – „In die Verbesserung der Radwege sollte man das Geld investieren“."
       },
       "24": {
         "type": "S",
@@ -1145,27 +1145,27 @@
       },
       "25": {
         "type": "B",
-        "note": "„Ich wäre sofort dafür, wenn es eine Pflicht nur für Kinder und für schnelle E-Bikes gäbe“ – nicht für alle."
+        "note": "„Ich wäre sofort dafür, wenn es eine Helmpflicht nur für Kinder und für schnelle E-Bikes gäbe“ – nicht für alle."
       },
       "26": {
         "type": "P",
-        "note": "„Jeder Erwachsene sollte selbst über sein Risiko entscheiden dürfen.“"
+        "note": "„Die Entscheidung über das eigene Risiko sollte jeder Erwachsene selbst treffen dürfen.“"
       },
       "27": {
         "type": "Z",
-        "note": "„mindestens 16 Jahre alt“; die Unterschrift der Eltern gilt für Personen auf den Fotos (b, W)."
+        "note": "„mindestens 16 Jahre alt“ – mit 15 ist man noch zu jung; die „Unterschrift der Erziehungsberechtigten“ gilt für Personen auf den Fotos (b, W)."
       },
       "28": {
         "type": "P",
-        "note": "„Geringfügige Bearbeitungen wie Helligkeit oder Farbkorrekturen sind zulässig“; entfernte Bildteile sind ausgeschlossen (b, N)."
+        "note": "„Geringfügige Bearbeitungen wie Helligkeits- oder Farbkorrekturen sind zulässig“; entfernte Bildteile sind ausgeschlossen (b, N); „ausdrücklich erwünscht“ sind nur Schwarz-Weiß-Aufnahmen (a, W)."
       },
       "29": {
         "type": "B",
-        "note": "„das schriftliche Einverständnis der Abgebildeten“; bei unter 18 „müssen die Erziehungsberechtigten unterschreiben“, mündlich reicht nicht (c)."
+        "note": "„das schriftliche Einverständnis der Abgebildeten“; bei unter 18 ist „die Unterschrift der Erziehungsberechtigten erforderlich“ (= Unterschrift der Eltern), mündlich reicht nicht (c)."
       },
       "30": {
         "type": "Z",
-        "note": "„Sämtliche zehn Bilder werden im Oktober im Rathaus ausgestellt“; das Urheberrecht bleibt beim Fotografen (b), der Name wird „stets“ genannt (c)."
+        "note": "„Sämtliche zehn Bilder sind im Oktober in einer Ausstellung im Rathaus zu sehen“ = im Herbst im Rathaus gezeigt; das Urheberrecht bleibt beim Fotografen (b), der Name wird „stets“ genannt (c)."
       }
     },
     "hoeren": {
@@ -1175,7 +1175,7 @@
       },
       "2": {
         "type": "P",
-        "note": "„am Servicepunkt am Eingang abholen“; an Kasse 3 wurde er nur gefunden (a, W)."
+        "note": "„am Servicepunkt am Eingang abholen“ = vorne beim Kundenservice; an Kasse 3 wurde er nur gefunden (a, W)."
       },
       "3": {
         "type": "A",
@@ -1187,11 +1187,11 @@
       },
       "5": {
         "type": "P",
-        "note": "„Wer diese verloren hat, kann trotzdem wählen“."
+        "note": "„Wer diese verloren hat, kann trotzdem wählen“ = die Benachrichtigung ist nicht unbedingt nötig."
       },
       "6": {
         "type": "Z",
-        "note": "„noch bis Freitag, 18 Uhr“; am Sonntag ist es zu spät (a)."
+        "note": "„noch bis Freitag, 18 Uhr“ = bis spätestens Freitag vor der Wahl am Sonntag; am Wahltag ist es zu spät (a); „ab 16 Jahren“ gehört zu einer anderen Information (c, W)."
       },
       "7": {
         "type": "P",
@@ -1199,7 +1199,7 @@
       },
       "8": {
         "type": "P",
-        "note": "„Mittagessen zum Studentenpreis“; die Führung findet statt (b); die Parkplätze vorne sind voll (c)."
+        "note": "„Mittagessen zum Studentenpreis“ = günstiges Essen in der Mensa; die Führung findet statt (b); die Parkplätze vorne sind voll (c)."
       },
       "9": {
         "type": "Z",
@@ -1207,11 +1207,11 @@
       },
       "10": {
         "type": "P",
-        "note": "„geben Sie bitte Ihrer Nachbarin … einen Schlüssel“; ein neuer Termin ist nicht nötig (a)."
+        "note": "„geben Sie bitte Ihrer Nachbarin … einen Schlüssel“ = der Nachbarin einen Schlüssel überlassen; nicht bei der Hausverwaltung (b, W); ein anderer Termin ist nicht nötig (a)."
       },
       "11": {
         "type": "P",
-        "note": "„nach der Hälfte an der Waldhütte mit dem Kleinbus zurückfahren“ = unterwegs in den Bus steigen (b, c)."
+        "note": "„nach der Hälfte an der Waldhütte mit dem Kleinbus zurückfahren“ = ab der Mitte fahren; nicht „von Anfang an“ (b), kein Warten am Parkplatz (a)."
       },
       "12": {
         "type": "B",
@@ -1227,7 +1227,7 @@
       },
       "15": {
         "type": "P",
-        "note": "„Ferngläser kann ich Ihnen ausleihen“; an der Waldhütte gibt es nur Getränke und Postkarten (c)."
+        "note": "„Ferngläser kann ich Ihnen ausleihen“ – „ich“ ist Frau Hollweg; an der Waldhütte gibt es nur Getränke und Postkarten (c)."
       },
       "16": {
         "type": "P",
@@ -1235,11 +1235,11 @@
       },
       "17": {
         "type": "P",
-        "note": "„Am Anfang war er total dagegen.“"
+        "note": "„Am Anfang war er total dagegen.“ = anfangs skeptisch."
       },
       "18": {
         "type": "W",
-        "note": "„ein paarmal … telefoniert, per Video“ und „Gesehen haben wir uns allerdings nie“ – nicht persönlich."
+        "note": "„Gesehen haben wir uns allerdings nie, nicht einmal bei der Übergabe“ – die Schlüsselübergabe ist eine Wortfalle."
       },
       "19": {
         "type": "S",
@@ -1247,7 +1247,7 @@
       },
       "20": {
         "type": "P",
-        "note": "„wochenlang jeden Abend mit einer Lern-App gelernt“."
+        "note": "„wochenlang jeden Abend mit einer Lern-App gelernt“ = über einen langen Zeitraum regelmäßig."
       },
       "21": {
         "type": "P",
@@ -1255,7 +1255,7 @@
       },
       "22": {
         "type": "N",
-        "note": "„Nein, zum Glück nicht. … darf man beide behalten.“"
+        "note": "„Nein, zum Glück nicht. … darf man beide behalten.“ – den Pass darf sie behalten."
       },
       "23": {
         "type": "P",

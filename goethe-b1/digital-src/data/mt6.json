@@ -9,13 +9,13 @@
     "date": "Samstag, 20. Juli",
     "title": "Summende Mitbewohner",
     "paragraphs": [
-     "Vor einem Jahr hätte ich jeden ausgelacht, der mir prophezeit hätte, dass ich einmal Imkerin werde. Über Bienen wusste ich damals nur zwei Dinge: Sie liefern Honig, und sie stechen. Dann hat mein Sohn Paul in der Schule ein Projekt über das Bienensterben gemacht und mir so lange davon vorgeschwärmt, bis ich mich im Herbst beim Imkerverein für einen Anfängerkurs angemeldet habe.",
-     "Im März haben wir zum ersten Mal an echten Bienenkästen gearbeitet, und vor lauter Aufregung haben meine Hände gezittert. Herr Brandl, unser Kursleiter, imkert seit vierzig Jahren und hat nur trocken bemerkt: „Ruhig bleiben. Bienen wittern deine Angst.“",
-     "Ein Bienenvolk kostet beim Züchter etwa 200 Euro, hinzu kommen Kasten, Werkzeug und Schutzkleidung. Mein Volk hat mir aber Herr Brandl überlassen: Im April hat er mir einen Kasten in den Garten gestellt und gemeint, er sei froh, wenn jemand Neues anfängt. Nur die Ausrüstung musste ich selbst bezahlen.",
-     "Mit unserer Nachbarin, Frau Kessler, gab es anfangs Ärger. Sie stand schon am zweiten Tag empört vor der Tür, weil sie sich um ihre Enkel sorgte. Ich habe sie beschwichtigt, ihr den Kasten gezeigt und erklärt, dass Bienen nur zustechen, wenn man sie reizt. Inzwischen sitzt sie manchmal mit einer Tasse Kaffee am Zaun und beäugt die Tiere neugierig.",
-     "Zweimal pro Woche kontrolliere ich das Volk. Den Schutzanzug ziehe ich dafür inzwischen nicht mehr an; Schleier und Handschuhe reichen mir. Nur beim Honigernten bin ich von Kopf bis Fuß vermummt. Gestochen wurde ich trotzdem schon dreimal – immer am Handgelenk.",
-     "Letzte Woche war es dann so weit: die erste Ernte. Zwölf Gläser sind es geworden, und so köstlichen Honig habe ich noch nie gegessen. Paul wollte sofort einen Verkaufsstand vor dem Haus aufbauen, aber dafür ist die Menge viel zu gering. Die Hälfte haben wir an Familie und Nachbarn verschenkt – Frau Kessler hat selbstverständlich das erste Glas bekommen.",
-     "Im nächsten Frühjahr kommt ein zweites Volk dazu; Herr Brandl hat bereits eins für mich reserviert. Mehr als zwei sollen es aber nicht werden – mein Garten ist winzig, und ich möchte im Sommer auch noch Zeit für andere Dinge haben."
+     "Vor einem Jahr hätte ich jeden ausgelacht, der mir prophezeit hätte, dass ich einmal Imkerin werde. Über Bienen wusste ich damals nur zwei Dinge: Sie liefern Honig, und sie stechen. Dann hat mein Sohn Paul in der Schule ein Projekt über das Bienensterben gemacht und mir mit so großer Begeisterung von den Bienen erzählt, dass ich mich im Herbst beim Imkerverein für einen Anfängerkurs angemeldet habe.",
+     "Im März haben wir im Kurs zum ersten Mal an echten Bienenkästen gearbeitet, und vor lauter Aufregung haben meine Hände gezittert. Herr Brandl, unser Kursleiter, der schon vierzig Jahre Erfahrung mit Bienen hat, bemerkte nur trocken: „Ruhig bleiben. Bienen wittern deine Angst.“",
+     "Ein Bienenvolk kostet beim Züchter etwa 200 Euro, und zu diesem Preis kommen noch der Bienenkasten, das Werkzeug und die Schutzkleidung hinzu. Mein erstes Bienenvolk hat mir aber Herr Brandl überlassen, der mir im April einen Bienenkasten in den Garten gestellt und gemeint hat, er sei froh, wenn jemand Neues mit den Bienen anfängt. Nur die Ausrüstung musste ich selbst bezahlen.",
+     "Mit unserer Nachbarin, Frau Kessler, gab es anfangs Ärger. Sie stand schon am zweiten Tag empört vor der Tür, weil sie sich um ihre Enkel sorgte, die oft bei ihr im Garten spielen. Ich habe sie beschwichtigt, ihr den Bienenkasten gezeigt und ihr erklärt, dass Bienen nur zustechen, wenn man sie reizt. Inzwischen sitzt sie manchmal mit einer Tasse Kaffee am Zaun und beobachtet die Bienen neugierig.",
+     "Zweimal in der Woche kontrolliere ich das Bienenvolk. Den Schutzanzug ziehe ich dafür inzwischen nicht mehr an, weil mir Schleier und Handschuhe reichen; nur beim Honigernten bin ich von Kopf bis Fuß vermummt. Gestochen wurde ich trotzdem schon dreimal – immer am Handgelenk.",
+     "Bei der ersten Honigernte letzte Woche sind es zwölf Gläser geworden, und so köstlichen Honig habe ich noch nie gegessen. Paul wollte sofort einen Verkaufsstand vor dem Haus aufbauen, aber für einen Verkauf ist die Menge viel zu gering. Die Hälfte haben wir deshalb in der Familie und an Nachbarn verschenkt – Frau Kessler hat selbstverständlich das erste Glas bekommen.",
+     "Im nächsten Frühjahr kommt ein zweites Bienenvolk dazu, das Herr Brandl bereits für mich reserviert hat. Mehr als zwei Bienenvölker sollen es aber nicht werden, denn für eine größere Bienenhaltung ist mein Garten zu klein, und ich möchte im Sommer auch noch Zeit für andere Dinge haben."
     ],
     "closing": "Summende Grüße, Ute"
    },
@@ -27,12 +27,12 @@
    "items": [
     {
      "no": "1",
-     "text": "Schon vor dem Kurs kannte sich Ute gut mit Bienen aus.",
+     "text": "Bevor Ute den Anfängerkurs besuchte, wusste sie über Bienen schon einiges.",
      "answer": "F"
     },
     {
      "no": "2",
-     "text": "Für ihr erstes Bienenvolk musste Ute nichts bezahlen.",
+     "text": "Die Bienen, mit denen Ute begonnen hat, waren für sie kostenlos.",
      "answer": "R"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
      "no": "4",
-     "text": "Ute trägt bei der Arbeit an den Bienen immer ihren Schutzanzug.",
+     "text": "Wenn Ute ihr Bienenvolk kontrolliert, trägt sie jedes Mal den Schutzanzug.",
      "answer": "F"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
      "no": "6",
-     "text": "Ute möchte im nächsten Jahr mehr Bienen halten als jetzt.",
+     "text": "Ute plant, die Zahl ihrer Völker im kommenden Jahr zu verdoppeln.",
      "answer": "R"
     }
    ]
@@ -64,7 +64,7 @@
      "title": "Besuch in der Nacht",
      "lead": "In Waldhagen kommen Wildschweine bis in die Gärten – die Stadt sucht nach Lösungen.",
      "paragraphs": [
-      "Frank Lehner traute seinen Augen nicht: Als er an einem Sonntagmorgen im Oktober aus dem Fenster blickte, war sein Rasen völlig umgepflügt. In der Nacht hatte eine Rotte Wildschweine den Garten nach Würmern und Wurzeln durchwühlt. Lehner ist kein Einzelfall. In Waldhagen, einer Kleinstadt direkt am Waldrand, dringen die Tiere seit zwei Jahren immer öfter in die Wohngebiete vor. Nicht nur Gärten, auch Spielplätze, Friedhöfe und der Sportplatz der Grundschule wurden schon verwüstet. „Sie finden hier schlicht mehr zu fressen als im Wald“, erklärt Förster Uwe Kamps. Schuld seien vor allem offene Mülltonnen, Fallobst unter den Bäumen und Komposthaufen. Manche Bewohner füttern die Tiere sogar, weil sie sie niedlich finden – obwohl das verboten ist und mit bis zu 5.000 Euro Bußgeld geahndet wird. Angriffe auf Menschen sind selten. Wer einem Wildschwein begegnet, sollte stehen bleiben, langsam zurückweichen und dem Tier einen Fluchtweg lassen. Vorsicht ist besonders im Frühjahr geboten, wenn die Bachen ihre Jungen verteidigen. Die Stadt hat inzwischen ein Wildtiertelefon eingerichtet, bei dem man Begegnungen melden kann, und verteilt kostenlos Schlösser für Mülltonnen. Wer sein Fallobst nicht selbst einsammeln kann, bekommt Hilfe von der Stadtgärtnerei. Eine Jagd in den Wohngebieten schließt die Stadt aus, und dabei soll es bleiben. Stattdessen will sie im Frühjahr einen Zaun am Waldrand erproben – zunächst auf einem Kilometer Länge."
+      "Frank Lehner traute seinen Augen nicht: Als er an einem Sonntagmorgen im Oktober aus dem Fenster blickte, war sein Rasen völlig umgepflügt. In der Nacht hatte eine Rotte Wildschweine seinen Garten auf der Suche nach Würmern und Wurzeln durchwühlt. Lehner ist kein Einzelfall. In Waldhagen, einer Kleinstadt direkt am Waldrand, dringen die Wildschweine seit zwei Jahren immer öfter in die Wohngebiete vor. Nicht nur Gärten, auch Spielplätze, Friedhöfe und der Sportplatz der Grundschule wurden von den Wildschweinen schon verwüstet. „Die Wildschweine finden in den Wohngebieten schlicht mehr Nahrung als im Wald“, erklärt Förster Uwe Kamps. Schuld seien vor allem offene Mülltonnen, Fallobst unter den Bäumen und Komposthaufen in den Gärten. Manche Bewohner füttern die Wildschweine sogar, weil sie die Tiere niedlich finden – obwohl die Fütterung verboten ist und mit bis zu 5.000 Euro Bußgeld bestraft wird. Angriffe auf Menschen sind nach Einschätzung des Försters selten. Wer einem Wildschwein begegnet, sollte stehen bleiben, langsam zurückweichen und dem Tier einen Fluchtweg lassen. Besondere Vorsicht ist im Frühjahr geboten, wenn die Bachen ihre Jungen verteidigen. Die Stadtverwaltung hat inzwischen ein Wildtiertelefon eingerichtet, bei dem man Begegnungen mit Wildschweinen melden kann, und verteilt kostenlos Schlösser für Mülltonnen. Wer sein Fallobst nicht selbst einsammeln kann, bekommt Unterstützung von der Stadtgärtnerei. Eine Jagd in den Wohngebieten schließt die Stadtverwaltung aus. Bei dieser Entscheidung soll es bleiben. Stattdessen will die Stadtverwaltung im Frühjahr einen Zaun am Waldrand erproben – zunächst auf einem Kilometer Länge."
      ],
      "footnote": "",
      "source": "aus einer deutschen Zeitung",
@@ -83,9 +83,9 @@
        "no": "7",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "Wildtiere, die immer öfter in eine Stadt kommen.",
+        "a": "ein wachsendes Problem mit Wildschweinen in einem Ort.",
         "b": "einen Förster, der im Wald die Wildschweine zählt.",
-        "c": "Bewohner, die gegen einen neuen Zaun protestieren."
+        "c": "Bewohner, die gegen einen neuen Zaun am Waldrand protestieren."
        },
        "answer": "a"
       },
@@ -93,9 +93,9 @@
        "no": "8",
        "stem": "Die Tiere kommen in die Wohngebiete, weil …",
        "options": {
-        "a": "sie im Wald immer weniger Platz zum Leben haben.",
-        "b": "sie in den Gärten vor den Jägern sicher sind.",
-        "c": "es dort mehr Futter gibt."
+        "a": "sie im Frühjahr ihre Jungen verteidigen.",
+        "b": "sie in den Wohngebieten nicht gejagt werden dürfen.",
+        "c": "das Angebot an Nahrung dort größer ist."
        },
        "answer": "c"
       },
@@ -104,7 +104,7 @@
        "stem": "Die Stadt …",
        "options": {
         "a": "erlaubt den Bewohnern, die Tiere in ihren Gärten zu jagen.",
-        "b": "hilft den Bewohnern dabei, ihren Müll vor Tieren zu sichern.",
+        "b": "hilft den Bewohnern, ihre Mülltonnen vor Tieren zu sichern.",
         "c": "hat am Waldrand bereits einen kilometerlangen Zaun aufgestellt."
        },
        "answer": "b"
@@ -114,9 +114,9 @@
     {
      "instruction": "Lesen Sie den Text aus der Presse und die Aufgaben 10 bis 12 dazu. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
      "title": "Kühle Zuflucht an heißen Tagen",
-     "lead": "In Graz öffnen bei großer Hitze Pfarrsäle und Seniorenzentren ihre Türen für alle, die sich abkühlen möchten.",
+     "lead": "In Graz öffnen bei großer Hitze Pfarrsäle und Seniorenzentren ihre Türen für alle, die Abkühlung suchen.",
      "paragraphs": [
-      "Wenn das Thermometer in Graz über 30 Grad klettert, hängt vor dem Pfarrsaal St. Leonhard ein blaues Schild: „Kühler Raum – Eintritt frei“. Drinnen stehen Liegestühle, ein Wasserspender und ein Regal mit Zeitungen und Gesellschaftsspielen. Selbst am Nachmittag herrschen hier angenehme 23 Grad. Zweimal pro Woche schaut eine Krankenschwester vorbei und misst auf Wunsch den Blutdruck. Heuer* gibt es in der Stadt bereits vierzehn solcher Räume, die meisten in Pfarrsälen, Seniorenzentren und Bibliotheken. Das Angebot richtet sich vor allem an ältere Menschen, die allein leben und in ihren Wohnungen unter der Hitze leiden. „Viele trinken zu wenig, weil sie kaum Durst verspüren, und unterschätzen die Gefahr“, sagt die Ärztin Andrea Pichler, die das Projekt mitentwickelt hat. Gekommen sind bisher aber auch zahlreiche Mütter mit Säuglingen und Obdachlose; an manchen Nachmittagen sind alle Liegestühle besetzt. Wer den Weg nicht allein schafft, kann sich von Freiwilligen des Roten Kreuzes abholen lassen; ein Anruf am Vortag genügt. Das größte Problem: Gerade die Menschen, für die das Angebot gedacht ist, bleiben bei Hitze oft in ihrer Wohnung und verlassen sie gar nicht. Deshalb melden sich Ehrenamtliche an heißen Tagen telefonisch bei älteren Menschen, die sich vorab dafür angemeldet haben, und fragen nach ihrem Befinden. Im nächsten Sommer sollen die Räume auch am Wochenende offen stehen – bisher schließen sie am Freitag um 18 Uhr."
+      "Wenn das Thermometer in Graz über 30 Grad klettert, hängt vor dem Pfarrsaal St. Leonhard ein blaues Schild: „Kühler Raum – Eintritt frei“. In dem kühlen Raum stehen Liegestühle, ein Wasserspender und ein Regal mit Zeitungen und Gesellschaftsspielen. Selbst am Nachmittag sind es in dem Raum angenehme 23 Grad. Zweimal pro Woche schaut eine Krankenschwester vorbei und misst auf Wunsch den Blutdruck. Heuer* gibt es in der Stadt bereits vierzehn solcher kühlen Räume, die meisten in Pfarrsälen, Seniorenzentren und Bibliotheken. Das Angebot richtet sich vor allem an ältere Menschen, die allein leben und in ihren Wohnungen unter der Hitze leiden. „Viele ältere Menschen trinken bei Hitze zu wenig, weil sie kaum Durst verspüren, und unterschätzen die Gefahr einer Austrocknung“, sagt die Ärztin Andrea Pichler, die an der Entwicklung des Projekts beteiligt war. Bisher kommen aber auch viele Mütter mit Säuglingen und Obdachlose; an manchen Nachmittagen sind alle Liegestühle besetzt. Wer den Weg nicht allein schafft, kann sich von Freiwilligen des Roten Kreuzes abholen lassen; ein Anruf am Vortag genügt. Das größte Problem: Gerade die Menschen, für die das Angebot gedacht ist, bleiben bei Hitze oft in ihrer Wohnung und verlassen diese gar nicht. Deshalb melden sich Ehrenamtliche an heißen Tagen telefonisch bei älteren Menschen, die sich vorab für diesen Telefondienst angemeldet haben, und erkundigen sich nach ihrem Befinden. Im nächsten Sommer sollen die kühlen Räume auch am Wochenende geöffnet sein – bisher schließen sie am Freitag um 18 Uhr."
      ],
      "footnote": "*heuer = österreichischer Standard für „in diesem Jahr“",
      "source": "aus einer österreichischen Zeitung",
@@ -128,7 +128,7 @@
        "options": {
         "a": "Ärzte, die ältere Menschen an heißen Tagen zu Hause besuchen.",
         "b": "eine Stadt, in der es im Sommer nicht genug Trinkwasser gibt.",
-        "c": "Orte, an denen man sich bei Hitze abkühlen kann."
+        "c": "Räume, in denen man die Hitze leichter aushält."
        },
        "answer": "c"
       },
@@ -136,8 +136,8 @@
        "no": "11",
        "stem": "Wer nicht allein zu einem kühlen Raum kommen kann, …",
        "options": {
-        "a": "bekommt für die Fahrt ein kostenloses Taxi der Stadt.",
-        "b": "wird nach vorheriger Anmeldung von Helfern gebracht.",
+        "a": "wird von der Krankenschwester des Pfarrsaals abgeholt.",
+        "b": "wird nach Anmeldung von Freiwilligen gebracht.",
         "c": "wird an heißen Tagen von einer Ärztin angerufen."
        },
        "answer": "b"
@@ -146,8 +146,8 @@
        "no": "12",
        "stem": "Ein Problem ist, dass …",
        "options": {
-        "a": "ältere Menschen die kühlen Räume oft gar nicht aufsuchen.",
-        "b": "an den Wochenenden zu viele Besucher kommen.",
+        "a": "die eigentliche Zielgruppe ihre Wohnung oft nicht verlässt.",
+        "b": "die Räume am Wochenende von zu vielen Besuchern genutzt werden.",
         "c": "es auch in den Räumen am Nachmittag oft zu warm wird."
        },
        "answer": "a"
@@ -167,37 +167,37 @@
    "items": [
     {
      "no": "13",
-     "text": "Frau Ivanova arbeitet ab März für vier Monate als Krankenschwester in der Stadt. Eigene Möbel möchte sie nicht mitbringen.",
+     "text": "Frau Ivanova ist Krankenschwester und hat ab März eine befristete Stelle in der Stadt, die nach vier Monaten endet. Möbel will sie dafür nicht extra transportieren.",
      "answer": "c"
     },
     {
      "no": "14",
-     "text": "Familie Brandt hat zwei Kinder und einen Hund. Sie braucht mehr Platz und möchte im Sommer draußen sitzen können.",
+     "text": "Familie Brandt – die Eltern, zwei Kinder und ein Hund – hat in der jetzigen Wohnung zu wenig Platz. Im Sommer würde sie gern auch einmal im Freien essen.",
      "answer": "f"
     },
     {
      "no": "15",
-     "text": "Herr und Frau Yilmaz, beide über siebzig, suchen eine Wohnung für die nächsten Jahre. Treppen sind für sie ein Problem; Geschäfte und Ärzte sollen zu Fuß erreichbar sein.",
+     "text": "Herr und Frau Yilmaz sind beide über siebzig und möchten noch einmal umziehen, und zwar für länger. Stufen fallen ihnen schwer, und zum Einkaufen und zum Arzt wollen sie nicht auf ein Auto angewiesen sein.",
      "answer": "g"
     },
     {
      "no": "16",
-     "text": "Carla studiert und hat wenig Geld. Sie würde einem älteren Menschen gern im Alltag helfen, wenn sie dafür weniger Miete zahlt.",
+     "text": "Carla ist Studentin und muss mit wenig Geld auskommen. Für eine geringere Miete würde sie einer Seniorin oder einem Senior gern im Alltag zur Hand gehen.",
      "answer": "a"
     },
     {
      "no": "17",
-     "text": "Herr Becker lebt allein und arbeitet von zu Hause aus. Er braucht einen eigenen Raum für seine Arbeit und möchte nicht im Zentrum wohnen.",
+     "text": "Herr Becker ist Single und arbeitet im Homeoffice. Dafür möchte er ein separates Zimmer haben, und den Trubel der Innenstadt möchte er vermeiden.",
      "answer": "j"
     },
     {
      "no": "18",
-     "text": "Herr und Frau Klein möchten in die Innenstadt ziehen und ihre beiden Katzen mitnehmen.",
+     "text": "Herr und Frau Klein suchen in der Innenstadt eine neue Wohnung, in der sie mit ihren beiden Katzen dauerhaft leben können.",
      "answer": "0"
     },
     {
      "no": "19",
-     "text": "Jan ist 26 und arbeitet als Koch. Er möchte mit Leuten in seinem Alter zusammenwohnen, aber nicht mit Studenten.",
+     "text": "Jan ist 26 und verdient sein Geld als Koch. Er sucht eine Wohngemeinschaft mit Gleichaltrigen, möchte aber nicht mit Studierenden zusammenleben.",
      "answer": "i"
     }
    ],
@@ -211,9 +211,9 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Ältere Menschen überlassen Studierenden ein Zimmer. Statt Miete zu zahlen, unterstützen Sie Ihre Vermieter beim Einkaufen, im Garten oder im Haushalt: pro Quadratmeter eine Stunde im Monat. Lediglich die Nebenkosten tragen Sie selbst."
+      "Ältere Menschen überlassen Studierenden ein Zimmer in ihrer Wohnung. Statt einer Miete leisten Sie Ihren Vermietern Unterstützung beim Einkaufen, im Garten oder im Haushalt – pro Quadratmeter Wohnfläche eine Stunde im Monat. Lediglich die Nebenkosten tragen Sie selbst."
      ],
-     "footer": "Studierendenwerk · Beratung Mo–Do 10–14 Uhr"
+     "footer": "Vermittlung und Beratung im Studierendenwerk · Mo–Do 10–14 Uhr"
     },
     {
      "letter": "b",
@@ -224,7 +224,7 @@
      "subtitle": "STUDENTENWOHNHEIM AM CAMPUS",
      "facts": [],
      "body": [
-      "Einzelzimmer mit eigenem Bad ab 290 Euro warm, fünf Gehminuten von der Universität entfernt. Gemeinschaftsküche auf jeder Etage, WLAN inklusive. Nur für eingeschriebene Studierende. Bewerbungen ab dem 1. Juli online."
+      "Einzelzimmer mit eigenem Bad, Warmmiete ab 290 Euro, nur fünf Gehminuten von der Universität entfernt. Gemeinschaftsküche auf jeder Etage, WLAN-Nutzung inklusive. Vermietung ausschließlich an eingeschriebene Studierende gegen Vorlage der Immatrikulationsbescheinigung. Bewerbungen ab dem 1. Juli online."
      ],
      "footer": "wohnheim-am-campus.de · ab Oktober"
     },
@@ -237,7 +237,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Voll eingerichtete Apartments am Hauptbahnhof – mit Küche, Bettwäsche und wöchentlicher Reinigung. Für Berufstätige, die nur vorübergehend in der Stadt tätig sind. Mietdauer drei bis zwölf Monate. Haustiere sind leider nicht erlaubt."
+      "Voll eingerichtete Apartments am Hauptbahnhof – mit Einbauküche, Bettwäsche und wöchentlicher Reinigung. Für Berufstätige, die nur vorübergehend in der Stadt tätig sind – Mietdauer drei bis zwölf Monate. Haustierhaltung ist leider nicht gestattet."
      ],
      "footer": "0421 / 66 70 80 · kranich-apartments.de"
     },
@@ -253,9 +253,9 @@
      "subtitle": "MITTEN IN DER ALTSTADT",
      "facts": [],
      "body": [
-      "Gemütliche Zwei-Zimmer-Wohnung für zwei bis vier Gäste, ab drei Nächten bis höchstens drei Wochen buchbar. Vierbeiner jeder Art – ob Hund oder Katze – sind bei uns herzlich willkommen!"
+      "Voll eingerichtete Zwei-Zimmer-Ferienwohnung für zwei bis vier Gäste, buchbar ab drei Übernachtungen bis höchstens drei Wochen. Vierbeiner jeder Art – ob Hund oder Katze – sind bei uns herzlich willkommen!"
      ],
-     "footer": "Buchung: altstadtblick.de"
+     "footer": "Buchung unter altstadtblick.de"
     },
     {
      "letter": "e",
@@ -266,7 +266,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "REIHENHAUS MIT GARTEN am Stadtpark, 5 Zimmer, 125 m², Garage, frei ab 1. September. Nur an Familien mit Kindern, Haustiere nicht gestattet. Kaltmiete 1.480 Euro zuzüglich Nebenkosten."
+      "REIHENHAUS MIT GARTEN am Stadtpark, 5 Zimmer, 125 m², Garage, bezugsfrei ab 1. September. Vermietung nur an Familien mit Kindern, Haustierhaltung nicht gestattet. Kaltmiete 1.480 Euro zuzüglich Nebenkosten."
      ],
      "footer": "Tel. 0421 / 22 81 90 (ab 18 Uhr)"
     },
@@ -279,9 +279,9 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Am Stadtrand entstehen Vier-Zimmer-Wohnungen für Familien mit Kindern, jede mit eigenem Gärtchen. Spielplatz im Hof, Kita und Schule zu Fuß erreichbar. Haustiere sind erlaubt. Einzug ab Herbst."
+      "Am Stadtrand entstehen Vier-Zimmer-Wohnungen für Familien mit Kindern, jede mit eigenem Gärtchen. Spielplatz im Innenhof, Kindertagesstätte und Grundschule zu Fuß erreichbar. Haustierhaltung ist erlaubt, Einzug ab Herbst."
      ],
-     "footer": "Infotag: Samstag, 14 Uhr · Lindenhof 3"
+     "footer": "Informationsveranstaltung am Samstag, 14 Uhr · Lindenhof 3"
     },
     {
      "letter": "g",
@@ -291,12 +291,12 @@
      "title": "Barrierefrei wohnen am Marktplatz",
      "subtitle": "",
      "facts": [
-      "Zimmer · 2",
+      "Zimmeranzahl · 2",
       "Wohnfläche · 58 m²",
-      "Etage · 3. OG, Aufzug",
-      "Eingang · stufenlos",
-      "Im Haus · Supermarkt, Hausarzt",
-      "Haustiere · nein",
+      "Etage · 3. Obergeschoss, Personenaufzug",
+      "Hauseingang · stufenlos",
+      "Im Gebäude · Supermarkt, Hausarztpraxis",
+      "Haustierhaltung · nein",
       "Warmmiete · 890 €"
      ],
      "body": [],
@@ -311,9 +311,9 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Bei uns leben Jung und Alt unter einem Dach: Studierende, Berufstätige und Rentner. Jeder bewohnt ein eigenes Zimmer mit Bad; Küche und Garten nutzen wir gemeinsam. Wir suchen Mitbewohner, die langfristig bleiben und gern gemeinsame Unternehmungen schätzen."
+      "Bei uns leben Jung und Alt unter einem Dach: Studierende, Berufstätige und Rentner. Jeder bewohnt ein eigenes Zimmer mit Bad; Küche und Garten nutzt die ganze Hausgemeinschaft gemeinsam. Wir suchen Mitbewohner, die langfristig bleiben möchten und gern gemeinsam etwas unternehmen."
      ],
-     "footer": "Am Ortsrand · Bus alle 30 Minuten · sonnenwinkel-wg.de"
+     "footer": "Am Stadtrand · Busverbindung alle 30 Minuten · sonnenwinkel-wg.de"
     },
     {
      "letter": "i",
@@ -327,7 +327,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Wir sind drei Berufstätige zwischen 25 und 32 und suchen ab Mai einen sympathischen Mitbewohner. 16-m²-Zimmer, unmöbliert, unbefristet, 420 Euro warm. Studierende bitte nicht anfragen. Haustiere leider nicht (Allergie)."
+      "Wir sind drei Berufstätige im Alter zwischen 25 und 32 und suchen ab Mai einen Mitbewohner. 16-m²-Zimmer, unmöbliert, unbefristeter Mietvertrag, Warmmiete 420 Euro. Studierende bitte nicht anfragen. Haustierhaltung leider nicht möglich (Allergie)."
      ],
      "footer": "Später · Antworten"
     },
@@ -340,7 +340,7 @@
      "subtitle": "STADTRAND NORD",
      "facts": [],
      "body": [
-      "Helle Wohnung im 3. Stock (ohne Aufzug) in ruhiger Randlage, Busverbindung ins Zentrum. Eines der Zimmer lässt sich als Arbeitszimmer nutzen. Bestens geeignet für Singles oder Paare. Warmmiete 960 Euro."
+      "Helle Wohnung im 3. Stock (ohne Aufzug) in ruhiger Randlage, gute Busverbindung ins Stadtzentrum. Eines der Zimmer eignet sich als Arbeitszimmer. Bestens geeignet für Singles oder Paare. Warmmiete 960 Euro, Besichtigung nach Vereinbarung."
      ],
      "footer": "Tel. 0421 / 73 12 45"
     }
@@ -355,7 +355,7 @@
     "no": "0",
     "name": "Werner",
     "byline": "Werner, 61, Dortmund",
-    "text": "Silvester ohne Raketen? Das kann ich mir nicht vorstellen. Seit meiner Kindheit gehen wir um Mitternacht mit der ganzen Familie auf die Straße, stoßen mit den Nachbarn an und bestaunen den bunten Himmel. Natürlich muss man vorsichtig sein und hinterher aufräumen. Aber einmal im Jahr darf es ruhig laut werden. Wer seine Ruhe will, kann ja für ein paar Tage aufs Land fahren.",
+    "text": "Silvester ohne Raketen kann ich mir nicht vorstellen. Seit meiner Kindheit gehen wir an Silvester um Mitternacht mit der ganzen Familie auf die Straße, stoßen mit den Nachbarn an und bestaunen das Feuerwerk am Himmel. Diese Tradition gehört für mich einfach dazu. Natürlich muss man mit Raketen und Böllern vorsichtig sein und hinterher den Müll wegräumen. Aber einmal im Jahr darf es ruhig laut werden. Wer seine Ruhe will, kann ja aufs Land fahren.",
     "answer": "N"
    },
    "items": [
@@ -363,49 +363,49 @@
      "no": "20",
      "name": "Sabine",
      "byline": "Sabine, 44, Hannover",
-     "text": "Ich arbeite als Tierärztin, und für mich ist Silvester die schlimmste Nacht des Jahres. Hunde zittern stundenlang unter dem Bett, Katzen rennen in Panik davon, und am Neujahrstag bringen mir Leute Vögel, die gegen Fensterscheiben geprallt sind. Ein großes Feuerwerk der Stadt, weit weg von den Wohnhäusern, wäre für mich in Ordnung. Die Knallerei in jeder einzelnen Straße muss aber endlich aufhören.",
+     "text": "Ich arbeite als Tierärztin, und für mich ist Silvester die schlimmste Nacht des Jahres. Hunde zittern stundenlang unter dem Bett, Katzen rennen in Panik davon, und am Neujahrstag bringen mir Spaziergänger Vögel, die in der Silvesternacht gegen Fensterscheiben geprallt sind. Ein großes Feuerwerk der Stadt, weit weg von den Wohnhäusern, wäre für mich in Ordnung. Die Knallerei mit Raketen und Böllern in jeder einzelnen Straße muss aber endlich aufhören, denn sie bedeutet für die Tiere eine enorme Belastung.",
      "answer": "J"
     },
     {
      "no": "21",
      "name": "Markus",
      "byline": "Markus, 39, Köln",
-     "text": "Ich kann gut verstehen, dass sich viele über den Lärm und den Müll am Neujahrsmorgen ärgern. Trotzdem halte ich ein Verbot für den falschen Weg. Wer soll das in dieser Nacht überwachen? Die Polizei ist schon jetzt ausgelastet. Die Leute würden ihre Raketen dann eben im Ausland besorgen, und die sind oft viel gefährlicher als die geprüften Produkte bei uns.",
+     "text": "Ich kann gut verstehen, dass sich viele über den Lärm und den Müll am Neujahrsmorgen ärgern. Trotzdem halte ich ein Verbot für den falschen Weg. Wer soll die Einhaltung des Verbots in der Silvesternacht überwachen? Polizei und Feuerwehr sind ohnehin ausgelastet. Viele würden ihre Raketen und Böller dann eben im Ausland besorgen, und die sind oft viel gefährlicher als die geprüften Produkte bei uns. Mehr Sicherheit bringt ein Verbot also nicht.",
      "answer": "N"
     },
     {
      "no": "22",
      "name": "Eva",
      "byline": "Eva, 52, Salzburg",
-     "text": "Statt alles zu untersagen, sollte jede Stadt Zonen festlegen: In der Altstadt und in der Nähe von Krankenhäusern und Altenheimen darf niemand Böller zünden, auf großen Plätzen und Wiesen am Stadtrand dagegen schon. So hätten alle etwas davon – die Familien, die gern feiern, und die Menschen, die ihre Ruhe brauchen. Bei uns bewährt sich das seit drei Jahren erstaunlich gut.",
+     "text": "Statt das Feuerwerk ganz zu verbieten, sollte jede Stadt Zonen festlegen: In der Altstadt und in der Nähe von Krankenhäusern und Altenheimen darf niemand Böller zünden, auf großen Plätzen und Wiesen am Stadtrand dagegen schon. So hätten alle etwas davon – die Familien, die an Silvester gern feiern, und die Menschen, die ihre Ruhe brauchen. In unserer Stadt bewährt sich diese Regelung seit drei Jahren erstaunlich gut.",
      "answer": "N"
     },
     {
      "no": "23",
      "name": "Dennis",
      "byline": "Dennis, 35, Leipzig",
-     "text": "Früher habe ich jedes Jahr für mindestens hundert Euro Raketen gekauft und mich wochenlang darauf gefreut. Letztes Silvester hat dann ein Böller die Fensterscheibe im Kinderzimmer zertrümmert – zum Glück hat unser Sohn an diesem Abend bei den Großeltern übernachtet. Seitdem sehe ich die Sache anders: Ein paar Minuten Spaß sind dieses Risiko nicht wert. Ich hoffe, dass unsere Stadt bald handelt.",
+     "text": "Früher habe ich jedes Jahr für mindestens hundert Euro Raketen gekauft und mich wochenlang auf Silvester gefreut. Letztes Silvester hat dann ein Böller die Fensterscheibe im Kinderzimmer zertrümmert – zum Glück hat unser Sohn an diesem Abend bei den Großeltern übernachtet. Seit dieser Erfahrung sehe ich die Sache anders: Ein paar Minuten Vergnügen sind dieses Risiko nicht wert. Ich hoffe, dass unsere Stadtverwaltung bald handelt und ein Verbot beschließt.",
      "answer": "J"
     },
     {
      "no": "24",
      "name": "Helga",
      "byline": "Helga, 68, Graz",
-     "text": "Meine Enkel finden Feuerwerk wunderbar, und mein Mann würde am liebsten selbst noch Raketen in den Himmel schießen. Ich sehe das ganz anders, auch wenn ich damit in meiner Familie allein dastehe. Ich habe vierzig Jahre lang als Krankenschwester in der Notaufnahme gearbeitet. Jedes Jahr an Silvester habe ich dort verbrannte Hände und verletzte Augen gesehen, oft bei Jugendlichen. Das alles muss wirklich nicht sein.",
+     "text": "Meine Enkelkinder finden Feuerwerk wunderbar, und mein Mann würde am liebsten selbst noch Raketen in den Himmel schießen. Ich sehe das ganz anders, auch wenn ich damit in meiner Familie allein dastehe. Ich habe vierzig Jahre lang als Krankenschwester in der Notaufnahme gearbeitet. Jedes Jahr an Silvester habe ich dort verbrannte Hände und Augenverletzungen gesehen, oft bei Jugendlichen. Das alles muss wirklich nicht sein.",
      "answer": "J"
     },
     {
      "no": "25",
      "name": "Leonie",
      "byline": "Leonie, 29, Bremen",
-     "text": "Ich wäre sofort dafür, wenn die Stadt stattdessen ein schönes gemeinsames Feuerwerk am Fluss veranstalten würde, wie es viele andere Städte machen. Das hat unser Bürgermeister aber bereits abgelehnt – zu teuer, sagt er. Dann soll man den Leuten wenigstens ihre eigenen Raketen lassen. Ein Jahreswechsel ganz ohne Lichter am Himmel wäre für viele, besonders für die Kinder, einfach traurig.",
+     "text": "Ich wäre sofort für ein Verbot, wenn die Stadt stattdessen ein schönes gemeinsames Feuerwerk am Fluss veranstalten würde, wie es viele andere Städte machen. Das hat unser Bürgermeister aber bereits abgelehnt – zu teuer, sagt er. Dann soll man den Bürgern wenigstens ihre eigenen Raketen lassen. Ein Silvester ganz ohne Feuerwerk wäre für viele, besonders für die Kinder, eine große Enttäuschung.",
      "answer": "N"
     },
     {
      "no": "26",
      "name": "Ralf",
      "byline": "Ralf, 57, Kassel",
-     "text": "Am Morgen danach sieht unsere Straße jedes Mal aus wie eine Müllhalde: Papier, Plastik und Scherben überall, und aufräumen müssen am Ende wir Anwohner. Dazu kommt die Luft: In dieser einen Nacht wird so viel Feinstaub gemessen wie sonst in mehreren Wochen. Für mich ist die Sache klar: Raketen und Böller gehören nicht in die Hände von Privatleuten.",
+     "text": "Am Morgen danach sieht unsere Straße jedes Mal aus wie eine Müllhalde: Papier, Plastik und Scherben überall, und die Reinigung bleibt am Ende an uns Anwohnern hängen. Dazu kommt die Belastung für die Umwelt: In der Silvesternacht wird so viel Feinstaub gemessen wie sonst in mehreren Wochen. Für mich ist die Sache klar: Raketen und Böller gehören nicht in die Hände von Privatleuten.",
      "answer": "J"
     }
    ]
@@ -419,27 +419,27 @@
     "sections": [
      {
       "heading": "Öffnungszeiten",
-      "text": "Die Kita ist montags bis freitags von 7 bis 17 Uhr geöffnet; ab 16 Uhr werden die Gruppen aus organisatorischen Gründen zusammengelegt. Bitte bringen Sie Ihr Kind spätestens bis 9 Uhr, denn dann beginnt das gemeinsame Frühstück; falls Sie sich verspäten, informieren Sie die Gruppe bitte vorher telefonisch."
+      "text": "Die Kindertagesstätte ist montags bis freitags von 7 bis 17 Uhr geöffnet, wobei die Gruppen ab 16 Uhr aus organisatorischen Gründen zusammengelegt werden. Bitte bringen Sie Ihr Kind spätestens um 9 Uhr in die Gruppe, da zu diesem Zeitpunkt das gemeinsame Frühstück beginnt; bei einer Verspätung benachrichtigen Sie die Gruppe bitte vorher telefonisch."
      },
      {
       "heading": "Abholen",
-      "text": "Wir händigen die Kinder ausschließlich den Eltern oder Personen aus, die Sie uns bei der Anmeldung schriftlich benannt haben. Soll ausnahmsweise jemand anderes Ihr Kind abholen, legen Sie uns bitte vorab eine unterschriebene Vollmacht vor, und die abholende Person muss sich zudem mit einem Ausweis legitimieren."
+      "text": "Wir übergeben die Kinder ausschließlich den Erziehungsberechtigten oder den Personen, die Sie bei der Anmeldung schriftlich benannt haben. Soll ausnahmsweise eine andere Person die Abholung übernehmen, ist der Kindertagesstätte vorab eine unterschriebene Vollmacht vorzulegen; zusätzlich muss sich die abholende Person mit einem Ausweis legitimieren."
      },
      {
       "heading": "Krankheit",
-      "text": "Erkrankte Kinder dürfen die Kita nicht besuchen. Nach Fieber, Erbrechen oder Durchfall muss Ihr Kind mindestens 24 Stunden beschwerdefrei gewesen sein, bevor es wiederkommen darf. Medikamente verabreichen wir nur nach schriftlicher Vereinbarung. Bitte melden Sie Ihr Kind bis 8.30 Uhr ab, falls es fehlt."
+      "text": "Erkrankte Kinder dürfen die Kindertagesstätte nicht besuchen; nach Fieber, Erbrechen oder Durchfall muss Ihr Kind mindestens 24 Stunden beschwerdefrei gewesen sein, bevor eine Rückkehr in die Gruppe möglich ist. Die Verabreichung von Medikamenten erfolgt ausschließlich nach schriftlicher Vereinbarung. Falls Ihr Kind fehlt, bitten wir um eine Abmeldung bis 8.30 Uhr."
      },
      {
       "heading": "Essen",
-      "text": "Frühstück, Mittagessen und ein Nachmittagssnack sind im Monatsbeitrag enthalten. Süßigkeiten geben Sie Ihrem Kind bitte nicht mit, auch nicht zum Geburtstag; stattdessen backen wir an diesem Tag gemeinsam in der Gruppe einen Kuchen. Über Allergien informieren Sie uns bitte mit einem ärztlichen Attest."
+      "text": "Frühstück, Mittagessen und ein Nachmittagssnack sind im Monatsbeitrag enthalten. Süßigkeiten geben Sie Ihrem Kind bitte nicht mit, auch nicht zum Geburtstag; stattdessen backen wir an diesem Tag gemeinsam in der Gruppe einen Kuchen. Über Lebensmittelallergien informieren Sie die Kindertagesstätte bitte unter Vorlage eines ärztlichen Attests."
      },
      {
       "heading": "Schließzeiten",
-      "text": "In den Sommerferien bleibt die Kita drei Wochen geschlossen, außerdem zwischen Weihnachten und Neujahr. Wer in dieser Zeit keine Betreuung findet, kann sein Kind bis zum 31. März für die Notgruppe anmelden."
+      "text": "In den Sommerferien bleibt die Kindertagesstätte drei Wochen geschlossen, außerdem zwischen Weihnachten und Neujahr; Eltern, die in diesen Schließzeiten keine andere Betreuung finden, können ihr Kind bis zum 31. März für die Betreuung in der Notgruppe anmelden."
      },
      {
       "heading": "Kündigung",
-      "text": "Der Betreuungsvertrag kann mit einer Frist von drei Monaten zum Monatsende gekündigt werden. Die Kündigung muss der Kita-Leitung schriftlich vorliegen; eine E-Mail genügt nicht."
+      "text": "Der Betreuungsvertrag kann mit einer Frist von drei Monaten zum Monatsende gekündigt werden, wobei die Kündigung der Kita-Leitung schriftlich vorliegen muss; eine Kündigung per E-Mail genügt nicht."
      }
     ],
     "footer": ""
@@ -452,7 +452,7 @@
      "options": {
       "a": "muss sie das vorher telefonisch in der Gruppe ankündigen.",
       "b": "genügt es, wenn sie an der Tür ihren Ausweis zeigt.",
-      "c": "braucht die Kita eine schriftliche Erlaubnis der Eltern."
+      "c": "braucht die Kita vorher ein unterzeichnetes Schreiben."
      },
      "answer": "c"
     },
@@ -460,9 +460,9 @@
      "no": "28",
      "stem": "Ein Kind, das am Montag Fieber hatte, …",
      "options": {
-      "a": "darf erst wiederkommen, wenn es einen Tag lang gesund war.",
+      "a": "darf erst wiederkommen, wenn es einen Tag lang beschwerdefrei war.",
       "b": "braucht ein ärztliches Attest, bevor es wieder in die Kita darf.",
-      "c": "darf am Dienstag wiederkommen, wenn das Fieber weg ist."
+      "c": "kann zurück in die Gruppe, sobald das Fieber weg ist."
      },
      "answer": "a"
     },
@@ -471,8 +471,8 @@
      "stem": "Zum Geburtstag eines Kindes …",
      "options": {
       "a": "dürfen die Eltern Süßigkeiten für alle mitbringen.",
-      "b": "müssen die Eltern einen Kuchen backen.",
-      "c": "macht die Gruppe gemeinsam einen Kuchen."
+      "b": "müssen die Eltern zu Hause einen Kuchen backen.",
+      "c": "wird vor Ort in der Gruppe etwas gebacken."
      },
      "answer": "c"
     },
@@ -481,8 +481,8 @@
      "stem": "Wer in den Sommerferien arbeiten muss, …",
      "options": {
       "a": "kann sein Kind ohne Anmeldung in die Notgruppe bringen.",
-      "b": "muss sich früh um einen Betreuungsplatz kümmern.",
-      "c": "zahlt in diesen Wochen einen niedrigeren Beitrag."
+      "b": "muss sich lange vor den Sommerferien um einen Platz kümmern.",
+      "c": "kann sein Kind noch bis Ende Juli für die Notgruppe anmelden."
      },
      "answer": "b"
     }
@@ -527,9 +527,9 @@
        "type": "abc",
        "stem": "Die Kinder der Skischule …",
        "options": {
-        "a": "treffen sich heute an einem anderen Ort.",
-        "b": "haben heute Nachmittag keinen Kurs.",
-        "c": "beginnen ihren Kurs heute später als sonst."
+        "a": "versammeln sich heute woanders als sonst.",
+        "b": "haben heute Nachmittag wegen des Windes frei.",
+        "c": "treffen sich heute wie immer an der Gipfelbahn."
        },
        "answer": "a"
       }
@@ -541,7 +541,7 @@
       {
        "no": "3",
        "type": "rf",
-       "text": "Die Trauung findet früher statt, als Tim dachte.",
+       "text": "Die Trauung beginnt früher, als Tim dachte.",
        "answer": "R"
       },
       {
@@ -549,9 +549,9 @@
        "type": "abc",
        "stem": "Tim soll …",
        "options": {
-        "a": "mit dem eigenen Auto zum Gasthof fahren.",
-        "b": "etwas für die neue Wohnung des Paares kaufen.",
-        "c": "Mara am Samstag Geld für das Paar geben."
+        "a": "mit dem Auto fahren, weil es am Gasthof Parkplätze gibt.",
+        "b": "ein Geschenk für die Wohnung von Lena und Paul besorgen.",
+        "c": "sich mit Geld an der Reise des Brautpaars beteiligen."
        },
        "answer": "c"
       }
@@ -563,7 +563,7 @@
       {
        "no": "5",
        "type": "rf",
-       "text": "Die Anrufer melden einen Einbruch in der Wohnung der Angerufenen.",
+       "text": "Die Anrufer behaupten, dass in die Wohnung der Angerufenen eingebrochen wurde.",
        "answer": "F"
       },
       {
@@ -572,7 +572,7 @@
        "stem": "Wer so einen Anruf bekommt, soll …",
        "options": {
         "a": "die Rückruftaste drücken und bei der Polizei nachfragen.",
-        "b": "auflegen und selbst die Polizei anrufen.",
+        "b": "das Gespräch beenden und selbst den Notruf wählen.",
         "c": "Wertsachen nur einem Polizisten in Uniform geben."
        },
        "answer": "b"
@@ -585,7 +585,7 @@
       {
        "no": "7",
        "type": "rf",
-       "text": "Die Führung beginnt heute zu einer anderen Uhrzeit als sonst.",
+       "text": "Wer an der Führung teilnehmen will, muss heute früher kommen.",
        "answer": "R"
       },
       {
@@ -595,7 +595,7 @@
        "options": {
         "a": "kosten heute einen Euro pro Fach.",
         "b": "sind heute wegen der Veranstaltung geschlossen.",
-        "c": "kosten am Ende nichts."
+        "c": "sind am Ende kostenlos."
        },
        "answer": "c"
       }
@@ -645,7 +645,7 @@
      "stem": "Nach dem letzten Läufer …",
      "options": {
       "a": "holen die Helfer den Müll mit einem Auto ab.",
-      "b": "räumen die Helfer ihre Station selbst auf.",
+      "b": "bringen die Helfer ihren Platz wieder in Ordnung.",
       "c": "ist die Arbeit der Helfer sofort zu Ende."
      },
      "answer": "b"
@@ -654,8 +654,8 @@
      "no": "13",
      "stem": "Wenn es einem Läufer schlecht geht, sollen die Helfer …",
      "options": {
-      "a": "nicht von seiner Seite gehen, bis Hilfe kommt.",
-      "b": "ihm etwas gegen die Schmerzen zu schlucken geben.",
+      "a": "nicht von seiner Seite gehen, bis Sanitäter da sind.",
+      "b": "ihm eine Tablette gegen die Beschwerden geben.",
       "c": "ihn selbst zur nächsten Station bringen."
      },
      "answer": "a"
@@ -666,7 +666,7 @@
      "options": {
       "a": "bekommen die Helfer direkt an ihrer Station.",
       "b": "gibt es für die Helfer im Zelt am Start.",
-      "c": "gibt es für die Helfer erst am Nachmittag."
+      "c": "gibt es erst nach dem Ende der Schicht."
      },
      "answer": "c"
     },
@@ -674,7 +674,7 @@
      "no": "15",
      "stem": "Wer mit dem Auto da ist, …",
      "options": {
-      "a": "soll sein Auto jetzt woanders abstellen.",
+      "a": "soll sein Fahrzeug schnell umparken.",
       "b": "darf den ganzen Tag an der Turnhalle stehen bleiben.",
       "c": "bekommt von den Gruppenleitern einen Parkausweis."
      },
@@ -694,12 +694,12 @@
     },
     {
      "no": "17",
-     "text": "Vor der Einladung wurde Tanjas Wissen geprüft.",
+     "text": "Tanja musste erst einen Wissenstest machen, bevor sie die Einladung bekam.",
      "answer": "R"
     },
     {
      "no": "18",
-     "text": "Als die Kameras liefen, war Tanja weniger aufgeregt.",
+     "text": "Sobald gefilmt wurde, war Tanjas Nervosität plötzlich vorbei.",
      "answer": "R"
     },
     {
@@ -1062,88 +1062,88 @@
   }
  },
  "kommentar": {
-  "intro": "Fallen und Distraktoren – Hinweise für Lehrende. Grundlage ist eine Analyse der offiziellen Modell- und Übungssätze (Modellsatz Erwachsene, Übungssatz 5, Modelltest 7, Probeprüfung): Fast jede Schwierigkeit lässt sich dort auf eines von acht Mustern zurückführen. Dieser Satz setzt alle acht bewusst ein, und zwar an denselben Stellen wie die Originale: Das erste Item in Teil 2 fragt nach dem Thema des Textes, in Teil 3 gibt es genau eine Situation ohne passende Anzeige, in Teil 4 kommen ein Meinungswechsel und ein Alternativvorschlag vor, und in Hören 4 bringt die Moderatorin eigene Informationen ein. Wie in Modelltest IV und V übernehmen die richtigen Lösungen fast nie ein Wort aus dem Text; Wörter aus dem Text stehen dagegen oft in den falschen Optionen. Die Lösungen bei Richtig/Falsch und Ja/Nein folgen keinem festen Muster, und die richtige Option ist nicht systematisch die längste.",
+  "intro": "Fallen und Distraktoren – Hinweise für Lehrende. Grundlage ist eine Analyse der offiziellen Modell- und Übungssätze (Modellsatz Erwachsene, Übungssatz 5, Modelltest 7, Probeprüfung): Fast jede Schwierigkeit lässt sich dort auf eines von acht Mustern zurückführen. Dieser Satz setzt alle acht bewusst ein, und zwar an denselben Stellen wie die Originale: Das erste Item in Teil 2 fragt nach dem Thema des Textes, in Teil 3 gibt es genau eine Situation ohne passende Anzeige, in Teil 4 kommen ein Meinungswechsel und ein Alternativvorschlag vor, und in Hören 4 bringt die Moderatorin eigene Informationen ein. Die richtigen Lösungen sind umformuliert und übernehmen höchstens ein Kernwort aus dem Text; Wörter aus dem Text stehen dagegen oft in den falschen Optionen. Die Lösungen bei Richtig/Falsch und Ja/Nein folgen keinem festen Muster, und die richtige Option ist nicht systematisch die längste.",
   "schreibenSprechen": "Schreiben 1 verlangt drei verschiedene Sprechhandlungen (beschreiben, begründen, vorschlagen); oft wird nur der Kurs beschrieben und der Grund vergessen. Schreiben 2: Martinas Beitrag nennt beide Seiten (zu teuer – aber Angst vor dem Auslachen), damit eine eigene Position nötig wird. Schreiben 3 prüft das Register: Zahnarztpraxis = Sie-Form, Entschuldigung, Grund und eine konkrete Bitte. Sprechen 1: Der Punkt „Wer kann uns helfen?“ wird am häufigsten vergessen. Sprechen 2: An Folie 3 (Heimatland) und Folie 4 (Meinung mit Begründung) zeigt sich, ob jemand das Niveau B1 erreicht.",
   "lesen": {
    "1": {
     "type": "N",
-    "note": "„Über Bienen wusste ich damals nur zwei Dinge“ – vor dem Kurs wusste sie kaum etwas."
+    "note": "„Über Bienen wusste ich damals nur zwei Dinge“ – vor dem Kurs wusste sie kaum etwas; „schon einiges“ in der Aussage ist falsch."
    },
    "2": {
     "type": "W",
-    "note": "Das Volk hat ihr Herr Brandl „überlassen“; „200 Euro“ und „Nur die Ausrüstung musste ich selbst bezahlen“ sind Wortfallen."
+    "note": "Herr Brandl hat ihr das Volk „überlassen“, und „Nur die Ausrüstung musste ich selbst bezahlen“ – die Bienen selbst waren also kostenlos; die „200 Euro“ sind eine Wortfalle."
    },
    "3": {
     "type": "Z",
-    "note": "„gab es anfangs Ärger“ – erst „Inzwischen“ schaut Frau Kessler den Bienen gern zu."
+    "note": "„gab es anfangs Ärger“ – erst „Inzwischen“ sitzt Frau Kessler gern am Zaun."
    },
    "4": {
     "type": "N",
-    "note": "Den Schutzanzug zieht sie „nicht mehr an“, „Nur beim Honigernten“ ist sie „von Kopf bis Fuß vermummt“."
+    "note": "Den Schutzanzug zieht sie für die Kontrolle „nicht mehr an“; „Nur beim Honigernten“ ist sie „von Kopf bis Fuß vermummt“. „jedes Mal“ ist falsch."
    },
    "5": {
     "type": "P",
-    "note": "„dafür ist die Menge viel zu gering“, die Hälfte wurde verschenkt = kein Geld verdient."
+    "note": "„für einen Verkauf ist die Menge viel zu gering“, die Hälfte wurde verschenkt = kein Geld verdient."
    },
    "6": {
-    "type": "W",
-    "note": "„kommt ein zweites Volk dazu“ = mehr Bienen; „Mehr als zwei sollen es aber nicht werden“ ist die Falle."
+    "type": "Z",
+    "note": "„kommt ein zweites Bienenvolk dazu“ = aus einem Volk werden zwei, also verdoppeln; „Mehr als zwei Bienenvölker sollen es aber nicht werden“ ist die Falle."
    },
    "7": {
     "type": "W",
-    "note": "Globalfrage; „Förster“ (b) und „Zaun“ (c) sind Wortfallen."
+    "note": "Globalfrage; a fasst „immer öfter in die Wohngebiete vor“ als „wachsendes Problem“ zusammen; „Förster“ (b) und „Zaun“ (c) sind Wortfallen."
    },
    "8": {
     "type": "P",
-    "note": "„mehr zu fressen als im Wald“ = mehr Futter; von Platzmangel (a) ist keine Rede, Jäger gibt es in den Gärten nicht (b)."
+    "note": "„mehr Nahrung als im Wald“ = größeres Angebot an Nahrung; „ihre Jungen verteidigen“ die Tiere nur im Frühjahr, das ist kein Grund (a, W); nicht gejagt wird nur „in den Wohngebieten“, auch das nennt der Text nicht als Grund (b, W)."
    },
    "9": {
     "type": "P",
-    "note": "„verteilt kostenlos Schlösser für Mülltonnen“; eine Jagd „schließt die Stadt aus“ (a, N); der Zaun wird erst „im Frühjahr“ erprobt (c, A)."
+    "note": "„verteilt kostenlos Schlösser für Mülltonnen“; eine Jagd „schließt die Stadtverwaltung aus“ (a, N); der Zaun wird erst „im Frühjahr“ erprobt (c, A)."
    },
    "10": {
     "type": "W",
-    "note": "Globalfrage; „Ärztin“ (a) und „Wasserspender“ (b) sind Wortfallen."
+    "note": "Globalfrage; c fasst die „kühlen Räume“ für heiße Tage zusammen; „Ärztin“ (a) und „Wasserspender“ (b) sind Wortfallen."
    },
    "11": {
     "type": "P",
-    "note": "„abholen lassen; ein Anruf am Vortag genügt“; angerufen werden nur angemeldete Menschen, und zwar von Ehrenamtlichen (c, S)."
+    "note": "„abholen lassen; ein Anruf am Vortag genügt“ = Anmeldung, Helfer; die „Krankenschwester“ misst nur den Blutdruck (a, W); angerufen werden nur angemeldete Menschen, und zwar von Ehrenamtlichen (c, S)."
    },
    "12": {
     "type": "P",
-    "note": "„bleiben bei Hitze oft in ihrer Wohnung und verlassen sie gar nicht“; am Wochenende sind die Räume bisher geschlossen (b, Z)."
+    "note": "„Gerade die Menschen, für die das Angebot gedacht ist“ = die eigentliche Zielgruppe, sie „verlassen diese gar nicht“; am Wochenende sind die Räume bisher geschlossen (b, Z); „angenehme 23 Grad“ widerlegt c."
    },
    "13": {
     "type": "Z",
-    "note": "„vier Monate“ = „drei bis zwölf Monate“; „Voll eingerichtete Apartments“ = möbliert; d nur „höchstens drei Wochen“."
+    "note": "„vier Monate“ passt in „drei bis zwölf Monate“; „Voll eingerichtete Apartments“ = keine eigenen Möbel nötig; d nur „höchstens drei Wochen“."
    },
    "14": {
     "type": "B",
-    "note": "Hund und Garten: f hat „eigenem Gärtchen“ und „Haustiere sind erlaubt“; e hat einen Garten, aber „Haustiere nicht gestattet“."
+    "note": "Hund und „im Freien essen“: f hat „eigenem Gärtchen“ und „Haustierhaltung ist erlaubt“; e hat einen Garten, aber „Haustierhaltung nicht gestattet“."
    },
    "15": {
     "type": "P",
-    "note": "„Treppen sind für sie ein Problem“ = „Aufzug“, „stufenlos“; „Supermarkt, Hausarzt“ im Haus; j: „3. Stock (ohne Aufzug)“."
+    "note": "„Stufen fallen ihnen schwer“ = „Personenaufzug“, „stufenlos“; „Supermarkt, Hausarztpraxis“ im Gebäude = kein Auto nötig; j: „3. Stock (ohne Aufzug)“."
    },
    "16": {
     "type": "P",
-    "note": "„Statt Miete zu zahlen, unterstützen Sie“ = Hilfe statt Miete."
+    "note": "„Statt einer Miete leisten Sie Ihren Vermietern Unterstützung“ = Hilfe im Alltag statt Miete; h nennt keine Hilfe gegen Miete."
    },
    "17": {
     "type": "B",
-    "note": "Arbeitszimmer in „ruhiger Randlage“; e und f vermieten „Nur an Familien mit Kindern“, h hat nur einzelne Zimmer."
+    "note": "„separates Zimmer“ = „Arbeitszimmer“, den „Trubel der Innenstadt“ vermeiden = „ruhiger Randlage“; e und f vermieten nur an „Familien mit Kindern“, h hat nur einzelne Zimmer."
    },
    "18": {
     "type": "W",
-    "note": "d nimmt „Hund oder Katze“, ist aber eine Ferienwohnung auf Zeit; g liegt zentral, aber „Haustiere · nein“."
+    "note": "Gesucht ist eine Wohnung zum dauerhaften Wohnen: d nimmt „Hund oder Katze“, ist aber eine Ferienwohnung „bis höchstens drei Wochen“; g liegt zentral, aber „Haustierhaltung · nein“."
    },
    "19": {
     "type": "P",
-    "note": "„mit Leuten in seinem Alter“, aber nicht mit Studenten = „drei Berufstätige zwischen 25 und 32“; h mischt alle Altersgruppen."
+    "note": "„mit Gleichaltrigen“, aber nicht mit Studierenden = Berufstätige „zwischen 25 und 32“, „Studierende bitte nicht anfragen“; h mischt alle Altersgruppen."
    },
    "20": {
     "type": "P",
-    "note": "„Die Knallerei in jeder einzelnen Straße muss aber endlich aufhören“ – nur ein Feuerwerk der Stadt wäre ihr recht."
+    "note": "„Die Knallerei mit Raketen und Böllern in jeder einzelnen Straße muss aber endlich aufhören“ – nur ein Feuerwerk der Stadt wäre ihr recht."
    },
    "21": {
     "type": "K",
@@ -1151,19 +1151,19 @@
    },
    "22": {
     "type": "B",
-    "note": "Alternativvorschlag: „Statt alles zu untersagen, sollte jede Stadt Zonen festlegen“."
+    "note": "Alternativvorschlag: „Statt das Feuerwerk ganz zu verbieten, sollte jede Stadt Zonen festlegen“."
    },
    "23": {
     "type": "K",
-    "note": "Meinungswechsel: früher Raketen für „mindestens hundert Euro“, dann „Seitdem sehe ich die Sache anders“."
+    "note": "Meinungswechsel: früher Raketen für „mindestens hundert Euro“, dann „Seit dieser Erfahrung sehe ich die Sache anders“."
    },
    "24": {
     "type": "S",
-    "note": "Enkel und Mann sind begeistert; sie selbst: „Ich sehe das ganz anders“."
+    "note": "Enkelkinder und Mann sind begeistert; sie selbst: „Ich sehe das ganz anders“."
    },
    "25": {
     "type": "B",
-    "note": "„Ich wäre sofort dafür, wenn …“ – die Bedingung ist nicht erfüllt: „zu teuer, sagt er“."
+    "note": "„Ich wäre sofort für ein Verbot, wenn …“ – die Bedingung ist nicht erfüllt: „zu teuer, sagt er“."
    },
    "26": {
     "type": "P",
@@ -1171,19 +1171,19 @@
    },
    "27": {
     "type": "P",
-    "note": "„unterschriebene Vollmacht“ = schriftliche Erlaubnis; der Ausweis allein (b) reicht nicht; der Anruf gilt fürs späte Bringen (a, W)."
+    "note": "„unterschriebene Vollmacht“ = unterzeichnetes Schreiben; der Ausweis kommt nur „zusätzlich“ dazu (b, N); der Anruf gilt fürs späte Bringen (a, W)."
    },
    "28": {
     "type": "Z",
-    "note": "„mindestens 24 Stunden beschwerdefrei“; das Attest gilt für Allergien (b, W)."
+    "note": "„mindestens 24 Stunden beschwerdefrei“; dass das Fieber weg ist, reicht nicht (c); das Attest gilt für Allergien (b, W)."
    },
    "29": {
     "type": "N",
-    "note": "Süßigkeiten „auch nicht zum Geburtstag“ (a); gebacken wird „in der Gruppe“, nicht von den Eltern (b)."
+    "note": "Süßigkeiten „auch nicht zum Geburtstag“ (a); gebacken wird „in der Gruppe“, nicht von den Eltern zu Hause (b); c umschreibt das mit „vor Ort“."
    },
    "30": {
     "type": "Z",
-    "note": "„bis zum 31. März … anmelden“ = früh im Jahr; ohne Anmeldung geht es nicht (a)."
+    "note": "„bis zum 31. März … anmelden“ = lange vor den Sommerferien; ohne Anmeldung geht es nicht (a, N); „Ende Juli“ ist zu spät (c)."
    }
   },
   "hoeren": {
@@ -1193,7 +1193,7 @@
    },
    "2": {
     "type": "P",
-    "note": "Treffpunkt „nicht die Gipfelbahn, sondern das Kassenhaus“; von einer späteren Kurszeit ist keine Rede (c)."
+    "note": "Treffpunkt „nicht die Gipfelbahn, sondern das Kassenhaus“ = woanders als sonst; die Kinderkurse finden statt (b, W); „wie immer an der Gipfelbahn“ ist falsch (c)."
    },
    "3": {
     "type": "Z",
@@ -1201,23 +1201,23 @@
    },
    "4": {
     "type": "P",
-    "note": "„gib mir … einen Umschlag“ = Geld für das Paar; nichts für die Wohnung (b, N); Bus statt Auto (a)."
+    "note": "„gib mir … einen Umschlag“ = mit Geld an der Reise beteiligen; nichts „für die Wohnung“ (b, N); es gibt „kaum Parkplätze“, deshalb Bus statt Auto (a)."
    },
    "5": {
     "type": "S",
-    "note": "Eingebrochen wurde angeblich „in der Nachbarschaft“, nicht bei den Angerufenen."
+    "note": "Eingebrochen wurde angeblich „in der Nachbarschaft“, nicht in der Wohnung der Angerufenen."
    },
    "6": {
     "type": "P",
-    "note": "„sofort auf und wählen Sie selbst die 110“; nicht über die Rückruftaste (a, N); echte Polizisten holen nichts ab (c)."
+    "note": "„sofort auf und wählen Sie selbst die 110“ = selbst den Notruf wählen; nicht über die Rückruftaste (a, N); echte Polizisten holen nichts ab (c)."
    },
    "7": {
     "type": "Z",
-    "note": "„nicht wie sonst um 15 Uhr, sondern bereits um 14 Uhr“."
+    "note": "„nicht wie sonst um 15 Uhr, sondern bereits um 14 Uhr“ = früher kommen."
    },
    "8": {
     "type": "P",
-    "note": "Ein-Euro-Münze, „die Sie anschließend zurückbekommen“ = kostet nichts; geschlossen ist nur das Café (b, W)."
+    "note": "Ein-Euro-Münze, „die Sie anschließend zurückbekommen“ = am Ende kostenlos; geschlossen ist nur das Café (b, W)."
    },
    "9": {
     "type": "Z",
@@ -1228,12 +1228,12 @@
     "note": "„Die Gebühr beträgt fünf Euro“; kein Finderlohn (b, N); „ohne Termin“ (c)."
    },
    "11": {
-    "type": "P",
-    "note": "„Füllen Sie die Becher bitte nur halb voll“ = bis zur Hälfte; nicht auf die Straße laufen (b)."
+    "type": "N",
+    "note": "„Füllen Sie die Becher bitte nur halb voll“ = nur bis zur Hälfte; „möglichst voll“ (a) ist das Gegenteil; nicht auf die Straße laufen (b)."
    },
    "12": {
     "type": "P",
-    "note": "„bauen Sie bitte die Tische ab und sammeln die Becher ein“; den Müll holt die Stadtreinigung (a, S); Schicht bis halb eins (c, Z)."
+    "note": "„bauen Sie bitte die Tische ab und sammeln die Becher ein“ = den Platz in Ordnung bringen; den Müll holt die Stadtreinigung (a, S); Schicht bis halb eins (c, Z)."
    },
    "13": {
     "type": "P",
@@ -1241,11 +1241,11 @@
    },
    "14": {
     "type": "Z",
-    "note": "„um zwei Uhr … in die Turnhalle eingeladen“; an den Stationen „leider nicht“ (a, N); im Zelt nur Frühstück (b)."
+    "note": "„um zwei Uhr … in die Turnhalle eingeladen“ = nach dem Ende der Schicht; an den Stationen „leider nicht“ (a, N); im Zelt nur Frühstück (b)."
    },
    "15": {
     "type": "P",
-    "note": "„jetzt gleich auf den Parkplatz am Stadion um“; ab neun ist die Turnhalle gesperrt (b, Z)."
+    "note": "„jetzt gleich auf den Parkplatz am Stadion um“ = umparken; ab neun ist die Turnhalle gesperrt (b, Z)."
    },
    "16": {
     "type": "S",
@@ -1253,11 +1253,11 @@
    },
    "17": {
     "type": "P",
-    "note": "„am Computer fünfzig Wissensfragen beantworten“, danach kam die Einladung = Wissen geprüft."
+    "note": "„am Computer fünfzig Wissensfragen beantworten“, erst danach kam die Einladung = Test vor der Einladung."
    },
    "18": {
     "type": "P",
-    "note": "„Aber sobald die Kameras liefen, war das plötzlich vorbei“ = weniger aufgeregt."
+    "note": "„Aber sobald die Kameras liefen, war das plötzlich vorbei“ = die Nervosität legte sich."
    },
    "19": {
     "type": "S",

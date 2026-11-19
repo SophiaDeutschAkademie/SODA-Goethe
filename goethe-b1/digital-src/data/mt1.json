@@ -9,10 +9,10 @@
     "date": "Sonntag, 17. März",
     "title": "Plan B",
     "paragraphs": [
-     "Eigentlich sollte dieser Eintrag schon gestern online sein. Stattdessen schreibe ich ihn jetzt in Janas Küche in Wien – aber der Reihe nach: Am Freitagmorgen stand ich um sechs am Hamburger Flughafen. Das Ticket hatte ich schon vor drei Monaten gebucht, weil meine Freundin Jana am Samstag ihren dreißigsten Geburtstag feiern wollte. An der Anzeigetafel dann die Überraschung: „Flug gestrichen“. Streik! Am Schalter drängten sich schon über hundert Reisende. Die Mitarbeiterin bedauerte: Einen freien Platz nach Wien könne sie mir frühestens am Montag anbieten. Montag! Da wäre die Feier längst vorbei gewesen!",
-     "Also habe ich auf dem Handy nach Zügen gesucht. Es gibt tatsächlich eine direkte Verbindung; sie dauert allerdings fast neun Stunden, und die Fahrkarte für denselben Tag kostete beträchtlich mehr als mein Flugticket. Ich habe notgedrungen gebucht – was blieb mir anderes übrig? Zum Glück hatte ich meinen Laptop dabei. So konnte ich unterwegs arbeiten und musste keinen Urlaubstag opfern. Mein Vater riet mir am Telefon hartnäckig, lieber einen Mietwagen zu nehmen. Aber neun Stunden allein auf der Autobahn? Nein danke.",
-     "Die Zugfahrt war dann erstaunlich kurzweilig: Ich hatte einen Fensterplatz, das WLAN funktionierte fast durchgehend, und in Nürnberg stieg eine ältere Dame zu. Sie erzählte mir bis Passau von ihrer Zeit als Schiffsköchin. Nur der Speisewagen war eine Enttäuschung: Die Kaffeemaschine war defekt.",
-     "Kurz nach zehn Uhr abends kam ich in Wien an, mit zwanzig Minuten Verspätung. Ein langer Tag! Jana hat mich trotz der späten Stunde am Bahnhof abgeholt. Wir saßen dann noch bis zwei Uhr in ihrer Küche und haben geplaudert – so viel zu meinem Vorsatz, früh ins Bett zu gehen. Die Feier gestern war wunderbar. Heute Abend geht es mit dem Nachtzug zurück – auf das Flugzeug verzichte ich diesmal gern. Das Geld für das gestrichene Ticket bekomme ich übrigens zurück, das hat mir die Fluggesellschaft per E-Mail zugesichert. Ob es tatsächlich auf meinem Konto eingeht, erzähle ich euch dann hier."
+     "Eigentlich sollte dieser Eintrag schon gestern online sein, doch stattdessen schreibe ich ihn jetzt in Janas Küche in Wien – aber der Reihe nach. Am Freitagmorgen stand ich um sechs am Hamburger Flughafen. Den Flug hatte ich bereits vor drei Monaten gebucht, weil meine Freundin Jana am Samstag ihren dreißigsten Geburtstag feierte und ich diese Feier auf keinen Fall verpassen wollte. An der Anzeigetafel dann die Überraschung: „Flug gestrichen“ – das Personal streikte. Am Schalter standen schon über hundert Reisende. Die Mitarbeiterin bedauerte: Einen freien Platz nach Wien könne sie mir frühestens am Montag anbieten. Am Montag wäre die Feier aber längst vorbei gewesen!",
+     "Also habe ich auf dem Handy nach einer Zugverbindung gesucht. Es gibt tatsächlich eine direkte Verbindung, die allerdings fast neun Stunden dauert, und die Fahrkarte für denselben Tag war beträchtlich teurer als mein Flugticket. Ich habe die Fahrkarte notgedrungen gebucht – was blieb mir anderes übrig? Zum Glück hatte ich meinen Laptop dabei. So konnte ich unterwegs arbeiten und musste keinen zusätzlichen Urlaubstag beantragen. Mein Vater riet mir am Telefon hartnäckig, lieber einen Mietwagen zu nehmen. Aber neun Stunden allein auf der Autobahn? Darauf habe ich lieber verzichtet.",
+     "Die Zugfahrt war dann erstaunlich kurzweilig: Ich hatte einen Fensterplatz, das WLAN funktionierte fast durchgehend, und in Nürnberg stieg eine ältere Dame zu, die mir bis Passau von ihrer Zeit als Schiffsköchin erzählte. Nur der Speisewagen war eine Enttäuschung, denn die Kaffeemaschine war defekt.",
+     "Kurz nach zehn Uhr abends kam ich mit zwanzig Minuten Verspätung in Wien an. Jana hat mich trotz der späten Stunde am Bahnhof abgeholt, und wir haben dann noch bis zwei Uhr in ihrer Küche gesessen und geplaudert – so viel zu meinem Vorsatz, früh ins Bett zu gehen. Die Feier gestern war wunderbar. Heute Abend fahre ich mit dem Nachtzug zurück, denn auf das Flugzeug verzichte ich diesmal gern. Das Geld für den gestrichenen Flug bekomme ich übrigens zurück, das hat mir die Fluggesellschaft per E-Mail zugesichert. Ob das Geld tatsächlich auf meinem Konto eingeht, erzähle ich euch dann hier."
     ],
     "closing": "Bis bald, eure Lea"
    },
@@ -24,32 +24,32 @@
    "items": [
     {
      "no": "1",
-     "text": "Die Reise war schon lange geplant.",
+     "text": "Lea hatte die Reise nach Wien nicht kurzfristig gebucht.",
      "answer": "R"
     },
     {
      "no": "2",
-     "text": "Mit dem Flugzeug wäre Lea zu spät zur Party gekommen.",
+     "text": "Mit einem späteren Flug wäre Lea nicht mehr rechtzeitig zur Feier gekommen.",
      "answer": "R"
     },
     {
      "no": "3",
-     "text": "Die Bahn war die günstigere Lösung.",
+     "text": "Für die Zugfahrt am selben Tag zahlte Lea weniger als für ihr Flugticket.",
      "answer": "F"
     },
     {
      "no": "4",
-     "text": "Der Vorschlag mit der Bahn kam von Leas Vater.",
+     "text": "Leas Vater riet ihr am Telefon, mit dem Zug zu fahren.",
      "answer": "F"
     },
     {
      "no": "5",
-     "text": "Auf der Fahrt hatte Lea Gesellschaft.",
+     "text": "Einen Teil der Zugfahrt verbrachte Lea im Gespräch mit einer Mitreisenden.",
      "answer": "R"
     },
     {
      "no": "6",
-     "text": "Die Fluggesellschaft hat Lea den Ticketpreis bereits erstattet.",
+     "text": "Das Geld für den gestrichenen Flug ist schon auf Leas Konto eingegangen.",
      "answer": "F"
     }
    ]
@@ -61,7 +61,7 @@
      "title": "Pflücken erlaubt",
      "lead": "In Lohheim wächst auf öffentlichen Flächen Gemüse – für alle.",
      "paragraphs": [
-      "Wer im Sommer durch den Stadtpark von Lohheim schlendert, sieht statt Rosen Tomatenstauden und statt Rasen Kartoffelbeete. „Pflücken erlaubt“ steht auf kleinen Schildern. Seit fünf Jahren bepflanzt die Stadt Grünstreifen und Brachflächen mit Obst und Gemüse, das sich alle Bürgerinnen und Bürger unentgeltlich mitnehmen dürfen. Die Idee stammt aus der Stadtgärtnerei: Die Blumenbeete waren kostspielig. Außerdem mussten sie jedes Jahr komplett neu bepflanzt werden. „Gemüse verursacht keine höheren Kosten als Blumen, aber es nützt den Menschen“, sagt Stadtgärtner Ralf Beck. Die Verwüstungen, die anfangs viele befürchtet hatten, sind ausgeblieben. „Was allen gehört, macht man nicht so schnell kaputt“, meint Beck. Nur die Kirschen im Kurpark seien jedes Jahr verschwunden, bevor die Gärtner überhaupt hinschauen könnten. Am beliebtesten sind Tomaten und Kräuter, die hier prächtig gedeihen. Kartoffeln bleiben dagegen oft liegen, weil viele nicht wissen, wann sie erntereif sind. Auf jedem Schild steht deshalb, woran man das erkennt. Mittlerweile packen rund 60 Ehrenamtliche beim Gießen und Ernten mit an, und eine Schulklasse betreut die Kräuterbeete am Bahnhof. Beck wird regelmäßig von anderen Städten um Auskunft gebeten. Sein Rat: klein anfangen, mit einem einzigen Beet an einer belebten Stelle. „Und Geduld mitbringen. Im ersten Jahr wurde bei uns kaum etwas geerntet – die Leute haben sich nicht getraut, obwohl es ausdrücklich erlaubt war.“"
+      "Wer im Sommer durch den Stadtpark von Lohheim spaziert, sieht statt Rosen Tomatenstauden und statt Rasen Kartoffelbeete. „Pflücken erlaubt“ steht auf kleinen Schildern. Seit fünf Jahren bepflanzt die Stadtverwaltung Grünstreifen und Brachflächen mit Obst und Gemüse, das alle Bürgerinnen und Bürger unentgeltlich mitnehmen dürfen. Die Idee stammt aus der Stadtgärtnerei, denn die Blumenbeete waren kostspielig, brachten aber außer einem schönen Anblick niemandem etwas. „Die Pflege der Gemüsebeete verursacht keine geringeren Kosten als die der Blumenbeete, aber die Bevölkerung hat einen Nutzen davon“, sagt Stadtgärtner Ralf Beck. Die Verwüstungen, die anfangs viele befürchtet hatten, sind ausgeblieben. „Was allen gehört, macht man nicht so schnell kaputt“, sagt Beck. Nur die Kirschen im Kurpark sind jedes Jahr verschwunden, bevor die Gärtner sie ernten konnten. Am beliebtesten sind Tomaten und Kräuter, die in Lohheim prächtig gedeihen. Kartoffeln bleiben dagegen oft liegen, weil viele nicht wissen, wann man sie ernten kann; deshalb steht auf jedem Schild eine kurze Erklärung. Mittlerweile unterstützen rund 60 Ehrenamtliche die Stadtgärtnerei beim Gießen und Ernten, und eine Schulklasse hat die Verantwortung für die Kräuterbeete am Bahnhof übernommen. Beck wird regelmäßig von anderen Städten um Beratung gebeten. Sein Rat lautet, klein anzufangen, mit einem einzigen Beet an einer belebten Stelle. „Und man sollte Geduld mitbringen, denn im ersten Jahr wurde bei uns kaum etwas geerntet – die Leute haben sich nicht getraut, obwohl die Ernte ausdrücklich erlaubt war.“"
      ],
      "footnote": "",
      "source": "aus einer deutschen Zeitung",
@@ -80,9 +80,9 @@
        "no": "7",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "eine Gemeinde, die ihre Grünflächen essbar macht.",
-        "b": "eine Schulklasse, die am Bahnhof Kräuter anbaut.",
-        "c": "einen Verein, der Lebensmittel an Bedürftige verteilt."
+        "a": "eine Stadt, die auf öffentlichen Flächen Essen für alle anbaut.",
+        "b": "eine Schulklasse, die sich um die Kräuterbeete am Bahnhof kümmert.",
+        "c": "Ehrenamtliche, die Obst und Gemüse an Bedürftige verteilen."
        },
        "answer": "a"
       },
@@ -90,9 +90,9 @@
        "no": "8",
        "stem": "Warum setzt Lohheim auf Gemüsebeete?",
        "options": {
-        "a": "Die Blumenbeete wurden häufig beschädigt.",
-        "b": "Gemüse ist in der Pflege günstiger.",
-        "c": "Die Einwohner haben etwas davon."
+        "a": "Die Blumenbeete wurden immer wieder verwüstet.",
+        "b": "Die Pflege der Gemüsebeete verursacht geringere Kosten.",
+        "c": "Die Ernte soll den Einwohnern zugutekommen."
        },
        "answer": "c"
       },
@@ -100,9 +100,9 @@
        "no": "9",
        "stem": "Ralf Beck rät anderen Städten, …",
        "options": {
-        "a": "von Anfang an viele Helfer zu gewinnen.",
-        "b": "im kleinen Rahmen zu beginnen.",
-        "c": "die Beete im ersten Jahr einzuzäunen."
+        "a": "von Anfang an möglichst viele Ehrenamtliche zu gewinnen.",
+        "b": "sich zunächst auf eine Fläche zu beschränken.",
+        "c": "im ersten Jahr auf die Ernte zu verzichten."
        },
        "answer": "b"
       }
@@ -113,7 +113,7 @@
      "title": "Bücher statt Telefonate",
      "lead": "In Aarburg ist aus einer alten Telefonkabine* eine Bibliothek geworden.",
      "paragraphs": [
-      "Seit die Telefongesellschaft vor einigen Jahren die letzten öffentlichen Telefonkabinen abgebaut hat, stehen in vielen Gemeinden verwaiste Häuschen ungenutzt herum. In Aarburg hat ein Verein die ausgediente Kabine am Bahnhofplatz in eine Tauschbibliothek umgewandelt: Wer ein Buch bringt, darf ein anderes mitnehmen – ohne Ausweis, ohne Gebühr, rund um die Uhr. Die Idee hatte die pensionierte Lehrerin Ruth Kessler. „Bei mir zu Hause stapelten sich Hunderte Bücher, die ich nie mehr lesen würde“, erzählt sie. Sie sprach bei der Gemeinde vor, und diese überlässt ihr die Kabine seither für einen Franken pro Jahr. Die Regale zimmerte ihr Nachbar, ein Schreiner. Ein Jahr später ist die Kabine nie leer. Krimis und Kinderbücher sind am gefragtesten, Kochbücher bleiben lange stehen. Einmal pro Woche sieht Kessler nach dem Rechten, sortiert die Bücher und räumt beschädigte aus. In die Kabine passen rund 150 Bände; Feuchtigkeit war anfangs das größte Problem, doch seit an der Tür eine neue Dichtung sitzt, bleiben die Regale trocken. Probleme? „Am Anfang haben zwei Jugendliche ihre Getränkedosen in die Regale gestellt. Ich habe kurzerhand einen Abfalleimer danebengestellt, seitdem ist Ruhe.“ Die Kinderbücher stehen inzwischen in einem eigenen, niedrigen Regal, damit die Kleinen selbst auswählen können. Wie viele Bücher im Jahr durch die Kabine gehen, dokumentiert die Gemeinde: 2023 waren es rund 4000. Die Gemeinde plant nun eine zweite Kabine beim Schwimmbad; die Betreuung soll diesmal die Schule übernehmen."
+      "Seit die Telefongesellschaft vor einigen Jahren die letzten öffentlichen Telefonkabinen abgebaut hat, stehen in vielen Gemeinden leere Kabinen herum. In Aarburg hat ein Verein die ausgediente Kabine am Bahnhofplatz in eine Tauschbibliothek umgewandelt: Wer ein Buch bringt, darf ein anderes mitnehmen – ohne Ausweis, ohne Gebühr, rund um die Uhr. Die Idee hatte die pensionierte Lehrerin Ruth Kessler. „Bei mir zu Hause stapelten sich Hunderte Bücher, die ich nie mehr lesen würde“, erzählt sie. Sie bat die Gemeinde um eine Genehmigung, und die Gemeinde überlässt ihr die Kabine seither für einen Franken pro Jahr zur Nutzung. Die Regale zimmerte ihr Nachbar, ein Schreiner. Ein Jahr nach der Eröffnung ist die Kabine nie leer. Krimis und Kinderbücher sind am gefragtesten, Kochbücher bleiben dagegen lange im Regal stehen. Einmal pro Woche sortiert Kessler die Bücher und räumt beschädigte Bücher aus. In die Kabine passen rund 150 Bücher; die Feuchtigkeit war anfangs das größte Problem, doch seit an der Tür eine neue Dichtung sitzt, bleiben die Regale trocken. „Am Anfang haben zwei Jugendliche ihre Getränkedosen in die Regale gestellt. Ich habe einfach einen Abfalleimer neben die Kabine gestellt, seitdem gibt es keine Probleme mehr.“ Die Kinderbücher stehen inzwischen in einem eigenen, niedrigen Regal, damit die Kinder selbst Bücher aussuchen können. Wie viele Bücher im Jahr durch die Kabine gehen, dokumentiert die Gemeinde: 2023 waren es rund 4000. Wegen dieser Beliebtheit plant die Gemeinde nun eine zweite Kabine beim Schwimmbad; die Betreuung soll diesmal die Schule übernehmen."
      ],
      "footnote": "*Telefonkabine = Schweizer Standard für „Telefonzelle“",
      "source": "aus einer Schweizer Zeitung",
@@ -123,9 +123,9 @@
        "no": "10",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "die Geschichte des öffentlichen Telefons in der Schweiz.",
-        "b": "eine Lehrerin, die ihre Büchersammlung verkauft.",
-        "c": "eine Idee, die einem ausgedienten Häuschen eine neue Aufgabe gibt."
+        "a": "das Verschwinden der öffentlichen Telefonkabinen.",
+        "b": "eine pensionierte Lehrerin, die ihre Bücher verkauft.",
+        "c": "eine alte Telefonzelle mit einem neuen Zweck."
        },
        "answer": "c"
       },
@@ -133,9 +133,9 @@
        "no": "11",
        "stem": "Ruth Kessler …",
        "options": {
-        "a": "wollte Bücher loswerden, die sie nicht mehr brauchte.",
-        "b": "zahlt der Gemeinde eine hohe Miete.",
-        "c": "hat die Regale selbst gezimmert."
+        "a": "hatte mehr Lesestoff, als sie selbst noch brauchen konnte.",
+        "b": "zahlt der Gemeinde für die Kabine eine hohe Jahresmiete.",
+        "c": "hat die Regale für die Kabine selbst gezimmert."
        },
        "answer": "a"
       },
@@ -143,9 +143,9 @@
        "no": "12",
        "stem": "Die zweite Tauschbibliothek …",
        "options": {
-        "a": "ist bereits in Betrieb.",
-        "b": "wird nicht von denselben Leuten betreut wie die erste.",
-        "c": "ist eine Idee von Frau Kessler."
+        "a": "steht schon beim Schwimmbad bereit.",
+        "b": "bekommt andere Betreuer als die erste Kabine.",
+        "c": "wird von Ruth Kessler beim Schwimmbad geplant."
        },
        "answer": "b"
       }
@@ -164,37 +164,37 @@
    "items": [
     {
      "no": "13",
-     "text": "Paul fliegt im Sommer nach Mexiko und möchte sich dort verständigen können.",
+     "text": "Paul reist im Sommer nach Mexiko und will sich dort mit den Leuten unterhalten können, obwohl er die Landessprache noch gar nicht spricht.",
      "answer": "a"
     },
     {
      "no": "14",
-     "text": "Marta möchte ein Instrument lernen, arbeitet aber in wechselnden Schichten.",
+     "text": "Marta möchte ein Instrument lernen, ihre Dienstzeiten im Krankenhaus ändern sich aber ständig.",
      "answer": "d"
     },
     {
      "no": "15",
-     "text": "Ben isst kein Fleisch und sucht am Feierabend Gesellschaft.",
+     "text": "Ben verzichtet auf Fleisch und möchte nach Feierabend in Gesellschaft essen.",
      "answer": "e"
     },
     {
      "no": "16",
-     "text": "Frau Yilmaz, 68, möchte ihre Enkel öfter auf dem Bildschirm sehen.",
+     "text": "Frau Yilmaz, 68, möchte ihre Enkel in Kanada beim Telefonieren nicht nur hören, sondern auch sehen.",
      "answer": "f"
     },
     {
      "no": "17",
-     "text": "Vom langen Sitzen im Büro tut Jonas der Rücken weh. Zeit hat er nur mittags.",
+     "text": "Jonas hat durch seine Büroarbeit Rückenbeschwerden und kann nur in der Mittagspause etwas dagegen tun.",
      "answer": "j"
     },
     {
      "no": "18",
-     "text": "Lin braucht das Zertifikat B2, kann aber nur von zu Hause aus lernen.",
+     "text": "Lin muss das Zertifikat B2 nachweisen, kann sich aber wegen ihrer kleinen Kinder nur online vorbereiten.",
      "answer": "0"
     },
     {
      "no": "19",
-     "text": "Herr Brandt sucht etwas, das er gemeinsam mit seiner zwölfjährigen Tochter machen kann.",
+     "text": "Herr Brandt möchte samstags zusammen mit seiner zwölfjährigen Tochter etwas Kreatives machen.",
      "answer": "c"
     }
    ],
@@ -207,13 +207,13 @@
      "title": "Spanisch für die Reise – Mexiko, Kuba, Spanien",
      "subtitle": "Sprache und Alltag für unterwegs",
      "facts": [
-      "Montag und Mittwoch · 18.30–20.00 Uhr",
-      "12 Abende ab 8. April · 180 €"
+      "montags und mittwochs · jeweils 18.30–20.00 Uhr",
+      "12 Abende ab 8. April · Kursgebühr 180 €"
      ],
      "body": [
-      "Am Ende des Kurses können Sie im Restaurant bestellen, nach dem Weg fragen, sich vorstellen und einfache Gespräche mit Einheimischen führen. Der Kurs richtet sich an alle, die noch nie Spanisch gelernt haben und ihre Reise sorgfältig vorbereiten möchten. Kleine Gruppen, Lehrbuch inbegriffen."
+      "Am Ende des Kurses bestellen Sie im Restaurant, fragen nach dem Weg, stellen sich vor und führen einfache Gespräche mit Einheimischen. Ideal zur sorgfältigen Vorbereitung Ihrer Reise, keine Vorkenntnisse erforderlich. Unterricht in Kleingruppen, Lehrbuch in der Kursgebühr inbegriffen."
      ],
-     "footer": "www.vhs-nord.de · 0421 / 36 10 10"
+     "footer": "www.vhs-nord.de · Auskunft und Anmeldung 0421 / 36 10 10"
     },
     {
      "letter": "b",
@@ -224,9 +224,9 @@
      "subtitle": "Vier Samstage, eine Tasche und ein Kissen",
      "facts": [],
      "body": [
-      "Wir vermitteln Ihnen die Grundlagen: Schnittmuster, gerade Naht, Reißverschluss und Saum, und am Ende nehmen Sie eine fertig genähte Tasche samt Kissen mit nach Hause. Stoffe und Garn stellen wir zur Verfügung; Ihre eigene Nähmaschine bringen Sie bitte mit. Höchstens sechs Teilnehmende, jeweils von 9 bis 13 Uhr."
+      "Wir vermitteln Ihnen die Grundlagen des Nähens – Schnittmuster, gerade Naht, Reißverschluss, Saum –, und am Ende nehmen Sie eine fertig genähte Tasche samt Kissen mit nach Hause. Stoffe und Garn in der Kursgebühr inbegriffen, eigene Nähmaschine erforderlich. Höchstens sechs Teilnehmende, Kurszeit jeweils 9–13 Uhr."
      ],
-     "footer": "Anmeldung: 0421 / 55 66 77 · Werkstatt am Kanal 3"
+     "footer": "Anmeldung unter 0421 / 55 66 77 · Werkstatt am Kanal 3"
     },
     {
      "letter": "c",
@@ -237,9 +237,9 @@
      "subtitle": "ARBEITEN MIT TON – AN SECHS SAMSTAGEN",
      "facts": [],
      "body": [
-      "Groß und Klein an einer Töpferscheibe: Wir arbeiten ausschließlich im Duo – ein Kind zwischen 8 und 14 Jahren und eine erwachsene Person aus der Familie. Nachmittags von 14 bis 17 Uhr, Material und Brennen sind im Preis enthalten."
+      "Groß und Klein gemeinsam an der Töpferscheibe – Teilnahme ausschließlich im Duo, also ein Kind zwischen 8 und 14 Jahren in Begleitung einer erwachsenen Person aus dem Familienkreis. Kurszeit jeweils 14–17 Uhr, Material und Brennen in der Kursgebühr inbegriffen."
      ],
-     "footer": "140 € pro Paar · werkstatt-am-deich.de"
+     "footer": "Kursgebühr 140 € pro Paar · werkstatt-am-deich.de"
     },
     {
      "letter": "d",
@@ -253,7 +253,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Ob Gitarre, Klavier oder Geige – weil niemand sonst in der Stunde sitzt, vereinbaren wir den Termin jede Woche neu, morgens, abends oder am Sonntag. Wer kurzfristig einspringen muss, verschiebt die Unterrichtsstunde einfach. Leihinstrumente stehen bereit, die erste Probestunde ist unentgeltlich."
+      "Ob Gitarre, Klavier oder Geige – da beim Einzelunterricht niemand sonst teilnimmt, legen wir den Unterrichtstermin jede Woche neu nach Vereinbarung fest, vormittags, abends oder sonntags. Wer kurzfristig verhindert ist, verschiebt den Unterrichtstermin einfach telefonisch. Leihinstrumente vorhanden, keine Vorkenntnisse erforderlich, erste Probestunde unentgeltlich."
      ],
      "footer": "Tel. 0421 / 33 20 20 · musikschule-tonleiter.de"
     },
@@ -266,9 +266,9 @@
      "subtitle": "KOCHEN OHNE FLEISCH UND FISCH",
      "facts": [],
      "body": [
-      "Freitagabends kochen wir gemeinsam ein Menü aus drei Ländern und setzen uns anschließend an die lange Tafel – wer allein kommt, sitzt garantiert nicht allein am Tisch. Vorkenntnisse sind nicht erforderlich; wir kochen von 18 bis 22 Uhr, 65 € inklusive Getränke."
+      "Freitagabends kochen wir gemeinsam ein Menü aus drei Ländern und setzen uns anschließend an die lange Tafel – wer allein kommt, sitzt garantiert nicht allein am Tisch. Keine Vorkenntnisse erforderlich, Kurszeit jeweils 18–22 Uhr, Kursgebühr 65 € einschließlich Getränke."
      ],
-     "footer": "Marktstraße 12 · www.loeffelweise.de"
+     "footer": "Marktstraße 12 · Anmeldung unter www.loeffelweise.de"
     },
     {
      "letter": "f",
@@ -279,9 +279,9 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Die Kinder und Enkel wohnen weit weg? Unsere geduldigen Kursleiterinnen zeigen Ihnen Schritt für Schritt, wie Sie Ihre Liebsten sehen und hören, Fotos verschicken und Nachrichten lesen. Vier Dienstagvormittage, die Teilnahme ist unentgeltlich. Bitte bringen Sie Ihr eigenes Gerät mit."
+      "Kinder und Enkelkinder wohnen weit entfernt? Unsere geduldigen Kursleiterinnen zeigen Ihnen Schritt für Schritt, wie Sie Ihre Liebsten per Videoanruf sehen und hören, Fotos verschicken und Textnachrichten lesen. Vier Dienstagvormittage, Teilnahme unentgeltlich, eigenes Smartphone oder Tablet erforderlich."
      ],
-     "footer": "Anmeldung im Büro oder 0421 / 44 10 10"
+     "footer": "Auskunft und Anmeldung im Sekretariat oder unter 0421 / 44 10 10"
     },
     {
      "letter": "g",
@@ -292,9 +292,9 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Intensivkurs über vier Wochen in kleinen Gruppen, montags bis freitags von 9 bis 12 Uhr, mit einer Probeprüfung zum Abschluss. Der Unterricht findet ausschließlich bei uns am Theaterplatz statt; ein Fernkurs ist bewusst nicht im Angebot. Beginn: 3. Juni."
+      "Intensivkurs über vier Wochen in Kleingruppen, montags bis freitags jeweils 9–12 Uhr, mit einer Probeprüfung zum Abschluss. Der Unterricht findet ausschließlich in unseren Unterrichtsräumen am Theaterplatz statt; Online-Unterricht oder Fernkurse sind bewusst nicht im Angebot. Kursbeginn am 3. Juni."
      ],
-     "footer": "www.lingua-institut.de"
+     "footer": "Beratung und Anmeldung unter www.lingua-institut.de"
     },
     {
      "letter": "h",
@@ -305,9 +305,9 @@
      "subtitle": "SAMSTAGS 10 BIS 13 UHR",
      "facts": [],
      "body": [
-      "Wir programmieren eigene Spiele und bauen kleine Roboter, ganz ohne Vorkenntnisse. Das Angebot gilt für alle zwischen 10 und 14 Jahren, Laptops stehen bereit. Die Eltern holen ihre Kinder um 13 Uhr wieder ab; während des Workshops sind ausschließlich die Jugendlichen und unser Betreuungsteam im Raum."
+      "Wir programmieren eigene Spiele und bauen kleine Roboter, keine Vorkenntnisse erforderlich. Geeignet für Kinder zwischen 10 und 14 Jahren, Laptops vorhanden. Die Eltern holen ihre Kinder um 13 Uhr wieder ab, denn während des Kurses sind ausschließlich die Teilnehmenden und unser Betreuungsteam anwesend."
      ],
-     "footer": "codeclub-junior.de"
+     "footer": "Anmeldung unter codeclub-junior.de"
     },
     {
      "letter": "i",
@@ -318,7 +318,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Gitarre in der Gruppe: zehn Abende im Vereinsheim, donnerstags von 19 bis 20.30 Uhr. Wer fehlt, verpasst den Stoff – Nachholtermine sind nicht vorgesehen, weil die Gruppe gemeinsam voranschreitet. Ein eigenes Instrument ist erforderlich. Kursgebühr 80 €, Anmeldung bis Ende März."
+      "Gitarre in der Gruppe – zehn Abende im Vereinsheim, donnerstags jeweils 19–20.30 Uhr. Wer fehlt, verpasst den Stoff, denn Nachholtermine sind nicht vorgesehen – alle Teilnehmenden sollen gemeinsam vorankommen. Eigenes Instrument erforderlich, Kursgebühr 80 €, Anmeldung bis Ende März."
      ],
      "footer": "harmonie-musikverein.de"
     },
@@ -335,9 +335,9 @@
       "Am Marktplatz 4 · 8 €"
      ],
      "body": [
-      "Gedacht für alle, die den ganzen Tag am Schreibtisch verbringen: eine halbe Stunde zwischen zwei Terminen, anschließend duschen und zurück ins Büro. Sportkleidung ist nicht erforderlich. Gruppen ab fünf Personen aus einem Betrieb erhalten eine Ermäßigung."
+      "Gedacht für alle, die den ganzen Tag am Schreibtisch verbringen – eine halbe Stunde Bewegung gegen Verspannungen zwischen zwei Terminen, anschließend duschen und zurück ins Büro. Sportkleidung ist nicht erforderlich; Gruppen ab fünf Personen aus einem Betrieb erhalten eine Ermäßigung."
      ],
-     "footer": "Tel. 0421 / 78 90 12"
+     "footer": "Terminvereinbarung unter 0421 / 78 90 12"
     }
    ]
   },
@@ -358,49 +358,49 @@
      "no": "20",
      "name": "Sabine",
      "byline": "Sabine, 44, Bochum",
-     "text": "Als wir neulich in Italien waren, hat der Kellner die Handys der Kinder in einer Holzkiste eingesammelt – und was soll ich sagen: Wir haben zwei Stunden lang gelacht und geredet wie seit Jahren nicht mehr. Zu Hause bringen wir das freiwillig nicht zustande. Manchmal braucht es eben eine Regel von außen.",
+     "text": "Als wir neulich in Italien im Restaurant waren, hat der Kellner die Handys der Kinder in einer Holzkiste eingesammelt – und wir haben zwei Stunden lang gelacht und geplaudert wie seit Jahren nicht mehr. Zu Hause schaffen wir das von allein nicht, obwohl wir es uns immer wieder vornehmen. Manchmal braucht es eben eine klare Regelung, die für alle Gäste gilt.",
      "answer": "J"
     },
     {
      "no": "21",
      "name": "Tobias",
      "byline": "Tobias, 29, Linz",
-     "text": "Ich verstehe die Wirte, ehrlich gesagt. Aber ich bin beruflich oft unterwegs und esse allein – da lese ich beim Essen Nachrichten oder führe kurz ein Telefonat mit meiner Freundin. Soll ich stattdessen die Wand anstarren? Wer andere belästigt, den kann der Wirt auch so bitten, leiser zu sein. Mehr braucht es doch nicht.",
+     "text": "Ich verstehe die Gastwirte. Aber ich bin beruflich oft auf Geschäftsreisen und esse allein in Gaststätten – da lese ich beim Essen Nachrichten auf dem Smartphone oder telefoniere kurz mit meiner Freundin. Soll ich stattdessen die Wand anstarren? Wer seine Tischnachbarn stört, den kann der Gastwirt auch ohne Handyverbot bitten, leiser zu sein. Mehr braucht es nicht.",
      "answer": "N"
     },
     {
      "no": "22",
      "name": "Marek",
      "byline": "Marek, 35, Dresden",
-     "text": "Ein Restaurant ist kein Kindergarten. Ich bin erwachsen und entscheide selbst, ob mein Handy auf dem Tisch liegt. Wer mich bevormunden will, verliert mich als Gast. Übrigens fotografiere ich gern mein Essen – das ist kostenlose Werbung für den Wirt, darüber sollte er einmal nachdenken.",
+     "text": "Ein Restaurant ist kein Kindergarten. Ich bin erwachsen, und die Entscheidung, ob mein Smartphone auf dem Tisch liegt, treffe ich selbst. Ein Gastwirt, der mich bevormunden will, verliert mich als Gast. Übrigens fotografiere ich gern mein Essen und schicke die Fotos meinen Freunden – das ist kostenlose Werbung für das Lokal, darüber sollte der Gastwirt einmal nachdenken.",
      "answer": "N"
     },
     {
      "no": "23",
      "name": "Hanna",
      "byline": "Hanna, 19, Bern",
-     "text": "Meiner Generation wird das Handy ständig zum Vorwurf gemacht. Trotzdem: Wenn ich mit Freunden essen gehe und alle nur auf ihr Display starren, nervt es mich auch. Ich fände es gut, wenn ein Lokal Handys am Tisch untersagen würde – dann weiß man vorher, worauf man sich einlässt, und geht bewusst dorthin.",
+     "text": "Meiner Generation wird das Smartphone ständig zum Vorwurf gemacht. Trotzdem: Wenn ich mit Freunden essen gehe und alle nur auf ihr Smartphone starren, nervt es mich auch. Ich fände es gut, wenn ein Lokal Handys am Tisch untersagen würde. Dann weiß man vorher, worauf man sich einlässt, und geht bewusst in dieses Lokal.",
      "answer": "J"
     },
     {
      "no": "24",
      "name": "Ulrich",
      "byline": "Ulrich, 52, Graz",
-     "text": "Strenge Regeln lösen selten Probleme, zumeist schaffen sie neue. Wer einen wichtigen Anruf erwartet – etwa Eltern kleiner Kinder oder Ärzte im Bereitschaftsdienst –, bleibt dann einfach zu Hause. Besser wäre ein freundlicher Hinweis auf der Speisekarte. Das haben wir in unserem Café so gehandhabt, und die meisten Stammgäste halten sich daran.",
+     "text": "Strenge Verbote lösen selten Probleme. Meistens schaffen sie neue. Wer erreichbar sein muss – etwa Eltern von Kleinkindern oder Ärzte im Bereitschaftsdienst –, bleibt bei einem Handyverbot einfach zu Hause. Eine bessere Lösung wäre ein freundlicher Hinweis auf der Speisekarte. So machen wir es in unserem Café, und die meisten Stammgäste halten sich ohne Diskussion daran.",
      "answer": "N"
     },
     {
      "no": "25",
      "name": "Jasmin",
      "byline": "Jasmin, 38, Hannover",
-     "text": "Ich dachte lange, ein solches Verbot gehe zu weit. Dann habe ich ein Wochenende ohne Handy verbracht und gemerkt, wie viel entspannter ein Abendessen sein kann. Inzwischen suche ich am liebsten Restaurants auf, in denen das Handy in der Tasche bleiben muss – ja, es gibt schon einige. Für mich ist das keine Einschränkung, sondern ein Geschenk.",
+     "text": "Ich dachte lange, ein solches Handyverbot gehe zu weit. Dann habe ich ein Wochenende ohne Smartphone verbracht und festgestellt, wie viel entspannter eine Mahlzeit sein kann. Seit dieser Erfahrung gehe ich am liebsten in Restaurants, in denen das Smartphone in der Tasche bleiben muss – ja, es gibt schon einige. Für mich ist das Handyverbot keine Einschränkung, sondern ein Geschenk.",
      "answer": "J"
     },
     {
      "no": "26",
      "name": "Kemal",
      "byline": "Kemal, 47, Frankfurt",
-     "text": "Als Vater von drei Kindern wünsche ich mir nichts mehr als ein Abendessen ohne Bildschirme. Aber das ist meine Aufgabe, nicht die des Wirts. Wenn es mir nicht gelingt, meinen Kindern klare Regeln beizubringen, hilft auch kein Schild an der Restauranttür.",
+     "text": "Als Vater von drei Kindern wünsche ich mir nichts mehr als eine Mahlzeit ohne Bildschirme. Aber die Erziehung ist meine Aufgabe, nicht die des Gastwirts. Wenn es mir nicht gelingt, meinen Kindern klare Regeln beizubringen, hilft auch kein Handyverbot an der Restauranttür.",
      "answer": "N"
     }
    ]
@@ -414,31 +414,31 @@
     "sections": [
      {
       "heading": "Eintritt",
-      "text": "Das Bad ist täglich von 7 bis 22 Uhr geöffnet. Der Einlass endet eine Stunde vor Betriebsschluss. Die Badezeit beginnt am Drehkreuz. Sie endet mit der Rückgabe des Chips an der Kasse. Wird die gebuchte Zeit überschritten, wird der Differenzbetrag nachberechnet. Jahreskarten sind nicht übertragbar. Bei Verlust stellen wir gegen eine Gebühr von 10 Euro eine Ersatzkarte aus."
+      "text": "Das Bad ist täglich von 7 bis 22 Uhr geöffnet; der Einlass endet eine Stunde vor Betriebsschluss. Die Badezeit beginnt mit dem Durchgang am Drehkreuz und endet mit der Rückgabe des Chips an der Kasse. Bei Überschreitung der gebuchten Zeit wird der Differenzbetrag nachberechnet. Jahreskarten sind nicht übertragbar; bei Verlust erfolgt die Ausstellung einer Ersatzkarte gegen eine Gebühr von 10 Euro."
      },
      {
       "heading": "Kinder",
-      "text": "Kinder unter acht Jahren haben nur in Begleitung einer erwachsenen Person Zutritt. Für Kinder bis sechs Jahre ist der Eintritt frei. Das Schwimmerbecken (Tiefe 3,80 m) dürfen lediglich Personen nutzen, die sicher schwimmen können."
+      "text": "Kinder unter acht Jahren haben nur in Begleitung einer erwachsenen Person Zutritt. Für Kinder bis sechs Jahre ist der Eintritt kostenfrei. Die Nutzung des Schwimmerbeckens (Tiefe 3,80 m) ist lediglich Personen gestattet, die sicher schwimmen können."
      },
      {
       "heading": "Hygiene",
-      "text": "Vor dem Betreten der Becken ist gründlich zu duschen. Straßenschuhe sind in den Umkleidekabinen abzulegen. Im gesamten Nassbereich sind ausschließlich Badeschuhe gestattet. Das Bad stellt kostenlos Haartrockner bereit; der Betrieb eigener elektrischer Geräte ist untersagt."
+      "text": "Vor dem Betreten der Becken ist gründlich zu duschen. Straßenschuhe sind in den Umkleidekabinen abzulegen, im gesamten Nassbereich sind ausschließlich Badeschuhe gestattet. Das Bad stellt kostenlos Haartrockner bereit; die Benutzung eigener elektrischer Geräte ist untersagt."
      },
      {
       "heading": "Sicherheit",
-      "text": "Den Anweisungen des Personals ist unverzüglich Folge zu leisten. Der Sprungturm ist nur zu den ausgehängten Zeiten und nach Freigabe durch die Aufsicht benutzbar. Ballspiele sind ausschließlich im Nichtschwimmerbecken zulässig. Bei Gewitter ist das Außenbecken umgehend zu verlassen."
+      "text": "Den Anweisungen des Personals ist unverzüglich Folge zu leisten. Die Benutzung des Sprungturms ist nur zu den ausgehängten Zeiten und nach Freigabe durch die Aufsicht gestattet. Ballspiele sind ausschließlich im Nichtschwimmerbecken zulässig. Bei Gewitter ist das Außenbecken umgehend zu verlassen."
      },
      {
       "heading": "Garderobe",
-      "text": "Für Kleidung und Wertsachen stehen verschließbare Schränke bereit. Der Chip dient als Schlüssel. Für abhandengekommene Gegenstände übernimmt das Bad keine Haftung. Fundsachen werden zwei Wochen an der Kasse verwahrt und danach dem städtischen Fundbüro übergeben."
+      "text": "Zur Aufbewahrung von Kleidung und Wertsachen stehen verschließbare Schränke bereit, als Schlüssel dient der Chip. Für abhandengekommene Gegenstände übernimmt das Bad keine Haftung. Fundsachen werden zwei Wochen an der Kasse verwahrt und anschließend dem städtischen Fundbüro übergeben."
      },
      {
       "heading": "Essen und Trinken",
-      "text": "Mitgebrachte Speisen dürfen nur im Bistrobereich verzehrt werden. Glasflaschen sind im gesamten Bad verboten."
+      "text": "Der Verzehr mitgebrachter Speisen ist nur im Bistrobereich gestattet. Glasflaschen sind im gesamten Bad verboten."
      },
      {
       "heading": "",
-      "text": "Wer der Badeordnung zuwiderhandelt, kann des Bades verwiesen werden. Ein Anspruch auf Erstattung des Eintrittspreises besteht in diesem Fall nicht."
+      "text": "Bei Verstößen gegen die Badeordnung kann ein Verweis aus dem Bad erfolgen. Ein Anspruch auf Erstattung des Eintrittspreises besteht in diesem Fall nicht."
      }
     ],
     "footer": ""
@@ -449,9 +449,9 @@
      "no": "27",
      "stem": "Wer um 21.30 Uhr zum Hallenbad kommt, …",
      "options": {
-      "a": "kann noch eine halbe Stunde schwimmen.",
-      "b": "muss den vollen Eintritt bezahlen.",
-      "c": "kommt nicht mehr hinein."
+      "a": "kann bis zum Betriebsschluss noch eine halbe Stunde baden.",
+      "b": "muss für die überschrittene Zeit einen Differenzbetrag zahlen.",
+      "c": "erhält zu dieser späten Uhrzeit keinen Einlass mehr."
      },
      "answer": "c"
     },
@@ -459,9 +459,9 @@
      "no": "28",
      "stem": "Kinder …",
      "options": {
-      "a": "zahlen bis zum achten Geburtstag nichts.",
-      "b": "dürfen erst ab acht Jahren allein kommen.",
-      "c": "müssen im flachen Becken bleiben."
+      "a": "haben bis zum achten Geburtstag freien Eintritt.",
+      "b": "dürfen vom achten Geburtstag an ohne Erwachsene ins Bad.",
+      "c": "dürfen das Schwimmerbecken nur in Begleitung Erwachsener nutzen."
      },
      "answer": "b"
     },
@@ -469,9 +469,9 @@
      "no": "29",
      "stem": "Wenn man seine Jahreskarte verliert, …",
      "options": {
-      "a": "muss man für eine neue Karte bezahlen.",
-      "b": "kann man mit der Karte eines Bekannten schwimmen gehen.",
-      "c": "wendet man sich an das städtische Fundbüro."
+      "a": "bekommt man eine Ersatzkarte nur gegen Bezahlung.",
+      "b": "darf man vorübergehend die Jahreskarte eines Bekannten nutzen.",
+      "c": "beantragt man beim Fundbüro eine Ersatzkarte."
      },
      "answer": "a"
     },
@@ -479,9 +479,9 @@
      "no": "30",
      "stem": "Im Hallenbad …",
      "options": {
-      "a": "ist Ballspielen überall erlaubt.",
-      "b": "darf man mitgebrachte Geräte an die Steckdose anschließen.",
-      "c": "darf man keine Getränke in Glasflaschen mitbringen."
+      "a": "sind Ballspiele in allen Becken zulässig.",
+      "b": "ist die Benutzung eigener Haartrockner gestattet.",
+      "c": "sind Glasflaschen an keiner Stelle erlaubt."
      },
      "answer": "c"
     }
@@ -518,7 +518,7 @@
       {
        "no": "1",
        "type": "rf",
-       "text": "Der Zug fährt heute wie geplant bis zur Endstation.",
+       "text": "Dieser Zug fährt heute wie gewohnt bis Frankfurt Flughafen.",
        "answer": "F"
       },
       {
@@ -526,9 +526,9 @@
        "type": "abc",
        "stem": "Wer zum Flughafen will, …",
        "options": {
-        "a": "muss eine zusätzliche Fahrkarte kaufen.",
-        "b": "steigt in Frankfurt in einen anderen Zug um.",
-        "c": "verlässt den Zug schon in Mannheim."
+        "a": "braucht ab Frankfurt eine zusätzliche Fahrkarte.",
+        "b": "muss die Reise mit der S-Bahn fortsetzen.",
+        "c": "steigt bereits in Mannheim in einen anderen Zug um."
        },
        "answer": "b"
       }
@@ -540,7 +540,7 @@
       {
        "no": "3",
        "type": "rf",
-       "text": "Marco muss den Plan für Samstag ändern.",
+       "text": "Der ursprüngliche Plan für Samstag lässt sich nicht verwirklichen.",
        "answer": "R"
       },
       {
@@ -548,9 +548,9 @@
        "type": "abc",
        "stem": "Marco …",
        "options": {
-        "a": "kommt um acht bei Selin vorbei.",
-        "b": "hat die Karten schon gekauft.",
-        "c": "will erst Selins Zusage abwarten."
+        "a": "holt Selin um acht Uhr bei ihr zu Hause ab.",
+        "b": "hat die Karten für das Konzert schon gekauft.",
+        "c": "kauft die Karten erst nach Selins Antwort."
        },
        "answer": "c"
       }
@@ -562,7 +562,7 @@
       {
        "no": "5",
        "type": "rf",
-       "text": "Am Sonntag regnet es im ganzen Land.",
+       "text": "Am Sonntag muss man im ganzen Land mit Regen rechnen.",
        "answer": "F"
       },
       {
@@ -570,9 +570,9 @@
        "type": "abc",
        "stem": "In den Bergen …",
        "options": {
-        "a": "bleibt es den ganzen Sonntag trocken.",
-        "b": "fällt in höheren Lagen Schnee.",
-        "c": "steigen die Temperaturen auf 20 Grad."
+        "a": "bleibt es am Sonntag den ganzen Tag trocken.",
+        "b": "fällt in höheren Lagen am Sonntag Schnee.",
+        "c": "steigen die Temperaturen am Sonntag auf 20 Grad."
        },
        "answer": "b"
       }
@@ -584,7 +584,7 @@
       {
        "no": "7",
        "type": "rf",
-       "text": "Die Durchsage richtet sich an die Kunden eines Möbelhauses.",
+       "text": "Die Durchsage richtet sich an Kunden eines Möbelhauses.",
        "answer": "R"
       },
       {
@@ -592,9 +592,9 @@
        "type": "abc",
        "stem": "Die Kinderbetreuung …",
        "options": {
-        "a": "ist vorübergehend an einen anderen Ort verlegt.",
-        "b": "befindet sich im dritten Stock.",
-        "c": "wird diese Woche nicht angeboten."
+        "a": "findet diese Woche an einer anderen Stelle statt.",
+        "b": "ist ab sofort im dritten Stock neben dem Restaurant.",
+        "c": "fällt diese Woche wegen Umbau aus."
        },
        "answer": "a"
       }
@@ -606,7 +606,7 @@
       {
        "no": "9",
        "type": "rf",
-       "text": "Diese Woche findet keine Yogastunde statt.",
+       "text": "Der Kurstermin in dieser Woche entfällt.",
        "answer": "R"
       },
       {
@@ -614,9 +614,9 @@
        "type": "abc",
        "stem": "Frau Nowak …",
        "options": {
-        "a": "erhält ihr Geld in jedem Fall zurück.",
-        "b": "soll sich telefonisch melden.",
-        "c": "bekommt einen Ersatztermin am Ende des Kurses."
+        "a": "bekommt den Betrag für die Stunde in jedem Fall erstattet.",
+        "b": "soll die Volkshochschule kurz anrufen.",
+        "c": "kann die ausgefallene Stunde später nachholen."
        },
        "answer": "c"
       }
@@ -633,9 +633,9 @@
      "no": "11",
      "stem": "Die Gäste …",
      "options": {
-      "a": "bekommen dreimal am Tag etwas zu essen.",
-      "b": "müssen sich mittags und abends selbst versorgen.",
-      "c": "sind auf die Gasthäuser im Dorf angewiesen."
+      "a": "bekommen auf dem Hof dreimal täglich eine Mahlzeit.",
+      "b": "müssen für zwei Mahlzeiten am Tag selbst sorgen.",
+      "c": "sind für das Abendessen auf die Gasthäuser im Dorf angewiesen."
      },
      "answer": "b"
     },
@@ -643,9 +643,9 @@
      "no": "12",
      "stem": "Wer beim Melken zuschauen möchte, …",
      "options": {
-      "a": "hat zweimal am Tag Gelegenheit dazu.",
-      "b": "muss dafür vor sechs Uhr aufstehen.",
-      "c": "muss sich in eine Liste eintragen."
+      "a": "hat dazu zweimal täglich Gelegenheit.",
+      "b": "muss dafür vor sechs Uhr morgens aufstehen.",
+      "c": "muss sich vorher in die Liste am Stall eintragen."
      },
      "answer": "a"
     },
@@ -653,8 +653,8 @@
      "no": "13",
      "stem": "Reiten dürfen die Kinder …",
      "options": {
-      "a": "jeden Tag, wenn sie möchten.",
-      "b": "ohne vorherige Eintragung.",
+      "a": "jeden Tag, wenn sie die Ponys vorher füttern.",
+      "b": "ohne sich vorher in eine Liste einzutragen.",
       "c": "nur an zwei festen Tagen in der Woche."
      },
      "answer": "c"
@@ -663,9 +663,9 @@
      "no": "14",
      "stem": "Für die Wanderung zur Alm …",
      "options": {
-      "a": "kann man sich noch am Morgen anmelden.",
-      "b": "ist passendes Schuhwerk vorgeschrieben.",
-      "c": "ist man den ganzen Tag unterwegs."
+      "a": "kann man sich noch am Donnerstagmorgen anmelden.",
+      "b": "braucht man unbedingt festes Schuhwerk.",
+      "c": "braucht man hin und zurück einen ganzen Tag."
      },
      "answer": "b"
     },
@@ -673,9 +673,9 @@
      "no": "15",
      "stem": "Fahrräder …",
      "options": {
-      "a": "leiht man sich im Dorf aus.",
-      "b": "darf man nur mit eigenem Helm benutzen.",
-      "c": "bekommt man auf dem Hof, ohne etwas zu bezahlen."
+      "a": "kann man sich gegen Gebühr im Dorf ausleihen.",
+      "b": "dürfen nur mit einem eigenen Helm benutzt werden.",
+      "c": "kann man auf dem Hof ausleihen, ohne dafür zu bezahlen."
      },
      "answer": "c"
     }
@@ -688,37 +688,37 @@
    "items": [
     {
      "no": "16",
-     "text": "Die Idee zum Kochkurs kam von Nina selbst.",
+     "text": "Nina hat den Kochkurs selbst gebucht.",
      "answer": "F"
     },
     {
      "no": "17",
-     "text": "Der Teig war schneller fertig, als Nina gedacht hatte.",
+     "text": "Die Herstellung des Teigs ging schneller, als Nina erwartet hatte.",
      "answer": "R"
     },
     {
      "no": "18",
-     "text": "Nina wird zwei Kursteilnehmer bald wiedersehen.",
+     "text": "Mit zwei anderen Teilnehmern des Kurses hat Nina bereits ein Treffen geplant.",
      "answer": "R"
     },
     {
      "no": "19",
-     "text": "Ninas erster Versuch zu Hause hat geklappt.",
+     "text": "Ninas Nudeln sind beim ersten Versuch zu Hause gut gelungen.",
      "answer": "F"
     },
     {
      "no": "20",
-     "text": "Tom hat auf der Feier vor allen Gästen gesprochen.",
+     "text": "Tom hat auf der Hochzeitsfeier die Rede gehalten, die er vorbereitet hatte.",
      "answer": "F"
     },
     {
      "no": "21",
-     "text": "Die Gäste hatten Einfluss auf die Musik.",
+     "text": "Die Gäste konnten das musikalische Programm mitbestimmen.",
      "answer": "R"
     },
     {
      "no": "22",
-     "text": "Die Tante hat sich mit ihrer Geschenkidee durchgesetzt.",
+     "text": "Am Ende hat die Familie Geschirr geschenkt, wie es die Tante wollte.",
      "answer": "F"
     }
    ]
@@ -740,42 +740,42 @@
    "items": [
     {
      "no": "23",
-     "text": "Nach einem sozialen Jahr fällt die Berufswahl leichter.",
+     "text": "Ein solches Jahr kann jungen Leuten zeigen, welcher Beruf zu ihnen passt.",
      "answer": "b"
     },
     {
      "no": "24",
-     "text": "Im Handwerk bleiben Lehrstellen unbesetzt.",
+     "text": "Handwerksbetriebe haben Mühe, Auszubildende zu finden.",
      "answer": "c"
     },
     {
      "no": "25",
-     "text": "Wer gezwungen wird, hilft niemandem wirklich.",
+     "text": "Unfreiwillige Helfer sind für die Menschen in Heimen keine echte Hilfe.",
      "answer": "c"
     },
     {
      "no": "26",
-     "text": "Soziale Einrichtungen haben zu wenige Mitarbeiter.",
+     "text": "Kliniken und Pflegeheime berichten, dass ihnen Personal fehlt.",
      "answer": "a"
     },
     {
      "no": "27",
-     "text": "Die Bezahlung im sozialen Jahr reicht nicht zum Leben.",
+     "text": "Das Geld, das man im sozialen Jahr bekommt, reicht nicht für den Lebensunterhalt.",
      "answer": "b"
     },
     {
      "no": "28",
-     "text": "Auch eine Ausbildung im Betrieb nützt der Gesellschaft.",
+     "text": "Wer eine Lehre macht, leistet ebenfalls einen Beitrag für die Allgemeinheit.",
      "answer": "c"
     },
     {
      "no": "29",
-     "text": "Für manche Familien wäre ein schlecht bezahltes Jahr ein Problem.",
+     "text": "Für manche Eltern wäre es finanziell schwierig, ihr Kind zwölf Monate lang zu versorgen.",
      "answer": "a"
     },
     {
      "no": "30",
-     "text": "Das Angebot sollte nicht auf Schulabgänger beschränkt sein.",
+     "text": "Auch ältere Menschen sollten die Möglichkeit für ein solches Jahr bekommen.",
      "answer": "b"
     }
    ]
@@ -1049,91 +1049,91 @@
   "lesen": {
    "1": {
     "type": "P",
-    "note": "„schon vor drei Monaten gebucht“ = „schon lange geplant“."
+    "note": "„bereits vor drei Monaten gebucht“ = „nicht kurzfristig“."
    },
    "2": {
     "type": "Z",
-    "note": "Feier am Samstag, freier Platz „frühestens am Montag“ → „zu spät zur Party“; Schlussfolgerung nötig."
+    "note": "Feier am Samstag, Platz „frühestens am Montag“ → nicht „rechtzeitig zur Feier“; Schlussfolgerung nötig."
    },
    "3": {
     "type": "N",
-    "note": "Die Fahrkarte „kostete beträchtlich mehr als mein Flugticket“ – die Bahn war also nicht die günstigere Lösung."
+    "note": "„beträchtlich teurer als mein Flugticket“ – „weniger“ ist falsch, obwohl „Zugfahrt“ und „Flugticket“ im Text stehen."
    },
    "4": {
     "type": "S",
-    "note": "Der Vater riet zum „Mietwagen“; die Bahn war Leas eigene Entscheidung."
+    "note": "Der Vater riet zum „Mietwagen“; die „Zugverbindung“ suchte Lea selbst."
    },
    "5": {
     "type": "P",
-    "note": "„eine ältere Dame … Sie erzählte mir bis Passau“ = Gesellschaft."
+    "note": "„eine ältere Dame … die mir bis Passau“ erzählte = „im Gespräch mit einer Mitreisenden“."
    },
    "6": {
     "type": "A",
-    "note": "Nur „zugesichert“; „Ob es tatsächlich auf meinem Konto eingeht“ – noch nicht erstattet."
+    "note": "Nur „zugesichert“; „Ob das Geld tatsächlich auf meinem Konto eingeht“ – noch nicht eingegangen."
    },
    "7": {
     "type": "W",
-    "note": "Globalfrage: „Grünstreifen und Brachflächen mit Obst und Gemüse“ = Grünflächen essbar. b greift ein Detail heraus („eine Schulklasse betreut“), c kommt nicht vor."
+    "note": "Globalfrage: „Grünstreifen und Brachflächen mit Obst und Gemüse“ für alle = a. b ist ein Detail („eine Schulklasse“), c kommt nicht vor."
    },
    "8": {
     "type": "N",
-    "note": "„keine höheren Kosten als Blumen“ ≠ billiger (b); „es nützt den Menschen“ = c. Die Verwüstungen „sind ausgeblieben“ (a)."
+    "note": "„keine geringeren Kosten“ widerlegt b; „die Bevölkerung hat einen Nutzen davon“ = c. Die Verwüstungen „sind ausgeblieben“ (a)."
    },
    "9": {
     "type": "W",
-    "note": "„rund 60 Ehrenamtliche“ stehen im Text, sind aber kein Rat (a); Rat: „klein anfangen“ = b. c verdreht „kaum etwas geerntet“."
+    "note": "„rund 60 Ehrenamtliche“ sind kein Rat (a); Rat: „klein anzufangen“ = b. c verdreht „kaum etwas geerntet“."
    },
    "10": {
     "type": "W",
-    "note": "a ist nur die Einleitung („verwaiste Häuschen“); b: verkauft wird nichts, man tauscht („Wer ein Buch bringt, darf ein anderes mitnehmen“)."
+    "note": "a ist nur die Einleitung; b: verkauft wird nichts, man tauscht („Wer ein Buch bringt, darf ein anderes mitnehmen“)."
    },
    "11": {
     "type": "B",
-    "note": "„Hunderte Bücher, die ich nie mehr lesen würde“ → loswerden. b: „einen Franken pro Jahr“ ist keine hohe Miete; c: „Die Regale zimmerte ihr Nachbar“."
+    "note": "„Hunderte Bücher, die ich nie mehr lesen würde“ → zu viel Lesestoff. b: „einen Franken pro Jahr“; c: „Die Regale zimmerte ihr Nachbar“."
    },
    "12": {
     "type": "A",
-    "note": "„die Betreuung soll diesmal die Schule übernehmen“ → andere Verantwortliche. a: „plant“ – noch nicht in Betrieb; c: die Gemeinde plant, nicht Kessler."
+    "note": "„die Betreuung soll diesmal die Schule übernehmen“ → andere Betreuer. a: „plant“; c: die Gemeinde plant, nicht Kessler."
    },
    "13": {
     "type": "B",
-    "note": "Mexiko → „Spanisch für die Reise – Mexiko, Kuba, Spanien“; das Wort „Spanisch“ fehlt in der Situation. g ist zwar ein Sprachkurs, aber Deutsch und vormittags."
+    "note": "Mexiko → „Spanisch für die Reise“; „Landessprache“ statt „Spanisch“. g ist ein Sprachkurs, aber Deutsch."
    },
    "14": {
     "type": "N",
-    "note": "„wechselnden Schichten“ → „den Termin jede Woche neu“. i nennt Gitarre, hat aber feste Abende: „Nachholtermine sind nicht vorgesehen“."
+    "note": "„Dienstzeiten … ändern sich“ → „jede Woche neu nach Vereinbarung“. i hat feste Abende: „Nachholtermine sind nicht vorgesehen“."
    },
    "15": {
     "type": "P",
-    "note": "„kein Fleisch“ → „OHNE FLEISCH UND FISCH“; „Gesellschaft“ → „sitzt garantiert nicht allein am Tisch“."
+    "note": "„verzichtet auf Fleisch“ → „OHNE FLEISCH UND FISCH“; „in Gesellschaft“ → „nicht allein am Tisch“."
    },
    "16": {
     "type": "P",
-    "note": "„Enkel auf dem Bildschirm“ → „Ihre Liebsten sehen und hören“. h wirbt mit Technik, ist aber für Kinder."
+    "note": "„nicht nur hören, sondern auch sehen“ → „per Videoanruf sehen und hören“. h wirbt mit Technik, ist aber für Kinder."
    },
    "17": {
     "type": "Z",
-    "note": "„nur mittags“ → 12.15–12.45 Uhr; „langes Sitzen im Büro“ → „den ganzen Tag am Schreibtisch“."
+    "note": "„nur in der Mittagspause“ → 12.15–12.45; „Büroarbeit“ → „den ganzen Tag am Schreibtisch“."
    },
    "18": {
     "type": "N",
-    "note": "g passt bei Prüfung und Niveau exakt – aber „ein Fernkurs ist bewusst nicht im Angebot“. Die Wortgleichheit ist die Falle."
+    "note": "g passt bei Prüfung und Niveau – aber „Online-Unterricht oder Fernkurse sind bewusst nicht im Angebot“. Die Wortgleichheit ist die Falle."
    },
    "19": {
     "type": "B",
-    "note": "„gemeinsam“ → „im Duo“: Kind und erwachsene Person. h passt beim Alter, doch dort sind „ausschließlich die Jugendlichen“ im Raum."
+    "note": "„zusammen“ → „ausschließlich im Duo“. h passt bei Alter und Tag („SAMSTAGS“), doch dort sind „ausschließlich die Teilnehmenden“ anwesend."
    },
    "20": {
     "type": "P",
-    "note": "Anekdote ohne das Wort „Verbot“; Schluss: „Manchmal braucht es eben eine Regel von außen.“"
+    "note": "Anekdote ohne das Wort „Verbot“; Schluss: „Manchmal braucht es eben eine klare Regelung“."
    },
    "21": {
     "type": "K",
-    "note": "„Ich verstehe die Wirte, ehrlich gesagt. Aber …“ – Verständnis ist keine Zustimmung."
+    "note": "„Ich verstehe die Gastwirte. Aber …“ – Verständnis ist keine Zustimmung."
    },
    "22": {
     "type": "–",
-    "note": "Eindeutig: „Wer mich bevormunden will, verliert mich als Gast.“ Ankerbeispiel für Nein."
+    "note": "Eindeutig: „Ein Gastwirt, der mich bevormunden will, verliert mich als Gast.“ Ankerbeispiel für Nein."
    },
    "23": {
     "type": "K",
@@ -1145,11 +1145,11 @@
    },
    "25": {
     "type": "K",
-    "note": "Meinungswechsel: „Ich dachte lange, ein solches Verbot gehe zu weit“ – heute „ein Geschenk“."
+    "note": "Meinungswechsel: „Ich dachte lange, ein solches Handyverbot gehe zu weit“ – heute „ein Geschenk“."
    },
    "26": {
     "type": "K",
-    "note": "Wünscht sich ein Essen ohne Bildschirme, „Aber das ist meine Aufgabe, nicht die des Wirts.“"
+    "note": "Wünscht sich eine Mahlzeit ohne Bildschirme, „Aber die Erziehung ist meine Aufgabe, nicht die des Gastwirts.“"
    },
    "27": {
     "type": "Z",
@@ -1157,11 +1157,11 @@
    },
    "28": {
     "type": "Z",
-    "note": "Eintritt frei bis sechs Jahre, Begleitung „unter acht Jahren“. c verallgemeinert: „lediglich Personen … die sicher schwimmen können“."
+    "note": "Eintritt frei bis sechs, Begleitung „unter acht Jahren“. c verallgemeinert: „lediglich Personen … die sicher schwimmen können“."
    },
    "29": {
     "type": "B",
-    "note": "„gegen eine Gebühr von 10 Euro eine Ersatzkarte“; b: „nicht übertragbar“; c: Fundbüro gilt nur für „Fundsachen“."
+    "note": "„Ersatzkarte gegen eine Gebühr von 10 Euro“; b: „nicht übertragbar“; c: Fundbüro nur für „Fundsachen“."
    },
    "30": {
     "type": "N",
@@ -1171,27 +1171,27 @@
   "hoeren": {
    "1": {
     "type": "N",
-    "note": "„nicht weiter bis Frankfurt Flughafen, sondern endet in Frankfurt Hauptbahnhof“ – die letzte Station ist heute eine andere."
+    "note": "„nicht weiter bis Frankfurt Flughafen, sondern endet in Frankfurt Hauptbahnhof“ – die Aussage übernimmt „Frankfurt Flughafen“, wird aber widerlegt."
    },
    "2": {
     "type": "S",
-    "note": "„S-Bahn“ = anderer Zug in Frankfurt. Mannheim gilt für Reisende nach Mainz (c); „Ihre Fahrkarte gilt dort weiter“ (a)."
+    "note": "„die S-Bahn-Linie 8“ = die Reise mit der S-Bahn fortsetzen. Mannheim gilt für Reisende nach Mainz (c); „Ihre Fahrkarte gilt dort weiter“ (a)."
    },
    "3": {
     "type": "P",
-    "note": "„abgesagt“ und „eine Alternative gefunden“ = der Plan ändert sich."
+    "note": "„abgesagt“ und „eine Alternative gefunden“ = der ursprüngliche Plan lässt sich nicht verwirklichen."
    },
    "4": {
     "type": "Z",
-    "note": "Abgeholt wird um halb acht, das Konzert beginnt um acht (a); die Karten kauft Marco erst nach Selins Antwort (b)."
+    "note": "Abgeholt wird „um halb acht“, die Band spielt „um acht“ (a); die Karten kauft Marco erst nach Selins Antwort: „Sag mir kurz Bescheid … dann kaufe ich die Karten online“ (b)."
    },
    "5": {
     "type": "S",
-    "note": "Regen nur im Süden; im Norden „den ganzen Tag freundlich“ – also nicht „im ganzen Land“."
+    "note": "Regen nur im Süden; im Norden „den ganzen Tag freundlich“. Die Aussage übernimmt „mit Regen zu rechnen“ – aber nicht „im ganzen Land“."
    },
    "6": {
     "type": "Z",
-    "note": "„oberhalb von 1500 Metern Schnee“; 20 Grad gelten für Montag (c)."
+    "note": "„oberhalb von 1500 Metern Schnee“ = in höheren Lagen; 20 Grad gelten für Montag (c)."
    },
    "7": {
     "type": "P",
@@ -1199,11 +1199,11 @@
    },
    "8": {
     "type": "N",
-    "note": "Das Kinderparadies ist geschlossen, die Betreuung findet „im Malzelt neben dem Haupteingang“ statt, ist also verlegt; im dritten Stock entsteht das Restaurant (b)."
+    "note": "Das Kinderparadies ist geschlossen, die Betreuung findet „im Malzelt neben dem Haupteingang“ statt, also an anderer Stelle; im dritten Stock entsteht das Restaurant (b); c übernimmt „wegen Umbau“."
    },
    "9": {
     "type": "P",
-    "note": "„deshalb fällt der Termin diese Woche aus“ – pro Woche gibt es nur einen Termin."
+    "note": "„deshalb fällt der Termin diese Woche aus“ = der Kurstermin entfällt."
    },
    "10": {
     "type": "B",
@@ -1211,7 +1211,7 @@
    },
    "11": {
     "type": "N",
-    "note": "„Mittag- und Abendessen bieten wir nicht an“ – man kocht „selbst“ in der Gästeküche; das Dorf ist nur eine Möglichkeit (c)."
+    "note": "„Mittag- und Abendessen bieten wir nicht an“ – für zwei Mahlzeiten sorgen die Gäste selbst in der Gästeküche; das Dorf ist nur eine Möglichkeit (c)."
    },
    "12": {
     "type": "W",
@@ -1223,39 +1223,39 @@
    },
    "14": {
     "type": "Z",
-    "note": "„Feste Schuhe sind Pflicht“. Anmeldung „spätestens am Mittwochabend“, nicht erst am Morgen (a); „ungefähr vier Stunden“, nicht ganztägig (c)."
+    "note": "„Feste Schuhe sind Pflicht“ = vorgeschrieben. Anmeldung „spätestens am Mittwochabend“, nicht erst am Donnerstagmorgen (a); „ungefähr vier Stunden“, kein ganzer Tag (c)."
    },
    "15": {
     "type": "W",
-    "note": "Räder „kostenlos ausleihen“, Helme stehen ebenfalls in der Scheune; im Dorf gibt es nur Freibad und Gasthäuser (a)."
+    "note": "Räder „kostenlos ausleihen“ = ohne Bezahlung; Helme stehen ebenfalls in der Scheune (b); im Dorf gibt es nur Freibad und Gasthäuser (a)."
    },
    "16": {
     "type": "S",
-    "note": "„ein Geschenk von meiner Schwester“; „Selbst hätte ich mir den nie gebucht“."
+    "note": "„ein Geschenk von meiner Schwester“; „Selbst hätte ich mir den nie gebucht“ – die Aussage übernimmt „selbst“ und „gebucht“."
    },
    "17": {
     "type": "A",
-    "note": "„ich dachte immer, das dauert ewig, aber nach einer halben Stunde hatten wir den Teig fertig“."
+    "note": "„ich dachte immer, das dauert ewig, aber nach einer halben Stunde hatten wir den Teig fertig“ = schneller als erwartet."
    },
    "18": {
     "type": "P",
-    "note": "„für nächste Woche schon zum Essen eingeladen“ = bald wiedersehen."
+    "note": "„für nächste Woche schon zum Essen eingeladen“ = ein Treffen ist geplant."
    },
    "19": {
     "type": "A",
-    "note": "Versucht hat sie es, geklappt hat es nicht: „der Teig war viel zu trocken“, die Nudeln „zerbrochen“, „Pizza bestellt“."
+    "note": "Versucht hat sie es, gelungen ist es nicht: „der Teig war viel zu trocken“, die Nudeln „zerbrochen“, „Pizza bestellt“."
    },
    "20": {
     "type": "A",
-    "note": "„sollte eigentlich eine Rede halten … hab’s dann doch nicht gemacht“ – gesprochen hat der Bruder."
+    "note": "„sollte eigentlich eine Rede halten … hab’s dann doch nicht gemacht“ – den „Zettel“ hatte er vorbereitet, gesprochen hat der Bruder."
    },
    "21": {
     "type": "P",
-    "note": "„Lieder gespielt, die sich die Gäste vorher wünschen durften“ = Einfluss auf die Musik."
+    "note": "„Lieder gespielt, die sich die Gäste vorher wünschen durften“ = das Programm mitbestimmen."
    },
    "22": {
     "type": "A",
-    "note": "Die Tante „wollte lieber Geschirr schenken“, „aber wir haben sie überzeugt“ – sie hat sich also nicht durchgesetzt."
+    "note": "Die Tante „wollte lieber Geschirr schenken“, „aber wir haben sie überzeugt“ – geschenkt wurde die Reise nach Lissabon."
    },
    "23": {
     "type": "S",
@@ -1263,7 +1263,7 @@
    },
    "24": {
     "type": "P",
-    "note": "Brenner: „drei Plätze und einen einzigen Bewerber“."
+    "note": "Brenner: „drei Plätze und einen einzigen Bewerber“ = Mühe, Auszubildende zu finden."
    },
    "25": {
     "type": "P",
@@ -1271,7 +1271,7 @@
    },
    "26": {
     "type": "S",
-    "note": "Der Moderator nennt den Personalmangel („überall Leute fehlen“); Brenner reagiert nur darauf."
+    "note": "Der Moderator gibt eine Meldung wieder („hören wir aus Krankenhäusern“); Brenner setzt den Mangel nur voraus."
    },
    "27": {
     "type": "S",

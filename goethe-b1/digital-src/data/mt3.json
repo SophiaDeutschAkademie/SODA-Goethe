@@ -9,10 +9,10 @@
     "date": "Sonntag, 2. Juni",
     "title": "Drei Tage ohne Bruno",
     "paragraphs": [
-     "Bruno ist wieder da – und ich kann endlich wieder durchschlafen. Aber der Reihe nach: Am Donnerstagabend zog ein heftiges Gewitter über die Stadt, und unser Hund fürchtet nichts so sehr wie Donner. Ich war noch im Büro. Mein Mann Tom hatte gerade die Balkontür geöffnet, um die stickige Luft aus der Wohnung zu lassen. Ein Blitz, ein Knall – und Bruno war verschwunden. Er war über den Balkon im Erdgeschoss in den Garten gesprungen und von dort auf die Straße gerannt. Als ich um sieben nach Hause kam, durchkämmte Tom schon seit einer Stunde die Nachbarschaft.",
-     "In der ersten Nacht sind wir bis zwei Uhr durch die Straßen geirrt und haben unermüdlich seinen Namen gerufen. Nichts. Ein Spaziergänger mit Taschenlampe half uns, den Park abzusuchen – ebenfalls vergeblich. Am Freitagmorgen habe ich im Büro angerufen und mir freigenommen. Meine Chefin hat keine Sekunde gezögert. Anschließend haben wir hundert Zettel mit Foto und Telefonnummer gedruckt. Tom wollte sie an jeden Laternenpfahl kleben, aber das ist bei uns streng verboten, also haben wir sie in Geschäften, in der Bäckerei und beim Tierarzt ausgelegt. Die Bäckerin hat sogar einen ins Schaufenster gehängt.",
-     "Den Durchbruch brachte am Ende etwas anderes. Unsere Nachbarin Frau Yildiz, die ich bis dahin nur vom Grüßen kannte, hat Brunos Foto in der Nachbarschaftsgruppe im Internet veröffentlicht. Binnen eines Tages hatten es mehr als dreihundert Leute gesehen. Zwei Hinweise erwiesen sich als Fehlalarm: einmal ein schwarzer Labrador, einmal ein Hund, der Bruno bloß entfernt ähnelte. Am Samstagnachmittag meldete sich eine Frau aus dem Nachbarstadtteil: Ein Hund, auf den die Beschreibung genau passe, sitze seit Freitag im Tierheim. Zwanzig Minuten später standen wir dort – und Bruno sprang uns an, als wäre nichts gewesen. Ein Radfahrer hatte ihn am Freitagmorgen am Kanal aufgegriffen und im Tierheim abgegeben.",
-     "Das Tierheim hätte uns übrigens sofort benachrichtigen können, wenn Bruno einen Chip gehabt hätte. Den bekommt er jetzt nächste Woche – der Tierarzt sagt, die Prozedur dauert keine fünf Minuten. Und Frau Yildiz bekommt am Sonntag einen Kuchen. Sie wehrt ab, das sei nicht nötig. Ich finde schon – denn ich habe gelernt, dass man seine Nachbarn kennen sollte, bevor man sie braucht."
+     "Bruno ist wieder da – und ich kann endlich wieder durchschlafen. Aber der Reihe nach: Am Donnerstagabend zog ein heftiges Gewitter über die Stadt, und Bruno fürchtet nichts so sehr wie Donner. Ich war zu diesem Zeitpunkt noch im Büro, weil ich eine dringende Bestellung erledigen musste. Mein Mann Tom hatte gerade die Balkontür geöffnet, um die stickige Luft aus der Wohnung zu lassen. Ein Blitz, ein Knall – und Bruno war verschwunden. Er war über den Balkon im Erdgeschoss in den Garten gesprungen und von dort auf die Straße gerannt. Als ich um sieben nach Hause kam, suchte Tom schon seit einer Stunde die Nachbarschaft ab.",
+     "In der ersten Nacht sind wir bis zwei Uhr durch die Straßen geirrt und haben unermüdlich seinen Namen gerufen, aber Bruno blieb verschwunden. Ein Spaziergänger mit Taschenlampe half uns, den Park abzusuchen – ebenfalls vergeblich. Am Freitagmorgen habe ich im Büro angerufen und mir freigenommen, und meine Chefin hat ohne Zögern zugestimmt. Anschließend haben wir hundert Zettel mit Foto, Beschreibung und Telefonnummer gedruckt. Tom wollte die Zettel an jeden Laternenpfahl kleben, aber das ist in unserer Stadt streng verboten, also haben wir sie in Geschäften, in der Bäckerei und beim Tierarzt ausgelegt. Die Bäckerin hat sogar einen Zettel ins Schaufenster gehängt.",
+     "Den Durchbruch brachte am Ende etwas anderes. Unsere Nachbarin Frau Yildiz, die ich bis dahin nur vom Grüßen kannte, hat Brunos Foto in der Nachbarschaftsgruppe im Internet veröffentlicht. Innerhalb eines Tages hatten mehr als dreihundert Leute das Foto gesehen. Zwei Hinweise erwiesen sich als Fehlalarm: einmal ein schwarzer Labrador, einmal ein Hund, der Bruno bloß entfernt ähnelte. Am Samstagnachmittag meldete sich dann eine Frau aus dem Nachbarstadtteil mit der Information, dass ein Hund, auf den unsere Beschreibung genau passte, seit Freitag im Tierheim saß. Zwanzig Minuten später standen wir im Tierheim – und Bruno sprang uns an, als wäre nichts gewesen. Ein Radfahrer hatte ihn am Freitagmorgen am Kanal entdeckt und im Tierheim abgegeben.",
+     "Das Tierheim hätte uns übrigens sofort benachrichtigen können, wenn Bruno einen Chip gehabt hätte. Den Chip bekommt er nächste Woche; nach Auskunft unseres Tierarztes dauert die Behandlung keine fünf Minuten. Und Frau Yildiz bekommt als Dankeschön am Sonntag einen Kuchen. Sie meint zwar, dass das nicht nötig ist, aber ich sehe das anders – denn ich habe gelernt, dass man seine Nachbarschaft kennen sollte, bevor man ihre Hilfe braucht."
     ],
     "closing": "Bis bald, Merle"
    },
@@ -24,7 +24,7 @@
    "items": [
     {
      "no": "1",
-     "text": "Bruno ist verschwunden, während Merle bei der Arbeit war.",
+     "text": "Als der Hund davonlief, befand sich Merle an ihrem Arbeitsplatz.",
      "answer": "R"
     },
     {
@@ -34,22 +34,22 @@
     },
     {
      "no": "3",
-     "text": "Merle und Tom haben die Zettel an Straßenlaternen befestigt.",
+     "text": "Merle und Tom haben die Zettel an Laternenpfählen in der Nachbarschaft befestigt.",
      "answer": "F"
     },
     {
      "no": "4",
-     "text": "Merle kannte Frau Yildiz vorher kaum.",
+     "text": "Mit der hilfsbereiten Nachbarin hatte Merle früher kaum gesprochen.",
      "answer": "R"
     },
     {
      "no": "5",
-     "text": "Ein Radfahrer hat Merle angerufen.",
+     "text": "Der Radfahrer, der Bruno gefunden hatte, hat sich bei Merle gemeldet.",
      "answer": "F"
     },
     {
      "no": "6",
-     "text": "Bruno hatte bis jetzt keinen Chip.",
+     "text": "Bisher fehlte Bruno ein Chip, über den man seine Besitzer schnell finden kann.",
      "answer": "R"
     }
    ]
@@ -61,7 +61,7 @@
      "title": "Warten auf den Nachbarn",
      "lead": "In Hollen ersetzt eine Bank den Bus – wer sich hinsetzt, möchte mitgenommen werden.",
      "paragraphs": [
-      "Am Ortsausgang von Hollen steht seit dem Frühjahr eine grün gestrichene Holzbank mit drei Klappschildern: „Kreisstadt“, „Bahnhof“, „Schwimmbad“. Wer sich daraufsetzt und eines hochklappt, wartet nicht auf den Linienbus. Der verkehrt in Hollen nur noch zweimal täglich. Gewartet wird auf einen Nachbarn mit Auto. „Die meisten fahren ohnehin in die Stadt, mit leeren Sitzen“, erklärt Ortsvorsteherin Gudrun Peters, die diese Idee aus einem Schwarzwalddorf mitgebracht hat. Gezimmert hat die Bank der Dorfschreiner, die Schilder haben Schulkinder bemalt; die gesamten Kosten von 400 Euro übernahm die Gemeindekasse. Feste Regeln gibt es kaum: Niemand ist verpflichtet anzuhalten, niemand einzusteigen, und eine Bezahlung wird nicht erwartet. Wie häufig die Bank genutzt wird, kann Peters nur schätzen – eine Statistik gibt es nicht. An schönen Tagen würden etwa zehn Personen mitgenommen, im Winter deutlich weniger. Sicher ist, dass man selten länger als zehn Minuten wartet; das haben Jugendliche in den Sommerferien getestet. Bedenken äußerte die Polizei. Sie warnte davor, zu Fremden ins Auto zu steigen. Peters widerspricht: „Hier kennt jeder jeden. Wer mich mitnimmt, ist kein Fremder, sondern der Mann von der Post oder die Frau aus dem Chor.“ Für den Winter plant die Gemeinde ein Wetterdach über der Bank. Eine zweite Bank soll in der Kreisstadt aufgestellt werden – für die Rückfahrt."
+      "Am Ortsausgang von Hollen steht seit dem Frühjahr eine grün gestrichene Holzbank mit drei Klappschildern: „Kreisstadt“, „Bahnhof“, „Schwimmbad“. Wer sich auf die Holzbank setzt und ein Klappschild hochklappt, wartet nicht auf den Linienbus, denn der Linienbus fährt in Hollen nur noch zweimal täglich. Er wartet auf einen Nachbarn mit Auto, der ihn mitnimmt. „Die meisten Nachbarn fahren ohnehin mit leeren Sitzen in die Kreisstadt“, erklärt Ortsvorsteherin Gudrun Peters, die die Idee aus einem Schwarzwalddorf mitgebracht hat. Die Holzbank hat der Dorfschreiner gebaut, die Klappschilder haben Schulkinder bemalt, und die Kosten von 400 Euro hat die Gemeindeverwaltung übernommen. Feste Regeln gibt es kaum: Niemand ist zum Anhalten oder zum Einsteigen verpflichtet, und eine Bezahlung wird nicht erwartet. Über die Häufigkeit der Nutzung kann Peters nur Vermutungen anstellen, denn eine Statistik existiert nicht. An schönen Tagen würden etwa zehn Personen mitgenommen, im Winter deutlich weniger. Sicher ist, dass die Wartezeit selten länger als zehn Minuten beträgt; das haben Jugendliche aus dem Dorf in den Sommerferien überprüft. Bedenken hat die Polizei geäußert, die davor warnt, zu Fremden ins Auto zu steigen. Peters widerspricht dieser Warnung: „Hier kennt jeder jeden. Wer mich mitnimmt, ist kein Fremder, sondern der Mann von der Post oder die Frau aus dem Chor.“ Für den Winter plant die Gemeindeverwaltung ein Wetterdach über der Holzbank. Eine zweite Holzbank soll in der Kreisstadt aufgestellt werden, damit die Nachbarn auch die Rückfahrt organisieren können."
      ],
      "footnote": "",
      "source": "aus einer deutschen Zeitung",
@@ -80,9 +80,9 @@
        "no": "7",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "einen Bus, der nur zweimal täglich fährt.",
-        "b": "Schüler, die für ihr Dorf eine Bank gebaut haben.",
-        "c": "Nachbarn, die einander im Auto mitnehmen."
+        "a": "eine Buslinie, die Hollen nur noch zweimal täglich bedient.",
+        "b": "Schulkinder, die für ihr Dorf eine Holzbank gebaut haben.",
+        "c": "Nachbarn, die sich gegenseitig im Auto mitnehmen."
        },
        "answer": "c"
       },
@@ -90,9 +90,9 @@
        "no": "8",
        "stem": "Wer auf der Bank sitzt, …",
        "options": {
-        "a": "zahlt dem Fahrer einen kleinen Betrag.",
-        "b": "wartet meistens nur kurz.",
-        "c": "muss in das erste Auto einsteigen."
+        "a": "gibt dem Fahrer als Bezahlung einen kleinen Betrag.",
+        "b": "wird meist schon nach kurzer Zeit mitgenommen.",
+        "c": "ist verpflichtet, in das erste Auto einzusteigen."
        },
        "answer": "b"
       },
@@ -100,9 +100,9 @@
        "no": "9",
        "stem": "Gudrun Peters …",
        "options": {
-        "a": "findet die Warnung der Polizei berechtigt.",
-        "b": "möchte die Bank im nächsten Winter abbauen.",
-        "c": "vertraut den Fahrern aus dem eigenen Dorf."
+        "a": "hält die Warnung der Polizei für berechtigt.",
+        "b": "will die Bank im Winter wieder abbauen.",
+        "c": "steigt ohne Bedenken bei Nachbarn ein."
        },
        "answer": "c"
       }
@@ -113,7 +113,7 @@
      "title": "Zweites Leben für alte Velos*",
      "lead": "In Brugg machen Jugendliche aus vergessenen Fahrrädern Leihräder für alle.",
      "paragraphs": [
-      "Rund 150 Fahrräder werden jedes Jahr am Bahnhof von Brugg abgestellt und nie mehr abgeholt. Früher landeten sie nach drei Monaten beim Altmetall. Seit zwei Jahren übernimmt sie die Jugendwerkstatt „Kette“. Dort setzen zwölf Jugendliche zwischen 15 und 18 Jahren die Räder an zwei Nachmittagen pro Woche wieder instand – unter der Anleitung eines pensionierten Mechanikers. „Die meisten haben vorher noch nie einen Schlauch gewechselt“, berichtet Werkstattleiterin Nadia Roth. Zunächst lernen sie, Bremsen und Beleuchtung zu überprüfen; wer das beherrscht, darf sich an die Gangschaltung wagen. Was wieder fährt, wird nicht verkauft, sondern verliehen: Am Bahnhof stehen zwanzig gelbe Räder, die man gegen Vorlage eines Ausweises einen Tag lang gratis benutzen kann. Zahlen muss nur, wer ein Rad verspätet zurückbringt – fünf Franken pro Tag. Wer es beschädigt abgibt, übernimmt die Reparaturkosten. Von diesen Einnahmen und einem Zuschuss der Stadt finanziert sich die Werkstatt. Löhne gibt es nicht, die Jugendlichen engagieren sich freiwillig. Dafür erhalten sie zum Jahresende ein Zeugnis, das bei der Lehrstellensuche hilft. Drei von ihnen haben mittlerweile eine Lehre als Velomechaniker begonnen. Reibungslos läuft nicht alles: Im ersten Sommer blieben vier Räder verschwunden, und im Winter nutzt kaum jemand das Angebot. Roth erwägt deshalb eine Pause von Dezember bis Februar. Aufgeben will sie nicht: „Wir haben eine Warteliste von zwanzig Jugendlichen, die mitmachen möchten.“"
+      "Rund 150 Fahrräder werden jedes Jahr am Bahnhof von Brugg abgestellt und nie mehr abgeholt. Früher kamen diese Räder nach drei Monaten zum Altmetall, seit zwei Jahren übernimmt sie die Jugendwerkstatt „Kette“. In der Jugendwerkstatt setzen zwölf Jugendliche zwischen 15 und 18 Jahren die Räder an zwei Nachmittagen pro Woche wieder instand, und zwar unter Anleitung eines pensionierten Mechanikers. „Die meisten Jugendlichen haben vorher noch nie einen Schlauch gewechselt“, berichtet Werkstattleiterin Nadia Roth. Zuerst lernen sie, Bremsen und Beleuchtung zu überprüfen; wer das beherrscht, darf sich an die Gangschaltung wagen. Die reparierten Räder werden nicht verkauft, sondern verliehen: Am Bahnhof stehen zwanzig gelbe Räder, die man gegen Vorlage eines Ausweises einen Tag lang gratis benutzen kann. Eine Gebühr verlangt die Werkstatt nur bei verspäteter Rückgabe, nämlich fünf Franken pro Tag. Wer ein Rad beschädigt zurückbringt, übernimmt die Reparaturkosten. Von diesen Einnahmen und einem Zuschuss der Stadtverwaltung finanziert sich die Jugendwerkstatt. Löhne gibt es nicht, die Jugendlichen arbeiten freiwillig. Dafür bekommen sie am Ende des Jahres ein Zeugnis, das bei der Bewerbung um eine Lehrstelle hilft. Drei Jugendliche haben mittlerweile eine Ausbildung als Velomechaniker begonnen. Nicht alles läuft reibungslos: Im ersten Sommer sind vier Räder verschwunden, und im Winter nutzt kaum jemand das Angebot. Roth erwägt deshalb eine Pause von Dezember bis Februar. Aufgeben will sie die Jugendwerkstatt nicht, denn auf ihrer Warteliste stehen zwanzig Jugendliche, die mitmachen möchten."
      ],
      "footnote": "*Velo = Schweizer Standard für „Fahrrad“",
      "source": "aus einer Schweizer Zeitung",
@@ -123,9 +123,9 @@
        "no": "10",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "Leihräder, die Jugendliche aus alten Rädern bauen.",
-        "b": "einen Bahnhof, an dem alte Fahrräder verkauft werden.",
-        "c": "einen Mechaniker, der eine Lehre in seiner Werkstatt anbietet."
+        "a": "junge Leute, die zurückgelassene Räder für einen Verleih reparieren.",
+        "b": "einen Bahnhof, an dem vergessene Fahrräder verkauft werden.",
+        "c": "einen pensionierten Mechaniker, der in seiner Werkstatt Lehrstellen anbietet."
        },
        "answer": "a"
       },
@@ -133,9 +133,9 @@
        "no": "11",
        "stem": "Die Jugendlichen …",
        "options": {
-        "a": "arbeiten zweimal in der Woche in der Werkstatt.",
-        "b": "verdienen mit der Arbeit etwas Geld.",
-        "c": "kennen sich schon vorher gut mit Fahrrädern aus."
+        "a": "sind zweimal wöchentlich am Nachmittag im Einsatz.",
+        "b": "erhalten für ihr Engagement am Jahresende einen Lohn.",
+        "c": "kennen sich schon vor dem Start gut mit Fahrrädern aus."
        },
        "answer": "a"
       },
@@ -143,9 +143,9 @@
        "no": "12",
        "stem": "Nadia Roth überlegt, …",
        "options": {
-        "a": "die Werkstatt aus Geldmangel zu schließen.",
-        "b": "die reparierten Räder künftig zu verkaufen.",
-        "c": "das Angebot im Winter zu unterbrechen."
+        "a": "die Werkstatt wegen fehlender Einnahmen aufzugeben.",
+        "b": "die reparierten Räder in Zukunft zu verkaufen.",
+        "c": "den Verleih über die Wintermonate einzustellen."
        },
        "answer": "c"
       }
@@ -164,37 +164,37 @@
    "items": [
     {
      "no": "13",
-     "text": "Herr Blum wechselt am Sonntag die Wohnung und braucht zwei starke Leute, die ihm beim Tragen helfen.",
+     "text": "Herr Blum zieht am Sonntag in eine andere Wohnung und braucht für die schweren Möbel zwei Helfer mit viel Kraft.",
      "answer": "a"
     },
     {
      "no": "14",
-     "text": "Die Tochter von Familie Koch (7. Klasse) braucht Hilfe in Mathe. Die Eltern möchten, dass sie dafür nicht aus dem Haus muss.",
+     "text": "Die Tochter von Familie Koch (7. Klasse) hat Schwierigkeiten in Mathe. Die Eltern wünschen sich Unterstützung, für die das Mädchen das Haus nicht verlassen muss.",
      "answer": "e"
     },
     {
      "no": "15",
-     "text": "Frau Ahmed arbeitet Vollzeit und hat für den Haushalt keine Zeit mehr. Sie ist erst abends zu Hause.",
+     "text": "Frau Ahmed ist ganztags berufstätig und kommt nicht mehr zum Putzen. Tagsüber ist ihre Wohnung leer.",
      "answer": "f"
     },
     {
      "no": "16",
-     "text": "Herr Petrov steht am Sonntagabend vor seiner Wohnungstür – der Schlüssel liegt in der Wohnung.",
+     "text": "Herr Petrov hat am Sonntagabend die Wohnungstür hinter sich zugezogen – sein Schlüssel liegt noch drinnen.",
      "answer": "c"
     },
     {
      "no": "17",
-     "text": "Frau Weber, 78, hat einen neuen Computer bekommen und möchte, dass ihr jemand in Ruhe erklärt, wie er funktioniert.",
+     "text": "Frau Weber, 78, hat ein neues Notebook geschenkt bekommen und möchte ohne Zeitdruck lernen, wie sie damit umgeht.",
      "answer": "j"
     },
     {
      "no": "18",
-     "text": "Herr Costa hat morgen früh ein Vorstellungsgespräch. Sein Anzug muss bis dahin gereinigt sein.",
+     "text": "Herr Costa hat morgen früh ein Bewerbungsgespräch und muss seinen Anzug bis dahin gereinigt zurückbekommen.",
      "answer": "0"
     },
     {
      "no": "19",
-     "text": "Die Waschmaschine von Herrn Sato ist kaputt. Wegwerfen möchte er sie aber nicht.",
+     "text": "Die Waschmaschine von Herrn Sato funktioniert nicht mehr. Ein neues Gerät möchte er sich aber nicht anschaffen.",
      "answer": "d"
     }
    ],
@@ -208,7 +208,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Zwei bis vier kräftige junge Leute tragen, schleppen und verladen für Sie, was allein kaum zu bewältigen ist – auch am Wochenende. Transporter auf Wunsch, Abrechnung nach Stunden und Personen. Meist schon binnen zwei Tagen buchbar."
+      "Zwei bis vier kräftige Umzugshelfer übernehmen das Tragen, Schleppen und Verladen von Möbelstücken und Umzugskartons, und zwar auch am Wochenende. Transporter auf Wunsch, Abrechnung nach Stunden und Personenzahl, Buchung meist kurzfristig möglich."
      ],
      "footer": "studenten-packen-an.de · 0421 / 70 70 70"
     },
@@ -224,7 +224,7 @@
      "subtitle": "Ihr Tier bleibt zu Hause",
      "facts": [],
      "body": [
-      "Wir besuchen Ihr Tier ein- bis zweimal täglich, füttern es, spielen mit ihm und reinigen die Katzentoilette. Nebenbei gießen wir die Zimmerpflanzen. Das unverbindliche Vorgespräch ist kostenlos, auch kurzfristig vor der Urlaubsreise möglich."
+      "Wir besuchen Ihr Haustier ein- bis zweimal täglich, übernehmen Fütterung und Beschäftigung, reinigen die Katzentoilette und gießen nebenbei die Zimmerpflanzen. Das unverbindliche Vorgespräch ist kostenlos und auch kurzfristig vor der Urlaubsreise möglich."
      ],
      "footer": "pfoetchen-tierbetreuung.de · 0421 / 51 51 51"
     },
@@ -237,7 +237,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Ausgesperrt? Wir sind rund um die Uhr erreichbar, auch an Sonn- und Feiertagen. In der Regel stehen wir binnen 30 Minuten vor Ihrer Tür, öffnen sie schonend, ohne das Schloss zu beschädigen, und nennen Ihnen den Festpreis vorab am Telefon."
+      "Ausgesperrt? Wir sind rund um die Uhr erreichbar, auch an Sonn- und Feiertagen. In der Regel stehen wir innerhalb von 30 Minuten vor Ihrer Haus- oder Wohnungstür und öffnen sie ohne Beschädigung des Türschlosses. Den Festpreis nennen wir Ihnen vorab am Telefon."
      ],
      "footer": "0421 / 11 22 00 · schluesselnotdienst-ruf.de"
     },
@@ -253,7 +253,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Waschmaschine, Wäschetrockner, Geschirrspüler oder Herd – wir reparieren sämtliche Marken bei Ihnen zu Hause. Kostenvoranschlag vor Ort, Ersatzteile meist vorrätig. Computer und Telefone reparieren wir nicht."
+      "Waschmaschine, Wäschetrockner, Geschirrspüler oder Elektroherd – wir reparieren Haushaltsgeräte sämtlicher Marken bei Ihnen zu Hause. Kostenvoranschlag vor Ort, Ersatzteile meist vorrätig, keine Reparatur von Computern und Telefonen."
      ],
      "footer": "Tel. 0421 / 65 43 21 · Termine auch abends"
     },
@@ -266,7 +266,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Unsere Studentinnen und Studenten unterrichten in Ihrer Wohnung – am Küchentisch, ohne Leistungsdruck. Alle Hauptfächer, Klasse 5 bis 10. Termine nach Absprache, auch am Wochenende. Die erste Stunde ist gratis."
+      "Unsere Studentinnen und Studenten unterrichten in Ihrer Wohnung, am Küchentisch und ohne Leistungsdruck. Nachhilfe in allen Hauptfächern von Klasse 5 bis 10, Terminvereinbarung telefonisch, Einzelstunden auch samstags; die erste Unterrichtsstunde ist gratis."
      ],
      "footer": "lernen-mit-lena.de · 0421 / 88 77 66"
     },
@@ -279,7 +279,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Wir kümmern uns um Ihre Wohnung, wenn Sie nicht da sind. Schlüsselübergabe nach Vereinbarung, stets dieselbe Ansprechpartnerin, wöchentlich oder alle zwei Wochen. Versichert und zuverlässig – fragen Sie Ihre Nachbarn."
+      "Wir übernehmen die Reinigung Ihrer Wohnung in Ihrer Abwesenheit. Schlüsselübergabe nach Vereinbarung, stets dieselbe Ansprechpartnerin, wöchentlich oder alle zwei Wochen. Versichert und zuverlässig – fragen Sie Ihre Nachbarn."
      ],
      "footer": "Angebot unter 0421 / 33 44 55"
     },
@@ -292,7 +292,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Drei bis fünf Schülerinnen und Schüler üben gemeinsam in unseren Räumen am Marktplatz, montags bis freitags von 14 bis 18 Uhr. Alle Fächer, sämtliche Jahrgangsstufen. Hausbesuche bieten wir nicht an. Probewoche 20 €."
+      "Drei bis fünf Schülerinnen und Schüler lernen gemeinsam in unseren Unterrichtsräumen am Marktplatz, montags bis freitags von 14 bis 18 Uhr. Unterstützung in allen Fächern und sämtlichen Jahrgangsstufen, keine Hausbesuche, Probewoche 20 €."
      ],
      "footer": "lernstudio-zentrum.de"
     },
@@ -308,7 +308,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Absätze, Sohlen, Reißverschlüsse – und Schlüsselkopien in fünf Minuten, sogar Sicherheitsschlüssel mit Karte. Montag bis Samstag 9 bis 18 Uhr. Türen öffnen wir nicht; dafür rufen Sie bitte einen Notdienst."
+      "Reparatur von Absätzen, Sohlen und Reißverschlüssen – und Schlüsselkopien in fünf Minuten, sogar Sicherheitsschlüssel mit Sicherungskarte. Öffnungszeiten Montag bis Samstag 9 bis 18 Uhr, keine Türöffnungen; dafür wenden Sie sich bitte an einen Schlüsselnotdienst."
      ],
      "footer": "Direkt am Ausgang Süd"
     },
@@ -321,7 +321,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Hemden und Blusen am selben Tag: morgens abgegeben, abends fertig. Anzüge, Kleider und Mäntel benötigen drei Werktage. Änderungen und kleine Reparaturen erledigt unsere hauseigene Schneiderin."
+      "Hemden und Blusen am selben Tag – morgens abgegeben, abends fertig. Für Anzüge, Kleider und Mäntel beträgt die Bearbeitungszeit drei Werktage. Änderungen und kleine Reparaturen erledigt unsere hauseigene Schneiderin."
      ],
      "footer": "Bahnhofstraße 4 · Mo–Fr 8–18 Uhr, Sa 9–13 Uhr"
     },
@@ -334,7 +334,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Wir kommen zu Ihnen nach Hause und erklären Ihnen Laptop, Tablet und Smartphone Schritt für Schritt – so lange, bis wirklich alles sitzt. Geduldige Helferinnen und Helfer, keine Fachsprache, Erstberatung 15 €. Reparaturen führen wir nicht durch."
+      "Wir kommen zu Ihnen nach Hause und erklären Ihnen die Bedienung von Laptop, Tablet und Smartphone Schritt für Schritt, und zwar so lange, bis wirklich alles sitzt. Geduldige Helferinnen und Helfer, keine Fachsprache, Erstberatung 15 €, keine Reparaturen."
      ],
      "footer": "digital-lotsen.de · 0421 / 24 24 24"
     }
@@ -349,7 +349,7 @@
     "no": "0",
     "name": "Beate",
     "byline": "Beate, 52, Münster",
-    "text": "Seit unsere Altstadt frei von Autos ist, sitze ich abends draußen und höre die Brunnen statt der Motoren. Die Läden sind voller als vorher, nicht leerer – die Leute bleiben länger, wenn sie nicht auf die Parkuhr schauen müssen. Wer das einmal erlebt hat, will nicht mehr zurück.",
+    "text": "Seit unsere Altstadt autofrei ist, sitze ich abends draußen und höre die Brunnen statt der Motoren. Die Geschäfte sind voller als vorher, nicht leerer, denn die Kundschaft bleibt länger, wenn sie nicht ständig auf die Parkuhr schauen muss. Wer diese Lebensqualität einmal erlebt hat, will nicht mehr zurück.",
     "answer": "J"
    },
    "items": [
@@ -357,49 +357,49 @@
      "no": "20",
      "name": "Dirk",
      "byline": "Dirk, 44, Kassel",
-     "text": "Ich verstehe ja, dass sich viele eine ruhigere Innenstadt wünschen. Aber ich beliefere dort jeden Morgen drei Restaurants mit frischem Gemüse, und das ist mit dem Transporter schon knapp genug. Die Lieferung vor sechs Uhr, wie sie die Stadtverwaltung vorschlägt, kommt für mich nicht infrage, weil die Küchen um diese Zeit noch geschlossen sind. Mit dem Lastenrad bewältige ich die Mengen nicht, und ein generelles Verbot trifft Leute wie mich, nicht die Sonntagsfahrer.",
+     "text": "Ich verstehe ja, dass sich viele eine ruhigere Innenstadt wünschen. Aber ich beliefere dort jeden Morgen drei Restaurants mit frischem Gemüse, und der Zeitplan ist mit dem Transporter schon knapp genug. Die Belieferung vor sechs Uhr, die die Stadtverwaltung vorschlägt, kommt für mich nicht infrage, denn um diese Uhrzeit sind die Restaurantküchen noch geschlossen. Mit dem Lastenrad bewältige ich die Mengen nicht, und ein generelles Fahrverbot trifft Lieferanten wie mich, nicht die Sonntagsfahrer.",
      "answer": "N"
     },
     {
      "no": "21",
      "name": "Halil",
      "byline": "Halil, 38, Bochum",
-     "text": "Erst muss der Bus im Zehnminutentakt fahren, auch abends und am Wochenende. Ich wohne zwanzig Kilometer außerhalb, und nach 20 Uhr verkehrt dort überhaupt nichts mehr. Wenn das Netz ausgebaut ist, kann man über eine Sperrung reden. Umgekehrt funktioniert es nicht: Wer heute die Autos aussperrt, sperrt zugleich die Menschen aus den Vororten aus. Bis dahin: nein.",
+     "text": "Erst muss der Bus im Zehnminutentakt fahren, auch abends und am Wochenende. Ich wohne zwanzig Kilometer außerhalb, und nach 20 Uhr verkehrt dort überhaupt kein Verkehrsmittel mehr. Wenn das Busnetz ausgebaut ist, kann man über eine Sperrung diskutieren. Umgekehrt funktioniert es nicht: Wer heute die Autos aussperrt, sperrt zugleich die Bewohner der Vororte aus. Bis dahin: nein.",
      "answer": "N"
     },
     {
      "no": "22",
      "name": "Nadine",
      "byline": "Nadine, 31, Graz",
-     "text": "Bei uns wurde die Innenstadt an einem Sonntag im Herbst zum ersten Mal gesperrt. Meine Kinder sind mitten auf der Hauptstraße Roller gefahren, und ich habe zum ersten Mal in Ruhe die prächtigen Fassaden betrachtet. Sogar die Wirte haben spontan ihre Tische auf die Fahrbahn gestellt, und aus allen Fenstern hörte man Gelächter. Am Montag habe ich im Rathaus die Unterschriftenliste für eine dauerhafte Sperrung unterzeichnet.",
+     "text": "Bei uns wurde die Innenstadt an einem Sonntag im Herbst zum ersten Mal gesperrt. Meine Kinder sind mitten auf der Hauptstraße Roller gefahren, und ich habe zum ersten Mal in Ruhe die prächtigen Fassaden betrachtet. Sogar die Gastwirte haben spontan ihre Tische auf die Fahrbahn gestellt, und überall hörte man Gelächter. Am Montag habe ich im Rathaus die Unterschriftenliste für eine dauerhafte Sperrung unterzeichnet.",
      "answer": "J"
     },
     {
      "no": "23",
      "name": "Ruth",
      "byline": "Ruth, 67, Freiburg",
-     "text": "Als das hier beschlossen wurde, habe ich einen wütenden Leserbrief an die Zeitung geschrieben. Wie soll ich mit 67 meine Einkäufe schleppen? Heute pendelt ein kleiner Elektrobus alle acht Minuten durch die Altstadt; er bringt mich näher an die Läden heran als früher mein Auto, und die Fahrt kostet mich nichts. Den Brief würde ich heute nicht mehr schreiben.",
+     "text": "Als die Sperrung hier beschlossen wurde, habe ich einen wütenden Leserbrief an die Lokalzeitung geschrieben. Wie soll ich mit 67 meine Einkäufe schleppen? Heute pendelt ein kleiner Elektrobus alle acht Minuten durch die Altstadt. Er bringt mich näher an die Geschäfte heran als früher mein Auto, und die Benutzung ist kostenlos. Den Brief würde ich heute nicht mehr schreiben.",
      "answer": "J"
     },
     {
      "no": "24",
      "name": "Sven",
      "byline": "Sven, 49, Hannover",
-     "text": "Meine Kundschaft kommt aus dem gesamten Umland und schleppt sperrige Kartons hinaus – ich verkaufe Lampen. Für so etwas steigt niemand in die Straßenbahn, das höre ich jede Woche, und die Parkhäuser am Stadtrand sind den Leuten zu weit entfernt. Ein Geschäft wie meines lebt vom Parkplatz vor der Tür. Nehmt ihn weg, und ich bin in einem Jahr weg.",
+     "text": "Ich verkaufe Lampen, und meine Kundschaft kommt aus dem gesamten Umland und transportiert sperrige Kartons. Mit solchen Einkäufen steigt niemand in die Straßenbahn, das höre ich jede Woche, und die Parkhäuser am Stadtrand sind den Leuten zu weit entfernt. Ein Fachgeschäft wie meines lebt vom Parkplatz vor der Tür. Nehmt ihn weg, und ich bin in einem Jahr weg.",
      "answer": "N"
     },
     {
      "no": "25",
      "name": "Anja",
      "byline": "Anja, 35, Wien",
-     "text": "Für mich hängt alles von den Parkhäusern am Stadtrand ab: Wenn sie erschwinglich sind und ein Pendelbus von dort ins Zentrum fährt, dann sofort. Ohne diese Lösung wäre ich dagegen, denn ich wohne selbst im Umland. Genau so macht es meine Stadt gerade – ich habe längst die Jahreskarte fürs Parkhaus erworben und freue mich auf den ersten Sommer ohne Blechlawine.",
+     "text": "Für mich hängt alles von den Parkhäusern am Stadtrand ab: Wenn sie erschwinglich sind und ein Pendelbus von dort ins Zentrum fährt, dann sofort. Ohne diese Lösung wäre ich dagegen, denn ich wohne selbst im Umland. Genau dieses Konzept setzt meine Stadt gerade um. Ich habe längst die Jahreskarte fürs Parkhaus erworben und freue mich auf den ersten Sommer ohne Blechlawine.",
      "answer": "J"
     },
     {
      "no": "26",
      "name": "Georg",
      "byline": "Georg, 73, Lübeck",
-     "text": "Eine schöne Idee, wirklich. Ich habe früher selbst gern in autofreien Orten Urlaub gemacht. Nur schaffe ich seit meiner Hüftoperation kaum noch zweihundert Meter am Stück, und ein Taxi bis vor die Apotheke ist für mich keine Bequemlichkeit, sondern eine Notwendigkeit. Außerdem bin ich nicht der Einzige in meiner Straße, dem es so geht. Für Leute wie mich muss das Zentrum mit dem Auto erreichbar bleiben.",
+     "text": "Eine schöne Idee, wirklich. Ich habe früher selbst gern in autofreien Orten Urlaub gemacht. Nur schaffe ich seit meiner Hüftoperation kaum noch zweihundert Meter am Stück, und ein Taxi bis vor die Apotheke ist für mich keine Bequemlichkeit, sondern eine Notwendigkeit. Außerdem bin ich nicht der Einzige in meiner Straße, dem es so geht. Für Menschen wie mich muss die Innenstadt mit dem Auto erreichbar bleiben.",
      "answer": "N"
     }
    ]
@@ -413,23 +413,23 @@
     "sections": [
      {
       "heading": "Ausweis",
-      "text": "Der Bibliotheksausweis wird gegen Vorlage eines Personalausweises ausgestellt und ist ein Jahr gültig. Die Gebühr beträgt für Erwachsene 20 Euro, für Studierende und Auszubildende 10 Euro; Kinder und Jugendliche bis 18 Jahre erhalten den Ausweis kostenlos. Er ist nicht übertragbar. Ein Verlust ist umgehend zu melden. Für die Ausstellung einer Ersatzkarte werden 5 Euro erhoben."
+      "text": "Der Bibliotheksausweis wird gegen Vorlage eines Personalausweises ausgestellt; seine Gültigkeit beträgt ein Jahr. Die Gebühr beträgt für Erwachsene 20 Euro, für Studierende und Auszubildende 10 Euro; Kinder und Jugendliche bis 18 Jahre erhalten den Ausweis kostenlos. Eine Übertragung des Ausweises auf andere Personen ist nicht zulässig. Ein Verlust ist umgehend zu melden; für die Ausstellung einer Ersatzkarte wird eine Gebühr von 5 Euro erhoben."
      },
      {
       "heading": "Ausleihe",
-      "text": "Bücher und Zeitschriften werden für vier Wochen, Filme und Spiele für zwei Wochen verliehen. Eine Verlängerung um jeweils vier Wochen ist höchstens zweimal möglich – online, telefonisch oder am Schalter. Voraussetzung ist, dass kein anderer das Medium vorgemerkt hat. Die aktuelle Ausgabe einer Zeitschrift darf ausschließlich im Lesesaal eingesehen werden. Pro Ausweis dürfen nicht mehr als 20 Medien gleichzeitig entliehen sein."
+      "text": "Die Leihfrist beträgt für Bücher und Zeitschriften vier Wochen, für Filme und Spiele zwei Wochen. Eine Verlängerung der Leihfrist um jeweils vier Wochen ist höchstens zweimal möglich – online, telefonisch oder am Schalter. Voraussetzung für die Verlängerung ist, dass keine Vormerkung durch andere Benutzer vorliegt. Die aktuelle Ausgabe einer Zeitschrift steht ausschließlich zur Benutzung im Lesesaal zur Verfügung. Pro Ausweis dürfen nicht mehr als 20 Medien gleichzeitig entliehen sein."
      },
      {
       "heading": "Rückgabe und Gebühren",
-      "text": "Medien können während der Öffnungszeiten am Schalter oder jederzeit über die Rückgabebox neben dem Eingang zurückgegeben werden. Bei verspäteter Rückgabe wird pro Medium und angefangener Woche eine Säumnisgebühr von 1 Euro fällig; für Kinderausweise beträgt sie die Hälfte. Beschädigte oder abhandengekommene Medien sind zu ersetzen."
+      "text": "Die Rückgabe ist während der Öffnungszeiten am Schalter oder jederzeit über die Rückgabebox neben dem Eingang möglich. Bei Überschreitung der Leihfrist wird pro Medium und angefangener Woche eine Säumnisgebühr von 1 Euro fällig; für Kinderausweise beträgt die Säumnisgebühr die Hälfte. Beschädigte oder abhandengekommene Medien sind zu ersetzen."
      },
      {
       "heading": "Arbeitsplätze und Technik",
-      "text": "Die Lese- und Arbeitsplätze im ersten Stock stehen allen Besucherinnen und Besuchern offen, auch ohne Ausweis. Die Computerarbeitsplätze lassen sich mit Ausweis für zwei Stunden pro Tag vorbestellen. Das WLAN ist kostenlos. Das Passwort erhalten Sie an der Information. Für Drucken und Kopieren werden 10 Cent pro Seite berechnet."
+      "text": "Die Lese- und Arbeitsplätze im ersten Stock stehen allen Besucherinnen und Besuchern offen, auch ohne Ausweis. Die Reservierung eines Computerarbeitsplatzes für zwei Stunden pro Tag ist nur mit Ausweis möglich. Die Nutzung des WLAN ist kostenlos; das Passwort erhalten Sie an der Information. Für Ausdrucke und Kopien werden 10 Cent pro Seite berechnet."
      },
      {
       "heading": "Verhalten",
-      "text": "In den Lesesälen ist Ruhe zu wahren. Telefongespräche sind ausschließlich im Foyer gestattet. Getränke in verschließbaren Flaschen sind zugelassen, Speisen nicht. Taschen und Jacken können in den Schließfächern im Eingangsbereich verwahrt werden. Für mitgebrachte Gegenstände übernimmt die Bibliothek keine Haftung."
+      "text": "In den Lesesälen ist Ruhe zu wahren; Telefongespräche sind ausschließlich im Foyer gestattet. Getränke in verschließbaren Flaschen sind zugelassen, Speisen nicht. Für die Aufbewahrung von Taschen und Jacken stehen Schließfächer im Eingangsbereich bereit. Für mitgebrachte Gegenstände übernimmt die Bibliothek keine Haftung."
      }
     ],
     "footer": ""
@@ -440,9 +440,9 @@
      "no": "27",
      "stem": "Wer seinen Ausweis verliert, …",
      "options": {
-      "a": "bekommt kostenlos einen neuen.",
-      "b": "bekommt gegen Bezahlung eine neue Karte.",
-      "c": "muss einen neuen Ausweis für 20 Euro kaufen."
+      "a": "erhält kostenlos einen Ersatz für den Ausweis.",
+      "b": "muss für eine Ersatzkarte eine Gebühr bezahlen.",
+      "c": "zahlt für den neuen Ausweis wie Erwachsene 20 Euro."
      },
      "answer": "b"
     },
@@ -452,7 +452,7 @@
      "options": {
       "a": "darf man nur ein einziges Mal verlängern.",
       "b": "kann man ausschließlich am Schalter verlängern.",
-      "c": "kann man bis zu zwölf Wochen behalten."
+      "c": "kann man insgesamt bis zu zwölf Wochen behalten."
      },
      "answer": "c"
     },
@@ -460,9 +460,9 @@
      "no": "29",
      "stem": "Wer ein Buch zu spät zurückgibt, …",
      "options": {
-      "a": "muss das Buch durch ein neues ersetzen.",
+      "a": "muss das Medium durch ein neues ersetzen.",
       "b": "zahlt mit einem Kinderausweis weniger.",
-      "c": "darf vorerst nichts mehr ausleihen."
+      "c": "darf vorerst keine weiteren Medien entleihen."
      },
      "answer": "b"
     },
@@ -470,9 +470,9 @@
      "no": "30",
      "stem": "Wer keinen Bibliotheksausweis hat, …",
      "options": {
-      "a": "kann im ersten Stock lesen und arbeiten.",
+      "a": "kann trotzdem einen Leseplatz im Obergeschoss nutzen.",
       "b": "kann einen Computerplatz für zwei Stunden reservieren.",
-      "c": "darf die Bibliothek nicht betreten."
+      "c": "darf die Lesesäle der Bibliothek nicht betreten."
      },
      "answer": "a"
     }
@@ -517,9 +517,9 @@
        "type": "abc",
        "stem": "Die Passagiere …",
        "options": {
-        "a": "gehen wie auf der Anzeigetafel zum Gate B12.",
-        "b": "bekommen am Schalter neue Tickets.",
-        "c": "sollen zu einem anderen Gate gehen."
+        "a": "können wie angezeigt an Gate B12 einsteigen.",
+        "b": "holen sich am Schalter neben Gate C7 neue Tickets.",
+        "c": "steigen an einem anderen Gate ein."
        },
        "answer": "c"
       }
@@ -539,9 +539,9 @@
        "type": "abc",
        "stem": "Frau Sander soll …",
        "options": {
-        "a": "ein unterschriebenes Formular mitbringen.",
-        "b": "die Lehrerin am Nachmittag zurückrufen.",
-        "c": "Emma am Donnerstag in die Schule begleiten."
+        "a": "ein unterschriebenes Formular abgeben.",
+        "b": "die Klassenlehrerin vor Donnerstag zurückrufen.",
+        "c": "Emma zum Elternabend in die Aula mitbringen."
        },
        "answer": "a"
       }
@@ -561,9 +561,9 @@
        "type": "abc",
        "stem": "Wer mit dem Auto kommt, …",
        "options": {
-        "a": "parkt kostenlos direkt am Marktplatz.",
-        "b": "fährt mit einem Bus in die Stadt.",
-        "c": "zahlt zwölf Euro fürs Parken."
+        "a": "kann kostenlos direkt am Marktplatz parken.",
+        "b": "fährt vom Messegelände mit dem Bus weiter.",
+        "c": "bezahlt zwölf Euro für einen Parkplatz am Messegelände."
        },
        "answer": "b"
       }
@@ -575,7 +575,7 @@
       {
        "no": "7",
        "type": "rf",
-       "text": "Ein Kind hat im Kaufhaus seine Mutter verloren.",
+       "text": "Ein kleiner Junge ist im Kaufhaus von seiner Mutter getrennt worden.",
        "answer": "R"
       },
       {
@@ -583,9 +583,9 @@
        "type": "abc",
        "stem": "Das Angebot in der Sportabteilung …",
        "options": {
-        "a": "gilt die ganze Woche.",
-        "b": "gilt nur heute.",
-        "c": "gilt für alle Sportartikel."
+        "a": "gilt bis Ende der Woche für alle Laufschuhe.",
+        "b": "gilt nur bis zum Abend.",
+        "c": "gilt heute für alle Artikel im dritten Stock."
        },
        "answer": "b"
       }
@@ -634,9 +634,9 @@
      "no": "12",
      "stem": "In der Produktion …",
      "options": {
-      "a": "darf man nicht fotografieren.",
+      "a": "darf man keine Bilder machen.",
       "b": "muss das Handy im Schließfach bleiben.",
-      "c": "sind Fotos ohne Blitz erlaubt."
+      "c": "darf man ohne Blitz fotografieren."
      },
      "answer": "a"
     },
@@ -644,9 +644,9 @@
      "no": "13",
      "stem": "Wer allergisch gegen Nüsse ist, …",
      "options": {
-      "a": "darf nicht an der Verkostung teilnehmen.",
-      "b": "bekommt andere Schokolade.",
-      "c": "muss die Produktion auslassen."
+      "a": "darf an der Verkostung im Genussraum nicht teilnehmen.",
+      "b": "probiert Schokolade, die woanders hergestellt wurde.",
+      "c": "muss draußen warten, während die Gruppe in der Produktion ist."
      },
      "answer": "b"
     },
@@ -664,8 +664,8 @@
      "no": "15",
      "stem": "Für die Vorführung um vier Uhr …",
      "options": {
-      "a": "zahlt man an der Kasse einen kleinen Betrag.",
-      "b": "muss man sich vorher einen Platz sichern.",
+      "a": "zahlt man an der Kasse einen kleinen Zusatzbetrag.",
+      "b": "muss man rechtzeitig einen Platz reservieren.",
       "c": "braucht man das Ticket von der Führung."
      },
      "answer": "b"
@@ -694,7 +694,7 @@
     },
     {
      "no": "19",
-     "text": "Lukas arbeitet auch am Samstag.",
+     "text": "Lukas hat samstags nicht frei.",
      "answer": "R"
     },
     {
@@ -704,12 +704,12 @@
     },
     {
      "no": "21",
-     "text": "Die Band, die Sarah sehen wollte, hat nicht gespielt.",
+     "text": "Die Musiker, die Sarah unbedingt erleben wollte, sind nicht aufgetreten.",
      "answer": "R"
     },
     {
      "no": "22",
-     "text": "Für das nächste Jahr hat Sarah schon eine Unterkunft gebucht.",
+     "text": "Sarah weiß bereits, wo sie beim nächsten Mal übernachten wird.",
      "answer": "R"
     }
    ]
@@ -731,42 +731,42 @@
    "items": [
     {
      "no": "23",
-     "text": "Seit dem Verbot reden die Schüler in den Pausen wieder miteinander.",
+     "text": "Seit der neuen Regel geht es in den Pausen wieder lebhafter zu.",
      "answer": "b"
     },
     {
      "no": "24",
-     "text": "Das Handy ist ein Hilfsmittel für den Unterricht.",
+     "text": "Ohne das Handy fehlt im Unterricht ein nützliches Arbeitsmittel.",
      "answer": "c"
     },
     {
      "no": "25",
-     "text": "Die Schule sollte den richtigen Umgang mit dem Handy vermitteln.",
+     "text": "Der richtige Umgang mit dem Handy sollte in der Schule gelernt werden.",
      "answer": "c"
     },
     {
      "no": "26",
-     "text": "Eltern legen Wert darauf, ihr Kind jederzeit anrufen zu können.",
+     "text": "Für viele Eltern ist es wichtig, dass ihr Kind während des Schultags erreichbar ist.",
      "answer": "a"
     },
     {
      "no": "27",
-     "text": "Ein Verbot verschiebt die Probleme nur in die Freizeit.",
+     "text": "Durch ein Verbot verschwinden die Schwierigkeiten nicht, sie treten dann nur außerhalb der Schule auf.",
      "answer": "c"
     },
     {
      "no": "28",
-     "text": "Jüngere Schüler brauchen feste Regeln von außen.",
+     "text": "Die jüngsten Schüler sind noch nicht in der Lage, sich selbst Regeln zu geben.",
      "answer": "b"
     },
     {
      "no": "29",
-     "text": "In anderen Ländern gibt es schon Erfahrungen mit Verboten.",
+     "text": "Aus dem Ausland gibt es bereits Ergebnisse zu Handyverboten.",
      "answer": "a"
     },
     {
      "no": "30",
-     "text": "Auch manche Kollegen sollten den Umgang mit Medien lernen.",
+     "text": "Nicht nur die Schüler, auch einige Lehrkräfte sollten im Umgang mit dem Handy geschult werden.",
      "answer": "b"
     }
    ]
@@ -1040,7 +1040,7 @@
   "lesen": {
    "1": {
     "type": "P",
-    "note": "„Ich war noch im Büro“ = bei der Arbeit; „Bruno war verschwunden“, während sie dort war."
+    "note": "„Ich war zu diesem Zeitpunkt noch im Büro“ = „an ihrem Arbeitsplatz“; „Bruno war verschwunden“, während sie dort war."
    },
    "2": {
     "type": "A",
@@ -1052,67 +1052,67 @@
    },
    "4": {
     "type": "P",
-    "note": "„die ich bis dahin nur vom Grüßen kannte“ = kaum gekannt."
+    "note": "„die ich bis dahin nur vom Grüßen kannte“ = „früher kaum gesprochen“."
    },
    "5": {
     "type": "S",
-    "note": "Angerufen hat „eine Frau aus dem Nachbarstadtteil“; der Radfahrer hat den Hund „im Tierheim abgegeben“."
+    "note": "Wortfalle „gemeldet“: Gemeldet hat sich „eine Frau aus dem Nachbarstadtteil“; der Radfahrer hat den Hund nur „im Tierheim abgegeben“."
    },
    "6": {
     "type": "P",
-    "note": "Konjunktiv II: „wenn Bruno einen Chip gehabt hätte“ – also hatte er keinen; Schlussfolgerung nötig."
+    "note": "Konjunktiv II: „wenn Bruno einen Chip gehabt hätte“ – also hatte er keinen; Schlussfolgerung nötig („Bisher fehlte Bruno ein Chip“)."
    },
    "7": {
     "type": "W",
-    "note": "Globalfrage; Bus (a) und Schüler (b) kommen im Text vor, sind aber nicht das Thema: „Gewartet wird auf einen Nachbarn mit Auto“."
+    "note": "Globalfrage; Bus (a) und Schulkinder (b) kommen im Text vor, sind aber nicht das Thema: „Er wartet auf einen Nachbarn mit Auto, der ihn mitnimmt“."
    },
    "8": {
     "type": "N",
-    "note": "„selten länger als zehn Minuten“ = kurz; „Eine Bezahlung wird nicht erwartet“ (a); „Niemand ist verpflichtet … einzusteigen“ (c)."
+    "note": "„selten länger als zehn Minuten“ = „nach kurzer Zeit“; „eine Bezahlung wird nicht erwartet“ (a); „Niemand ist zum Anhalten oder zum Einsteigen verpflichtet“ (c)."
    },
    "9": {
     "type": "P",
-    "note": "„Wer mich mitnimmt, ist kein Fremder“ = Vertrauen; „Peters widerspricht“ der Polizei (a); Wetterdach statt Abbau (b)."
+    "note": "„Wer mich mitnimmt, ist kein Fremder“ = ohne Bedenken; „Bedenken“ hat nur die Polizei, und „Peters widerspricht dieser Warnung“ (a); Wetterdach statt Abbau (b)."
    },
    "10": {
     "type": "W",
-    "note": "„nicht verkauft, sondern verliehen“ (b); der Mechaniker leitet nur an (c): „unter der Anleitung“."
+    "note": "„nicht verkauft, sondern verliehen“ (b); der Mechaniker leitet nur an (c): „unter Anleitung“."
    },
    "11": {
     "type": "N",
-    "note": "„an zwei Nachmittagen pro Woche“ = zweimal; „Löhne gibt es nicht“ (b); „noch nie einen Schlauch gewechselt“ (c)."
+    "note": "„an zwei Nachmittagen pro Woche“ = „zweimal wöchentlich“; „Löhne gibt es nicht“ (b); „noch nie einen Schlauch gewechselt“ (c)."
    },
    "12": {
     "type": "A",
-    "note": "Roth „erwägt deshalb eine Pause von Dezember bis Februar“ = unterbrechen; „Aufgeben will sie nicht“ (a); verliehen, nicht verkauft (b)."
+    "note": "Roth „erwägt deshalb eine Pause von Dezember bis Februar“ = „über die Wintermonate“; „Aufgeben will sie die Jugendwerkstatt nicht“ (a); verliehen, nicht verkauft (b)."
    },
    "13": {
     "type": "P",
-    "note": "„wechselt … die Wohnung“ = Umzug, „starke Leute“ = „kräftige junge Leute“; „auch am Wochenende“ schließt den Sonntag ein."
+    "note": "„zieht … in eine andere Wohnung“ = Umzug, „Helfer mit viel Kraft“ = „kräftige Umzugshelfer“; „auch am Wochenende“ schließt den Sonntag ein."
    },
    "14": {
     "type": "N",
-    "note": "„nicht aus dem Haus muss“ = „Einzelunterricht bei Ihnen zu Hause“ (e); g: „Hausbesuche bieten wir nicht an“."
+    "note": "„das Haus nicht verlassen muss“ = „Einzelunterricht bei Ihnen zu Hause“ (e); g: „keine Hausbesuche“."
    },
    "15": {
     "type": "P",
-    "note": "„für den Haushalt keine Zeit“ = Reinigungsservice; „erst abends zu Hause“ = „wenn Sie nicht da sind“."
+    "note": "„kommt nicht mehr zum Putzen“ = Reinigungsservice; „Tagsüber ist ihre Wohnung leer“ = „in Ihrer Abwesenheit“."
    },
    "16": {
     "type": "W",
-    "note": "h hat „Schlüssel“ im Namen, doch „Türen öffnen wir nicht“ und sonntags ist geschlossen; c: „rund um die Uhr erreichbar“."
+    "note": "h hat „Schlüssel“ im Namen, doch „keine Türöffnungen“ und sonntags ist geschlossen; c: „rund um die Uhr erreichbar“."
    },
    "17": {
     "type": "N",
-    "note": "„Computer“ ↔ „Laptop, Tablet und Smartphone“; d: „Computer und Telefone reparieren wir nicht“; j kommt „zu Ihnen nach Hause“."
+    "note": "„Notebook“ ↔ „Laptop, Tablet und Smartphone“; d: „keine Reparatur von Computern und Telefonen“ – Frau Weber braucht Erklärung, keine Reparatur; j kommt „zu Ihnen nach Hause“."
    },
    "18": {
     "type": "Z",
-    "note": "Wortfalle „Anzug“: i ist nur bei Hemden und Blusen schnell – „Anzüge, Kleider und Mäntel benötigen drei Werktage“."
+    "note": "Wortfalle „Anzug“: i ist nur bei Hemden und Blusen schnell – „Für Anzüge, Kleider und Mäntel beträgt die Bearbeitungszeit drei Werktage“."
    },
    "19": {
     "type": "P",
-    "note": "„kaputt“ und „nicht wegwerfen“ = reparieren lassen; d: „Reparatur statt Neukauf“."
+    "note": "„funktioniert nicht mehr“ und kein „neues Gerät“ = reparieren lassen; d: „Reparatur statt Neukauf“."
    },
    "20": {
     "type": "K",
@@ -1136,15 +1136,15 @@
    },
    "25": {
     "type": "B",
-    "note": "Bedingung erfüllt („Genau so macht es meine Stadt gerade“), Jahreskarte fürs Parkhaus schon „erworben“ (Anja)."
+    "note": "Bedingung erfüllt („Genau dieses Konzept setzt meine Stadt gerade um“), Jahreskarte fürs Parkhaus schon „erworben“ (Anja)."
    },
    "26": {
     "type": "K",
-    "note": "„Eine schöne Idee … Nur schaffe ich … kaum noch zweihundert Meter“ – das Zentrum muss „mit dem Auto erreichbar bleiben“ (Georg)."
+    "note": "„Eine schöne Idee … Nur schaffe ich … kaum noch zweihundert Meter“ – die Innenstadt muss „mit dem Auto erreichbar bleiben“ (Georg)."
    },
    "27": {
     "type": "Z",
-    "note": "„Ersatzkarte werden 5 Euro erhoben“ = gegen Bezahlung; nicht kostenlos (a), 20 Euro ist die Gebühr für Erwachsene (c)."
+    "note": "„für die Ausstellung einer Ersatzkarte wird eine Gebühr von 5 Euro erhoben“ = Gebühr für die Ersatzkarte; nicht kostenlos (a), 20 Euro ist die Gebühr für Erwachsene (c)."
    },
    "28": {
     "type": "Z",
@@ -1152,11 +1152,11 @@
    },
    "29": {
     "type": "P",
-    "note": "„für Kinderausweise beträgt sie die Hälfte“ = weniger; Ersatz nur bei Schaden oder Verlust (a); keine Ausleihsperre im Text (c)."
+    "note": "„für Kinderausweise beträgt die Säumnisgebühr die Hälfte“ = weniger; Ersatz nur bei Schaden oder Verlust (a); keine Ausleihsperre im Text (c)."
    },
    "30": {
     "type": "N",
-    "note": "Arbeitsplätze „stehen allen … offen, auch ohne Ausweis“; Computerplätze nur „mit Ausweis“ (b); Betreten ist frei (c)."
+    "note": "Arbeitsplätze „im ersten Stock“ (= „im Obergeschoss“) „stehen allen … offen, auch ohne Ausweis“; Computerplätze nur „mit Ausweis“ (b); Betreten ist frei (c)."
    }
   },
   "hoeren": {
@@ -1166,7 +1166,7 @@
    },
    "2": {
     "type": "S",
-    "note": "„nicht wie angezeigt an Gate B12, sondern an Gate C7“; der Schalter ist nur für Anschlussflüge (b)."
+    "note": "„nicht wie angezeigt an Gate B12, sondern an Gate C7“ = anderes Gate; der Schalter ist nur für Anschlussflüge (b)."
    },
    "3": {
     "type": "Z",
@@ -1174,7 +1174,7 @@
    },
    "4": {
     "type": "P",
-    "note": "„Zettel … mit Ihrer Unterschrift zurück“ = unterschriebenes Formular mitbringen; zurückrufen soll sie nicht (b)."
+    "note": "„Zettel … mit Ihrer Unterschrift zurück“ = unterschriebenes Formular abgeben; zurückrufen soll sie nicht (b); Emma bringt höchstens den Zettel mit (c)."
    },
    "5": {
     "type": "N",
@@ -1182,15 +1182,15 @@
    },
    "6": {
     "type": "W",
-    "note": "Parken am Messegelände, nicht am Marktplatz (a); die zwölf Euro sind die Konzertkarte (c)."
+    "note": "„Shuttlebusse ins Zentrum“ = vom Messegelände mit dem Bus weiter; Parken am Messegelände, nicht am Marktplatz (a); die zwölf Euro sind die Konzertkarte (c)."
    },
    "7": {
     "type": "P",
-    "note": "„hat seine Mutter aus den Augen verloren“ = verloren; die Information ist nur der Treffpunkt."
+    "note": "„hat seine Mutter aus den Augen verloren“ = von ihr getrennt; die Information ist nur der Treffpunkt."
    },
    "8": {
     "type": "N",
-    "note": "„nur noch bis Ladenschluss“ = nur heute; „alle Laufschuhe“, nicht alle Sportartikel (c)."
+    "note": "„nur noch bis Ladenschluss“ = bis zum Abend; „alle Laufschuhe“, nicht alle Artikel (c), nicht die ganze Woche (a)."
    },
    "9": {
     "type": "N",
@@ -1206,11 +1206,11 @@
    },
    "12": {
     "type": "N",
-    "note": "„in der Produktion dagegen nicht“; das Handy darf mit, nur auf lautlos (b)."
+    "note": "„in der Produktion dagegen nicht“ = keine Bilder; das Handy darf mit, nur auf lautlos (b); vom Blitz ist keine Rede (c)."
    },
    "13": {
     "type": "P",
-    "note": "„extra verpackte Schokolade aus unserem Werk in Aachen“ = andere Schokolade; die Führung bleibt gleich (a, c)."
+    "note": "„extra verpackte Schokolade aus unserem Werk in Aachen“ = woanders hergestellt; die Führung bleibt gleich (a, c)."
    },
    "14": {
     "type": "P",
@@ -1218,7 +1218,7 @@
    },
    "15": {
     "type": "B",
-    "note": "„vorher … anmelden, es gibt nämlich nur zwanzig Plätze“ = Platz sichern; „kostet nichts extra“ (a); das Ticket gilt für den Shop-Rabatt (c)."
+    "note": "„vorher … anmelden, es gibt nämlich nur zwanzig Plätze“ = rechtzeitig reservieren; „kostet nichts extra“ (a); das Ticket gilt für den Shop-Rabatt (c)."
    },
    "16": {
     "type": "N",
@@ -1234,7 +1234,7 @@
    },
    "19": {
     "type": "Z",
-    "note": "„Dienstag bis Samstag“ – der Samstag ist sogar „der wichtigste Tag“."
+    "note": "„Dienstag bis Samstag“ = samstags nicht frei; frei ist nur „der Montag“, der Samstag ist sogar „der wichtigste Tag“."
    },
    "20": {
     "type": "A",
@@ -1242,19 +1242,19 @@
    },
    "21": {
     "type": "P",
-    "note": "„Die hat abgesagt, zwei Stunden vor dem Auftritt“ = nicht gespielt."
+    "note": "„Die hat abgesagt, zwei Stunden vor dem Auftritt“ = nicht aufgetreten."
    },
    "22": {
     "type": "P",
-    "note": "„Die habe ich schon reserviert“ = gebucht; die Korrektur „Moment, nein“ betrifft nur den Preis der Hütten."
+    "note": "„Die habe ich schon reserviert“ = sie weiß schon, wo sie übernachtet; die Korrektur „Moment, nein“ betrifft nur den Preis der Hütten."
    },
    "23": {
     "type": "P",
-    "note": "Lindner: „ist der Schulhof wieder laut“, „es wird gelacht“ = die Schüler reden wieder miteinander."
+    "note": "Lindner: „ist der Schulhof wieder laut“, „es wird gelacht“ = in den Pausen geht es lebhafter zu."
    },
    "24": {
     "type": "P",
-    "note": "Weiß: „fehlt mir ein Werkzeug – so wie ein Taschenrechner“ = Hilfsmittel."
+    "note": "Weiß: „fehlt mir ein Werkzeug – so wie ein Taschenrechner“ = Arbeitsmittel."
    },
    "25": {
     "type": "S",
@@ -1262,11 +1262,11 @@
    },
    "26": {
     "type": "S",
-    "note": "Der Moderator: „sie wollen ihr Kind tagsüber erreichen können“ = anrufen können; Lindner antwortet mit dem Sekretariat."
+    "note": "Der Moderator: „sie wollen ihr Kind tagsüber erreichen können“ = erreichbar; Lindner antwortet mit dem Sekretariat."
    },
    "27": {
     "type": "P",
-    "note": "Weiß: „verschiebt das Problem nur nach Hause“, „passiert dann eben nach 16 Uhr“ = in die Freizeit."
+    "note": "Weiß: „verschiebt das Problem nur nach Hause“, „passiert dann eben nach 16 Uhr“ = außerhalb der Schule."
    },
    "28": {
     "type": "P",
@@ -1274,11 +1274,11 @@
    },
    "29": {
     "type": "S",
-    "note": "Der Moderator nennt Norwegen („Schulen mit Verbot bessere Noten“); Lindner spricht nur über ihre Schule."
+    "note": "Der Moderator nennt Norwegen („Schulen mit Verbot bessere Noten“) = Ausland; Lindner spricht nur über ihre Schule."
    },
    "30": {
     "type": "P",
-    "note": "Lindner: „sollten das auch manche Kollegen lernen“; die Zusammenfassung des Moderators nennt nur die Wochenstunde."
+    "note": "Lindner: „sollten das auch manche Kollegen lernen“ = Lehrkräfte; die Zusammenfassung des Moderators nennt nur die Wochenstunde."
    }
   }
  }

@@ -9,11 +9,11 @@
     "date": "Sonntag, 8. Dezember",
     "title": "Lampenfieber",
     "paragraphs": [
-     "Gestern war es so weit: mein erstes Konzert. Wer mich kennt, weiß, dass ich bisher höchstens unter der Dusche gesungen habe – und auch das nur, wenn niemand zu Hause war. Dass ich jetzt in einem Chor stehe, verdanke ich Birgit. Sie sitzt im Büro am Nachbarschreibtisch und hat mir im Januar so lange von ihrem Chor „Querbeet“ vorgeschwärmt, bis ich an einem Dienstag mitgekommen bin – eigentlich nur, damit sie endlich Ruhe gibt.",
-     "Vor dem ersten Abend hatte ich richtig Bammel. Aber Ines, unsere Chorleiterin, hat nur gelacht: Vorsingen muss bei „Querbeet“ niemand. Sie hat mich neben Herrn Petzold platziert, der seit dreißig Jahren im Bass singt, und gesagt: „Mach einfach nach, was er macht.“ Notenlesen beherrsche ich bis heute nicht. Dafür schickt Ines uns nach jeder Probe Mitschnitte aufs Handy, und die habe ich monatelang im Auto gehört, auf dem Weg ins Büro und zurück. Die Leute, die neben mir im Stau stehen, halten mich vermutlich für verrückt.",
-     "Zwei Tage vor dem Konzert bin ich dann heiser aufgewacht – eine ausgewachsene Erkältung – und habe kaum ein Wort herausgebracht. Ich habe literweise Tee mit Honig getrunken und im Büro nur noch E-Mails geschrieben, statt zu telefonieren. Ines meinte, notfalls solle ich eben nur die Lippen bewegen. Am Samstag war die Stimme zum Glück fast wieder da – ganz laut habe ich trotzdem nicht gesungen.",
-     "Der Saal im Rathaus war mit dreihundert Zuhörern restlos ausverkauft. Meine Frau musste ausgerechnet an diesem Wochenende dienstlich nach Hamburg. Als Ersatz saß meine Schwester mit ihren beiden Kindern in der ersten Reihe und hat alles für meine Frau gefilmt. Vor dem ersten Lied hatte ich weiche Knie. Beim dritten Lied ist mir der Text entfallen, aber Herr Petzold hat ihn mir leise zugeflüstert. Gemerkt hat es niemand – hoffe ich.",
-     "Nach dem Konzert sind wir alle zusammen in die Pizzeria gegangen, und Birgit hat mich den ganzen Abend verschmitzt angegrinst, als wollte sie sagen: Siehst du? Da wusste ich: Ich bleibe dabei. Für Februar habe ich mich schon in der Musikschule eingeschrieben, in einem Kurs namens „Notenlesen für Anfänger“. Ein Solo beim Sommerkonzert, wie Birgit es anregt? Das überlasse ich lieber anderen."
+     "Gestern war es so weit: mein erstes Konzert. Wer mich kennt, weiß, dass ich bisher höchstens unter der Dusche gesungen habe – und auch das nur, wenn niemand zu Hause war. Dass ich jetzt in einem Chor stehe, verdanke ich meiner Kollegin Birgit. Sie sitzt im Büro am Nachbarschreibtisch und hat mir im Januar so lange von ihrem Chor „Querbeet“ vorgeschwärmt, bis ich an einem Dienstag mitgekommen bin – eigentlich nur, damit sie endlich Ruhe gibt. Mit Begeisterung für den Chor hatte meine Entscheidung also wenig zu tun.",
+     "Vor dem ersten Abend hatte ich richtig Bammel, weil ich mit einer strengen Aufnahmeprüfung gerechnet hatte. Aber Ines, unsere Chorleiterin, hat nur gelacht und mir erklärt, dass bei „Querbeet“ niemand vorsingen muss. Sie hat mich neben Herrn Petzold platziert, der seit dreißig Jahren im Bass singt, und mir geraten, einfach alles nachzumachen, was er macht. Notenlesen beherrsche ich bis heute nicht. Dafür schickt Ines uns nach jeder Probe Mitschnitte aufs Handy, die ich monatelang im Auto gehört habe, auf dem Weg ins Büro und zurück. Die anderen Autofahrer, die neben mir im Stau stehen, halten mich vermutlich für verrückt.",
+     "Zwei Tage vor dem Konzert bin ich dann mit einer ausgewachsenen Erkältung aufgewacht und habe vor Heiserkeit kaum ein Wort herausgebracht. Ich habe literweise Tee mit Honig getrunken und im Büro auf Telefonate verzichtet, um meine Stimme zu schonen. Ines hat gesagt, notfalls solle ich beim Konzert eben nur die Lippen bewegen. Am Samstag war die Stimme zum Glück fast wieder da – ganz laut habe ich trotzdem nicht gesungen.",
+     "Der Saal im Rathaus war mit dreihundert Zuhörern restlos ausverkauft. Meine Frau musste ausgerechnet an diesem Wochenende dienstlich nach Hamburg. Deshalb saß als Ersatz meine Schwester mit ihren beiden Kindern in der ersten Reihe und hat das ganze Konzert für meine Frau gefilmt. Vor dem ersten Lied hatte ich vor Aufregung weiche Knie. Beim dritten Lied ist mir der Text entfallen, aber Herr Petzold hat ihn mir leise zugeflüstert. Gemerkt hat es niemand – hoffe ich.",
+     "Nach dem Konzert sind wir alle zusammen in die Pizzeria gegangen, wo Birgit mich den ganzen Abend verschmitzt angegrinst hat, als wollte sie sagen: Siehst du? Da wusste ich, dass ich dabeibleiben werde. Für Februar habe ich mich schon in der Musikschule für einen Kurs mit dem Titel „Notenlesen für Anfänger“ eingeschrieben. Ein Solo beim Sommerkonzert, wie Birgit es anregt? Diese Herausforderung überlasse ich lieber anderen."
     ],
     "closing": "Bis bald, Daniel"
    },
@@ -30,7 +30,7 @@
     },
     {
      "no": "2",
-     "text": "Bei „Querbeet“ wird niemand vor der Aufnahme geprüft.",
+     "text": "Wer in diesem Chor anfangen will, muss nicht erst zeigen, was er kann.",
      "answer": "R"
     },
     {
@@ -40,12 +40,12 @@
     },
     {
      "no": "4",
-     "text": "Beim Konzert konnte Daniel trotz der Erkältung mitsingen.",
+     "text": "Trotz seiner Krankheit hat Daniel beim Auftritt mitgesungen.",
      "answer": "R"
     },
     {
      "no": "5",
-     "text": "Daniels Frau war beim Konzert nicht dabei.",
+     "text": "Daniels Ehefrau saß nicht unter den Zuschauern.",
      "answer": "R"
     },
     {
@@ -62,7 +62,7 @@
      "title": "Eine Stunde Ruhe",
      "lead": "In Oberkirchen dreht ein Supermarkt jeden Mittwoch Musik und Licht herunter.",
      "paragraphs": [
-      "Jeden Mittwoch um 15 Uhr kehrt im Supermarkt von Stefan Kröger in Oberkirchen schlagartig Stille ein: Die Musik aus den Lautsprechern verstummt, die Beleuchtung wird um die Hälfte gedimmt, und Durchsagen unterbleiben bis 16 Uhr. Auch das Auffüllen der Regale ruht in dieser Stunde, damit keine Rollwagen durch die Gänge poltern. An der „Kasse mit Zeit“ darf niemand drängeln: Wer dort langsamer einpackt oder länger nach Kleingeld sucht, wird nicht zur Eile angetrieben. Auf die Idee gebracht hat Kröger der Brief einer Mutter, deren Sohn Autist ist und für den der Einkauf regelmäßig in Tränen endete. „Ich hätte nie gedacht, wie laut mein eigener Laden ist“, sagt Kröger. Vergleichbare Angebote existieren in anderen Ländern bereits seit Längerem. Die Preise bleiben auch während dieser Zeit unverändert – es geht nicht ums Sparen, sondern um Ruhe. An den übrigen Tagen läuft der Betrieb wie gewohnt. Das Angebot wird von mehr Menschen genutzt als erwartet: von älteren Kunden, von Eltern mit Säuglingen und von Leuten, die nach Feierabend einfach ihre Ruhe wollen. „Zum ersten Mal kann ich in Ruhe überlegen, was ich brauche“, sagt eine Rentnerin, die jeden Mittwoch kommt. Auch das Kassenpersonal schätzt die ruhige Stunde. Einige Stammkunden haben sich allerdings beschwert, sie könnten die Preisschilder im Halbdunkel kaum entziffern. Kröger nimmt die Kritik ernst und lässt die Preisschilder heller beleuchten. Ab Januar soll es am Samstagmorgen eine zweite stille Stunde geben."
+      "Jeden Mittwoch um 15 Uhr wird es im Supermarkt von Stefan Kröger in Oberkirchen schlagartig still: Die Musik aus den Lautsprechern verstummt, die Beleuchtung wird um die Hälfte gedimmt, und bis 16 Uhr unterbleiben sämtliche Durchsagen. Auch das Auffüllen der Regale ruht in dieser Stunde, damit keine Rollwagen durch die Gänge poltern. An der „Kasse mit Zeit“ gilt außerdem die Regel, dass niemand zur Eile angetrieben wird, wenn er langsamer einpackt oder länger nach Kleingeld sucht. Den Anstoß zu der Aktion gab der Brief einer Mutter. Ihr Sohn ist Autist, und für ihn endete jeder Einkauf wegen des Lärms und des grellen Lichts in Tränen. „Ich hätte nie gedacht, wie laut mein eigener Supermarkt ist“, sagt Inhaber Kröger. Vergleichbare Angebote gibt es im Ausland bereits seit Längerem. Die Preise bleiben während der stillen Stunde unverändert – es geht nicht ums Sparen, sondern um Entspannung. An den übrigen Tagen läuft der Betrieb wie gewohnt. Die Nachfrage übertrifft alle Erwartungen, vor allem bei älteren Kunden, bei Eltern mit Säuglingen und bei Berufstätigen, die nach Feierabend einfach ihre Ruhe wollen. „Zum ersten Mal kann ich in Ruhe überlegen, was ich brauche“, sagt eine Rentnerin, die jeden Mittwoch einkauft. Auch beim Kassenpersonal stößt die stille Stunde auf Zustimmung. Einige Stammkunden haben sich allerdings beschwert, sie könnten die Preisschilder im Halbdunkel kaum entziffern. Kröger nimmt die Beschwerden ernst und sorgt für eine hellere Beleuchtung der Preisschilder. Ab Januar soll es am Samstagmorgen eine zweite stille Stunde geben."
      ],
      "footnote": "",
      "source": "aus einer deutschen Zeitung",
@@ -81,9 +81,9 @@
        "no": "7",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "einen Supermarkt, der nachmittags für eine Stunde schließt.",
-        "b": "Angestellte, die sich bei der Arbeit mehr Ruhe wünschen.",
-        "c": "ein Angebot für Kunden, denen es im Laden oft zu laut ist."
+        "a": "einen Supermarkt, der jeden Mittwoch eine Stunde lang schließt.",
+        "b": "Kassenpersonal, das sich bei der Arbeit mehr Ruhe gewünscht hat.",
+        "c": "ein Angebot für Menschen, denen es in Geschäften oft zu laut ist."
        },
        "answer": "c"
       },
@@ -91,9 +91,9 @@
        "no": "8",
        "stem": "In der stillen Stunde …",
        "options": {
-        "a": "muss sich an einer Kasse niemand beeilen.",
-        "b": "sind die Waren günstiger als sonst.",
-        "c": "werden die Regale im ganzen Markt mit neuer Ware gefüllt."
+        "a": "kann man an einer Kasse ohne Zeitdruck bezahlen.",
+        "b": "sind die Preise niedriger als an den übrigen Tagen.",
+        "c": "werden die Regale mit Rollwagen neu aufgefüllt."
        },
        "answer": "a"
       },
@@ -101,9 +101,9 @@
        "no": "9",
        "stem": "Stefan Kröger …",
        "options": {
-        "a": "ist auf einer Reise ins Ausland auf die Idee gekommen.",
-        "b": "will die ruhige Stunde bald auch an einem weiteren Tag anbieten.",
-        "c": "hält die Beschwerden einiger Stammkunden insgesamt für übertrieben."
+        "a": "hat das Angebot nach einer Reise ins Ausland eingeführt.",
+        "b": "bietet bald zweimal pro Woche eine stille Stunde an.",
+        "c": "hält die Beschwerden der Stammkunden für übertrieben."
        },
        "answer": "b"
       }
@@ -114,7 +114,7 @@
      "title": "Zu Gast in der Schulkantine",
      "lead": "In Hallein essen Pensionisten* mittags gemeinsam mit Schulkindern.",
      "paragraphs": [
-      "Montag, Mittwoch und Freitag, 12.30 Uhr: In der Kantine der Mittelschule Hallein reihen sich dann nicht nur Zwölfjährige mit ihrem Tablett in die Schlange ein, sondern auch Menschen, deren eigene Schulzeit sechzig Jahre zurückliegt. Seit dem Herbst dürfen bis zu fünfzehn Pensionistinnen und Pensionisten hier gemeinsam mit den Kindern zu Mittag essen. Auf die Idee kam Schulköchin Renate Moser: „Bei uns blieb täglich Essen übrig, und meine Mutter hat mir oft erzählt, wie trostlos es ist, allein am Küchentisch zu essen.“ Serviert wird dasselbe wie den Kindern. Die Gäste bezahlen 5,50 Euro, genauso viel wie die Lehrkräfte. Für die Kinder kostet das Menü 3,80 Euro. Wer teilnehmen möchte, meldet sich bis Donnerstag für die folgende Woche im Sekretariat an, damit die Küche kalkulieren kann. Anfangs saßen die älteren Gäste an einem eigenen Tisch am Fenster. Seit Weihnachten setzt sich jeder dorthin, wo Platz ist. „Die Kinder sind rücksichtsvoller geworden und tragen unaufgefordert Tabletts für Leute mit Gehstock“, erzählt Direktor Martin Eder. Auch die Gäste lernen dazu: Eine 79-Jährige berichtet, die Kinder hätten ihr gezeigt, wie man Fotos mit dem Handy verschickt. Ein pensionierter Mathematiklehrer bleibt oft noch eine halbe Stunde und unterstützt die Schüler bei den Hausaufgaben. Inzwischen stehen zwanzig Namen auf der Warteliste. Mehr Gäste kann die Kantine jedoch nicht aufnehmen. Auf alle fünf Schultage ausweiten will Moser das Angebot auch nicht: Dafür fehlt in der Küche das Personal."
+      "Montag, Mittwoch und Freitag, 12.30 Uhr: In der Kantine der Mittelschule Hallein reihen sich dann nicht nur zwölfjährige Kinder mit ihrem Tablett in die Warteschlange ein, sondern auch Menschen, deren eigene Schulzeit sechzig Jahre zurückliegt. Seit dem Herbst dürfen bis zu fünfzehn Pensionistinnen und Pensionisten hier gemeinsam mit den Kindern zu Mittag essen. Die Anregung kam von Schulköchin Renate Moser: „Bei uns blieb täglich Essen übrig, und meine Mutter hat mir oft erzählt, wie trostlos es ist, allein am Küchentisch zu essen.“ Serviert wird dasselbe Menü wie den Kindern. Die Gäste bezahlen 5,50 Euro, genauso viel wie die Lehrkräfte, während das Menü für die Kinder 3,80 Euro kostet. Eine Anmeldung im Sekretariat ist jeweils bis Donnerstag für die folgende Woche erforderlich, damit die Küche die Bestellung der Lebensmittel planen kann. Anfangs saßen die älteren Gäste an einem eigenen Tisch am Fenster. Seit Weihnachten gibt es jedoch keine feste Sitzordnung mehr, und jeder setzt sich dorthin, wo Platz ist. „Die Kinder sind rücksichtsvoller geworden und tragen unaufgefordert Tabletts für Leute mit Gehstock“, erzählt Direktor Martin Eder. Von dieser Begegnung der Generationen profitieren auch die Gäste. So berichtet eine 79-Jährige, dass ihr die Kinder gezeigt haben, wie man Urlaubsfotos mit dem Smartphone verschickt. Ein pensionierter Mathematiklehrer bleibt oft noch eine halbe Stunde und bietet den Kindern Unterstützung bei den Hausaufgaben. Inzwischen stehen zwanzig Namen auf der Warteliste, doch mehr Gäste kann die Kantine nicht aufnehmen. Eine Ausweitung auf alle fünf Schultage plant Moser ebenfalls nicht, da in der Küche das nötige Personal fehlt."
      ],
      "footnote": "*Pensionist = österreichischer Standard für „Rentner“",
      "source": "aus einer österreichischen Zeitung",
@@ -124,9 +124,9 @@
        "no": "10",
        "stem": "In diesem Text geht es um …",
        "options": {
-        "a": "eine Schulküche, die Kochkurse für ältere Menschen anbietet.",
-        "b": "ältere Menschen, die mittags gemeinsam mit Kindern essen.",
-        "c": "Schulkinder, die älteren Menschen das Essen nach Hause bringen."
+        "a": "eine Schulküche, die Kochkurse für Pensionisten anbietet.",
+        "b": "eine Schule, in der Jung und Alt zusammen zu Mittag essen.",
+        "c": "Schulkinder, die älteren Leuten das Essen nach Hause bringen."
        },
        "answer": "b"
       },
@@ -134,9 +134,9 @@
        "no": "11",
        "stem": "Wer als Gast mitessen möchte, …",
        "options": {
-        "a": "zahlt dafür weniger als die Schülerinnen und Schüler.",
-        "b": "bekommt ein eigenes Menü.",
-        "c": "muss das einige Tage im Voraus mitteilen."
+        "a": "bezahlt weniger als die Kinder.",
+        "b": "bekommt einen eigenen Tisch am Fenster.",
+        "c": "muss sich einige Tage vorher anmelden."
        },
        "answer": "c"
       },
@@ -144,9 +144,9 @@
        "no": "12",
        "stem": "Das Angebot …",
        "options": {
-        "a": "hat mehr Interessenten, als es Plätze gibt.",
-        "b": "soll bald an allen Schultagen stattfinden.",
-        "c": "wird von der Schulleitung eher kritisch gesehen."
+        "a": "hat mehr Interessenten, als die Kantine Plätze hat.",
+        "b": "soll schon bald an allen fünf Schultagen stattfinden.",
+        "c": "wird von Direktor Eder kritisch gesehen."
        },
        "answer": "a"
       }
@@ -165,37 +165,37 @@
    "items": [
     {
      "no": "13",
-     "text": "Herr Okafor ist seit Kurzem in Rente. Er sitzt gern hinter dem Steuer und möchte sich ein paar Stunden in der Woche etwas dazuverdienen.",
+     "text": "Herr Okafor ist seit Kurzem im Ruhestand. Er ist gern mit dem Auto unterwegs und möchte seine Rente mit einer Tätigkeit von wenigen Stunden pro Woche aufbessern.",
      "answer": "h"
     },
     {
      "no": "14",
-     "text": "Sofia spricht drei Sprachen und möchte sie im Beruf täglich nutzen. Nachmittags holt sie ihren Sohn von der Schule ab.",
+     "text": "Sofia beherrscht drei Sprachen und möchte sie im Berufsalltag täglich verwenden. Am Nachmittag muss sie ihren Sohn von der Schule abholen.",
      "answer": "d"
     },
     {
      "no": "15",
-     "text": "Tim ist sechzehn und möchte in den Sommerferien an der frischen Luft Geld verdienen.",
+     "text": "Tim ist sechzehn und sucht für die Sommerferien einen Job, bei dem er draußen arbeiten kann.",
      "answer": "a"
     },
     {
      "no": "16",
-     "text": "Frau Brandt ist gelernte Friseurin. Sie möchte wieder in ihrem Beruf arbeiten, aber nur in den Stunden, in denen ihre Kinder im Kindergarten sind.",
+     "text": "Frau Brandt hat eine Ausbildung als Friseurin abgeschlossen und möchte nach einer Familienpause in ihren Beruf zurückkehren – allerdings nur in der Zeit, in der ihre Kinder im Kindergarten sind.",
      "answer": "g"
     },
     {
      "no": "17",
-     "text": "Jonas hat gerade die Schule abgeschlossen und möchte einen Beruf lernen, bei dem er nicht den ganzen Tag im Büro sitzt.",
+     "text": "Jonas ist gerade mit der Schule fertig und möchte einen Beruf lernen, bei dem er nicht den ganzen Tag am Schreibtisch sitzt.",
      "answer": "e"
     },
     {
      "no": "18",
-     "text": "Frau Nguyen kann nach einer Operation das Haus kaum verlassen. Sie sucht eine Arbeit am Computer, die sie von der Wohnung aus erledigen kann.",
+     "text": "Frau Nguyen kann nach einer Operation das Haus vorübergehend kaum verlassen. Sie sucht eine Tätigkeit am Computer, die sie von zu Hause aus erledigen kann.",
      "answer": "0"
     },
     {
      "no": "19",
-     "text": "Herr Weber arbeitet tagsüber in einer Bank und sucht für zwei, drei Abende pro Woche eine Nebenbeschäftigung.",
+     "text": "Herr Weber ist tagsüber in einer Bank beschäftigt und möchte an zwei, drei Abenden pro Woche nebenbei etwas dazuverdienen.",
      "answer": "j"
     }
    ],
@@ -209,7 +209,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Im Juli und August suchen wir Helferinnen und Helfer ab 16 Jahren für die Ernte und den Verkauf an unseren Ständen. Gearbeitet wird täglich von 7 bis 13 Uhr, die Wochenenden bleiben frei. Ein Mittagessen auf dem Hof ist inklusive. Einfach anrufen oder unverbindlich vorbeikommen!"
+      "Für die Erdbeerernte im Juli und August suchen wir zuverlässige Erntehelferinnen und Erntehelfer ab 16 Jahren, die beim Pflücken und beim Verkauf an unseren Hofständen mitarbeiten. Die Einsatzzeiten: montags bis freitags von 7 bis 13 Uhr, die Wochenenden bleiben frei. Die Mittagsverpflegung im Hofcafé ist inklusive. Einfach anrufen oder unverbindlich am Hofladen vorbeikommen!"
      ],
      "footer": "Erdbeerhof Lindemann · Feldweg 3 · 0421 / 57 57 30"
     },
@@ -222,7 +222,7 @@
      "subtitle": "sucht Verstärkung!",
      "facts": [],
      "body": [
-      "Servicekraft auf Aushilfsbasis – samstags und sonntags, jeweils von 8 bis 14 Uhr. Studierende sind herzlich willkommen, Vorkenntnisse sind nicht erforderlich: Wir weisen dich gründlich ein. Gute Laune und Freude am Umgang mit Gästen bringst du bitte mit."
+      "Servicekraft auf Aushilfsbasis für die Wochenenden – samstags und sonntags jeweils von 8 bis 14 Uhr. Studierende sind herzlich willkommen, Vorkenntnisse in der Gastronomie sind nicht erforderlich: Wir sorgen für eine gründliche Einarbeitung. Gute Laune und Freude am Umgang mit Gästen bringst du bitte mit."
      ],
      "footer": "Lindenplatz 7 · frag einfach an der Theke nach Mia"
     },
@@ -235,7 +235,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Sie bearbeiten Kundenanfragen per Telefon, E-Mail und Chat, auf Deutsch und Englisch. Spanisch ist von Vorteil. Es gibt Schichtdienst zwischen 8 und 20 Uhr in unserem Büro am Hauptbahnhof. Homeoffice ist in dieser Position leider nicht möglich."
+      "Sie bearbeiten Kundenanfragen telefonisch, per E-Mail und im Chat auf Deutsch und Englisch, Spanischkenntnisse sind von Vorteil. Die Tätigkeit erfolgt im Schichtdienst zwischen 8 und 20 Uhr in unserem Großraumbüro am Hauptbahnhof. Homeoffice ist bei dieser Tätigkeit leider ausgeschlossen."
      ],
      "footer": "Bewerbung an jobs@nordkontakt.de"
     },
@@ -251,7 +251,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Für unsere Rezeption suchen wir ab sofort Verstärkung im Frühdienst. Die Schicht läuft montags bis freitags von 7 bis 13 Uhr. Neben Deutsch sprechen Sie fließend Englisch und mindestens eine weitere Fremdsprache. Täglich begrüßen Sie unsere internationalen Gäste."
+      "Für unsere Rezeption suchen wir zum nächstmöglichen Zeitpunkt Verstärkung in der Frühschicht. Die Einsatzzeiten: montags bis freitags von 7 bis 13 Uhr. Sie verfügen über sehr gute Deutsch- und Englischkenntnisse sowie Kenntnisse in mindestens einer weiteren Fremdsprache, die Sie bei der Betreuung unserer internationalen Hotelgäste täglich einsetzen."
      ],
      "footer": "personal@hotel-schlossgarten.de"
     },
@@ -264,7 +264,7 @@
      "subtitle": "",
      "facts": [],
      "body": [
-      "Drei Jahre lang erlernen Sie bei uns, Pflanzen zu ziehen sowie Gärten anzulegen und zu pflegen – bei nahezu jedem Wetter im Freien. Sie haben einen Schulabschluss und scheuen keine körperliche Arbeit? Dann freuen wir uns auf Ihre Bewerbung. Ferien- und Aushilfsjobs vergeben wir leider nicht."
+      "In der dreijährigen Ausbildung lernen Sie, Pflanzen zu ziehen sowie Gärten anzulegen und zu pflegen – bei nahezu jeder Witterung im Freien. Sie verfügen über einen Schulabschluss und sind körperlich belastbar? Dann freuen wir uns auf Ihre Bewerbung. Ferienjobs und Aushilfstätigkeiten vergeben wir leider nicht."
      ],
      "footer": ""
     },
@@ -277,7 +277,7 @@
      "subtitle": "Aushilfen für Kasse und Lager (m/w/d)",
      "facts": [],
      "body": [
-      "Flexible Zeiten, wahlweise vormittags oder nachmittags – auch in den Schulferien. Vorkenntnisse sind nicht nötig, wir arbeiten Sie gründlich ein. Den Bewerbungsbogen gibt es an unserer Information oder online."
+      "Flexible Einsatzzeiten, wahlweise vormittags oder nachmittags – auch in den Schulferien. Vorkenntnisse sind nicht erforderlich, wir sorgen für eine gründliche Einarbeitung im Kassenbereich und im Warenlager. Den Bewerbungsbogen erhalten Sie an unserer Informationstheke oder auf unserer Website."
      ],
      "footer": "FRISCHEMARKT KÜHN · frischemarkt-kuehn.de/karriere"
     },
@@ -290,7 +290,7 @@
      "subtitle": "FRISEURSALON",
      "facts": [],
      "body": [
-      "Friseur/-in (m/w/d) in Teilzeit gesucht. Unser überschaubares Team braucht Verstärkung für die Vormittage. Gearbeitet wird Montag bis Freitag, 8.30 bis 12.30 Uhr. Samstags arbeitet bei uns nur, wer es ausdrücklich möchte. Eine abgeschlossene Ausbildung setzen wir voraus – auch Wiedereinsteigerinnen nach der Elternzeit sind willkommen."
+      "Friseur/-in (m/w/d) in Teilzeit gesucht. Unser überschaubares Salonteam braucht Verstärkung für die Vormittage: Die Einsatzzeiten sind montags bis freitags von 8.30 bis 12.30 Uhr, samstags arbeitet nur, wer es ausdrücklich wünscht. Eine abgeschlossene Friseurausbildung setzen wir voraus – auch Wiedereinsteigerinnen nach der Elternzeit sind herzlich willkommen."
      ],
      "footer": "Tel. 0421 / 30 20 10"
     },
@@ -303,11 +303,11 @@
      },
      "header": "APOTHEKE AM MARKT · KARRIERE",
      "tag": "",
-     "title": "Botenfahrer/-in auf Minijob-Basis",
+     "title": "Botenfahrer/-in (m/w/d) auf Minijob-Basis",
      "subtitle": "",
      "facts": [],
      "body": [
-      "Sie liefern Medikamente an Kundinnen und Kunden im Stadtgebiet aus. Der Einsatz dauert an drei Vormittagen pro Woche jeweils etwa vier Stunden. Ein Dienstwagen wird gestellt, nötig ist nur ein Führerschein der Klasse B. Gern auch Rentnerinnen und Rentner."
+      "Sie liefern Arzneimittel zuverlässig an unsere Stammkundschaft im Stadtgebiet aus. Der Einsatz umfasst wöchentlich drei Vormittage mit jeweils etwa vier Arbeitsstunden. Ein Dienstfahrzeug wird gestellt, Voraussetzung ist lediglich ein Führerschein der Klasse B. Gern auch Rentnerinnen und Rentner."
      ],
      "footer": "Jetzt bewerben · apotheke-am-markt.de/jobs"
     },
@@ -316,11 +316,11 @@
      "design": "stripes",
      "header": "",
      "tag": "",
-     "title": "FAHRER/-IN GESUCHT!",
+     "title": "FAHRER/-IN (M/W/D) GESUCHT!",
      "subtitle": "",
      "facts": [],
      "body": [
-      "Paketzustellung in Vollzeit, 40 Stunden pro Woche im Nachtdienst. Voraussetzung: ein eigenes Auto und mindestens zwei Jahre Fahrpraxis. Wir zahlen übertariflich und erstatten die Spritkosten. Start sofort möglich."
+      "Paketzustellung in Vollzeit, 40 Wochenstunden in der Nachtschicht. Voraussetzung: eigener Pkw und mindestens zwei Jahre Fahrpraxis. Wir zahlen übertariflich und erstatten die Tankkosten. Arbeitsbeginn sofort möglich."
      ],
      "footer": "BLITZ-KURIER · Bewerbung per WhatsApp: 0170 / 555 12 12"
     },
@@ -336,7 +336,7 @@
      "subtitle": "FILMTHEATER",
      "facts": [],
      "body": [
-      "Aushilfe für Kasse und Einlass (m/w/d). Dein Einsatz ist abends ab 18 Uhr und am Wochenende, mindestens an zwei Abenden pro Woche. Den Dienstplan stimmen wir gemeinsam ab. Mindestalter 18 Jahre. Als Dankeschön winken Freikarten für sämtliche Vorstellungen."
+      "Aushilfe für Kinokasse und Einlasskontrolle (m/w/d). Deine Einsatzzeiten liegen abends ab 18 Uhr und an Wochenenden, mindestens an zwei Abenden wöchentlich; den Dienstplan stimmen wir gemeinsam ab. Mindestalter 18 Jahre. Als Dankeschön winken Freikarten für sämtliche Vorstellungen."
      ],
      "footer": "jobs@capitol-kino.de"
     }
@@ -351,7 +351,7 @@
     "no": "0",
     "name": "Ursula",
     "byline": "Ursula, 58, Stuttgart",
-    "text": "Sechs Tage in der Woche kann man einkaufen, bis spät am Abend und inzwischen auch im Internet. Der Sonntag ist der einzige Tag, an dem ganze Familien gemeinsam frei haben – auch die der Verkäuferinnen. Wer am Sonntag unbedingt neue Schuhe braucht, hat schlecht geplant. Lasst uns diesen einen ruhigen Tag, bevor er genauso hektisch wird wie alle anderen.",
+    "text": "Sechs Tage in der Woche kann man in den Läden einkaufen, bis spät am Abend, und im Onlinehandel inzwischen rund um die Uhr. Der Sonntag ist der einzige Tag, an dem ganze Familien gemeinsam frei haben – auch die Familien der Verkäuferinnen. Wer sonntags unbedingt neue Schuhe braucht, hat schlecht geplant. Lasst uns die Sonntagsruhe, bevor auch dieser Tag genauso hektisch wird wie alle anderen Tage.",
     "answer": "N"
    },
    "items": [
@@ -359,49 +359,49 @@
      "no": "20",
      "name": "Marco",
      "byline": "Marco, 29, Leipzig",
-     "text": "Ich arbeite als Pfleger im Schichtdienst, oft von Montag bis Samstag. Habe ich frei, sind die Geschäfte entweder zu oder so überfüllt, dass ich nach zehn Minuten wieder gehe. Für Leute wie mich wäre ein offener Laden am Sonntag keine Bequemlichkeit. Er wäre die einzige Chance auf einen ruhigen Einkauf. Im Krankenhaus fragt übrigens auch niemand, ob Sonntag ist.",
+     "text": "Ich arbeite als Pfleger im Schichtdienst, oft von Montag bis Samstag. Habe ich frei, sind die Läden entweder zu oder so überfüllt, dass ich nach zehn Minuten entnervt wieder gehe. Für Leute wie mich wäre die Sonntagsöffnung keine Bequemlichkeit. Sie wäre die einzige Gelegenheit, in Ruhe einzukaufen. Im Krankenhaus fragt übrigens auch niemand, ob Sonntag ist.",
      "answer": "J"
     },
     {
      "no": "21",
      "name": "Heike",
      "byline": "Heike, 47, Innsbruck",
-     "text": "Natürlich habe ich Verständnis für alle, die unter der Woche kaum zum Einkaufen kommen. Ich sitze aber selbst seit zwanzig Jahren an der Kasse, und der Sonntag ist der einzige Tag, an dem ich meine Tochter garantiert zu Gesicht bekomme. „Freiwillig“ klingt schön. Doch wer im Handel Nein sagt, findet im nächsten Dienstplan eben die unbeliebteren Schichten vor. Das kenne ich schon von den Samstagen.",
+     "text": "Natürlich habe ich Verständnis für alle, die werktags kaum zum Einkaufen kommen. Ich sitze aber selbst seit zwanzig Jahren an der Kasse, und nur sonntags sehe ich meine Tochter garantiert. Die Sonntagsöffnung soll „freiwillig“ sein – das klingt schön. Doch wer im Einzelhandel Nein sagt, bekommt im nächsten Dienstplan eben die unbeliebten Schichten. Diese Erfahrung habe ich schon mit den Samstagen gemacht.",
      "answer": "N"
     },
     {
      "no": "22",
      "name": "Elif",
      "byline": "Elif, 41, Köln",
-     "text": "Meine Stammkundinnen versichern mir fast jede Woche, sie kämen gern auch sonntags vorbei. Aber ich betreibe ein kleines Schreibwarengeschäft, mit nur einer Angestellten. Wer soll da am siebten Tag hinter der Theke stehen? Die großen Ketten haben genug Personal – sie profitieren, und Läden wie meiner büßen noch mehr Kundschaft ein. Deshalb hoffe ich, dass die Stadt es beim alten Gesetz belässt.",
+     "text": "Meine Stammkundinnen versichern mir fast jede Woche, sie kämen gern auch sonntags vorbei. Aber ich habe ein kleines Schreibwarengeschäft mit nur einer Angestellten. Wer soll da sonntags an der Kasse stehen? Die großen Ketten haben genug Verkaufspersonal und profitieren von der Sonntagsöffnung. Kleine Läden wie meiner verlieren dagegen noch mehr Kundschaft. Deshalb hoffe ich, dass der Stadtrat bei der alten Regelung bleibt.",
      "answer": "N"
     },
     {
      "no": "23",
      "name": "Florian",
      "byline": "Florian, 35, Bern",
-     "text": "Für mich kommt es allein darauf an, wie die Beschäftigten abgesichert sind. Arbeiten nur Leute, die sich freiwillig melden, und erhalten sie einen deutlichen Zuschlag, spricht aus meiner Sicht nichts dagegen. Genau das schreibt das neue Gesetz vor, über das der Artikel berichtet. Ich freue mich also schon darauf, sonntags nach der Wanderung noch rasch Proviant zu besorgen.",
+     "text": "Für mich kommt es allein darauf an, wie die Beschäftigten abgesichert sind. Arbeiten sonntags nur Leute, die sich freiwillig melden, und bekommen sie einen deutlichen Zuschlag, spricht aus meiner Sicht nichts dagegen. Genau diese Bedingungen schreibt das neue Gesetz zur Sonntagsöffnung vor, über das der Artikel berichtet. Ich freue mich also schon darauf, sonntags nach der Wanderung noch rasch Proviant einzukaufen.",
      "answer": "J"
     },
     {
      "no": "24",
      "name": "Rainer",
      "byline": "Rainer, 66, Dresden",
-     "text": "Als in unserer Stadt im letzten Jahr versuchsweise vier Sonntage lang die Läden öffneten, erklärte ich meinen Nachbarn: Da gehe ich bestimmt nicht hin. Dann bin ich mit meiner Frau doch einmal hingegangen. Eigentlich wollte ich mich nur beschweren. Wir sind durch die Altstadt geschlendert, haben Kaffee getrunken und ohne Gedränge Geschenke für die Enkel besorgt. Heute sehe ich das anders: Von mir aus könnte es jeden Sonntag so sein.",
+     "text": "Als in unserer Stadt im letzten Jahr versuchsweise an vier Sonntagen die Läden öffneten, erklärte ich meinen Nachbarn: Da gehe ich bestimmt nicht hin. Dann bin ich mit meiner Frau doch einmal hingegangen – eigentlich nur, um mich hinterher beschweren zu können. Wir sind durch die Altstadt gebummelt, haben Kaffee getrunken und ohne Gedränge Weihnachtsgeschenke für die Enkelkinder gekauft. Die Stimmung war erstaunlich entspannt. Heute sehe ich das anders: Von mir aus könnte es jeden Sonntag so sein.",
      "answer": "J"
     },
     {
      "no": "25",
      "name": "Jana",
      "byline": "Jana, 23, Graz",
-     "text": "Ich jobbe neben dem Studium in einer Drogerie und erlebe jeden Abend den Andrang kurz vor Ladenschluss. Das eigentliche Problem ist nicht der Sonntag, sondern dass viele Geschäfte schon um 18 Uhr schließen – genau dann, wenn alle aus dem Büro kommen. Man sollte die Läden unter der Woche bis 21 Uhr offen lassen. Den Sonntag brauchen dagegen alle zur Erholung, auch ich.",
+     "text": "Ich jobbe neben dem Studium in einer Drogerie und erlebe jeden Abend den Andrang kurz vor Ladenschluss. Das eigentliche Problem ist nicht der Sonntag, sondern dass viele Läden schon um 18 Uhr schließen – genau dann, wenn alle Feierabend haben. Sinnvoller wäre es, die Läden werktags bis 21 Uhr zu öffnen. Die Sonntagsruhe brauchen dagegen alle zur Erholung, auch ich.",
      "answer": "N"
     },
     {
      "no": "26",
      "name": "Tobias",
      "byline": "Tobias, 38, Hamburg",
-     "text": "Meine Frau und ich sind beide voll berufstätig. Unser Samstag ist ein einziger Einkaufsmarathon. Supermarkt, Baumarkt, Schuhe für die Kinder: alles im Eiltempo. Für die Familie bleibt da kaum Zeit. Könnten wir einen Teil davon auf den Sonntag verlegen, hätten wir den Samstag endlich wieder für Ausflüge. Wer sonntags lieber daheim bleibt, muss ja nicht losziehen.",
+     "text": "Meine Frau und ich sind beide voll berufstätig. Unser Samstag ist ein einziger Einkaufsmarathon: Supermarkt, Baumarkt, Kinderschuhe, alles im Eiltempo. Für die Familie bleibt da kaum Zeit. Könnten wir einen Teil der Einkäufe auf den Sonntag verlegen, hätten wir den Samstag endlich wieder für Familienausflüge. Das wäre für uns eine echte Erleichterung. Wer sonntags lieber zu Hause bleibt, muss ja nicht einkaufen gehen.",
      "answer": "J"
     }
    ]
@@ -415,11 +415,11 @@
     "sections": [
      {
       "heading": "Mitgliedschaft und Zutritt",
-      "text": "Eine Mitgliedschaft ist ab 14 Jahren möglich. Bis zum 18. Geburtstag ist die schriftliche Einwilligung der Erziehungsberechtigten nötig. Jugendliche unter 16 Jahren dürfen nur in Begleitung eines erwachsenen Mitglieds trainieren. Der Zutritt erfolgt über das persönliche Mitgliedsarmband, das nicht an Dritte weitergegeben werden darf."
+      "text": "Eine Mitgliedschaft ist ab 14 Jahren möglich, bis zum 18. Lebensjahr jedoch nur mit schriftlicher Einwilligung der Erziehungsberechtigten. Jugendliche unter 16 Jahren dürfen ausschließlich in Begleitung eines erwachsenen Mitglieds trainieren. Der Zutritt erfolgt über das persönliche Mitgliedsarmband, dessen Weitergabe an Dritte untersagt ist."
      },
      {
       "heading": "Öffnungszeiten und Betreuung",
-      "text": "Das Studio ist täglich von 6 bis 23 Uhr geöffnet, an Feiertagen gelten abweichende Zeiten. Das Trainerteam ist montags bis freitags von 9 bis 21 Uhr für Sie da. Außerhalb dieser Zeiten dürfen nur Mitglieder an den Geräten trainieren, die schon eine Einweisung absolviert haben. Die Kurse sind im Monatsbeitrag enthalten. Eine Anmeldung über die Studio-App ist zwingend erforderlich."
+      "text": "Das Studio ist täglich von 6 bis 23 Uhr geöffnet, an Feiertagen gelten abweichende Zeiten. Das Trainerteam steht Ihnen montags bis freitags von 9 bis 21 Uhr zur Verfügung. Außerhalb dieser Zeiten ist die Nutzung der Geräte nur Mitgliedern gestattet, die bereits eine Einweisung absolviert haben. Die Teilnahme an den Kursen ist im Monatsbeitrag enthalten, eine vorherige Anmeldung über die Studio-App jedoch zwingend erforderlich."
      },
      {
       "heading": "Hygiene",
@@ -427,15 +427,15 @@
      },
      {
       "heading": "Schließfächer",
-      "text": "Die Schließfächer stehen nur während des Aufenthalts im Studio zur Verfügung. Fächer, die nach Betriebsschluss noch belegt sind, werden aufgebrochen und geräumt. Für Wertsachen übernimmt das Studio keine Haftung."
+      "text": "Die Schließfächer stehen ausschließlich während des Aufenthalts im Studio zur Verfügung. Schließfächer, die nach Betriebsschluss noch belegt sind, werden geöffnet und geräumt; für Wertsachen übernimmt das Studio keine Haftung."
      },
      {
       "heading": "Pause und Kündigung",
-      "text": "Bei längerer Erkrankung kann die Mitgliedschaft gegen Vorlage eines ärztlichen Attests für höchstens drei Monate im Jahr beitragsfrei ruhen. Eine Kündigung ist mit einer Frist von einem Monat zum Ende der Vertragslaufzeit möglich. Sie muss schriftlich per Brief erfolgen."
+      "text": "Bei längerer Erkrankung kann die Mitgliedschaft gegen Vorlage eines ärztlichen Attests für höchstens drei Monate im Jahr beitragsfrei ruhen. Eine Kündigung ist mit einer Frist von einem Monat zum Ende der Vertragslaufzeit möglich und muss schriftlich per Brief erfolgen."
      },
      {
       "heading": "Gäste",
-      "text": "Jedes Mitglied darf einmal im Monat eine Begleitperson kostenfrei mitbringen. Für weitere Besuche ist eine Tageskarte für 12 Euro erhältlich. Gäste melden sich an der Theke unter Vorlage eines gültigen Ausweises an."
+      "text": "Jedes Mitglied darf einmal im Monat eine Begleitperson kostenfrei mitbringen, für weitere Besuche ist eine Tageskarte zum Preis von 12 Euro erhältlich. Gäste melden sich an der Theke unter Vorlage eines gültigen Ausweises an."
      }
     ],
     "footer": ""
@@ -446,8 +446,8 @@
      "no": "27",
      "stem": "Wer 15 Jahre alt ist, …",
      "options": {
-      "a": "braucht nur eine Unterschrift der Eltern.",
-      "b": "darf nur zusammen mit einem Erwachsenen trainieren.",
+      "a": "braucht nur die schriftliche Einwilligung der Eltern.",
+      "b": "darf nicht ohne volljährige Begleitung Sport treiben.",
       "c": "kann in diesem Alter noch nicht Mitglied im Studio werden."
      },
      "answer": "b"
@@ -456,9 +456,9 @@
      "no": "28",
      "stem": "Wer nach 21 Uhr trainieren möchte, …",
      "options": {
-      "a": "muss einen Zuschlag bezahlen.",
-      "b": "muss sich vorher über die Studio-App dafür anmelden.",
-      "c": "muss vorher an den Geräten eingewiesen worden sein."
+      "a": "kann dabei das Trainerteam um Hilfe bitten.",
+      "b": "muss sich vorher über die Studio-App anmelden.",
+      "c": "muss die Geräte schon erklärt bekommen haben."
      },
      "answer": "c"
     },
@@ -466,9 +466,9 @@
      "no": "29",
      "stem": "Wer längere Zeit krank ist, …",
      "options": {
-      "a": "kann eine Pause machen, in der er nichts bezahlt.",
+      "a": "kann eine Zeit lang ohne Beitrag pausieren.",
       "b": "kann den Vertrag sofort per E-Mail kündigen.",
-      "c": "zahlt während der Pause den halben Beitrag."
+      "c": "zahlt während der Pause nur den halben Beitrag."
      },
      "answer": "a"
     },
@@ -515,7 +515,7 @@
       {
        "no": "1",
        "type": "rf",
-       "text": "Die Fähre erreicht den Hafen zur geplanten Zeit.",
+       "text": "Die Fähre erreicht den Hafen von Norderney um 11.15 Uhr.",
        "answer": "F"
       },
       {
@@ -525,7 +525,7 @@
        "options": {
         "a": "soll schon jetzt zu seinem Fahrzeug gehen.",
         "b": "verlässt das Schiff über Deck 2.",
-        "c": "muss auf eine weitere Durchsage warten."
+        "c": "soll warten, bis er über Lautsprecher aufgerufen wird."
        },
        "answer": "c"
       }
@@ -537,7 +537,7 @@
       {
        "no": "3",
        "type": "rf",
-       "text": "Katrin hat den ursprünglichen Plan für das Geschenk geändert.",
+       "text": "Katrin hat sich für ein anderes Geschenk entschieden als zuerst geplant.",
        "answer": "R"
       },
       {
@@ -545,7 +545,7 @@
        "type": "abc",
        "stem": "Sven soll …",
        "options": {
-        "a": "dafür sorgen, dass alle eine Karte unterschreiben.",
+        "a": "für eine Karte mit den Unterschriften aller Kollegen sorgen.",
         "b": "das Geld für das Geschenk bei den Kollegen einsammeln.",
         "c": "um zwölf Uhr in die Kantine kommen."
        },
@@ -559,7 +559,7 @@
       {
        "no": "5",
        "type": "rf",
-       "text": "Die Antwort auf die Frage erfährt man im Programm des Senders.",
+       "text": "Die Lösung wird heute im Radio verraten.",
        "answer": "R"
       },
       {
@@ -567,9 +567,9 @@
        "type": "abc",
        "stem": "Wer gewinnt, …",
        "options": {
-        "a": "erfährt es noch am selben Abend.",
-        "b": "wird vom Sender angerufen.",
-        "c": "holt die Karten an der Abendkasse ab."
+        "a": "hört seinen Namen noch heute in der Sendung.",
+        "b": "wird vom Radio angerufen.",
+        "c": "holt die Karten morgen früh im Studio ab."
        },
        "answer": "b"
       }
@@ -591,7 +591,7 @@
        "options": {
         "a": "ist die Aussichtsplattform gesperrt.",
         "b": "ist der Zoo länger geöffnet als sonst.",
-        "c": "kann man das Tropenhaus nicht besuchen."
+        "c": "ist ein Teil des Zoos geschlossen."
        },
        "answer": "c"
       }
@@ -611,9 +611,9 @@
        "type": "abc",
        "stem": "Den alten Pass …",
        "options": {
-        "a": "muss Herr Demir im Amt abgeben.",
-        "b": "bekommt Herr Demir entwertet zurück.",
-        "c": "braucht Herr Demir nicht mitzubringen."
+        "a": "muss er im Bürgeramt zurücklassen.",
+        "b": "behält er, obwohl er dann ungültig ist.",
+        "c": "braucht er zur Abholung nicht mitzubringen."
        },
        "answer": "b"
       }
@@ -631,7 +631,7 @@
      "stem": "Die Tour …",
      "options": {
       "a": "wird bei Regen abgebrochen.",
-      "b": "endet an einem anderen Ort, als sie beginnt.",
+      "b": "endet nicht am selben Ort wie der Start.",
       "c": "dauert mit allen Pausen etwa vier Stunden."
      },
      "answer": "b"
@@ -650,7 +650,7 @@
      "no": "13",
      "stem": "Wer sich im Wasser unsicher fühlt, …",
      "options": {
-      "a": "paddelt im Boot des Tourleiters mit.",
+      "a": "teilt sich ein Boot mit dem Tourleiter.",
       "b": "bekommt eine besondere, größere Schwimmweste.",
       "c": "muss im Boot hinten sitzen."
      },
@@ -695,7 +695,7 @@
     },
     {
      "no": "18",
-     "text": "Herr Lorenz hat nicht jede Nacht in einer Pilgerherberge verbracht.",
+     "text": "Herr Lorenz hat ab und zu auch außerhalb von Herbergen geschlafen.",
      "answer": "R"
     },
     {
@@ -705,17 +705,17 @@
     },
     {
      "no": "20",
-     "text": "Das Klassentreffen war Frau Kayas Idee.",
+     "text": "Die Idee zum Klassentreffen hatte Frau Kaya selbst.",
      "answer": "F"
     },
     {
      "no": "21",
-     "text": "Das Gebäude der früheren Schule steht nicht mehr.",
+     "text": "Vom alten Schulgebäude ist nichts übrig geblieben.",
      "answer": "R"
     },
     {
      "no": "22",
-     "text": "Die frühere Klassenlehrerin wird beim Treffen dabei sein.",
+     "text": "Die ehemalige Lehrerin hat die Einladung angenommen.",
      "answer": "R"
     }
    ]
@@ -742,12 +742,12 @@
     },
     {
      "no": "24",
-     "text": "Wer bar bezahlt, kann seine Ausgaben besser kontrollieren.",
+     "text": "Wer bar bezahlt, hat seine Ausgaben besser im Griff.",
      "answer": "c"
     },
     {
      "no": "25",
-     "text": "Immer mehr Geschäfte nehmen gar kein Bargeld mehr an.",
+     "text": "Die Zahl der Läden, in denen man nur noch bargeldlos zahlen kann, wächst.",
      "answer": "a"
     },
     {
@@ -772,7 +772,7 @@
     },
     {
      "no": "30",
-     "text": "Man sollte überall selbst wählen dürfen, wie man bezahlt.",
+     "text": "In jedem Geschäft sollten die Kunden selbst entscheiden dürfen, wie sie zahlen.",
      "answer": "c"
     }
    ]
@@ -1046,39 +1046,39 @@
   "lesen": {
    "1": {
     "type": "A",
-    "note": "„vorgeschwärmt, bis ich … mitgekommen bin – eigentlich nur, damit sie endlich Ruhe gibt“: Die Initiative lag bei Birgit, Daniel wollte gar nicht."
+    "note": "„vorgeschwärmt, bis ich an einem Dienstag mitgekommen bin – eigentlich nur, damit sie endlich Ruhe gibt“; „Mit Begeisterung für den Chor hatte meine Entscheidung also wenig zu tun“: Die Initiative lag bei Birgit."
    },
    "2": {
     "type": "P",
-    "note": "„Vorsingen muss bei ‚Querbeet‘ niemand“ = niemand wird vor der Aufnahme geprüft."
+    "note": "„niemand vorsingen muss“ = niemand muss erst zeigen, was er kann; mit einer „strengen Aufnahmeprüfung“ hatte nur Daniel gerechnet."
    },
    "3": {
     "type": "N",
-    "note": "„Notenlesen beherrsche ich bis heute nicht“ – gelernt hat er mit den Mitschnitten, die er im Auto hörte."
+    "note": "„Notenlesen beherrsche ich bis heute nicht“ – gelernt hat er mit Aufnahmen, die Ines ihm als „Mitschnitte aufs Handy“ schickt und die er im Auto hörte."
    },
    "4": {
     "type": "A",
-    "note": "„notfalls solle ich … nur die Lippen bewegen“ blieb ein Rat; die Stimme war „fast wieder da“, „ganz laut“ sang er trotzdem nicht – mitgesungen hat er."
+    "note": "„notfalls solle ich beim Konzert eben nur die Lippen bewegen“ blieb ein Rat; die Stimme war „fast wieder da“, „ganz laut“ sang er trotzdem nicht – mitgesungen hat er."
    },
    "5": {
     "type": "S",
-    "note": "„musste … dienstlich nach Hamburg“; im Saal saß die Schwester, die „für meine Frau“ gefilmt hat."
+    "note": "„musste ausgerechnet an diesem Wochenende dienstlich nach Hamburg“; im Saal saß „als Ersatz meine Schwester“, die „für meine Frau gefilmt“ hat."
    },
    "6": {
     "type": "K",
-    "note": "„Ein Solo … wie Birgit es anregt? Das überlasse ich lieber anderen.“ – angemeldet hat er sich nur für den Notenkurs (W)."
+    "note": "„Ein Solo beim Sommerkonzert, wie Birgit es anregt? Diese Herausforderung überlasse ich lieber anderen.“ – angemeldet hat er sich nur für den Notenkurs (W)."
    },
    "7": {
     "type": "W",
-    "note": "Globalfrage: Der Laden schließt nicht (a); das „Kassenpersonal schätzt“ die Ruhe, verlangt hat es sie nicht (b)."
+    "note": "Globalfrage: Der Laden schließt nicht, nur die Musik „verstummt“ (a); beim „Kassenpersonal stößt die stille Stunde auf Zustimmung“, verlangt hat es sie nicht (b)."
    },
    "8": {
     "type": "P",
-    "note": "„darf niemand drängeln … nicht zur Eile angetrieben“ = niemand muss sich beeilen; Preise „unverändert“ (b); Regale: Auffüllen „ruht“ (c)."
+    "note": "„niemand zur Eile angetrieben wird, wenn er langsamer einpackt“ = ohne Zeitdruck bezahlen; die „Preise bleiben … unverändert“ (b); das „Auffüllen der Regale ruht“ (c)."
    },
    "9": {
     "type": "P",
-    "note": "„am Samstagmorgen eine zweite stille Stunde“; Anstoß war ein Brief, keine Reise (a); Kröger „nimmt die Kritik ernst“ (c)."
+    "note": "„am Samstagmorgen eine zweite stille Stunde“ = zweimal pro Woche; Anstoß war „der Brief einer Mutter“, das „Ausland“ dient nur zum Vergleich (a, W); Kröger „nimmt die Beschwerden ernst“ (c)."
    },
    "10": {
     "type": "W",
@@ -1086,35 +1086,35 @@
    },
    "11": {
     "type": "P",
-    "note": "„meldet sich bis Donnerstag für die folgende Woche … an“ = einige Tage im Voraus; 5,50 € sind mehr als 3,80 € (a, Z); „dasselbe wie den Kindern“ (b)."
+    "note": "„Anmeldung im Sekretariat ist jeweils bis Donnerstag für die folgende Woche erforderlich“ = sich einige Tage vorher anmelden; 5,50 € sind mehr als 3,80 € (a, Z); den „eigenen Tisch am Fenster“ gab es nur anfangs (b, W)."
    },
    "12": {
     "type": "P",
-    "note": "„zwanzig Namen auf der Warteliste“; keine Ausweitung auf alle Schultage (b, N); der Direktor lobt die Kinder (c)."
+    "note": "„zwanzig Namen auf der Warteliste“; keine „Ausweitung auf alle fünf Schultage“ (b, N); der Direktor lobt die Kinder (c)."
    },
    "13": {
     "type": "P",
-    "note": "„Gern auch Rentnerinnen und Rentner“, „drei Vormittagen“ = Rentner, Botenfahrer, Minijob; i: „Vollzeit“ im „Nachtdienst“."
+    "note": "„Gern auch Rentnerinnen und Rentner“, „drei Vormittage“ = Ruhestand, Auto, wenige Stunden; i: „Vollzeit“ in der „Nachtschicht“."
    },
    "14": {
     "type": "Z",
-    "note": "„Nachmittags holt sie ihren Sohn ab“ → nur vormittags: „Frühdienst“, „7 bis 13 Uhr“; c: „Schichtdienst zwischen 8 und 20 Uhr“."
+    "note": "„Am Nachmittag muss sie ihren Sohn von der Schule abholen“ → nur vormittags: „Frühschicht“, „7 bis 13 Uhr“; c: „Schichtdienst zwischen 8 und 20 Uhr“."
    },
    "15": {
     "type": "N",
-    "note": "„sechzehn“: a nimmt Helfer „ab 16 Jahren“; f und j erst ab 18; e: „Ferien- und Aushilfsjobs vergeben wir leider nicht“."
+    "note": "„sechzehn“: a nimmt Helfer „ab 16 Jahren“; f und j erst ab 18; e: „Ferienjobs und Aushilfstätigkeiten vergeben wir leider nicht“."
    },
    "16": {
     "type": "P",
-    "note": "„in den Stunden, in denen ihre Kinder im Kindergarten sind“ = „für die Vormittage“; f ist auch vormittags, aber nicht ihr Beruf."
+    "note": "„nur in der Zeit, in der ihre Kinder im Kindergarten sind“ = „für die Vormittage“; „Familienpause“ = „Elternzeit“; f ist auch vormittags, aber nicht ihr Beruf."
    },
    "17": {
     "type": "P",
-    "note": "„einen Beruf lernen“ = Ausbildung, „Drei Jahre lang erlernen Sie“; „nicht … im Büro“ = „im Freien“; c ist ein Büroarbeitsplatz."
+    "note": "„einen Beruf lernen“ = „In der dreijährigen Ausbildung lernen Sie“; „nicht den ganzen Tag am Schreibtisch“ = „im Freien“; c ist ein „Großraumbüro“."
    },
    "18": {
     "type": "N",
-    "note": "c passt zur Arbeit am Computer, aber „Homeoffice ist in dieser Position leider nicht möglich“."
+    "note": "c passt zur Arbeit am Computer, aber „Homeoffice ist bei dieser Tätigkeit leider ausgeschlossen“."
    },
    "19": {
     "type": "Z",
@@ -1122,7 +1122,7 @@
    },
    "20": {
     "type": "P",
-    "note": "Schichtdienst: ein offener Laden wäre „die einzige Chance auf einen ruhigen Einkauf“ – ohne dass er „dafür“ sagt."
+    "note": "Schichtdienst: Die Sonntagsöffnung wäre „die einzige Gelegenheit, in Ruhe einzukaufen“ – ein klares Ja, auch ohne ausdrückliche Zustimmung."
    },
    "21": {
     "type": "K",
@@ -1130,11 +1130,11 @@
    },
    "22": {
     "type": "S",
-    "note": "Sie zitiert ihre Stammkundinnen; entscheidend ist: „hoffe ich, dass die Stadt es beim alten Gesetz belässt“."
+    "note": "Sie zitiert ihre Stammkundinnen („versichern mir“); entscheidend ist: „hoffe ich, dass der Stadtrat bei der alten Regelung bleibt“."
    },
    "23": {
     "type": "B",
-    "note": "Bedingung („freiwillig melden“, „deutlichen Zuschlag“) ist erfüllt: „Genau das schreibt das neue Gesetz vor“."
+    "note": "Bedingung („freiwillig melden“, „deutlichen Zuschlag“) ist erfüllt: „Genau diese Bedingungen schreibt das neue Gesetz zur Sonntagsöffnung vor“."
    },
    "24": {
     "type": "K",
@@ -1142,19 +1142,19 @@
    },
    "25": {
     "type": "B",
-    "note": "Alternativvorschlag: „unter der Woche bis 21 Uhr offen“; „Den Sonntag brauchen dagegen alle zur Erholung“."
+    "note": "Alternativvorschlag: „die Läden werktags bis 21 Uhr zu öffnen“; „Die Sonntagsruhe brauchen dagegen alle zur Erholung“."
    },
    "26": {
     "type": "K",
-    "note": "Konjunktiv II: „Könnten wir einen Teil davon auf den Sonntag verlegen, hätten wir …“ = Wunsch nach offenen Sonntagen."
+    "note": "Konjunktiv II: „Könnten wir einen Teil der Einkäufe auf den Sonntag verlegen, hätten wir …“ = Wunsch nach offenen Sonntagen."
    },
    "27": {
     "type": "Z",
-    "note": "15 Jahre: Mitglied ab 14, „unter 16 Jahren dürfen nur in Begleitung eines erwachsenen Mitglieds trainieren“; die Einwilligung allein (a) reicht nicht."
+    "note": "15 Jahre: Mitglied ab 14, aber „unter 16 Jahren dürfen ausschließlich in Begleitung eines erwachsenen Mitglieds trainieren“; die Einwilligung allein (a) reicht nicht."
    },
    "28": {
     "type": "B",
-    "note": "Trainer nur bis 21 Uhr, danach nur mit „Einweisung“; die App gilt für Kurse (b, W); kein Zuschlag (a)."
+    "note": "Trainer nur bis 21 Uhr, danach nur mit „Einweisung“; die „Studio-App“ gilt für die Kurse (b, W); das „Trainerteam“ ist nach 21 Uhr nicht mehr da (a, W)."
    },
    "29": {
     "type": "P",
@@ -1162,13 +1162,13 @@
    },
    "30": {
     "type": "P",
-    "note": "„Gäste melden sich … unter Vorlage eines gültigen Ausweises an“; kostenfrei nur einmal im Monat (a, Z); die Tageskarte gilt erst für weitere Besuche (c)."
+    "note": "„Gäste melden sich an der Theke unter Vorlage eines gültigen Ausweises an“; kostenfrei nur „einmal im Monat“ (a, Z); die Tageskarte gilt erst „für weitere Besuche“ (c)."
    }
   },
   "hoeren": {
    "1": {
-    "type": "P",
-    "note": "„nicht um 11.15 Uhr, sondern etwa zwanzig Minuten später“ = nicht zur geplanten Zeit."
+    "type": "Z",
+    "note": "„nicht um 11.15 Uhr, sondern etwa zwanzig Minuten später“ – die Aussage übernimmt die alte Uhrzeit (W)."
    },
    "2": {
     "type": "S",
@@ -1176,19 +1176,19 @@
    },
    "3": {
     "type": "A",
-    "note": "Der Gutschein war geplant, wurde aber nicht bestellt; jetzt gibt es einen Tanzkurs."
+    "note": "Der Gutschein war geplant, wurde aber „doch nicht bestellt“; jetzt gibt es einen Tanzkurs = ein anderes Geschenk."
    },
    "4": {
     "type": "P",
-    "note": "„eine Karte besorgen und alle unterschreiben lassen“; das Geld sammelt Katrin selbst (b); halb eins statt zwölf (c)."
+    "note": "„eine Karte besorgen und alle unterschreiben lassen“ = für eine Karte mit allen Unterschriften sorgen; das Geld sammelt Katrin „selbst“ (b); halb eins statt zwölf (c)."
    },
    "5": {
     "type": "P",
-    "note": "„Die Antwort hören Sie heute … in unserem Porträt“ = im Programm des Senders."
+    "note": "„Die Antwort hören Sie heute … in unserem Porträt“ = die Lösung wird im Radio verraten."
    },
    "6": {
     "type": "Z",
-    "note": "Gezogen wird erst morgen früh (a); die Karten kommen per Post (c)."
+    "note": "Gezogen wird erst „morgen früh in unserer Sendung“ (a); die Karten kommen „per Post“, abholen muss man nichts (c, W)."
    },
    "7": {
     "type": "Z",
@@ -1196,7 +1196,7 @@
    },
    "8": {
     "type": "P",
-    "note": "„bleibt … den ganzen Tag geschlossen“; die Plattform ist offen (a); der Zoo schließt früher (b)."
+    "note": "„Das Tropenhaus bleibt … den ganzen Tag geschlossen“ = ein Teil des Zoos; die Plattform ist offen (a); der Zoo schließt früher (b)."
    },
    "9": {
     "type": "N",
@@ -1204,11 +1204,11 @@
    },
    "10": {
     "type": "P",
-    "note": "„wird ungültig gemacht, Sie bekommen ihn aber zurück“ = entwertet zurück."
+    "note": "„wird ungültig gemacht, Sie bekommen ihn aber zurück“ = er behält ihn, obwohl er dann ungültig ist; zurücklassen muss er ihn also nicht (a, W); mitbringen muss er ihn trotzdem (c)."
    },
    "11": {
     "type": "Z",
-    "note": "Start „hier“, Ziel Runkel, der Bus bringt alle zurück; vier Stunden sind nur die „reine Paddelzeit“ (c); Regen ist „kein Grund zum Abbrechen“ (a)."
+    "note": "Start „hier“, Ziel Runkel = die Tour endet nicht am Start; vier Stunden sind nur die „reine Paddelzeit“ (c); Regen ist „kein Grund zum Abbrechen“ (a)."
    },
    "12": {
     "type": "P",
@@ -1216,11 +1216,11 @@
    },
    "13": {
     "type": "P",
-    "note": "„Sie fahren dann bei mir im Boot mit“; die Westen sind „für alle identisch“ (b); die Unsicheren „sitzen vorne“ (c)."
+    "note": "„Sie fahren dann bei mir im Boot mit“ = ein Boot mit dem Tourleiter teilen; die Westen sind „für alle identisch“ (b); die Unsicheren „sitzen vorne“ (c)."
    },
    "14": {
     "type": "A",
-    "note": "„Normalerweise müssen wir die Boote … herumtragen“, heute „lässt uns passieren“ = niemand muss aussteigen."
+    "note": "„Normalerweise müssen wir die Boote … herumtragen“, heute gilt: „der Schleusenwärter ist anwesend und lässt uns passieren“ = niemand muss aussteigen."
    },
    "15": {
     "type": "N",
@@ -1236,7 +1236,7 @@
    },
    "18": {
     "type": "N",
-    "note": "„Meistens in Pilgerherbergen“, zweimal in einer Pension."
+    "note": "„Meistens in Pilgerherbergen“, „Zweimal“ in einer Pension = ab und zu außerhalb von Herbergen."
    },
    "19": {
     "type": "S",
@@ -1248,11 +1248,11 @@
    },
    "21": {
     "type": "P",
-    "note": "„nicht mehr“ = „abgerissen worden“; gefeiert wird im Gasthaus gegenüber (W)."
+    "note": "„gibt es leider nicht mehr“, „abgerissen worden“ = nichts übrig geblieben; gefeiert wird im Gasthaus gegenüber (W)."
    },
    "22": {
     "type": "A",
-    "note": "Frau Kaya hatte „Angst, dass sie absagt“, aber „sie hat sofort zugesagt“."
+    "note": "Frau Kaya hatte „Angst, dass sie absagt“, aber „sie hat sofort zugesagt“ = Einladung angenommen."
    },
    "23": {
     "type": "P",
@@ -1260,11 +1260,11 @@
    },
    "24": {
     "type": "K",
-    "note": "Hartmann: „Wenn das Portemonnaie leer ist, ist Schluss.“ Scholz hält mit der App dagegen."
+    "note": "Hartmann: „Wenn das Portemonnaie leer ist, ist Schluss.“ = Ausgaben im Griff; Scholz hält mit der App dagegen."
    },
    "25": {
     "type": "S",
-    "note": "Die Moderatorin sagt es in der Einleitung („immer mehr Geschäfte“); Scholz nennt nur ihr eigenes Café."
+    "note": "Die Moderatorin sagt es in der Einleitung („immer mehr Geschäfte, die gar kein Bargeld mehr annehmen“); Scholz nennt nur ihr eigenes Café."
    },
    "26": {
     "type": "P",
@@ -1284,7 +1284,7 @@
    },
    "30": {
     "type": "W",
-    "note": "Hartmann: „Die Menschen müssen wählen können“; Scholz fragt nach ihrer eigenen Wahl als Unternehmerin."
+    "note": "Hartmann: „Bargeld sollte er überall akzeptieren müssen“, „Die Menschen müssen wählen können“; Scholz fragt nach ihrer eigenen Wahl als Unternehmerin."
    }
   }
  }
