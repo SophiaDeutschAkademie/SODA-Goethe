@@ -8,7 +8,7 @@ Goethe-Zertifikat A2, B1, B2 모의고사(Modelltest)입니다. 페이퍼 시험
 |---|---|
 | `goethe-a2/` | Goethe-Zertifikat A2, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`), 회차별 해설(`… 해설.html`), Modelltest I–V 작문 연습(`… 작문 연습.html`, A1 답안을 A2 표현으로 고쳐 쓰기) |
 | `goethe-b1/` | Goethe-Zertifikat B1, Modelltest 10개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`), 회차별 해설(`… 해설.html`), Modelltest I–V 작문 연습(`… 작문 연습.html`, A2 답안을 B1 표현으로 고쳐 쓰기) (예전 단일 파일 오프라인 버전 `… offline.html` 포함, 목차에서는 연결하지 않음) |
-| `goethe-b2/` | Goethe-Zertifikat B2, Modelltest 5개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
+| `goethe-b2/` | Goethe-Zertifikat B2, Modelltest 7개와 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`) |
 | `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py`, 제출하기를 넣는 `add-submit.py`·`set-submit-url.py`, 제출을 메일로 받는 `제출 받기/` |
 | `assets/` | 시작 페이지의 로고와 글꼴 |
 | `index.html` | 이 저장소의 시작 페이지 (세 앱 목록, Lehrwerk 목차로 가는 링크) |

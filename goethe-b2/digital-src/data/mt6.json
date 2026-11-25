@@ -1,0 +1,785 @@
+{
+  "id": 6,
+  "roman": "VI",
+  "lesen": {
+    "t1": {
+      "instruction": "Sie lesen in einem Forum, wie Menschen über den Umgang mit Nachrichten denken. Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+      "forum": {
+        "title": "Wie informiert ihr euch eigentlich?",
+        "posts": [
+          {
+            "letter": "a",
+            "name": "Ruth",
+            "time": "03.11. · 07:52 Uhr",
+            "paragraphs": [
+              "Seit über dreißig Jahren liegt bei uns morgens die Regionalzeitung auf dem Küchentisch, und daran wird sich auch nichts ändern. Das Abonnement kostet mich im Monat ungefähr so viel wie zwei Restaurantbesuche, und im Gegenzug recherchieren ausgebildete Journalistinnen und Journalisten, deren Namen unter den Artikeln stehen. Dafür zu bezahlen ist für mich keine Großzügigkeit, sondern eine Selbstverständlichkeit: Wer unabhängigen Journalismus will, muss ihn auch finanzieren. Um acht höre ich zusätzlich die Nachrichten im Radio, und danach habe ich erst einmal genug erfahren. Eine Nachrichten-App habe ich nie installiert; mein Handy ist zum Telefonieren da. Was mich allerdings wirklich ärgert, sind die Kommentarspalten unter den Artikeln auf den Internetseiten der Zeitungen. Dort beschimpfen sich Leute, die den Text offensichtlich gar nicht gelesen haben, und die Redaktionen lassen das zu, weil es Aufmerksamkeit bringt. Meine Enkelin lacht über meine Zeitung aus Papier. Sie wird es verstehen, wenn das Internet einmal länger ausfällt."
+            ]
+          },
+          {
+            "letter": "b",
+            "name": "Julian",
+            "time": "03.11. · 12:40 Uhr",
+            "paragraphs": [
+              "Bei allem Respekt vor Ruths Küchentisch – eine gedruckte Zeitung habe ich zuletzt im Zug gelesen, weil jemand sie liegen gelassen hatte. Meine Nachrichten bekomme ich aus Podcasts, die ich auf dem Arbeitsweg höre, und aus sozialen Netzwerken, in denen ich Journalistinnen, Wissenschaftlern und einigen Politikern folge. Wichtig ist mir dabei, nicht bei einer Quelle stehen zu bleiben: Wenn mich eine Meldung aufregt, suche ich sie auf zwei oder drei anderen Nachrichtenseiten, bevor ich sie weiterschicke. Dass das nötig ist, habe ich auf unangenehme Weise gelernt. Vor zwei Jahren habe ich eine erfundene Geschichte über einen Supermarkt in meiner Straße weitergeleitet, und ein Bekannter musste mir erst sagen, dass nichts davon stimmte. Seitdem prüfe ich lieber einmal zu viel. Die Benachrichtigungen auf dem Handy habe ich inzwischen komplett abgeschaltet, weil mich das ständige Vibrieren nervös gemacht hat. Die Welt ist am Abend immer noch da, auch ohne zwanzig Eilmeldungen zwischendurch."
+            ]
+          },
+          {
+            "letter": "c",
+            "name": "Selin",
+            "time": "04.11. · 06:15 Uhr",
+            "paragraphs": [
+              "Vor einem Jahr habe ich gemerkt, dass ich morgens schon schlecht gelaunt war, bevor der Tag überhaupt begonnen hatte – ich hatte im Bett eine halbe Stunde lang Schlagzeilen gelesen. Seitdem gibt es bei mir feste Zeiten: einmal in der Mittagspause, einmal nach dem Abendessen, jeweils eine Viertelstunde und keine Minute länger. Eilmeldungen überspringe ich grundsätzlich, denn in den ersten Stunden weiß ohnehin niemand etwas Genaues, und am nächsten Tag liest sich dieselbe Geschichte meistens völlig anders. Am Wochenende nehme ich mir dafür eine Wochenzeitung vor, die Zusammenhänge und Hintergründe erklärt, statt nur das Neueste zu melden. Mit meinen beiden Kindern spreche ich beim Abendessen darüber, was sie in der Schule oder im Internet gehört haben; so erfahre ich manches zuerst von ihnen. Weniger ist bei Nachrichten mehr: Ich verstehe heute mehr von dem, was in der Welt passiert, obwohl ich deutlich weniger lese."
+            ]
+          },
+          {
+            "letter": "d",
+            "name": "Matthias",
+            "time": "04.11. · 21:03 Uhr",
+            "paragraphs": [
+              "Ich bin Lkw-Fahrer und sitze neun Stunden am Tag hinter dem Steuer; dabei läuft die ganze Zeit das Radio, und die Nachrichten zur vollen Stunde höre ich automatisch mit. Was in Berlin oder Brüssel beschlossen wird, bekomme ich also mit, auch wenn es mir oft weit weg vorkommt. Viel wichtiger ist mir, was in meiner Kleinstadt passiert: ob die Umgehungsstraße gebaut wird, warum das Schwimmbad geschlossen bleibt, wer neue Bürgermeisterin wird. Dafür lese ich das kostenlose Wochenblatt, das jeden Donnerstag im Briefkasten liegt, und ich gehe regelmäßig zu den Bürgerversammlungen im Rathaus. Dort kann man nachfragen, statt sich auf das zu verlassen, was andere berichten. Eine App habe ich nur für Verkehr und Wetter. Abends sehe ich noch die Hauptnachrichten im Fernsehen, dann weiß ich, dass ich nichts Wichtiges verpasst habe."
+            ]
+          }
+        ]
+      },
+      "example": {
+        "no": "0",
+        "text": "Wer hört Nachrichten während der Arbeit?",
+        "answer": "d"
+      },
+      "items": [
+        {
+          "no": "1",
+          "text": "Wer hat die Hinweise auf neue Meldungen abgestellt?",
+          "answer": "b"
+        },
+        {
+          "no": "2",
+          "text": "Wer gleicht Meldungen mit anderen Berichten ab?",
+          "answer": "b"
+        },
+        {
+          "no": "3",
+          "text": "Wer ist trotz kürzerer Lesezeit besser informiert?",
+          "answer": "c"
+        },
+        {
+          "no": "4",
+          "text": "Wer gibt aus Überzeugung Geld für Nachrichten aus?",
+          "answer": "a"
+        },
+        {
+          "no": "5",
+          "text": "Wer tauscht sich in der Familie über Nachrichten aus?",
+          "answer": "c"
+        },
+        {
+          "no": "6",
+          "text": "Wen interessiert vor allem das Geschehen am eigenen Wohnort?",
+          "answer": "d"
+        },
+        {
+          "no": "7",
+          "text": "Wer hat einmal eine Falschmeldung weitergegeben?",
+          "answer": "b"
+        },
+        {
+          "no": "8",
+          "text": "Wen stört der Ton in Onlinediskussionen?",
+          "answer": "a"
+        },
+        {
+          "no": "9",
+          "text": "Wer informiert sich auch bei Veranstaltungen vor Ort?",
+          "answer": "d"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie lesen in einer Zeitschrift einen Artikel über die Geschichte der Brille. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+      "title": "Scharf sehen",
+      "lead": "Zwei von drei Erwachsenen in Deutschland tragen eine Brille. Dass man sich früher für sie schämte, ahnen heute die wenigsten.",
+      "paragraphs": [
+        "Wer heute eine Brille braucht, geht zum Optiker, lässt die Augen vermessen und hat wenige Tage später ein angepasstes Modell auf der Nase, was für die meisten so selbstverständlich ist wie der Kauf neuer Schuhe. [0] Über Jahrhunderte blieb es ein kostbarer Gegenstand, den sich nur wenige leisten konnten.",
+        "Erfunden wurde die Brille vermutlich gegen Ende des 13. Jahrhunderts in Norditalien, wo Glasmacher gelernt hatten, klare Linsen zu schleifen, auch wenn bis heute unbekannt ist, wer der Erfinder war. [10] Sie legten die geschliffenen Steine direkt auf die Schrift und vergrößerten damit die Buchstaben.",
+        "Den entscheidenden Anstoß gab eine andere Erfindung – der Buchdruck. Als im 15. Jahrhundert Bücher erstmals in großer Zahl gedruckt wurden, wollten viel mehr Menschen lesen und bemerkten, dass ihre Sehkraft nachließ. [11] In Städten wie Nürnberg entstanden deshalb eigene Handwerksbetriebe, die ausschließlich Brillen herstellten.",
+        "Bequem waren diese frühen Modelle allerdings nicht, denn sie wurden mit der Hand gehalten, auf die Nase geklemmt oder mit Bändern am Kopf befestigt. [12] Erst um 1730 kam ein Londoner Optiker auf die Idee, zwei feste Bügel anzubringen, die seitlich am Kopf Halt fanden – die Grundform, die wir bis heute kennen.",
+        "Eine weitere Verbesserung verdanken wir dem Amerikaner Benjamin Franklin, der um 1780 genug davon hatte, ständig zwischen einer Brille für die Nähe und einer für die Ferne zu wechseln. [13] Die Zweistärkenbrille war geboren, und an ihrem Prinzip hat sich seitdem kaum etwas geändert.",
+        "Lange galt die Brille als Zeichen von Alter und körperlicher Schwäche, und viele schämten sich, sie in der Öffentlichkeit zu tragen; kurzsichtige Schauspielerinnen stolperten lieber über die Bühne, als mit Brille aufzutreten. [14] Designer entwarfen auffällige Brillengestelle, und Prominente trugen sie mit Stolz.",
+        "Heute ist die Brille für viele ein Modeartikel, den man passend zur Kleidung wechselt; zugleich ist ihre eigentliche Aufgabe wichtiger als je zuvor. [15] Fachleute erklären das mit zu wenig Tageslicht und den vielen Stunden vor Bildschirmen. Die unauffällige Erfindung aus dem Mittelalter wird also nicht verschwinden."
+      ],
+      "source": "aus einer deutschen Zeitschrift",
+      "example": {
+        "no": "0",
+        "text": "Dabei war das Hilfsmittel lange Zeit alles andere als alltäglich."
+      },
+      "sentences": {
+        "a": "Also ließ er die Gläser beider Brillen zerschneiden und neu zusammensetzen.",
+        "b": "Kontaktlinsen haben die Brille inzwischen fast verdrängt.",
+        "c": "Vor allem bei Kindern nimmt die Kurzsichtigkeit weltweit zu.",
+        "d": "Sicher ist nur, dass Mönche schon vorher sogenannte Lesesteine benutzten.",
+        "e": "Deshalb konnten sich nur reiche Leute eine solche Brille leisten.",
+        "f": "Das änderte sich erst in der zweiten Hälfte des 20. Jahrhunderts.",
+        "g": "Beim Lesen rutschte die Brille daher ständig herunter.",
+        "h": "Die Nachfrage nach Sehhilfen stieg dadurch rasch an."
+      },
+      "unused": [
+        "b",
+        "e"
+      ],
+      "items": [
+        {
+          "no": "10",
+          "answer": "d"
+        },
+        {
+          "no": "11",
+          "answer": "h"
+        },
+        {
+          "no": "12",
+          "answer": "g"
+        },
+        {
+          "no": "13",
+          "answer": "a"
+        },
+        {
+          "no": "14",
+          "answer": "f"
+        },
+        {
+          "no": "15",
+          "answer": "c"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie lesen in einer Zeitung einen Artikel über Lärm im Alltag. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      "tasksIntro": "Lesen Sie die Aufgaben 16 bis 21 zum Artikel „Ruhe ist ein Luxus geworden“. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+      "title": "Ruhe ist ein Luxus geworden",
+      "lead": "Verkehr, Baustellen, Freizeitlärm: Immer mehr Menschen fühlen sich durch Geräusche belastet. Ein Lärmforscher erklärt, warum der Körper auch dann reagiert, wenn wir uns längst an den Krach gewöhnt haben.",
+      "paragraphs": [
+        "Wenn Karin Lehmann abends die Fenster öffnet, hört sie zuerst die Hauptstraße. Seit zwölf Jahren wohnt die Erzieherin an einer der meistbefahrenen Kreuzungen ihrer Stadt, und lange meinte sie, den Verkehr gar nicht mehr zu bemerken. Dann stellte ihr Arzt einen zu hohen Blutdruck fest – und fragte als Erstes, wie sie schlafe.",
+        "Dass Lärm nicht nur lästig, sondern schädlich ist, bestätigt der Lärmforscher Ulrich Hoffmann. „Das Ohr lässt sich nicht abschalten“, sagt er. Auch wer fest schläft, nimmt vorbeifahrende Lastwagen wahr; der Körper produziert dann Stresshormone, Puls und Blutdruck steigen. Für das eigentliche Problem hält Hoffmann, dass man davon nicht aufwacht, denn die Belastung bleibt unbemerkt und wird über die Jahre immer größer.",
+        "Nach Schätzungen der Europäischen Umweltagentur leben in Europa über hundert Millionen Menschen mit einem Verkehrslärm, der als gesundheitsschädlich gilt. Der Straßenverkehr steht dabei mit Abstand an erster Stelle, erst danach folgen der Bahn- und der Flugverkehr. Gleichzeitig nehmen die Beschwerden über eine andere Art von Lärm zu, die in keiner Statistik auftaucht – Laubbläser, Musik aus Handylautsprechern, Gespräche im Großraumbüro.",
+        "Gerade dieser Freizeit- und Alltagslärm werde unterschätzt, meint Hoffmann, denn entscheidend sei weniger die Lautstärke als die Frage, ob man ein Geräusch beeinflussen könne. „Der eigene Rasenmäher stört einen selbst nicht, der Rasenmäher des Nachbarn dagegen sehr.“ Wer gegen ein Geräusch nichts tun könne, empfinde es als deutlich belastender – selbst wenn es objektiv leiser sei als der Verkehr vor dem Fenster.",
+        "Viele Städte haben das Problem erkannt und reagieren mit Tempo 30 in der Nacht, leiserem Asphalt und Schutzwänden entlang großer Straßen. Hoffmann hält solche Maßnahmen für sinnvoll, warnt aber vor zu hohen Erwartungen. Eine Halbierung des Verkehrs verringere die empfundene Lautstärke nur wenig; spürbar leiser werde es erst, wenn in ganzen Wohnvierteln nur noch die Anwohner fahren dürften.",
+        "Umso wichtiger seien Rückzugsorte wie Parks, ruhige Innenhöfe oder ein Schlafzimmer zur Gartenseite. Studien zeigten, dass schon eine ruhige Wohnungsseite die gesundheitlichen Folgen von Straßenlärm abschwäche, weil sich der Körper dort wenigstens nachts erholen könne. Hoffmann fordert deshalb, bei neuen Wohnhäusern die Schlafzimmer nicht zur Straße hin zu planen – ein Grundsatz, an den sich bisher nur wenige Architekten halten.",
+        "Karin Lehmann hat selbst gehandelt. Sie schläft jetzt im früheren Arbeitszimmer zum Hof, die Fenster zur Straße bleiben nachts geschlossen, und ihr Blutdruck ist gesunken. Umziehen will sie aber auf keinen Fall: „Die Lage ist perfekt, die Miete bezahlbar. Ich habe nur gelernt, dass ich mir die Ruhe in meiner Wohnung selbst schaffen muss.“"
+      ],
+      "source": "aus einer deutschen Tageszeitung",
+      "example": {
+        "no": "0",
+        "stem": "Karin Lehmann …",
+        "options": {
+          "a": "hat sich beim Arzt über den Verkehr beschwert.",
+          "b": "glaubte lange, der Lärm mache ihr nichts aus.",
+          "c": "wohnt erst seit Kurzem an der Hauptstraße."
+        },
+        "answer": "b"
+      },
+      "items": [
+        {
+          "no": "16",
+          "stem": "Nach Ulrich Hoffmann reagiert der Körper auf nächtlichen Lärm, …",
+          "options": {
+            "a": "auch wenn man dabei weiterschläft.",
+            "b": "indem er die Betroffenen weckt.",
+            "c": "nur wenn der Schlaf ohnehin leicht ist."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "17",
+          "stem": "Die wichtigste Quelle von Verkehrslärm in Europa …",
+          "options": {
+            "a": "wird in den Statistiken nicht erfasst.",
+            "b": "sind Flugzeuge und Züge.",
+            "c": "sind Autos und Lastwagen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "18",
+          "stem": "Ein Geräusch stört nach Hoffmann besonders, wenn …",
+          "options": {
+            "a": "es vom eigenen Rasenmäher stammt.",
+            "b": "es lauter ist als der Verkehr.",
+            "c": "man keinen Einfluss darauf hat."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "19",
+          "stem": "Von Maßnahmen wie Tempo 30 erwartet Hoffmann …",
+          "options": {
+            "a": "eine deutlich leisere Umgebung.",
+            "b": "nur eine begrenzte Wirkung.",
+            "c": "weniger Verkehr auf den Straßen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "20",
+          "stem": "Hoffmann verlangt, dass …",
+          "options": {
+            "a": "Schlafräume zur ruhigen Seite zeigen.",
+            "b": "mehr Parks angelegt werden.",
+            "c": "Architekten mehr Schutzwände einplanen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "21",
+          "stem": "Karin Lehmann …",
+          "options": {
+            "a": "sucht eine ruhigere Wohnung.",
+            "b": "hat innerhalb der Wohnung umgeräumt.",
+            "c": "lässt nachts alle Fenster geschlossen."
+          },
+          "answer": "b"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie lesen in einer Zeitschrift Meinungsäußerungen zur Frage, ob vernetzte Technik im Haushalt unser Leben besser macht. Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+      "title": "Das vernetzte Zuhause",
+      "example": {
+        "no": "0",
+        "text": "Richtig eingesetzt, spart die Technik bares Geld",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "22",
+          "text": "Dank digitaler Helfer länger in den eigenen vier Wänden",
+          "answer": "d"
+        },
+        {
+          "no": "23",
+          "text": "Keiner weiß, was mit den gesammelten Informationen geschieht",
+          "answer": "f"
+        },
+        {
+          "no": "24",
+          "text": "Ein einziger Ausfall, und im Haus geht nichts mehr",
+          "answer": "b"
+        },
+        {
+          "no": "25",
+          "text": "Gewonnene Zeit für das, was wirklich zählt",
+          "answer": "h"
+        },
+        {
+          "no": "26",
+          "text": "Der Umwelt nützt die Vernetzung kaum",
+          "answer": "g"
+        },
+        {
+          "no": "27",
+          "text": "Mit gutem Gefühl in den Urlaub fahren",
+          "answer": "c"
+        }
+      ],
+      "texts": [
+        {
+          "letter": "a",
+          "text": "Meine Heizung erkennt, wann ich nach Hause komme, und heizt die Wohnung rechtzeitig vor; bleibe ich länger unterwegs, schalte ich sie über die App einfach ab. Seit der Umstellung liegen meine Energiekosten im Winter ein Fünftel niedriger – ein überzeugenderes Argument als jede technische Spielerei.",
+          "byline": "Oskar, Rostock"
+        },
+        {
+          "letter": "b",
+          "text": "Im vergangenen Winter fiel unsere Internetverbindung zwei Tage aus, sodass sich die Heizung nicht mehr regulieren ließ, die Rollläden geschlossen blieben und die Türklingel nicht funktionierte. Damals wurde mir bewusst, wie abhängig wir uns gemacht haben; ein Haus muss auch ohne Internet bewohnbar sein.",
+          "byline": "Nina, Freiburg"
+        },
+        {
+          "letter": "c",
+          "text": "Während unseres dreiwöchigen Portugalurlaubs schalteten sich abends wie gewohnt die Lampen ein und aus, die Rollläden öffneten sich morgens automatisch, und die Überwachungskamera meldete jede Bewegung im Garten direkt auf mein Handy. Entspannter bin ich noch nie verreist.",
+          "byline": "Georg, Augsburg"
+        },
+        {
+          "letter": "d",
+          "text": "Mit 78 lebe ich allein, meine Kinder wohnen weit entfernt. Ein Bewegungsmelder benachrichtigt sie, wenn ich morgens nicht zur üblichen Zeit in die Küche komme, und wenn ich nachts aufstehe, geht das Licht von selbst an. Ohne diese Unterstützung wäre ich längst im Pflegeheim.",
+          "byline": "Helga, Göttingen"
+        },
+        {
+          "letter": "e",
+          "text": "Ich installiere solche Systeme gern, bei meinen Eltern habe ich aber alles abgebaut, weil drei Apps, neue Passwörter und nächtliche Updates sie überfordert haben; zuletzt traute sich meine Mutter nicht, das Licht einzuschalten. Diese Technik ist für Leute wie mich gemacht, nicht für alle.",
+          "byline": "Florian, Lübeck"
+        },
+        {
+          "letter": "f",
+          "text": "Ein Lautsprecher, der ununterbrochen mithört, eine Kamera an der Haustür, ein Kühlschrank, der meine Einkaufsgewohnheiten kennt – mir ist das unheimlich. Niemand kann mir sicher sagen, wo diese Daten gespeichert werden und wer sie auswertet. Ich bleibe lieber beim altmodischen Lichtschalter.",
+          "byline": "Cem, Dortmund"
+        },
+        {
+          "letter": "g",
+          "text": "Jedes vernetzte Gerät verbraucht rund um die Uhr Strom, auch im Ruhezustand, und nach wenigen Jahren liefern die Hersteller keine Updates mehr – dann landet es im Elektroschrott. Was die intelligente Heizung einspart, verbrauchen die übrigen Geräte wieder. Nachhaltig ist daran wenig.",
+          "byline": "Birgit, Kassel"
+        },
+        {
+          "letter": "h",
+          "text": "Ich habe mir die ganze Technik aus Bequemlichkeit angeschafft, und dazu stehe ich, denn Staubsauger und Rasenmäher arbeiten selbstständig, und der Kaffee ist fertig, sobald der Wecker klingelt. Die Stunde, die ich dadurch täglich gewinne, gehört meinen Kindern.",
+          "byline": "Valentin, Erfurt"
+        }
+      ],
+      "unused": [
+        "e"
+      ]
+    },
+    "t5": {
+      "instruction": "Sie möchten Ihr Kind an einer Musikschule anmelden und lesen die Schulordnung. Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragrafen? Vier Überschriften werden nicht gebraucht.",
+      "title": "Schulordnung",
+      "subtitle": "der Musikschule am Schlossberg · gültig ab 1. August",
+      "headings": {
+        "a": "Anmeldung und Aufnahme",
+        "b": "Unterrichtszeiten und Ferien",
+        "c": "Gebühren und Ermäßigungen",
+        "d": "Leihinstrumente",
+        "e": "Unterrichtsausfall und Vertretung",
+        "f": "Abmeldung und Kündigung",
+        "g": "Vorspiele und Veranstaltungen",
+        "h": "Haftung und Versicherung"
+      },
+      "unused": [
+        "b",
+        "c",
+        "g",
+        "h"
+      ],
+      "example": {
+        "no": "0",
+        "label": "§ 0",
+        "paragraphs": [
+          "Schülerinnen und Schüler werden per Formular oder online eingeschrieben; für Minderjährige unterschreibt ein Erziehungsberechtigter. Ob ein Platz vergeben wird, entscheidet die Schulleitung nach den vorhandenen Kapazitäten; die Zusage wird schriftlich erteilt."
+        ],
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "28",
+          "label": "§ 28",
+          "paragraphs": [
+            "Entfällt eine Unterrichtsstunde aus Gründen, für die die Musikschule verantwortlich ist, insbesondere wegen Erkrankung der Lehrkraft, wird sie nachgeholt oder durch eine andere Lehrkraft erteilt. Ist beides nicht möglich, wird die anteilige Gebühr erstattet. Versäumt die Schülerin oder der Schüler den Unterricht, besteht kein Anspruch auf einen Nachholtermin."
+          ],
+          "answer": "e"
+        },
+        {
+          "no": "29",
+          "label": "§ 29",
+          "paragraphs": [
+            "Streich- und Blasinstrumente können in begrenzter Zahl für höchstens zwei Jahre bei der Musikschule ausgeliehen werden. Das Instrument ist sorgfältig zu behandeln, Reparaturen dürfen ausschließlich über die Musikschule in Auftrag gegeben werden. Für Schäden, die über die übliche Abnutzung hinausgehen, haften die Erziehungsberechtigten."
+          ],
+          "answer": "d"
+        },
+        {
+          "no": "30",
+          "label": "§ 30",
+          "paragraphs": [
+            "Der Unterrichtsvertrag kann jeweils zum Ende eines Schulhalbjahres beendet werden; die schriftliche Erklärung muss bis zum 31. Mai beziehungsweise 30. November vorliegen. Bei Wohnortwechsel oder längerer Erkrankung ist ein vorzeitiges Ausscheiden möglich, bereits bezahlte Gebühren werden anteilig zurückerstattet."
+          ],
+          "answer": "f"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören fünf Gespräche und Äußerungen. Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+      "example": [
+        {
+          "no": "01",
+          "type": "rf",
+          "text": "Der Mann möchte einen neuen Ausweis beantragen.",
+          "answer": "R"
+        },
+        {
+          "no": "02",
+          "type": "abc",
+          "stem": "Der Mann …",
+          "options": {
+            "a": "bekommt in vier Wochen einen Termin.",
+            "b": "braucht donnerstags keinen Termin.",
+            "c": "soll ein aktuelles Foto mitbringen."
+          },
+          "answer": "b"
+        }
+      ],
+      "texts": [
+        {
+          "label": "Text 1",
+          "items": [
+            {
+              "no": "1",
+              "type": "rf",
+              "text": "Die Frau möchte, dass der Mann einen Kurs mit ihr besucht.",
+              "answer": "R"
+            },
+            {
+              "no": "2",
+              "type": "abc",
+              "stem": "Der Mann …",
+              "options": {
+                "a": "hat im Sommer aus Angst aufgegeben.",
+                "b": "bekommt sein Geld auf jeden Fall zurück.",
+                "c": "klettert lieber im Freien."
+              },
+              "answer": "a"
+            }
+          ]
+        },
+        {
+          "label": "Text 2",
+          "items": [
+            {
+              "no": "3",
+              "type": "rf",
+              "text": "Die Meldung handelt von kostenlosem Trinkwasser in der Innenstadt.",
+              "answer": "R"
+            },
+            {
+              "no": "4",
+              "type": "abc",
+              "stem": "Was erfährt man über die Brunnen?",
+              "options": {
+                "a": "Sie sind auch im Winter in Betrieb.",
+                "b": "Die Stadt bezahlt sie allein.",
+                "c": "Bürger können noch Orte nennen."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 3",
+          "items": [
+            {
+              "no": "5",
+              "type": "rf",
+              "text": "Die Kollegen planen eine gemeinsame Reise im August.",
+              "answer": "F"
+            },
+            {
+              "no": "6",
+              "type": "abc",
+              "stem": "Die beiden einigen sich darauf, dass …",
+              "options": {
+                "a": "die Kollegin ihren Urlaub verschiebt.",
+                "b": "der Kollege früher in Urlaub geht.",
+                "c": "die Chefin über den Urlaub entscheidet."
+              },
+              "answer": "b"
+            }
+          ]
+        },
+        {
+          "label": "Text 4",
+          "items": [
+            {
+              "no": "7",
+              "type": "rf",
+              "text": "Die Frau berichtet, wie sich ihr Beruf verändert hat.",
+              "answer": "R"
+            },
+            {
+              "no": "8",
+              "type": "abc",
+              "stem": "Die Briefträgerin schätzt an ihrer Arbeit besonders …",
+              "options": {
+                "a": "die geregelten Arbeitszeiten.",
+                "b": "das neue Elektrofahrrad.",
+                "c": "die Begegnungen unterwegs."
+              },
+              "answer": "c"
+            }
+          ]
+        },
+        {
+          "label": "Text 5",
+          "items": [
+            {
+              "no": "9",
+              "type": "rf",
+              "text": "Der Student erzählt von Schwierigkeiten in einem Statistikkurs.",
+              "answer": "F"
+            },
+            {
+              "no": "10",
+              "type": "abc",
+              "stem": "Der Student …",
+              "options": {
+                "a": "hat andere Tage vorgeschlagen.",
+                "b": "will den Kurs online fortsetzen.",
+                "c": "arbeitet vorerst samstags im Café."
+              },
+              "answer": "a"
+            }
+          ]
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Kultur. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+      "context": "In der Sendung „Kunst und Leben“ spricht die Moderatorin mit dem Restaurator Martin Fuchs über seine Arbeit an alten Gemälden.",
+      "items": [
+        {
+          "no": "11",
+          "stem": "Was unterscheidet den Restaurator von einem Maler?",
+          "options": {
+            "a": "Er arbeitet nur mit historischen Materialien.",
+            "b": "Er bessert beschädigte Stellen unsichtbar aus.",
+            "c": "Er will nichts Neues schaffen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "12",
+          "stem": "Warum soll sich alles, was Restauratoren hinzufügen, wieder entfernen lassen?",
+          "options": {
+            "a": "Spätere Methoden könnten besser sein.",
+            "b": "Die Museen schreiben das vertraglich vor.",
+            "c": "Alte Übermalungen lösen sich leicht."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "13",
+          "stem": "Was geschieht, bevor ein Bild bearbeitet wird?",
+          "options": {
+            "a": "Kunsthistoriker schreiben einen Bericht darüber.",
+            "b": "Es wird mit technischen Geräten untersucht.",
+            "c": "Es wird mit der Lupe gereinigt."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "14",
+          "stem": "Bei der Reinigung eines Gemäldes …",
+          "options": {
+            "a": "werden die ursprünglichen Farben sichtbar.",
+            "b": "geht man in sehr kleinen Schritten vor.",
+            "c": "wird das Bild von Mal zu Mal dunkler."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "15",
+          "stem": "Was sagt Herr Fuchs über die Ausbildung?",
+          "options": {
+            "a": "Früher war die Ausbildung nicht einheitlich.",
+            "b": "Das Studium ist heute deutlich kürzer als früher.",
+            "c": "Ein Praktikum ersetzt das Studium."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "16",
+          "stem": "Welchen Wunsch äußert Herr Fuchs?",
+          "options": {
+            "a": "Besucher sollten größeren Abstand zu den Bildern halten.",
+            "b": "Gemälde sollten häufiger gereinigt werden.",
+            "c": "Besucher sollten auf Schäden und Reparaturen achten."
+          },
+          "answer": "c"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über einen Berufswechsel in der Mitte des Lebens. Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das? Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      "speakers": {
+        "a": "Moderator",
+        "b": "Frau Jansen, Pflegefachfrau",
+        "c": "Herr Brenner, Karrierecoach"
+      },
+      "example": {
+        "no": "0",
+        "text": "Der eigene Berufswechsel hat viel Mut gekostet.",
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "17",
+          "text": "Den Anstoß gab die Krankheit eines Angehörigen.",
+          "answer": "b"
+        },
+        {
+          "no": "18",
+          "text": "Das frühere Einkommen war erst nach Jahren wieder erreicht.",
+          "answer": "a"
+        },
+        {
+          "no": "19",
+          "text": "Viele denken bei der Planung nicht an die Altersversorgung.",
+          "answer": "c"
+        },
+        {
+          "no": "20",
+          "text": "Erfahrungen aus dem alten Beruf sind im neuen nützlich.",
+          "answer": "b"
+        },
+        {
+          "no": "21",
+          "text": "Den Beruf vorher auszuprobieren, bringt mehr als ein Test.",
+          "answer": "c"
+        },
+        {
+          "no": "22",
+          "text": "Firmen sollten aktiv nach Berufswechslern suchen.",
+          "answer": "a"
+        }
+      ]
+    },
+    "t4": {
+      "instruction": "Sie hören einen kurzen Vortrag. Die Rednerin spricht über das Thema „Lampenfieber“. Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung. Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+      "items": [
+        {
+          "no": "23",
+          "stem": "Lampenfieber haben nach Frau Mahler …",
+          "options": {
+            "a": "vor allem Anfänger.",
+            "b": "auch erfahrene Redner.",
+            "c": "nur unsichere Menschen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "24",
+          "stem": "Die körperlichen Reaktionen …",
+          "options": {
+            "a": "sind ein Zeichen von Krankheit.",
+            "b": "sind ein Erbe der Vorfahren.",
+            "c": "lassen sich durch Übung abstellen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "25",
+          "stem": "Eine mittlere Anspannung …",
+          "options": {
+            "a": "verbessert die Leistung.",
+            "b": "sollte vermieden werden.",
+            "c": "macht klares Denken unmöglich."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "26",
+          "stem": "Die Zuhörer …",
+          "options": {
+            "a": "bemerken die Nervosität deutlich.",
+            "b": "achten nur auf Fehler.",
+            "c": "nehmen die Aufregung kaum wahr."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "27",
+          "stem": "Für den Anfang empfiehlt die Rednerin, …",
+          "options": {
+            "a": "den Einstieg Wort für Wort einzuüben.",
+            "b": "mit einer Frage ans Publikum zu beginnen.",
+            "c": "die Einleitung kurz zu halten."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "28",
+          "stem": "Frau Mahler rät, die Symptome …",
+          "options": {
+            "a": "dem Publikum zu erklären.",
+            "b": "positiv zu deuten.",
+            "c": "bewusst zu unterdrücken."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "29",
+          "stem": "Lampenfieber …",
+          "options": {
+            "a": "verschwindet mit der Zeit.",
+            "b": "nimmt mit jedem weiteren Vortrag zu.",
+            "c": "bleibt, wird aber schwächer."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "30",
+          "stem": "Am Ende rät die Rednerin, …",
+          "options": {
+            "a": "regelmäßig im kleinen Kreis zu üben.",
+            "b": "sich vor Auftritten zu schonen.",
+            "c": "Vorträge immer schriftlich vorzubereiten."
+          },
+          "answer": "a"
+        }
+      ]
+    }
+  },
+  "schreiben": {
+    "intro": "Das Modul Schreiben hat zwei Teile. In Teil 1 schreiben Sie einen Forumsbeitrag. In Teil 2 schreiben Sie eine Nachricht. Sie können mit jeder Aufgabe beginnen. Schreiben Sie Ihre Texte auf die Antwortbogen. Wörterbücher und Mobiltelefone sind nicht erlaubt.",
+    "tasks": [
+      {
+        "no": 1,
+        "minutes": 50,
+        "words": 150,
+        "situation": [
+          "Sie schreiben einen Forumsbeitrag zum Thema „Auszeit vom Beruf“."
+        ],
+        "points": [
+          "Äußern Sie Ihre Meinung dazu, ob eine längere Auszeit vom Beruf sinnvoll ist.",
+          "Nennen Sie Gründe, warum sich viele Menschen eine solche Auszeit wünschen.",
+          "Nennen Sie andere Möglichkeiten, sich im Berufsleben zu erholen.",
+          "Nennen Sie Vorteile dieser anderen Möglichkeiten."
+        ],
+        "instruction": "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Schreiben Sie mindestens 150 Wörter.",
+        "model": {
+          "label": "Forumsbeitrag, ca. 180 Wörter",
+          "text": "Liebe Forumsmitglieder,\n\nhier wird gerade diskutiert, ob man sich eine längere Auszeit vom Beruf nehmen sollte. Eine Kollegin von mir ist vor Kurzem nach einem halben Jahr Pause zurückgekommen, deshalb beschäftigt mich die Frage.\n\nMeiner Meinung nach ist eine solche Auszeit sinnvoll, wenn man sie gut vorbereitet. Wer zwanzig Jahre ohne Unterbrechung gearbeitet hat, braucht irgendwann Abstand, um zu merken, ob der eigene Weg noch stimmt.\n\nDass sich viele Menschen eine Pause wünschen, hat mehrere Gründe: Die Arbeit ist durch ständige Erreichbarkeit anstrengender geworden, viele möchten einmal länger reisen oder sich um die Familie kümmern, und manche wollen prüfen, ob sie den Beruf wechseln sollten.\n\nAllerdings ist eine lange Auszeit nicht für jeden möglich. Alternativen wären eine Viertagewoche für eine begrenzte Zeit, mehrere kürzere Urlaube im Jahr oder feste Abende ohne dienstliche E-Mails.\n\nDiese Möglichkeiten haben den Vorteil, dass das Einkommen weitgehend erhalten bleibt, dass man den Anschluss im Betrieb nicht verliert und dass man sich regelmäßig erholt statt nur ein einziges Mal.\n\nIch bin also für die Auszeit, aber nur als eine von mehreren Möglichkeiten. Wie seht ihr das?"
+        },
+        "typicalErrors": "Punkt 3 verfehlt (Tipps für die Auszeit statt Alternativen) · keine eigene Meinung · zu kurz."
+      },
+      {
+        "no": 2,
+        "minutes": 25,
+        "words": 100,
+        "situation": [
+          "Sie arbeiten in der Verwaltung einer Versicherung. Seit Ihrem Umzug dauert Ihr Arbeitsweg über eine Stunde pro Strecke, und Sie möchten künftig an zwei Tagen pro Woche von zu Hause aus arbeiten. In Ihrer Abteilung ist das bisher nicht üblich. Schreiben Sie eine Nachricht an Ihren Vorgesetzten, Herrn Krüger."
+        ],
+        "points": [
+          "Beschreiben Sie Ihre Situation.",
+          "Bitten Sie um Verständnis für Ihre Lage.",
+          "Machen Sie einen Vorschlag, wie die Arbeit von zu Hause aus gut organisiert werden kann.",
+          "Zeigen Sie Verständnis für die Situation Ihres Vorgesetzten."
+        ],
+        "instruction": "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind. Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+        "model": {
+          "label": "Nachricht an den Vorgesetzten, ca. 125 Wörter",
+          "text": "Betreff: Arbeit von zu Hause an zwei Tagen pro Woche\n\nSehr geehrter Herr Krüger,\n\nseit meinem Umzug im September brauche ich für den Weg ins Büro über eine Stunde pro Strecke, also täglich mehr als zwei Stunden.\n\nIch bitte Sie deshalb um Verständnis für meinen Wunsch, künftig dienstags und donnerstags von zu Hause aus zu arbeiten, auch wenn das in unserer Abteilung bisher nicht üblich ist.\n\nMir ist bewusst, dass Sie darauf achten müssen, dass alle Kolleginnen und Kollegen gleich behandelt werden und wir für unsere Kunden jederzeit erreichbar bleiben.\n\nDaher schlage ich vor, dass ich an diesen Tagen durchgehend telefonisch erreichbar bin, meine Aufgaben in den gemeinsamen Kalender eintrage und wir nach drei Monaten prüfen, ob die Regelung für beide Seiten funktioniert.\n\nÜber ein Gespräch dazu würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nDaniela Roth"
+        },
+        "typicalErrors": "um Verständnis bitten und Verständnis zeigen verwechselt · Forderung statt Vorschlag · Hallo oder LG."
+      }
+    ]
+  },
+  "index": {
+    "hoeren": {
+      "t1": "Fünf kurze Texte",
+      "t2": "Interview mit einem Restaurator: Alte Gemälde",
+      "t3": "Radiogespräch: Berufswechsel in der Lebensmitte",
+      "t4": "Vortrag: Lampenfieber"
+    },
+    "schreiben": [
+      "Forumsbeitrag: Auszeit vom Beruf",
+      "Nachricht an den Vorgesetzten"
+    ],
+    "sprechen": {
+      "vortrag": [
+        "Werbung im Alltag",
+        "Allein verreisen",
+        "Computerspiele",
+        "Jung und Alt gemeinsam"
+      ],
+      "diskussion": "Sollte die Zeitumstellung abgeschafft werden?"
+    }
+  },
+  "notes": "Aus dem PDF Goethe B2 Modelltest 6 automatisch (Textkoordinaten) übernommen; Antworten aus dem Lösungsschlüssel (S. 17), Beispielantworten aus den markierten Kästchen der Aufgabenseiten, Musterlösungen aus S. 18."
+}
