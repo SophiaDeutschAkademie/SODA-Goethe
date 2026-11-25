@@ -15,7 +15,7 @@ total = 0
 for folder, base_id in APPS.items():
     p = folder + '/index.html'
     s = open(p, encoding='utf-8').read()
-    for n in (range(1, 11) if folder == 'goethe-a2' else range(1, 6)):
+    for n in range(1, {'goethe-a2': 10, 'goethe-b1': 10, 'goethe-b2': 7}[folder] + 1):
         exam = base_id if n == 1 else '%s-%d' % (base_id, n)
         row = ('<div class="it %s"><span class="t">Üben</span><span class="d">말하기 실전 연습<span>시험관·파트너와 Teil별로 연습 · 소피아 독일어학원 수강생 전용 · 아이디와 비밀번호 필요</span></span>'
                '<a class="go" href="%s#%s" target="_blank" rel="noopener">연습</a></div>\n') % (MARK, BASE, exam)
