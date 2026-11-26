@@ -64,3 +64,5 @@ python3 tools/soda-theme.py goethe-b1/index.html --kind index
 - telc 저장소(SODA-TELC)의 시험 화면도 같은 웹 앱 주소 하나를 씁니다.
 - Goethe B1 작문 연습(`goethe-b1/Goethe B1 Modelltest N 작문 연습.html`)의 「선생님께 제출하기」도 같은 주소로 보냅니다. 학습 기록 형식(`app: 'lehrwerk'`)이라 메일 제목은 「[SODA 학습 기록] Goethe B1 Modelltest N 작문 연습 · 이름」입니다. `set-submit-url.py`가 이 페이지들의 주소도 함께 바꿉니다.
 - Goethe A2 작문 연습(`goethe-a2/Goethe A2 Modelltest N 작문 연습.html`)도 같은 방식으로 보냅니다. 메일 제목은 「[SODA 학습 기록] Goethe A2 Modelltest N 작문 연습 · 이름」입니다.
+
+디지털 시험은 끝나면(Abgeben을 누르거나 시간이 다 되면) 결과가 선생님께 자동으로 제출됩니다. 이름을 적지 않으면 「(이름 없음)」으로 가고, 결과 화면의 「선생님께 제출하기」는 이름을 고치거나 Hören Teil 3 ✓/✗를 바꾼 뒤 다시 제출하는 용도입니다. 새 앱 폴더에는 `python3 tools/add-auto-submit.py <폴더>`로 넣습니다(add-submit.py 다음에 실행).
